@@ -1,5 +1,5 @@
 # Kool Tech Tricks Вики
-Страницы для сайта [Kool Teck Tricks](https://kooltechtricks.neocities.org/).
+Страницы для сайта [Kool Tech Tricks](https://kooltechtricks.neocities.org/).
 
 Этот репозиторий не содержит исходный код сайта. Здесь хранятся страницы для вики, которые могут редактировать любой желающий.
 
