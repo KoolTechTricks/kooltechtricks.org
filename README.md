@@ -6,4 +6,4 @@
 
 Прочтите [руководство](/CONTRIBUTING.MD) перед редактированием.
 
-Все текста доступны под лицензией [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0).
+Все тексты доступны под лицензией [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0).
