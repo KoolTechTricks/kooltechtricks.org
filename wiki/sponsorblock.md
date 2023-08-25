@@ -164,7 +164,7 @@ SponsorBlock предназначен для автоматического пр
 
 - [Статус сервера](https://status.sponsor.ajay.app/)
 - Поддержка в
-[Matrix](https://matrix.to/#/#sponsor:ajay.app?via=ajay.app&via=matrix.org&via=mozilla.org)
+[Matrix](https://matrix.to/#/#sponsor:ajay.app)
 и [Discord](https://discord.gg/SponsorBlock) (англ.)
 - Обновления и новости в [Mastodon](https://fosstodon.org/@sponsorblock) и
 [Twitter](https://twitter.com/SponsorBlock) (англ.)
