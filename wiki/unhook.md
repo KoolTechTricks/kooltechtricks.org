@@ -42,7 +42,7 @@ YouTube.](/media/unhook.jpg)
 >
 > 1. [Настройки аккаунта Google](https://myaccount.google.com)
 > 2. [Данные и конфиденциальность](https://myaccount.google.com/data-and-privacy)
-> 3. [История YouTube](https://myactivity.google.com/activitycontrols?settings=youtube) - Отключить.
+> 3. [История YouTube](https://myactivity.google.com/activitycontrols?settings=youtube) - Отключить
 
 ### Конфигурация
 
