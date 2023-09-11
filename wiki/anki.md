@@ -101,5 +101,5 @@ AnkiDroid — бесплатное приложение, написанное с
 
 ## См. также
 
-- [Документация](https://docs.ankiweb.net) (англ.)
-- [Документация на русском](https://alexeygorelov.github.io/anki-manual-ru)
+- [Руководство пользователя](https://docs.ankiweb.net) (англ.)
+- [Руководство на русском](https://alexeygorelov.github.io/anki-manual-ru)
