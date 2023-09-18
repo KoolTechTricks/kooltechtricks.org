@@ -167,7 +167,7 @@ SponsorBlock предназначен для автоматического пр
 [Matrix](https://matrix.to/#/#sponsor:ajay.app)
 и [Discord](https://discord.gg/SponsorBlock) (англ.)
 - Обновления и новости в [Mastodon](https://fosstodon.org/@sponsorblock) и
-[Twitter](https://twitter.com/SponsorBlock) (англ.)
+[X (Twitter)](https://twitter.com/SponsorBlock) (англ.)
 
 ## См. также
 
