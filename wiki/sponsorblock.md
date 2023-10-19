@@ -163,6 +163,7 @@ SponsorBlock предназначен для автоматического пр
 ## Исправление проблем
 
 - [Статус сервера](https://status.sponsor.ajay.app/)
+- Проблемы на [GitHub](https://github.com/ajayyy/SponsorBlock/issues)
 - Поддержка в
 [Matrix](https://matrix.to/#/#sponsor:ajay.app)
 и [Discord](https://discord.gg/SponsorBlock) (англ.)

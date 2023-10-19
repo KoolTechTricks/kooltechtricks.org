@@ -61,6 +61,11 @@
 >
 > [Исправление проблем](https://returnyoutubedislike.com/help)
 
+## Исправление проблем
+
+- Проблемы на [GitHub](https://github.com/Anarios/return-youtube-dislike/issues)
+- Чат в [Discord](https://discord.com/invite/mYnESY4Md5)
+
 ## См. также
 
 - [YouTube](/wiki/youtube.html)
