@@ -35,6 +35,8 @@ Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701).
 В Linux эмулятор терминала обычно предустановлен вместе со средой рабочего
 стола. Для Gnome это GNOME Terminal, для KDE — Konsole.
 
+В Android можно использовать [Termux](https://termux.dev).
+
 ### Оболочка
 
 Оболочка *(Shell)* интерпретирует введённые команды. Они используют собственные
