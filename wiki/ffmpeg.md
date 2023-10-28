@@ -141,15 +141,21 @@ webp, png, jpeg, gif. Полный список можно получить че
 
 `ffmpeg -i input.mp3 -ac 1 output.mp3`
 
+[Источник](https://stackoverflow.com/questions/39487643/how-to-convert-stereo-sound-to-mono-with-ffmpeg#51494497)
+
 ### Обрезать видео по времени
 
 Указать время начала и длительность выходного фрагмента соответственно.
 
 `ffmpeg -i input.mp4 -ss 00:00:01.123 -t 00:01:02.321 -async 1 output.mp4`
 
+[Источник](https://stackoverflow.com/questions/18444194/cutting-the-videos-based-on-start-and-end-time-using-ffmpeg#18449609)
+
 ### Вставить аудио
 
 `ffmpeg -i input.mp4 -i audio.mp3 -c copy -map 0:v:0 -map 1:a:0 output.mp4`
+
+[Источник](https://superuser.com/questions/590201/add-audio-to-video-using-ffmpeg#590210)
 
 ### Кадрировать видео
 
@@ -161,6 +167,8 @@ webp, png, jpeg, gif. Полный список можно получить че
 кадрировании, источник:
 https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
+[Источник](https://video.stackexchange.com/questions/4563/how-can-i-crop-a-video-with-ffmpeg#4571)
+
 ### Изменить громкость
 
 Значение громкости можно указывать в процентах (0.5 — в два раза тише) или в
@@ -168,11 +176,15 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 `ffmpeg -i input.mp3 -filter:a "volume=0.5" output.mp3`
 
+[Источник](https://trac.ffmpeg.org/wiki/AudioVolume#Changingvolume)
+
 ### Убрать аудио
 
 Если вам нужно убрать звук, то можно удалить аудиопоток.
 
 `ffmpeg -i input.mp3 -c copy -an output.mp3`
+
+[Источник](https://superuser.com/questions/268985/remove-audio-from-video-file-with-ffmpeg#268986)
 
 ### Ограничение битрейта
 
@@ -180,9 +192,13 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 `ffmpeg -i input.mp4 -b:v 64k -bufsize 64k output.mp4`
 
+[Источник](https://www.ffmpeg.org/ffmpeg-all.html#Description)
+
 ### Ограничение кадров в секунду
 
 `ffmpeg -i input.mp4 -r 24 output.mp4`
+
+[Источник](https://www.ffmpeg.org/ffmpeg-all.html#Description)
 
 ### Изменить разрешение
 
@@ -190,6 +206,8 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 - `scale` — разрешение (640x360, 1280x720, 3840x2160)
 - `setdar` — соотношение сторон (16:9, 1:1)
+
+[Источник](https://stackoverflow.com/questions/34391499/change-video-resolution-ffmpeg#45007383)
 
 ## Сторонние инструменты
 
