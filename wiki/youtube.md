@@ -180,6 +180,28 @@ YouTube.](/media/unhook.jpg)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Safari](https://apps.apple.com/app/dearrow-for-youtube/id6451469297)
 
+### BlockTube
+
+[BlockTube](https://github.com/amitbl/blocktube) — расширение, которое позволяет
+блокировать нежелательный контент на YouTube: видео, каналы и комментарии по
+ключевым словам, Regex или функции JavaScript. Можно скрывать видео,
+просмотренные более определённого процента, или по заданной общей длительности.
+Кроме того, можно блокировать автоматические плейлисты (джемы), Shorts и прочие
+элементы интерфейса. У каждого видео и канала будет добавлена кнопка в
+контекстном меню, позволяющая добавить его в чёрный список.
+
+Расширение полностью блокирует видео, как скрывая их с сайта, так и предотвращая
+просмотр по ссылке или встроенному плееру. Такое поведение можно изменить в
+настройках.
+
+![Демонстрация экрана настроек BlockTube](/media/youtube_blocktube.jpg)
+
+- [Firefox](https://addons.mozilla.org/firefox/addon/blocktube) и все
+производные (LibreWolf, Waterfox, Floorp)
+- [Chromium](https://chrome.google.com/webstore/detail/blocktube/bbeaicapbccfllodepmimpkgecanonai)
+и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
+- [Руководство](https://github.com/amitbl/blocktube/wiki) (англ.)
+
 ## Утилиты
 
 ### yt-dlp
