@@ -80,10 +80,12 @@ RSS-лента является файлом в формате XML, которы
 
 - **Платформа:** ПК (Windows, Linux, macOS)
 - **Технологии:** Открытый исходный код, на основе Firefox
-- **Скачать:** [Официальный сайт](https://www.thunderbird.net)
+- **Скачать:** [Официальный сайт](https://www.thunderbird.net),
+[Flathub](https://flathub.org/apps/org.mozilla.Thunderbird) (Linux)
 
-Thunderbird может быть не только почтовым клиентом, но ещё и агрегатором RSS.
-Сообщения можно фильтровать по ключевым словам. Поддерживаются
+Thunderbird может быть не только [почтовым
+клиентом](/wiki/email.html#Thunderbird), но ещё и агрегатором RSS. Сообщения
+можно фильтровать по ключевым словам. Поддерживаются
 [расширения](https://addons.thunderbird.net).
 
 ![Скриншот Thunderbird](/media/rss_thunderbird.jpg)
