@@ -34,6 +34,15 @@
 
 ![Скриншот Thunderbird](/media/email_thunderbird.png)
 
+### Betterbird
+
+Форк с исправлением некоторых ошибок и добавлением дополнительных функций.
+[Полностью совместим с
+Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
+использовать тот же профиль, не перенося аккаунты и настройки.
+
+- [Скачать с официального сайта](https://betterbird.eu/downloads/index.php)
+
 ## FairEmail
 
 - **Платформа:** Android
@@ -53,20 +62,20 @@
 
 ![Скриншот FairEmail](/media/email_fairemail.jpg)
 
-## K-9 Mail
+## K-9 Mail (Thunderbird для Android)
 
 - **Платформа:** Android
 - **Технологии:** Kotlin, Java,
-[Открытый исходный код](https://github.com/thundernest/k-9)
+[Открытый исходный код](https://github.com/thunderbird/thunderbird-android)
 - **Скачать:**
 [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9),
-[GitHub](https://github.com/thundernest/k-9/releases),
+[GitHub](https://github.com/thunderbird/thunderbird-android/releases),
 [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
 
 Простой почтовый клиент с открытым исходным кодом для Android.
 
 Этот проект перешёл в Mozilla и на данный момент ведётся разработка обновлённой
 версии, которая будет являться Thunderbird для Android. Тем не менее, текущая
-версия приложения доступна для использования.
+версия приложения поддерживается и доступна для использования.
 
-![Скриншот FairEmail](/media/email_k9mail.jpg)
+![Скриншот K-9 Mail](/media/email_k9mail.jpg)
