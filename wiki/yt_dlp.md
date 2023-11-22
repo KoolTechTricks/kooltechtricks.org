@@ -145,18 +145,27 @@ yt-dlp предоставляет консольный интерфейс и б�
 ### Parabolic
 
 [Parabolic](https://github.com/NickvisionApps/Parabolic) — графический
-интерфейс yt-dlp для Linux на основе GTK.
+интерфейс yt-dlp на основе GTK.
+
+- Windows: скачайте установщик (`NickvisionTubeConverterSetup.exe`) с
+[GitHub](https://github.com/NickvisionApps/Parabolic/releases)
+- Linux: скачайте приложение из
+[Flathub](https://flathub.org/apps/details/org.nickvision.tubeconverter),
+[Snap Store](https://snapcraft.io/tube-converter) или
+[AUR](https://aur.archlinux.org/packages/parabolic)
 
 ![Скриншот программы Parabolic](/media/yt_dlp_parabolic.jpg)
 
 ### Haruna Media Player
 
-[Haruna](https://haruna.kde.org) — медиапроигрыватель для Linux и Windows,
-основанный на mpv. Кроме локальных файлов, можно воспроизводить онлайн-видео и
-прямые трансляции с помощью yt-dlp.
+[Haruna](https://haruna.kde.org) — медиапроигрыватель, основанный на mpv.
+Кроме локальных файлов, можно воспроизводить онлайн-видео и прямые трансляции
+с помощью yt-dlp.
 
-Билд для Windows можно скачать
-[здесь](https://binary-factory.kde.org/job/Haruna_Nightly_mingw64).
+- Windows: скачайте установщик
+[отсюда](https://binary-factory.kde.org/job/Haruna_Nightly_mingw64).
+- Linux: установите приложение из
+[Flathub](https://flathub.org/apps/org.kde.haruna)
 
 ![Скриншот программы Haruna](/media/yt_dlp_haruna.jpg)
 
