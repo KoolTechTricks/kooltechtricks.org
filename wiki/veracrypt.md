@@ -65,6 +65,21 @@ VeraCrypt позволяет создать надёжное зашифрова�
 - Fedora: `sudo dnf install veracrypt`
 - Arch Linux: `sudo pacman -S veracrypt`
 
+### Мобильное приложение
+
+На данный момент нет планов по разработке официального приложения VeraCrypt
+для мобильных устройств. Однако, существуют сторонние приложения:
+
+Android:
+
+- EDS: [https://sovworks.com/eds/](https://sovworks.com/eds)
+
+iOS:
+
+- Disk Decipher: [https://disk-decipher.app/](https://disk-decipher.app)
+- Crypto Disks:
+[https://itunes.apple.com/us/app/crypto-disks-store-private/id889549308](https://itunes.apple.com/us/app/crypto-disks-store-private/id889549308)
+
 ## Использование
 
 > [info] См. также: Документация
