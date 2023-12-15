@@ -1,5 +1,5 @@
 # DeArrow
-> browser_extensions, youtube
+> Categories: Browser_Extensions, YouTube
 
 [DeArrow](https://dearrow.ajay.app) — платное расширение для YouTube, которое
 улучшает обложки и названия видео, заменяя их на более правдоподобные и

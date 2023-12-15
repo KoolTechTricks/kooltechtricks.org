@@ -1,5 +1,5 @@
 # F-Droid
-> android
+> Categories: Android
 
 [F-Droid](https://f-droid.org) — каталог приложений с открытым исходным кодом
 для Android. Это некоммерческий проект, который уважает свободу и приватность.

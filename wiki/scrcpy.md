@@ -1,5 +1,5 @@
 # scrcpy
-> android
+> Categories: Android
 
 [scrcpy](https://github.com/Genymobile/scrcpy) —
 [консольная программа](/wiki/cli.html) для отражения экрана и аудио с

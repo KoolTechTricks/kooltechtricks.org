@@ -1,5 +1,5 @@
 # Unhook
-> browser_extensions, wellbeing, youtube
+> Categories: Browser_Extensions, Wellbeing, Youtube
 
 [Unhook](https://unhook.app) — расширение для YouTube и Twitch, которое убирает
 отвлекающие элементы интерфейса: рекомендации и следующие видео.

@@ -1,5 +1,5 @@
 # winget
-> windows
+> Categories: Windows
 
 [winget](https://github.com/microsoft/winget-cli) — официальный пакетный
 менеджер для Windows, предоставляющий возможность искать, устанавливать,
