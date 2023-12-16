@@ -60,8 +60,8 @@ SponsorBlock предназначен для автоматического пр
 (англ).
 
 - Расширение в
-[Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta)
-для мобильной версии YouTube.
+[Firefox](https://addons.mozilla.org/android/addon/sponsorblock) для мобильной
+версии YouTube.
 - Сторонние приложения:
 [форк NewPipe](https://github.com/polymorphicshade/NewPipe#newpipe-x-sponsorblock),
 [LibreTube](https://github.com/libre-tube/LibreTube),

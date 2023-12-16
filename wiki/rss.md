@@ -42,7 +42,7 @@ RSS-лента является файлом в формате XML, которы
 Далее, нужно найти ссылку на RSS-ленту. Она может быть расположена где угодно
 и иногда хорошо спрятана. Некоторые приложения-агрегаторы умеют находить эту
 ленту по ссылке. Вы можете установить расширения для
-[Firefox](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss),
+[Firefox](https://addons.mozilla.org/firefox/addon/awesome-rss),
 [Chrome](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 и [Safari](https://apps.apple.com/us/app/rss-button-for-safari/id1437501942?mt=12),
 которые добавляют кнопку в адресную строку, ведущую на RSS-ленту конкретного

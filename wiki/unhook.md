@@ -25,14 +25,11 @@ YouTube.](/media/unhook.jpg)
 
 ### Установка
 
-- [Firefox](https://addons.mozilla.org/ru/firefox/addon/youtube-recommended-videos)
-и все производные (LibreWolf, Waterfox, Floorp)
+- [Firefox](https://addons.mozilla.org/firefox/addon/youtube-recommended-videos)
+и все производные (LibreWolf, Waterfox, Floorp) для ПК и Android
 - [Chromium](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/unhook-remove-youtube-r/hebpjnnclppdnfghdnmhgdljmjpfhggk)
-
-Расширение работает и в мобильной версии сайта. Для установки расширения на
-телефон, необходим специальный браузер, например, Firefox Nightly.
 
 > [info]
 > Рекомендации можно выключить и без расширения в том числе на

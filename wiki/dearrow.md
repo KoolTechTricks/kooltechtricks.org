@@ -44,7 +44,7 @@ DeArrow заменяет заголовки и обложки таким обр�
 (англ).
 
 - Расширение (платное) в
-[Firefox Beta](https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta)
+[Firefox](https://addons.mozilla.org/android/addon/dearrow)
 для мобильной версии YouTube
 - Стороннее приложение [LibreTube](https://github.com/libre-tube/LibreTube)
 
