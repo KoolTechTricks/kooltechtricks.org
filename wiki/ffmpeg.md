@@ -1,5 +1,5 @@
 # FFmpeg
-> Categories: Audio_Video
+> Categories: Audio Video
 
 [FFmpeg](https://ffmpeg.org) — программа и библиотека с открытым исходным кодом
 для записи, конвертации и передачи аудио- и видеозаписей в различных форматах.

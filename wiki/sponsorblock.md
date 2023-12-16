@@ -1,5 +1,5 @@
 # SponsorBlock
-> Categories: Browser_Extensions, YouTube
+> Categories: Browser Extensions, YouTube
 
 [SponsorBlock](https://sponsor.ajay.app) — расширение и API для пропуска
 спонсированных сегментов в видео на YouTube. Оно основано на краудсорсинге:

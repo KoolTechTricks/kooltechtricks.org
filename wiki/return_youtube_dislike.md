@@ -1,5 +1,5 @@
 # Return YouTube Dislike
-> Categories: Browser_Extensions, YouTube
+> Categories: Browser Extensions, YouTube
 
 [Return YouTube Dislike](https://returnyoutubedislike.com) — расширение,
 которое возвращает счётчик дизлайков под видео на YouTube.

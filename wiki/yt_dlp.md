@@ -1,5 +1,5 @@
 # yt-dlp
-> Categories: Audio_Video, Youtube
+> Categories: Audio Video, Youtube
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) — универсальная программа для
 скачивания видео со многих популярных сайтов: YouTube, TikTok, Twitter (X),
