@@ -24,7 +24,7 @@
 
 ### Официальное расширение
 
-- [Firefox](https://addons.mozilla.org/ru/firefox/addon/return-youtube-dislikes)
+- [Firefox](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes)
 и все производные (LibreWolf, Waterfox, Floorp)
 - [Chromium](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
