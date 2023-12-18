@@ -1,0 +1,10 @@
+ffmpeg
+yt_dlp
+winget
+rss
+cli
+email
+f-droid
+syncthing
+veracrypt
+search_engines

@@ -1,5 +1,7 @@
 # Добро пожаловать на сайт Kool Tech Tricks!
 
+> flags: no_sidebar
+
 Kool Tech Tricks — свободный ресурс, на котором можно найти информацию по
 использованию полезного ПО и узнавать о новых малоизвестных программах.
 
@@ -7,46 +9,50 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 популяризировать ПО с открытым исходным кодом и побуждать интерес к изучению
 технологий.
 
-На данный момент насчитывается {total_pages}. Предложить свои правки на вики может
+Предложить свои правки на вики может
 [любой желающий](https://github.com/KoolTechTricks/pages), для того, чтобы
 поддерживать актуальность и аккуратность информации.
-
-## Подборки
-
-- [YouTube](/wiki/youtube.html)
-- [Почтовые клиенты](/wiki/email.html)
-
-[Показать все ({total_compilations})](/categories/compilations.html)
-
-## Вики
-
-- [VeraCrypt](/wiki/veracrypt.html)
-- [scrcpy](/wiki/scrcpy.html)
-- [F-Droid](/wiki/f-droid.html)
-- [Syncthing](/wiki/syncthing.html)
-- [RSS](/wiki/rss.html)
-- [yt-dlp](/wiki/yt_dlp.html)
-- [winget](/wiki/winget.html)
-- [FFmpeg](/wiki/ffmpeg.html)
-- [Anki](/wiki/anki.html)
-- [DeArrow](/wiki/dearrow.html)
-
-[Показать все ({total_wikis})](/wiki.html)
-
-## Категории
-
-- [Android](/categories/android.html)
-- [YouTube](/categories/youtube.html)
-- [Аудио/Видео](/categories/audio_video.html)
-- [Безопасность](/categories/security.html)
-- [Благополучие](/categories/wellbeing.html)
-- [Интернет](/categories/internet.html)
-- [Расширения для браузера](/categories/browser_extensions.html)
-
-[Показать все ({total_categories})](/categories.html)
-
-## Информация
 
 - [О проекте](/about.html)
 - [Редактировать вики](https://github.com/KoolTechTricks/pages)
 - [Telegram-канал](https://t.me/KoolTechTricks)
+
+## Выбор редакции
+
+### Подборки
+
+- [YouTube](/wiki/youtube.html)
+- [Почтовые клиенты](/wiki/email.html)
+- [Поисковики](/wiki/search_engines.html)
+- [RSS](/wiki/rss.html)
+
+[Показать все (TOTAL_COMPILATIONS)](/categories/compilations.html)
+
+### Программы
+
+- [VeraCrypt](/wiki/veracrypt.html)
+- [scrcpy](/wiki/scrcpy.html)
+- [Syncthing](/wiki/syncthing.html)
+- [yt-dlp](/wiki/yt_dlp.html)
+- [winget](/wiki/winget.html)
+- [Anki](/wiki/anki.html)
+- [DeArrow](/wiki/dearrow.html)
+- [F-Droid](/wiki/f-droid.html)
+
+## Вики
+
+Всего страниц: TOTAL_WIKI ([показать все](/wiki.html))
+
+### Недавно обновлённые
+
+UPDATED_LIST
+
+### Недавно добавленные
+
+ADDED_LIST
+
+### По категориям
+
+Всего категорий: TOTAL_CATEGORIES ([показать все](/categories.html))
+
+CATEGORIES_LIST
