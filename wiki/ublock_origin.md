@@ -1,5 +1,5 @@
 # uBlock Origin
-> browser_extensions, internet, privacy
+> Categories: Browser Extensions, Internet, Privacy
 
 [uBlock Origin](https://github.com/gorhill/uBlock) — расширение с открытым
 исходным кодом, предназначенное для блокировки нежелательного контента на

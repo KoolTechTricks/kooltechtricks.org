@@ -28,6 +28,14 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 
 [Показать все (TOTAL_COMPILATIONS)](/categories/compilations.html)
 
+### Расширения для браузера
+
+- [uBlock Origin](/wiki/ublock_origin.html)
+- [DeArrow](/wiki/dearrow.html)
+- [SponsorBlock](/wiki/dearrow.html)
+
+[Показать все (TOTAL_EXTENSIONS)](/categories/browser_extensions.html)
+
 ### Программы
 
 - [VeraCrypt](/wiki/veracrypt.html)
@@ -36,7 +44,6 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 - [yt-dlp](/wiki/yt_dlp.html)
 - [winget](/wiki/winget.html)
 - [Anki](/wiki/anki.html)
-- [DeArrow](/wiki/dearrow.html)
 - [F-Droid](/wiki/f-droid.html)
 
 ## Вики

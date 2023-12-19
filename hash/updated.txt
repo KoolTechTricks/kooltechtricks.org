@@ -1,2 +1,3 @@
 ffmpeg
 yt_dlp
+ublock_origin

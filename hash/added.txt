@@ -1,4 +1,3 @@
-ffmpeg
 yt_dlp
 winget
 rss
@@ -8,3 +7,4 @@ f-droid
 syncthing
 veracrypt
 search_engines
+ublock_origin
