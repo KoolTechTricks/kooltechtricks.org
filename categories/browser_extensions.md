@@ -18,11 +18,13 @@ Opera, Vivaldi, Яндекс.
 Устанавливать расширения на Android позволяет
 [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser).
 
-> [warn] В июне 2024
+> [warn]
+В июне 2024 года
 [в Google Chrome планируется отключить расширения на Manifest V2.](https://developer.chrome.com/blog/resuming-the-transition-to-mv3)
 Это повлияет на блокировщики трекеров и рекламы. Если вы хотите продолжать
 пользоваться этими расширениями, перейдите на другой браузер, например,
 Firefox (не Chromium) или Brave (форк Chromium).
+[Подробнее](https://t.me/KoolTechTricks/116)
 
 ## Firefox
 
