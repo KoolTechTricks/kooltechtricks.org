@@ -134,8 +134,7 @@ SponsorBlock предназначен для автоматического пр
 
 ![Скриншот, показывающий основной интерфейс отправки сегментов.](/media/sponsorblock_creating_segments.jpg)
 
-> [info]
-> **См. также**
+> **См. также:**
 >
 > [Создание сегментов](https://wiki.sponsor.ajay.app/w/Creating_Segments) (англ.)
 >

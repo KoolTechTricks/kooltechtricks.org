@@ -1,3 +1,10 @@
-ffmpeg
 yt_dlp
 ublock_origin
+winget
+sponsorblock
+youtube
+veracrypt
+scrcpy
+dearrow
+return_youtube_dislike
+unhook

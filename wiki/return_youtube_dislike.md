@@ -53,7 +53,7 @@
 [открытым исходным кодом](https://github.com/Anarios/return-youtube-dislike), но
 у сервера закрытый.
 
-> [info] **Дополнительная информация**
+> **См. также:**
 >
 > [Ответы на вопросы](https://returnyoutubedislike.com/faq)
 >

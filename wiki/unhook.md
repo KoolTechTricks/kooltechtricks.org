@@ -31,7 +31,7 @@ YouTube.](/media/unhook.jpg)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/unhook-remove-youtube-r/hebpjnnclppdnfghdnmhgdljmjpfhggk)
 
-> [info]
+> **Осторожно:**
 > Рекомендации можно выключить и без расширения в том числе на
 > телефоне и телевизоре. Для этого нужно очистить и отключить историю просмотра.
 >

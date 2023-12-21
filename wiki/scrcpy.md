@@ -21,14 +21,14 @@ Android-устройства на компьютер под управление
 
 ## Установка
 
-> [info] Может быть полезно: [Интерфейс командной строки](/wiki/cli.html)
+> **Примечание:** Может быть полезно: [Интерфейс командной строки](/wiki/cli.html)
 
 Android-устройство должно соответствовать
 [требованиям](https://github.com/Genymobile/scrcpy/#prerequisites).
 
 ### Windows
 
-> [info] См. также:
+> **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md)
 (англ.)
 
@@ -44,7 +44,7 @@ Android-устройство должно соответствовать
 
 ### Linux
 
-> [info] См. также:
+> **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
 (англ.)
 
@@ -62,7 +62,7 @@ Android-устройство должно соответствовать
 
 ### macOS
 
-> [info] См. также:
+> **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/macos.md)
 (англ.)
 
@@ -93,12 +93,12 @@ Android-устройство должно соответствовать
 - Отключить аудио: `--no-audio`
 - Отключить управление с компьютера: `-n`
 
-> [info] См. также:
+> **См. также:**
 [Документация](https://github.com/Genymobile/scrcpy#user-documentation) (англ.)
 
 ### Камера
 
-> [info] См. также:
+> **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/camera.md)
 (англ.)
 
