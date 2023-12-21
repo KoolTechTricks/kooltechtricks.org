@@ -1,4 +1,4 @@
-# Добро пожаловать на сайт Kool Tech Tricks!
+# [Добро пожаловать на сайт Kool Tech Tricks!](#welcome)
 
 > flags: no_sidebar
 
@@ -17,9 +17,9 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 - [Редактировать вики](https://github.com/KoolTechTricks/pages)
 - [Telegram-канал](https://t.me/KoolTechTricks)
 
-## Выбор редакции
+## [Выбор редакции](#editors-choice)
 
-### Подборки
+### [Подборки](#compilations)
 
 - [YouTube](/wiki/youtube.html)
 - [Почтовые клиенты](/wiki/email.html)
@@ -28,7 +28,7 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 
 [Показать все (TOTAL_COMPILATIONS)](/categories/compilations.html)
 
-### Расширения для браузера
+### [Расширения для браузера](#browser-extensions)
 
 - [uBlock Origin](/wiki/ublock_origin.html)
 - [DeArrow](/wiki/dearrow.html)
@@ -36,7 +36,7 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 
 [Показать все (TOTAL_EXTENSIONS)](/categories/browser_extensions.html)
 
-### Программы
+### [Программы](#software)
 
 - [VeraCrypt](/wiki/veracrypt.html)
 - [scrcpy](/wiki/scrcpy.html)
@@ -46,19 +46,19 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 - [Anki](/wiki/anki.html)
 - [F-Droid](/wiki/f-droid.html)
 
-## Вики
+## [Вики](#wiki)
 
 Всего страниц: TOTAL_WIKI ([показать все](/wiki.html))
 
-### Недавно обновлённые
+### [Недавно обновлённые](#updated)
 
 UPDATED_LIST
 
-### Недавно добавленные
+### [Недавно добавленные](#added)
 
 ADDED_LIST
 
-### По категориям
+### [По категориям](#categories)
 
 Всего категорий: TOTAL_CATEGORIES ([показать все](/categories.html))
 

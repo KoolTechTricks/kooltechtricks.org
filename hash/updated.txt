@@ -1,10 +1,10 @@
-yt_dlp
-ublock_origin
-winget
-sponsorblock
-youtube
 veracrypt
 scrcpy
+search_engines
+syncthing
 dearrow
-return_youtube_dislike
+rss
+anki
 unhook
+cli
+return_youtube_dislike

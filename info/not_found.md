@@ -1,4 +1,4 @@
-# Страница не найдена!
+# [Страница не найдена!](#not-found)
 
 > flags: no_embed, no_sidebar
 

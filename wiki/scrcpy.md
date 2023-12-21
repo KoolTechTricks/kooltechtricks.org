@@ -1,4 +1,4 @@
-# scrcpy
+# [scrcpy](#scrcpy)
 > Categories: Android
 
 [scrcpy](https://github.com/Genymobile/scrcpy) —
@@ -10,7 +10,7 @@ Android-устройства на компьютер под управление
 
 ![Демонстрация отражённого экрана Android](/media/scrcpy.jpg)
 
-## Применение
+## [Применение](#utilization)
 
 - Демонстрация экрана
 - Запись видео
@@ -19,14 +19,14 @@ Android-устройства на компьютер под управление
 - Drag & Drop для отправки файлов и установки APK
 - Копирование и вставка текста с компьютера в телефон и наоборот
 
-## Установка
+## [Установка](#installation)
 
 > **Примечание:** Может быть полезно: [Интерфейс командной строки](/wiki/cli.html)
 
 Android-устройство должно соответствовать
 [требованиям](https://github.com/Genymobile/scrcpy/#prerequisites).
 
-### Windows
+### [Windows](#windows)
 
 > **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md)
@@ -42,7 +42,7 @@ Android-устройство должно соответствовать
 архив вручную) (вы также можете открыть файл `open_a_terminal_here.bat`),
 после чего запустите `scrcpy`.
 
-### Linux
+### [Linux](#linux)
 
 > **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
@@ -60,7 +60,7 @@ Android-устройство должно соответствовать
 
 После установки, запустите программу из терминала: `scrcpy`
 
-### macOS
+### [macOS](#macos)
 
 > **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/macos.md)
@@ -74,7 +74,7 @@ Android-устройство должно соответствовать
 
 После установки, запустите программу из терминала: `scrcpy`.
 
-## Использование
+## [Использование](#usage)
 
 1. Подключите Android-устройство по проводу или
 [Wi-Fi](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly)
@@ -82,7 +82,7 @@ Android-устройство должно соответствовать
 3. Запустите `scrcpy` в терминале. Должно появиться окно с экраном вашего
 телефона.
 
-### Параметры
+### [Параметры](#parameters)
 
 Укажите дополнительные параметры после `scrcpy` в консоли.
 
@@ -96,7 +96,7 @@ Android-устройство должно соответствовать
 > **См. также:**
 [Документация](https://github.com/Genymobile/scrcpy#user-documentation) (англ.)
 
-### Камера
+### [Камера](#camera)
 
 > **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/camera.md)
@@ -164,12 +164,12 @@ scrcpy --video-source=camera --camera-fps=60
 других системах можно использовать
 [виртуальную камеру OBS](https://obsproject.com/forum/resources/obs-virtualcam.949).
 
-### Исправление проблем
+### [Исправление проблем](#troubleshooting)
 
 - [FAQ](https://github.com/Genymobile/scrcpy/blob/master/FAQ.md)
 - [Баг-трекер](https://github.com/Genymobile/scrcpy/issues)
 
-### См. также
+### [См. также](#see-also)
 
 - [Использование телефона в качестве веб-камеры на
 Linux](https://3iinc.xyz/blog/how-to-use-your-phone-as-a-webcam-with-scrcpy)

@@ -1,4 +1,4 @@
-# Почтовые клиенты
+# [Почтовые клиенты](#email-clients)
 > Categories: Compilations, Internet
 
 Многие привыкли использовать веб-интерфейс своего почтового сервиса. Однако
@@ -17,7 +17,7 @@
 настройках аккаунта. Если у вас не получается войти в свой аккаунт, попробуйте
 не вводить пароль, чтобы вызвать отдельное окно аутентификации.
 
-## Thunderbird
+## [Thunderbird](#thunderbird)
 
 - **Платформа:** ПК (Windows, Linux, macOS)
 - **Технологии:** Открытый исходный код, на основе Firefox
@@ -34,7 +34,7 @@
 
 ![Скриншот Thunderbird](/media/email_thunderbird.png)
 
-### Betterbird
+### [Betterbird](#betterbird)
 
 Форк с исправлением некоторых ошибок и добавлением дополнительных функций.
 [Полностью совместим с
@@ -43,7 +43,7 @@ Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
 
 - [Скачать с официального сайта](https://betterbird.eu/downloads/index.php)
 
-## FairEmail
+## [FairEmail](#fairemail)
 
 - **Платформа:** Android
 - **Технологии:** Java, C++,
@@ -62,7 +62,7 @@ Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
 
 ![Скриншот FairEmail](/media/email_fairemail.jpg)
 
-## K-9 Mail (Thunderbird для Android)
+## [K-9 Mail (Thunderbird для Android)](#thunderbird-android)
 
 - **Платформа:** Android
 - **Технологии:** Kotlin, Java,

@@ -1,4 +1,4 @@
-# SponsorBlock
+# [SponsorBlock](#sponsorblock)
 > Categories: Browser Extensions, YouTube
 
 [SponsorBlock](https://sponsor.ajay.app) — расширение и API для пропуска
@@ -12,7 +12,7 @@
 Рекламные сегменты помечены цветом и автоматически пропускаются при их
 достижении.](/media/sponsorblock.jpg)
 
-## Применение
+## [Применение](#utilization)
 
 SponsorBlock предназначен для автоматического пропуска и заглушения рекламных
 интеграций в видео. Такого рода блокировщик рекламы в теории может вредить
@@ -38,9 +38,9 @@ SponsorBlock предназначен для автоматического пр
 
 Это можно использовать для экономии времени на пропуске надоедливых сегментов.
 
-## Установка
+## [Установка](#installation)
 
-### ПК
+### [ПК](#desktop)
 
 Официальное расширение:
 
@@ -54,7 +54,7 @@ SponsorBlock предназначен для автоматического пр
 Это расширение работает для официального сайта YouTube. В настройках
 можно включить сторонние сайты Invidious, CloudTube, Piped, YouTube Kids.
 
-### Android
+### [Android](#android)
 
 Есть несколько способов установки, [см. все](https://github.com/ajayyy/SponsorBlock/wiki/Android)
 (англ).
@@ -68,7 +68,7 @@ SponsorBlock предназначен для автоматического пр
 [SkyTube](https://github.com/SkyTubeTeam/SkyTube),
 [Clipous](https://github.com/lamarios/clipious).
 
-### iOS
+### [iOS](#ios)
 
 Есть несколько способов установки, [см. все](https://github.com/ajayyy/SponsorBlock/wiki/iOS)
 (англ).
@@ -78,17 +78,17 @@ SponsorBlock предназначен для автоматического пр
 - Jailbreak [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) в
 официальном приложении.
 
-### Телевизор
+### [Телевизор](#tv)
 
 - [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) для Android TV
 - Для [Chromecast](https://github.com/yuliskov/SmartTubeNext)
 - Для [Apple TV](https://github.com/dmunozv04/iSponsorBlockTV)
 
-### Прочее
+### [Прочее](#other)
 
 Ознакомиться со всеми [портами](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports)
 
-## Конфигурация
+## [Конфигурация](#configuration)
 
 Официальное расширение предоставляет множество настроек.
 
@@ -116,7 +116,7 @@ SponsorBlock предназначен для автоматического пр
 
 Возможен экспорт, импорт и сброс настроек и своих данных.
 
-## Краудсорсинг
+## [Краудсорсинг](#crowdsource)
 
 Чтобы расширение знало, где находятся реклама и другие сегменты, необходимо,
 чтобы кто-то отправил таймкоды. На большинстве англоязычных и русскоязычных
@@ -124,7 +124,7 @@ SponsorBlock предназначен для автоматического пр
 статистике сервера, более 13 миллионов пользователей отправили более 14
 миллионов сегментов.
 
-### Внести вклад
+### [Внести вклад](#contribute)
 
 Для того, чтобы отправить свой сегмент или исправить уже существующий,
 необходимо воспользоваться официальным расширением. Иконка с щитом и
@@ -146,7 +146,7 @@ SponsorBlock предназначен для автоматического пр
 лидеров, кто больше внёс вклад. Своё отображаемое имя можно сменить в меню
 расширения.
 
-## Открытость
+## [Открытость](#openness)
 
 Расширение и [API](https://wiki.sponsor.ajay.app/w/API_Docs) с
 [открытым исходным кодом](https://github.com/ajayyy/SponsorBlock). Это
@@ -159,7 +159,7 @@ SponsorBlock предназначен для автоматического пр
 Можно запустить [собственный сервер](https://github.com/mchangrh/sb-mirror)
 в случае отказа работы официального.
 
-## Исправление проблем
+## [Исправление проблем](#troubleshooting)
 
 - [Статус сервера](https://status.sponsor.ajay.app/)
 - Проблемы на [GitHub](https://github.com/ajayyy/SponsorBlock/issues)
@@ -169,7 +169,7 @@ SponsorBlock предназначен для автоматического пр
 - Обновления и новости в [Mastodon](https://fosstodon.org/@sponsorblock) и
 [X (Twitter)](https://twitter.com/SponsorBlock) (англ.)
 
-## См. также
+## [См. также](#see-also)
 
 - [DeArrow](/wiki/dearrow.html)
 - [YouTube](/wiki/youtube.html)
