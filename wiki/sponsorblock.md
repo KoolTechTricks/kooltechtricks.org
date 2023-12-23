@@ -171,5 +171,5 @@ SponsorBlock предназначен для автоматического пр
 
 ## [См. также](#see-also)
 
-- [DeArrow](/wiki/dearrow.html)
-- [YouTube](/wiki/youtube.html)
+- [DeArrow](/wiki/dearrow)
+- [YouTube](/wiki/youtube)

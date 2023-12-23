@@ -13,7 +13,7 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 [любой желающий](https://github.com/KoolTechTricks/pages), для того, чтобы
 поддерживать актуальность и аккуратность информации.
 
-- [О проекте](/about.html)
+- [О проекте](/about)
 - [Редактировать вики](https://github.com/KoolTechTricks/pages)
 - [Telegram-канал](https://t.me/KoolTechTricks)
 
@@ -21,34 +21,34 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 
 ### [Подборки](#compilations)
 
-- [YouTube](/wiki/youtube.html)
-- [Почтовые клиенты](/wiki/email.html)
-- [Поисковики](/wiki/search_engines.html)
+- [YouTube](/wiki/youtube)
+- [Почтовые клиенты](/wiki/email)
+- [Поисковики](/wiki/search_engines)
 - [RSS](/wiki/rss.html)
 
-[Показать все (TOTAL_COMPILATIONS)](/categories/compilations.html)
+[Показать все (TOTAL_COMPILATIONS)](/categories/compilations)
 
 ### [Расширения для браузера](#browser-extensions)
 
-- [uBlock Origin](/wiki/ublock_origin.html)
-- [DeArrow](/wiki/dearrow.html)
-- [SponsorBlock](/wiki/dearrow.html)
+- [uBlock Origin](/wiki/ublock_origin)
+- [DeArrow](/wiki/dearrow)
+- [SponsorBlock](/wiki/dearrow)
 
-[Показать все (TOTAL_EXTENSIONS)](/categories/browser_extensions.html)
+[Показать все (TOTAL_EXTENSIONS)](/categories/browser_extensions)
 
 ### [Программы](#software)
 
-- [VeraCrypt](/wiki/veracrypt.html)
-- [scrcpy](/wiki/scrcpy.html)
-- [Syncthing](/wiki/syncthing.html)
-- [yt-dlp](/wiki/yt_dlp.html)
-- [winget](/wiki/winget.html)
-- [Anki](/wiki/anki.html)
-- [F-Droid](/wiki/f-droid.html)
+- [VeraCrypt](/wiki/veracrypt)
+- [scrcpy](/wiki/scrcpy)
+- [Syncthing](/wiki/syncthing)
+- [yt-dlp](/wiki/yt_dlp)
+- [winget](/wiki/winget)
+- [Anki](/wiki/anki)
+- [F-Droid](/wiki/f-droid)
 
 ## [Вики](#wiki)
 
-Всего страниц: TOTAL_WIKI ([показать все](/wiki.html))
+Всего страниц: TOTAL_WIKI ([показать все](/wiki))
 
 ### [Недавно обновлённые](#updated)
 
@@ -60,6 +60,6 @@ ADDED_LIST
 
 ### [По категориям](#categories)
 
-Всего категорий: TOTAL_CATEGORIES ([показать все](/categories.html))
+Всего категорий: TOTAL_CATEGORIES ([показать все](/categories))
 
 CATEGORIES_LIST

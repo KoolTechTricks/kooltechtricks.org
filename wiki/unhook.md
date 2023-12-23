@@ -101,4 +101,4 @@ Twitch.](/media/unhook_twitch.jpg)
 - Поиск в рекомендациях
 
 ## [См. также](#see-also)
-- [YouTube](/wiki/youtube.html)
+- [YouTube](/wiki/youtube)

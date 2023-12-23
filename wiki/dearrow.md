@@ -114,5 +114,5 @@ DeArrow заменяет заголовки и обложки таким обр�
 
 ## [См. также](#see-also)
 
-- [SponsorBlock](/wiki/sponsorblock.html)
-- [YouTube](/wiki/youtube.html)
+- [SponsorBlock](/wiki/sponsorblock)
+- [YouTube](/wiki/youtube)

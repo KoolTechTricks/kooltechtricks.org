@@ -29,7 +29,7 @@
 место. Существует с 2003 года и обладает обширным набором возможностей.
 
 В функционал Thunderbird входят календарь, контакты, список дел, чат и
-[агрегатор RSS](/wiki/rss.html#Thunderbird). Поддерживаются
+[агрегатор RSS](/wiki/rss#thunderbird). Поддерживаются
 [расширения](https://addons.thunderbird.net).
 
 ![Скриншот Thunderbird](/media/email_thunderbird.png)

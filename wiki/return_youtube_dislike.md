@@ -73,4 +73,4 @@
 
 ## [См. также](#see-also)
 
-- [YouTube](/wiki/youtube.html)
+- [YouTube](/wiki/youtube)
