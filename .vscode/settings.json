@@ -7,6 +7,7 @@
         "Chromecast",
         "Clipous",
         "copr",
+        "Ecosia",
         "Feedly",
         "Flathub",
         "Floorp",
@@ -25,6 +26,7 @@
         "selfpromo",
         "setdar",
         "sponsorblock",
+        "Startpage",
         "Tampermonkey",
         "termux",
         "tomtomtom",
@@ -50,6 +52,8 @@
         "трекеров",
         "трекеры",
         "форк",
-        "форком"
+        "форком",
+        "хостит",
+        "хостить"
     ]
 }
