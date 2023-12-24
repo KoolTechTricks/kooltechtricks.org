@@ -1,12 +1,9 @@
 # [scrcpy](#scrcpy)
 > Categories: Android
 
-[scrcpy](https://github.com/Genymobile/scrcpy) —
-[консольная программа](/wiki/cli.html) для отражения экрана и аудио с
-Android-устройства на компьютер под управлением
-[Windows](https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md),
-[Linux](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md) и
-[macOS](https://github.com/Genymobile/scrcpy/blob/master/doc/macos.md).
+[scrcpy](https://github.com/Genymobile/scrcpy) — консольная программа для
+отражения экрана и аудио с Android-устройства на компьютер под управлением
+Windows, Linux и macOS.
 
 ![Демонстрация отражённого экрана Android](/media/scrcpy.jpg)
 
@@ -14,14 +11,15 @@ Android-устройства на компьютер под управление
 
 - Демонстрация экрана
 - Запись видео
-- [Использование телефона в качестве веб-камеры](#camera)
+- Использование телефона [в качестве веб-камеры](#camera)
 - Использование клавиатуры и мыши для ввода
-- Drag & Drop для отправки файлов и установки APK
+- Drag & Drop для отправки файлов и установки приложений (APK)
 - Копирование и вставка текста с компьютера в телефон и наоборот
 
 ## [Установка](#installation)
 
-> **Примечание:** Может быть полезно: [Интерфейс командной строки](/wiki/cli.html)
+> **См. также:**
+[Руководство по использованию интерфейса командной строки](/wiki/cli)
 
 Android-устройство должно соответствовать
 [требованиям](https://github.com/Genymobile/scrcpy/#prerequisites).
@@ -36,7 +34,7 @@ Android-устройство должно соответствовать
 распакуйте её.
 
 Альтернативно, вы можете установить через менеджеры пакетов, например
-[winget](/wiki/winget.html): `winget install scrcpy`
+[winget](/wiki/winget): `winget install scrcpy`
 
 Откройте терминал в месте, где расположен исполняемый файл (если вы скачивали
 архив вручную) (вы также можете открыть файл `open_a_terminal_here.bat`),
@@ -79,6 +77,7 @@ Android-устройство должно соответствовать
 1. Подключите Android-устройство по проводу или
 [Wi-Fi](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly)
 2. Включите [отладку по USB](https://developer.android.com/studio/debug/dev-options#enable)
+на Android-устройстве.
 3. Запустите `scrcpy` в терминале. Должно появиться окно с экраном вашего
 телефона.
 
@@ -105,63 +104,38 @@ Android-устройство должно соответствовать
 Отражение камеры появилось в scrcpy 2.2 и доступно для Android 12 и
 выше.
 
-```
-scrcpy --video-source=camera
+```shell
+$ scrcpy --video-source=camera
 ```
 
 При этом, по умолчанию звук будет идти с микрофона устройства.
 
-```
-scrcpy --video-source=display  # по умолчанию --audio-source=output
-```
-
-```
-scrcpy --video-source=camera   # по умолчанию --audio-source=mic
-```
-
-```
-scrcpy --video-source=display --audio-source=mic    # дисплей И микрофон
-```
-
-```
-scrcpy --video-source=camera --audio-source=output  # камера И аудио устройства
+```shell
+$ scrcpy --video-source=display  # по умолчанию --audio-source=output
+$ scrcpy --video-source=camera   # по умолчанию --audio-source=mic
+$ scrcpy --video-source=display --audio-source=mic    # дисплей И микрофон
+$ scrcpy --video-source=camera --audio-source=output  # камера И аудио устройства
 ```
 
 У вашего устройства может быть несколько камер и разрешений:
 
-```
-scrcpy --list-cameras
-```
-
-```
-scrcpy --video-source=camera                           # первая камера
-```
-
-```
-scrcpy --video-source=camera --camera-facing=front     # первая фронтальная
-```
-
-```
-scrcpy --video-source=camera --camera-facing=back      # первая задняя
-```
-
-```
-scrcpy --video-source=camera --camera-facing=external  # первая внешняя
-```
-
-```
-scrcpy --video-source=camera --camera-id=0             # ID камеры
+```shell
+$ scrcpy --list-cameras
+$ scrcpy --video-source=camera                           # первая камера
+$ scrcpy --video-source=camera --camera-facing=front     # первая фронтальная
+$ scrcpy --video-source=camera --camera-facing=back      # первая задняя
+$ scrcpy --video-source=camera --camera-facing=external  # первая внешняя
+$ scrcpy --video-source=camera --camera-id=0             # ID камеры
 ```
 
 По умолчанию захватывается 30 FPS:
 
-```
-scrcpy --video-source=camera --camera-fps=60
+```shell
+$ scrcpy --video-source=camera --camera-fps=60
 ```
 
-На Linux можно [перенаправить вывод в виртуальную
-камеру](https://github.com/Genymobile/scrcpy/blob/master/doc/v4l2.md). На
-других системах можно использовать
+На Linux можно
+[перенаправить вывод в виртуальную камеру](https://github.com/Genymobile/scrcpy/blob/master/doc/v4l2.md). На других системах можно использовать
 [виртуальную камеру OBS](https://obsproject.com/forum/resources/obs-virtualcam.949).
 
 ### [Исправление проблем](#troubleshooting)
@@ -171,5 +145,4 @@ scrcpy --video-source=camera --camera-fps=60
 
 ### [См. также](#see-also)
 
-- [Использование телефона в качестве веб-камеры на
-Linux](https://3iinc.xyz/blog/how-to-use-your-phone-as-a-webcam-with-scrcpy)
+- [Использование телефона в качестве веб-камеры на Linux](https://3iinc.xyz/blog/how-to-use-your-phone-as-a-webcam-with-scrcpy)
