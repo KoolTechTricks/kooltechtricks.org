@@ -31,11 +31,10 @@ YouTube.](/media/unhook.jpg)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/unhook-remove-youtube-r/hebpjnnclppdnfghdnmhgdljmjpfhggk)
 
-> **Осторожно:**
-> Рекомендации можно выключить и без расширения в том числе на
-> телефоне и телевизоре. Для этого нужно очистить и отключить историю просмотра.
->
-> **Данное действие необратимо!**
+Рекомендации можно выключить и без расширения в том числе на телефоне и
+телевизоре. Для этого нужно очистить и отключить историю просмотра.
+
+> **Осторожно:** **Данное действие необратимо!**
 >
 > 1. [Настройки аккаунта Google](https://myaccount.google.com)
 > 2. [Данные и конфиденциальность](https://myaccount.google.com/data-and-privacy)
@@ -101,4 +100,5 @@ Twitch.](/media/unhook_twitch.jpg)
 - Поиск в рекомендациях
 
 ## [См. также](#see-also)
+
 - [YouTube](/wiki/youtube)
