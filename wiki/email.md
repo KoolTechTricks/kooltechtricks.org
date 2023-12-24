@@ -2,8 +2,8 @@
 > Categories: Compilations, Internet
 
 Многие привыкли использовать веб-интерфейс своего почтового сервиса. Однако
-можно использовать сторонние клиенты, которые предоставляют более приватный
-и удобный пользовательский опыт.
+можно использовать сторонние клиенты, которые предоставляют более удобный и
+конфиденциальный опыт.
 
 - В интерфейсе некоторых сервисов есть реклама, а также скрытые скрипты,
 отслеживающие действия пользователя для показа более релевантных объявлений.
@@ -21,27 +21,33 @@
 
 - **Платформа:** ПК (Windows, Linux, macOS)
 - **Технологии:** Открытый исходный код, на основе Firefox
-- **Скачать:** [Официальный сайт](https://www.thunderbird.net),
-[Flathub](https://flathub.org/apps/org.mozilla.Thunderbird) (Linux)
+- **Скачать:**
+    - [Официальный сайт](https://www.thunderbird.net)
+    - Windows [winget](/wiki/winget): `Mozilla.Thunderbird`
+    - Linux: [Flathub](https://flathub.org/apps/org.mozilla.Thunderbird)
 
 Почтовый клиент от Mozilla, созданный благодаря сообществу. Это полностью
 свободный клиент, который ставит безопасность и конфиденциальность на первое
-место. Существует с 2003 года и обладает обширным набором возможностей.
+место. Существует с 2003 года и обладает широким набором возможностей.
 
-В функционал Thunderbird входят календарь, контакты, список дел, чат и
+В возможности Thunderbird входят календарь, контакты, список дел, чат и
 [агрегатор RSS](/wiki/rss#thunderbird). Поддерживаются
 [расширения](https://addons.thunderbird.net).
 
-![Скриншот Thunderbird](/media/email_thunderbird.png)
+Сейчас разрабатывается Thunderbird [для Android](#thunderbird-android) (бывший
+K-9 Mail) и для iOS (пока недоступно).
+
+![Скриншот Thunderbird для ПК](/media/email_thunderbird.png)
 
 ### [Betterbird](#betterbird)
 
-Форк с исправлением некоторых ошибок и добавлением дополнительных функций.
-[Полностью совместим с
-Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
-использовать тот же профиль, не перенося аккаунты и настройки.
+Форк Thunderbird с исправлением некоторых ошибок и добавлением дополнительных
+функций.
+[Полностью совместим с Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb),
+можно использовать тот же профиль, не перенося аккаунты и настройки.
 
 - [Скачать с официального сайта](https://betterbird.eu/downloads/index.php)
+- Windows [winget](/wiki/winget): `Betterbird.Betterbird`
 
 ## [FairEmail](#fairemail)
 
