@@ -1,5 +1,5 @@
 # [VeraCrypt](#veracrypt)
-> Categories: Security
+> Categories: Files, Security
 
 [VeraCrypt](https://veracrypt.fr) — программа для шифрования дисков с
 [открытым исходным кодом](https://veracrypt.fr/code/VeraCrypt) для Windows,

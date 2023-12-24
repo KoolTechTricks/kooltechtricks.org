@@ -1,5 +1,7 @@
 # [Syncthing](#syncthing)
 
+> Categories: Files
+
 [Syncthing](https://syncthing.net) — программа для синхронизации файлов между
 двумя и более устройствами в режиме реального времени.
 
