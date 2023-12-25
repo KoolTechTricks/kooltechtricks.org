@@ -1,21 +1,31 @@
-# [Добро пожаловать на сайт Kool Tech Tricks!](#welcome)
+# [Добро пожаловать](#welcome)
 
 > flags: no_sidebar
 
-Kool Tech Tricks — свободный ресурс, на котором можно найти информацию по
-использованию полезного ПО и узнавать о новых малоизвестных программах.
+Kool Tech Tricks Вики — свободный ресурс, на котором можно найти информацию по
+использованию полезного программного обеспечения. Здесь вы сможете узнать о
+новых малоизвестных программах, альтернативах популярным сервисам, решениях
+надоедливых проблем и многое другое.
 
-Основные цели: свободно и нейтрально распространять полезную информацию,
-популяризировать ПО с открытым исходным кодом и побуждать интерес к изучению
-технологий.
+Нашим главным приоритетом является распространение
+[свободного программного обеспечения
+с открытым исходным кодом](https://www.gnu.org/philosophy/free-sw.ru.html). Тем
+не менее, мы не ограничиваем пользователей в праве выбора.
 
-Предложить свои правки на вики может
-[любой желающий](https://github.com/KoolTechTricks/pages), для того, чтобы
-поддерживать актуальность и аккуратность информации.
+Вики должна быть свободным ресурсом, доступным для всех желающих узнать что-то
+новое. Исходные тексты всех страниц доступны в
+[репозитории на GitHub](https://github.com/KoolTechTricks/pages) под лицензией
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Предложить свои
+изменения может любой желающий для того, чтобы поддерживать актуальность и
+аккуратность информации.
+[Узнайте как внести
+свой вклад](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
 
 - [О проекте](/about)
-- [Редактировать вики](https://github.com/KoolTechTricks/pages)
+- [RSS-лента](/feed.atom)
 - [Telegram-канал](https://t.me/KoolTechTricks)
+
+# [Исследовать](#discover)
 
 ## [Выбор редакции](#editors-choice)
 
@@ -26,15 +36,16 @@ Kool Tech Tricks — свободный ресурс, на котором мож
 - [Поисковики](/wiki/search_engines)
 - [RSS](/wiki/rss.html)
 
-[Показать все (TOTAL_COMPILATIONS)](/categories/compilations)
+[Показать все](/categories/compilations) (TOTAL_COMPILATIONS)
 
 ### [Расширения для браузера](#browser-extensions)
 
 - [uBlock Origin](/wiki/ublock_origin)
+- [ClearURLs](/wiki/clearurls)
 - [DeArrow](/wiki/dearrow)
 - [SponsorBlock](/wiki/dearrow)
 
-[Показать все (TOTAL_EXTENSIONS)](/categories/browser_extensions)
+[Показать все](/categories/browser_extensions) (TOTAL_EXTENSIONS)
 
 ### [Программы](#software)
 
