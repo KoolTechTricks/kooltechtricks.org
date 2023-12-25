@@ -1,5 +1,3 @@
-yt_dlp
-winget
 rss
 cli
 email
@@ -8,3 +6,5 @@ syncthing
 veracrypt
 search_engines
 ublock_origin
+clearurls
+localsend
