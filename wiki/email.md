@@ -1,9 +1,9 @@
-# Почтовые клиенты
-> compilations, internet
+# [Почтовые клиенты](#email-clients)
+> Categories: Compilations, Internet
 
 Многие привыкли использовать веб-интерфейс своего почтового сервиса. Однако
-можно использовать сторонние клиенты, которые предоставляют более приватный
-и удобный пользовательский опыт.
+можно использовать сторонние клиенты, которые предоставляют более удобный и
+конфиденциальный опыт.
 
 - В интерфейсе некоторых сервисов есть реклама, а также скрытые скрипты,
 отслеживающие действия пользователя для показа более релевантных объявлений.
@@ -17,33 +17,39 @@
 настройках аккаунта. Если у вас не получается войти в свой аккаунт, попробуйте
 не вводить пароль, чтобы вызвать отдельное окно аутентификации.
 
-## Thunderbird
+## [Thunderbird](#thunderbird)
 
 - **Платформа:** ПК (Windows, Linux, macOS)
 - **Технологии:** Открытый исходный код, на основе Firefox
-- **Скачать:** [Официальный сайт](https://www.thunderbird.net),
-[Flathub](https://flathub.org/apps/org.mozilla.Thunderbird) (Linux)
+- **Скачать:**
+    - [Официальный сайт](https://www.thunderbird.net)
+    - Windows [winget](/wiki/winget): `Mozilla.Thunderbird`
+    - Linux: [Flathub](https://flathub.org/apps/org.mozilla.Thunderbird)
 
 Почтовый клиент от Mozilla, созданный благодаря сообществу. Это полностью
 свободный клиент, который ставит безопасность и конфиденциальность на первое
-место. Существует с 2003 года и обладает обширным набором возможностей.
+место. Существует с 2003 года и обладает широким набором возможностей.
 
-В функционал Thunderbird входят календарь, контакты, список дел, чат и
-[агрегатор RSS](/wiki/rss.html#Thunderbird). Поддерживаются
+В возможности Thunderbird входят календарь, контакты, список дел, чат и
+[агрегатор RSS](/wiki/rss#thunderbird). Поддерживаются
 [расширения](https://addons.thunderbird.net).
 
-![Скриншот Thunderbird](/media/email_thunderbird.png)
+Сейчас разрабатывается Thunderbird [для Android](#thunderbird-android) (бывший
+K-9 Mail) и для iOS (пока недоступно).
 
-### Betterbird
+![Скриншот Thunderbird для ПК](/media/email_thunderbird.png)
 
-Форк с исправлением некоторых ошибок и добавлением дополнительных функций.
-[Полностью совместим с
-Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
-использовать тот же профиль, не перенося аккаунты и настройки.
+### [Betterbird](#betterbird)
+
+Форк Thunderbird с исправлением некоторых ошибок и добавлением дополнительных
+функций.
+[Полностью совместим с Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb),
+можно использовать тот же профиль, не перенося аккаунты и настройки.
 
 - [Скачать с официального сайта](https://betterbird.eu/downloads/index.php)
+- Windows [winget](/wiki/winget): `Betterbird.Betterbird`
 
-## FairEmail
+## [FairEmail](#fairemail)
 
 - **Платформа:** Android
 - **Технологии:** Java, C++,
@@ -62,7 +68,7 @@ Thunderbird](https://betterbird.eu/support/index.html#switch-tb-bb), можно
 
 ![Скриншот FairEmail](/media/email_fairemail.jpg)
 
-## K-9 Mail (Thunderbird для Android)
+## [K-9 Mail (Thunderbird для Android)](#thunderbird-android)
 
 - **Платформа:** Android
 - **Технологии:** Kotlin, Java,

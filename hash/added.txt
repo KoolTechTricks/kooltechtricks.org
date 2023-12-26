@@ -1,0 +1,10 @@
+rss
+cli
+email
+f-droid
+syncthing
+veracrypt
+search_engines
+ublock_origin
+clearurls
+localsend

@@ -1,13 +1,12 @@
-# Return YouTube Dislike
-> browser_extensions, youtube
+# [Return YouTube Dislike](#return-youtube-dislike)
+> Categories: Browser Extensions, YouTube
 
 [Return YouTube Dislike](https://returnyoutubedislike.com) — расширение,
 которое возвращает счётчик дизлайков под видео на YouTube.
 
-![Видео, которое имеет большую часть дизлайков. Без расширения дизлайки не были
-бы видны.](/media/return_youtube_dislike.jpg)
+![Видео, которое имеет большую часть дизлайков](/media/return_youtube_dislike.png)
 
-## Применение
+## [Применение](#utilization)
 
 Счётчик отметок «Не нравится» был отключён в декабре 2021 года. Официально это
 было сделано, так как пользователи ставят дизлайки, потому что просто хотят
@@ -20,23 +19,22 @@
 - Стоит ли тратить время на просмотр видео. Если на видео много дизлайков, то
 это создаёт определённый настрой, что в этом видео будет противоречивое мнение
 
-## Установка
+## [Установка](#installation)
 
-### Официальное расширение
+### [Официальное расширение](#official-extension)
 
-- [Firefox](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes)
-и все производные (LibreWolf, Waterfox, Floorp)
 - [Chromium](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
 и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
+- [Firefox](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes)
 - [Пользовательский скрипт (Tampermonkey)](https://github.com/Anarios/return-youtube-dislike/raw/main/Extensions/UserScript/Return%20Youtube%20Dislike.user.js)
 
-### Сторонние порты
+### [Сторонние порты](#third-party-ports)
 
 - Android: [Форк NewPipe](https://github.com/polymorphicshade/NewPipe)
 - Android, iOS: [VueTube](https://vuetube.app)
 - [iOS Jailbreak](https://chariz.com/get/return-youtube-dislike)
 
-## Как устроено
+## [Как устроено](#how-it-works)
 
 Счётчик основан на архивных данных до отключения и экстраполированном поведении
 пользователей расширения. Если вы оцениваете видео, то это записывается и
@@ -49,28 +47,26 @@
 уникальный идентификатор, не привязанный к аккаунту (необходим для борьбы с
 ботами).
 
-Расширение с
-[открытым исходным кодом](https://github.com/Anarios/return-youtube-dislike), но
+У расширения
+[открытый исходный код](https://github.com/Anarios/return-youtube-dislike), но
 у сервера закрытый.
 
-> [info] **Дополнительная информация**
->
-> [Ответы на вопросы](https://returnyoutubedislike.com/faq)
->
-> [Безопасность](https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQru.md)
->
-> [Исправление проблем](https://returnyoutubedislike.com/help)
+> **См. также:**
+> - [Ответы на вопросы](https://returnyoutubedislike.com/faq)
+> - [Безопасность](https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQru.md)
 
-## Исправление проблем
+## [Исправление проблем](#troubleshooting)
 
-Если у вас возникают проблемы с отображением элементов, то, вероятно, произошли изменения в интерфейсе YouTube. Разработчики расширения, скорее всего, уже знают
+Если у вас возникают проблемы с отображением элементов, то, вероятно, произошли
+изменения в интерфейсе YouTube. Разработчики расширения, скорее всего, уже знают
 об этом и работают над исправлением. Вы можете проверить следующие ресурсы,
 чтобы узнать о статусе исправления ошибок:
 
+- [Исправление проблем](https://returnyoutubedislike.com/help)
 - Баг-трекер на
 [GitHub](https://github.com/Anarios/return-youtube-dislike/issues)
 - Чат в [Discord](https://discord.com/invite/mYnESY4Md5)
 
-## См. также
+## [См. также](#see-also)
 
-- [YouTube](/wiki/youtube.html)
+- [YouTube](/wiki/youtube)

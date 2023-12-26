@@ -1,0 +1,10 @@
+syncthing
+ublock_origin
+unhook
+veracrypt
+winget
+dearrow
+youtube
+yt_dlp
+clearurls
+localsend
