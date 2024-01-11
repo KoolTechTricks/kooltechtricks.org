@@ -31,6 +31,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ### [Подборки](#compilations)
 
+- [Браузеры](/wiki/browsers)
 - [YouTube](/wiki/youtube)
 - [Почтовые клиенты](/wiki/email)
 - [Поисковики](/wiki/search_engines)
