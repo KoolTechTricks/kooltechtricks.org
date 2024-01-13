@@ -1,5 +1,3 @@
-syncthing
-ublock_origin
 unhook
 veracrypt
 winget
@@ -8,3 +6,5 @@ youtube
 yt_dlp
 clearurls
 localsend
+browsers
+sponsorblock

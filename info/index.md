@@ -44,7 +44,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [uBlock Origin](/wiki/ublock_origin)
 - [ClearURLs](/wiki/clearurls)
 - [DeArrow](/wiki/dearrow)
-- [SponsorBlock](/wiki/dearrow)
+- [SponsorBlock](/wiki/sponsorblock)
 
 [Показать все](/categories/browser_extensions) (TOTAL_EXTENSIONS)
 

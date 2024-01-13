@@ -7,39 +7,58 @@
 исправляют уже существующие, чтобы затем расширение их автоматически пропускало
 для других.
 
-![Скриншот плеера YouTube с установленным расширением SponsorBlock.
-Сегменты с рекламой помечены цветом и автоматически пропускаются при их
-достижении.](/media/sponsorblock.jpg)
+![Плеер YouTube с установленным расширением SponsorBlock. Сегменты с рекламой
+выделены цветом и автоматически пропускаются.](/media/sponsorblock.jpg)
 
 ## [Применение](#utilization)
 
-SponsorBlock предназначен для автоматического пропуска и заглушения
-раздражающих сегментов в видео. Поведение можно полностью
-[настроить](#configuration).
+### [Сегменты](#segments)
 
-Также расширение добавляет метки о полностью спонсированных видео, что может
-помочь при просмотре обзоров. Эти метки устанавливают пользователи, поэтому
-информация может быть не совсем точной.
+SponsorBlock предназначен для автоматического или ручного пропуска и заглушения
+раздражающих сегментов в видео. Поведение полностью
+[настраиваемое](#configuration).
 
-Можно фильтровать следующие сегменты:
+Доступные категории:
 
-- Напоминания о подписке
-- Интро / Аутро
-- Окончание видео
+- Напоминание о взаимодействии (подписка, лайк и т.п.)
+- Пауза/интро
+- Конечная заставка/титры
 - Показ отрывков из видео в начале
-- Спонсоры
+- Спонсор
 - Самореклама
-- Шутки
+- Шутки, отвлечённые темы
 - Тишина в музыкальных видео
 
 Благодаря SponsorBlock можно быстро пропускать эти сегменты и экономить время и
 нервы.
 
-Помимо сегментов, в SponsorBlock есть пользовательские эпизоды. Это бывает
-полезно, когда в большом видео или записи трансляции не указаны тайм-коды. В
-SponsorBlock доверенные пользователи могут отправлять собственные тайм-коды,
-которые будут отображаться так же, как и обычные эпизоды. Внутри больших
-эпизодов могут быть маленькие.
+### [Метки](#labels)
+
+Метки означают, что видео целиком посвящёно какой-либо категории. Такие
+категории нельзя разделить на сегменты, не отметив ею большую часть ролика. Это
+может помочь при просмотре обзоров.
+
+- Спонсор — автору заплатили деньги за рекламу объекта во всём видео.
+- Эксклюзивный доступ — автору предоставили объект бесплатно за создание видео
+про него.
+- Самореклама
+
+![Демонстрация меток на видео](/media/sponsorblock_labels.png)
+
+> **Внимание:** Эти метки устанавливают такие же пользователи, как и вы, поэтому
+информация может быть недостоверной. Проверяйте перед отправкой, и не
+отправляйте, если не уверены.
+
+### [Эпизоды](#chapters)
+
+SponsorBlock позволяет указывать эпизоды — собственные тайм-коды в случае, если
+они не указаны автором. Помогает при просмотре больших видео и записей
+трансляций. Внутри больших эпизодов могут быть маленькие.
+
+![Демонстрация эпизодов SponsorBlock](/media/sponsorblock_chapters.png)
+
+Для отправки эпизодов требуется набрать некоторое количество репутации, из-за
+этого они встречаются редко.
 
 ### [Этичность](#ethics)
 
@@ -68,60 +87,68 @@ SponsorBlock доверенные пользователи могут отпра
 оптимальным, то это, помимо прочего, будет способствовать появлению еще большего
 количества рекламы, нарушающей приватность.
 
+В любом случае, вы вольны решать, стоит ли вам пропускать рекламу. Расширение
+позволяет отключить автоматический пропуск сегментов определённых категорий.
+
 ## [Установка](#installation)
 
-### [ПК](#desktop)
+### [Компьютер](#desktop)
 
 Официальное расширение:
 
-- [Firefox](https://addons.mozilla.org/addon/sponsorblock) и все производные
-(LibreWolf, Waterfox, Floorp)
+- [Firefox](https://addons.mozilla.org/addon/sponsorblock) (ПК и Android)
 - [Chromium](https://chrome.google.com/webstore/detail/mnjggcdmjocbbbhaepdhchncahnbgone)
-и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
+(Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Microsoft Edge](https://github.com/ajayyy/SponsorBlock/wiki/Edge)
 - [Safari](https://github.com/ajayyy/SponsorBlock/wiki/Safari)
 
-Это расширение работает для официального сайта YouTube. В настройках
-можно включить сторонние сайты Invidious, CloudTube, Piped, YouTube Kids.
+Это расширение работает для официального сайта YouTube. В настройках можно
+включить сторонние сайты Invidious, CloudTube, Piped, YouTube Kids (потребуется
+выдать разрешение на доступ к ним).
 
 ### [Android](#android)
 
-Есть несколько способов установки,
-[см. все](https://github.com/ajayyy/SponsorBlock/wiki/Android).
+> **Основная статья:**
+[SponsorBlock для Android](https://github.com/ajayyy/SponsorBlock/wiki/Android)
+(англ.)
 
-- Расширение в
-[Firefox](https://addons.mozilla.org/android/addon/sponsorblock) на Android для
-мобильной версии YouTube.
+- [Расширение в Firefox](https://addons.mozilla.org/android/addon/sponsorblock)
+на Android для мобильной версии YouTube
+([m.youtube.com](https://m.youtube.com)).
 - Сторонние приложения:
-[форк NewPipe](https://github.com/polymorphicshade/NewPipe),
-[LibreTube](https://github.com/libre-tube/LibreTube),
-[SkyTube](https://github.com/SkyTubeTeam/SkyTube),
-[Clipous](https://github.com/lamarios/clipious).
+    - [ReVanced](https://revanced.app);
+    - [LibreTube](https://github.com/libre-tube/LibreTube);
+    - [Форк NewPipe](https://github.com/polymorphicshade/NewPipe) (разработка
+    остановлена);
+    - [SkyTube](https://github.com/SkyTubeTeam/SkyTube);
+    - [Clipous](https://github.com/lamarios/clipious).
 
 ### [iOS](#ios)
 
-Есть несколько способов установки,
-[см. все](https://github.com/ajayyy/SponsorBlock/wiki/iOS).
+> **Основная статья:**
+[SponsorBlock для iOS](https://github.com/ajayyy/SponsorBlock/wiki/iOS) (англ.)
 
-- Расширение в [Safari](https://github.com/ajayyy/SponsorBlock/wiki/Safari)
+- [Расширение в Safari](https://github.com/ajayyy/SponsorBlock/wiki/Safari) для
+мобильной версии YouTube ([m.youtube.com](https://m.youtube.com)).
 - Стороннее приложение [Yatee](https://apps.apple.com/app/yattee/id1595136629)
 - Jailbreak: [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock) в
 официальном приложении.
 
 ### [Телевизор](#tv)
 
-- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) для Android TV
-- Для [Chromecast](https://github.com/yuliskov/SmartTubeNext)
+- [SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) для Android TV и
+Chromecast
 - Для [Apple TV](https://github.com/dmunozv04/iSponsorBlockTV)
 
 ### [Прочее](#other)
 
-Ознакомиться со всеми
+Ознакомиться со всеми сторонними
 [портами](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports)
 
 ## [Конфигурация](#configuration)
 
-Официальное расширение предоставляет множество настроек.
+Официальное расширение предоставляет множество настроек. В сторонних приложениях
+конфигурация может отличаться или отсутствовать совсем.
 
 **Сегменты:**
 
@@ -147,11 +174,11 @@ SponsorBlock доверенные пользователи могут отпра
 
 ## [Краудсорсинг](#crowdsource)
 
-Чтобы расширение знало, где находятся реклама и другие сегменты, необходимо,
-чтобы кто-то отправил таймкоды. Это очень популярное расширение, на всех видео
-(за исключением самых свежих) скорее всего уже проставлены необходимые сегменты
-в правильном порядке. Согласно статистике сервера, более 13 миллионов
-пользователей отправили более 15 миллионов сегментов.
+Чтобы расширение знало, где находятся сегменты, необходимо их кому-то заранее
+отправить. Это очень популярное расширение, на всех видео (за исключением самых
+новых) скорее всего уже проставлены необходимые сегменты в правильном порядке.
+Согласно статистике сервера, более 13 миллионов пользователей отправили более 15
+миллионов сегментов.
 
 ### [Внести вклад](#contribute)
 
@@ -161,23 +188,36 @@ SponsorBlock доверенные пользователи могут отпра
 категорию и отправить. Здесь же можно посмотреть результат и ознакомиться с
 краткими инструкциями.
 
-![Скриншот, показывающий основной интерфейс отправки сегментов.](/media/sponsorblock_creating_segments.jpg)
+![Основной интерфейс отправки сегментов](/media/sponsorblock_creating_segments.jpg)
+
+Постарайтесь отмечать границы сегментов с точностью до миллисекунды, чтобы
+пропуск был максимально плавным для глаз и ушей. Используйте кнопки `,` и `.`
+для перемещения видео по кадрам, и кнопку "Предпросмотр", чтобы посмотреть
+результат.
+
+> **Совет:** Если вы не уверены в правильности сегмента, то лучше не отправлять
+его. Вы можете спросить знающих людей в чате
+[Matrix](https://matrix.to/#/#sponsor:ajay.app) или
+[Discord](https://discord.gg/SponsorBlock) (англ.).
 
 > **См. также:**
-> - [Создание сегментов](https://wiki.sponsor.ajay.app/w/Creating_Segments) (англ.)
+> - [Создание сегментов](https://wiki.sponsor.ajay.app/w/Creating_Segments)
+(англ.)
 > - [Принципы и методика](https://wiki.sponsor.ajay.app/w/Guidelines) (англ.)
-> - [Советы и рекомендации](https://wiki.sponsor.ajay.app/w/Advice_for_submitting) (англ.)
+> - [Советы и рекомендации](https://wiki.sponsor.ajay.app/w/Advice_for_submitting)
+(англ.)
 
-Помощь является почти анонимной и не требует регистрации. Тем не менее, есть
-список лидеров, кто больше внёс вклад. Своё отображаемое имя можно сменить в
-меню расширения.
+Помощь является почти анонимной и не требует регистрации. Есть список лидеров,
+кто больше внёс вклад. Своё отображаемое имя можно сменить в меню расширения.
 
 ### [Злоупотребление](#abuse)
 
 Пользователи могут отправлять некорректные сегменты намеренно или случайно. На
 самом деле, это происходит очень редко. При возможности, вы можете проголосовать
-против и исправить несоответствия. В качестве мер защиты также присутствует
-автоматическая блокировка.
+против и исправить несоответствия. В тяжёлых случаях можно пожаловаться в чат
+[Matrix](https://matrix.to/#/#sponsor:ajay.app) или
+[Discord](https://discord.gg/SponsorBlock) (англ.). В качестве мер защиты также
+присутствует автоматическая блокировка.
 
 [VIP](https://wiki.sponsor.ajay.app/w/VIP) имеют возможность модерировать
 сегменты и других пользователей. В их полномочия входят:
@@ -194,20 +234,20 @@ SponsorBlock доверенные пользователи могут отпра
 ## [Открытость](#openness)
 
 Расширение и [API](https://wiki.sponsor.ajay.app/w/API_Docs) с
-[открытым исходным кодом](https://github.com/ajayyy/SponsorBlock). Это
-позволяет интегрировать возможности SponsorBlock в
+[открытым исходным кодом](https://github.com/ajayyy/SponsorBlock). Это позволяет
+интегрировать возможности SponsorBlock в
 [другие приложения](https://github.com/ajayyy/SponsorBlock/wiki/3rd-Party-Ports).
 
 [База данных](https://sponsor.ajay.app/database) открыта и доступна всем для
 скачивания.
 
-Можно запустить [собственный сервер](https://github.com/mchangrh/sb-mirror)
-в случае отказа работы официального.
+Можно запустить [собственный сервер](https://github.com/mchangrh/sb-mirror) в
+случае отказа работы официального.
 
 ## [Исправление проблем](#troubleshooting)
 
 - [Статус сервера](https://status.sponsor.ajay.app)
-- Проблемы на [GitHub](https://github.com/ajayyy/SponsorBlock/issues)
+- Баг-трекер на [GitHub](https://github.com/ajayyy/SponsorBlock/issues)
 - Чат и поддержка в [Matrix](https://matrix.to/#/#sponsor:ajay.app) и
 [Discord](https://discord.gg/SponsorBlock) (англ.)
 - Обновления и новости в [Mastodon](https://fosstodon.org/@sponsorblock) и
