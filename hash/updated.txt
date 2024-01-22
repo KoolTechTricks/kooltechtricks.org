@@ -1,5 +1,4 @@
 winget
-dearrow
 youtube
 yt_dlp
 clearurls
@@ -8,3 +7,4 @@ browsers
 sponsorblock
 f-droid
 search_engines
+dearrow
