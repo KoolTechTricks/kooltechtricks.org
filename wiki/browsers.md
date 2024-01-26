@@ -505,6 +505,11 @@ Protection](/media/browsers_android_duckduckgo.jpg)
 куки, которая автоматически убирает галочки. Дополнительно есть функция App
 Tracking Protection, которая блокирует трекеры в установленных приложениях.
 
+В 2022 году было обнаружено, что
+[мобильный браузер DuckDuckGo не блокировал трекеры Microsoft из-за
+соглашения](https://www.bleepingcomputer.com/news/security/duckduckgo-browser-allows-microsoft-trackers-due-to-search-agreement)
+(сейчас не актуально).
+
 **Производительность (DuckDuckGo: v5.182.2, WebView: 120.0.6099.144).**
 Результат теста Speedometer: 25.4 (±0.36).
 

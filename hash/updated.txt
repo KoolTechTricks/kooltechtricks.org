@@ -3,8 +3,8 @@ youtube
 yt_dlp
 clearurls
 localsend
-browsers
 sponsorblock
 f-droid
 search_engines
 dearrow
+browsers
