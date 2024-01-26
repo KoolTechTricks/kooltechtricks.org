@@ -120,9 +120,16 @@ Privacy Browser, FOSS Browser. В целом, не рекомендуется и
 Apple. Является форком [KHTML](https://ru.wikipedia.org/wiki/KHTML) и
 [KJS](https://en.wikipedia.org/wiki/KJS).
 
-В основном используется Safari, а также на всех браузерах для iOS. Редко можно
-встретить и в других браузерах, например,
-[GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany).
+В основном используется Safari. Редко можно встретить и в других браузерах,
+например, [GNOME Web (Epiphany)](https://apps.gnome.org/Epiphany). WebKit
+поддерживает не все современные технологии и функции.
+
+Apple обязывает использование WebKit во всех браузерах на iOS. Это означает, что
+Chrome, Firefox, Brave и все остальные работают точно так же, как и Safari.
+[Начиная с марта 2024 года это ограничение будет снято в
+Евросоюзе](https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union),
+а значит появятся браузеры, использующие Blink и Gecko, как на других
+операционных системах.
 
 ## [Проверка браузеров](#browser-benchmarks)
 
