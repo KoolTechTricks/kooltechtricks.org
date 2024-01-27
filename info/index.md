@@ -48,6 +48,12 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 [Показать все](/categories/browser_extensions) (TOTAL_EXTENSIONS)
 
+### [Приложения для Android](#android-apps)
+
+- [URLCheck](/wiki/urlcheck.md)
+- [TrackerControl](/wiki/trackercontrol)
+- [F-Droid](/wiki/f-droid)
+
 ### [Программы](#software)
 
 - [VeraCrypt](/wiki/veracrypt)
@@ -56,21 +62,20 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [yt-dlp](/wiki/yt_dlp)
 - [winget](/wiki/winget)
 - [Anki](/wiki/anki)
-- [F-Droid](/wiki/f-droid)
 
 ## [Вики](#wiki)
 
 Всего страниц: TOTAL_WIKI ([показать все](/wiki))
 
-### [Недавно обновлённые](#updated)
+### [Последние обновлённые](#last-updated)
 
 UPDATED_LIST
 
-### [Недавно добавленные](#added)
+### [Последние добавленные](#last-added)
 
 ADDED_LIST
 
-### [По категориям](#categories)
+### [Категории](#categories)
 
 Всего категорий: TOTAL_CATEGORIES ([показать все](/categories))
 
