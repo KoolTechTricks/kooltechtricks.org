@@ -400,7 +400,7 @@ User Agent. Код браузера закрыт, его трудно прове
 
 > **Совет:** Вы можете найти больше информации про браузеры для Android, в том
 числе рекомендуемые настройки на
-[этом сайте](https://divestos.org/pages/browsers) (англ.).
+[сайте DivestOS](https://divestos.org/pages/browsers) (англ.).
 
 ## [Firefox для Android](#firefox-for-android)
 
@@ -463,15 +463,18 @@ User Agent. Код браузера закрыт, его трудно прове
 
 ### [Mull](#mull)
 
-Улучшенная версия [Fennec](#fennec) с повышенной конфиденциальностью. Убраны
-проприетарные библиотеки (хотя по какой-то причине они всё равно обнаруживаются
-Tracker Control). Используются настройки от
+Улучшенная и более укреплённая версия [Fennec](#fennec) от одного человека
+[Divested Computing](https://divested.dev). Убраны проприетарные
+библиотеки (хотя по какой-то причине они всё равно обнаруживаются Tracker
+Control), используются настройки от
 [arkenfox](https://github.com/arkenfox/user.js).
 
 **Производительность (v121.0.0).** Результат теста Speedometer: 13.3 (±0.14).
 
-**Скачать:** [F-Droid](https://f-droid.org/packages/us.spotco.fennec_dos)
-(обновления с задержкой)
+**Скачать:** Рекомендуется устанавливать из
+[репозитория DivestOS](https://divestos.org/apks/official/fdroid/repo), куда
+обновления поступают чаще, чем в
+[официальный репозиторий F-Droid](https://f-droid.org/packages/us.spotco.fennec_dos).
 
 ### [Iceraven](#iceraven)
 
