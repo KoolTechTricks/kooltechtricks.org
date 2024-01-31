@@ -5,6 +5,6 @@ sponsorblock
 f-droid
 search_engines
 dearrow
-browsers
 urlcheck
 trackercontrol
+browsers
