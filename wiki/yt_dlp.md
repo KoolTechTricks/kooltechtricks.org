@@ -142,6 +142,28 @@ yt-dlp предоставляет консольный интерфейс и б�
 
 ![Скриншот программы Parabolic](/media/yt_dlp_parabolic.jpg)
 
+### [ytDownloader](#ytdownloader)
+
+[ytDownloader](https://ytdn.netlify.app) — минималистичное приложение для
+скачивания видео из интернета. Является графическим интерфейсом yt-dlp на основе
+[Electron](/wiki/browsers#electron).
+
+- Windows:
+    - [Exe-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.exe)
+    - [Msi-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.msi)
+    (нет авто-обновлений и выбора папки установки)
+    - [Chocolatey](https://community.chocolatey.org/packages/ytdownloader)
+    - [winget](/wiki/winget): `aandrew-me.ytDownloader`
+- Linux:
+    - [Flathub](https://flathub.org/apps/details/me.aandrew.ytdownloader):
+    `me.aandrew.ytdownloader`
+    - [Snap](https://snapcraft.io/ytdownloader)
+    - [AppImage](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Linux.AppImage)
+    - [AUR](https://aur.archlinux.org/packages/ytdownloader-gui)
+- macOS: [Скачать](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Mac.dmg)
+
+![Скриншот программы ytDownloader](/media/yt_dlp_ytdownloader.png)
+
 ### [mpv](#mpv)
 
 [mpv](https://mpv.io) — свободный кроссплатформенный медиаплеер. В него
