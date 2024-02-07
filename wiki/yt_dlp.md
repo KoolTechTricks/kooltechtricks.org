@@ -130,17 +130,18 @@ yt-dlp предоставляет консольный интерфейс и б�
 
 ### [Parabolic](#parabolic)
 
-[Parabolic](https://github.com/NickvisionApps/Parabolic) — графический
-интерфейс yt-dlp на основе GTK.
+[Parabolic](https://github.com/NickvisionApps/Parabolic) — простое и
+функциональное приложение для скачивания видео. Является нативным графическим
+интерфейсом yt-dlp.
 
-- Windows: скачайте установщик (`NickvisionTubeConverterSetup.exe`) с
-[GitHub](https://github.com/NickvisionApps/Parabolic/releases)
-- Linux: скачайте приложение из
-[Flathub](https://flathub.org/apps/details/org.nickvision.tubeconverter),
-[Snap Store](https://snapcraft.io/tube-converter) или
-[AUR](https://aur.archlinux.org/packages/parabolic)
+- Windows: Скачайте установщик (`NickvisionTubeConverterSetup.exe`) с
+[GitHub](https://github.com/NickvisionApps/Parabolic/releases/latest)
+- Linux:
+    - [Flathub](https://flathub.org/apps/details/org.nickvision.tubeconverter)
+    - [Snap Store](https://snapcraft.io/tube-converter)
+    - [AUR](https://aur.archlinux.org/packages/parabolic)
 
-![Скриншот программы Parabolic](/media/yt_dlp_parabolic.jpg)
+![Скриншот программы Parabolic](/media/yt_dlp_parabolic.png)
 
 ### [ytDownloader](#ytdownloader)
 
