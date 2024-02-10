@@ -47,7 +47,8 @@ RSS-лента является файлом в формате XML, которы
 иногда хорошо спрятана. Некоторые приложения-агрегаторы умеют находить эту ленту
 по ссылке на сайт.
 
-> **Совет:** Установите расширения для
+> [!tip]
+Установите расширения для
 [Firefox](https://addons.mozilla.org/firefox/addon/awesome-rss),
 [Chromium](https://chrome.google.com/webstore/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd)
 или [Safari](https://apps.apple.com/us/app/rss-button-for-safari/id1437501942?mt=12),

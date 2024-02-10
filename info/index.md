@@ -37,7 +37,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [Поисковики](/wiki/search_engines)
 - [RSS](/wiki/rss.html)
 
-[Показать все](/categories/compilations) (TOTAL_COMPILATIONS)
+[Показать все](/categories/compilations) (TOTAL_IN_COMPILATIONS)
 
 ### [Расширения для браузера](#browser-extensions)
 
@@ -46,13 +46,15 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [DeArrow](/wiki/dearrow)
 - [SponsorBlock](/wiki/sponsorblock)
 
-[Показать все](/categories/browser_extensions) (TOTAL_EXTENSIONS)
+[Показать все](/categories/browser_extensions) (TOTAL_IN_BROWSER_EXTENSIONS)
 
 ### [Приложения для Android](#android-apps)
 
 - [URLCheck](/wiki/urlcheck.md)
 - [TrackerControl](/wiki/trackercontrol)
 - [F-Droid](/wiki/f-droid)
+
+[Показать все](/categories/android) (TOTAL_IN_ANDROID)
 
 ### [Программы](#software)
 
@@ -65,18 +67,18 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ## [Вики](#wiki)
 
-Всего страниц: TOTAL_WIKI ([показать все](/wiki))
+Всего страниц: TOTAL_IN_WIKI ([показать все](/wiki))
 
 ### [Последние обновлённые](#last-updated)
 
-UPDATED_LIST
+MODIFIED_LIST
 
 ### [Последние добавленные](#last-added)
 
-ADDED_LIST
+CREATED_LIST
 
 ### [Категории](#categories)
 
-Всего категорий: TOTAL_CATEGORIES ([показать все](/categories))
+Всего категорий: TOTAL_IN_CATEGORIES ([показать все](/categories))
 
 CATEGORIES_LIST

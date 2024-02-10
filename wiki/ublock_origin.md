@@ -16,8 +16,8 @@
 
 ![Скриншот меню uBlock Origin](/media/ublock_origin.jpg)
 
-> **Внимание:** **uBlock Origin** никак не связан с сайтом `ublock.org` и
-расширением uBlock.
+> [!warning]
+**uBlock Origin** никак не связан с сайтом `ublock.org` и расширением uBlock.
 
 ## [Применение](#utilization)
 
@@ -56,7 +56,8 @@ uBlock Origin также позволяет заблокировать любо�
 - [Opera](https://addons.opera.com/extensions/details/ublock)
 - [Thunderbird](https://addons.thunderbird.net/thunderbird/addon/ublock-origin)
 
-> **Внимание:** В июне 2024 года
+> [!warning]
+В июне 2024 года
 [в Google Chrome планируется отключить расширения на Manifest V2](https://developer.chrome.com/blog/resuming-the-transition-to-mv3).
 Вместе с этим uBlock Origin больше нельзя будет пользоваться. Вы можете
 использовать менее эффективный uBlock Origin Lite, основанный на Manifest V3 или
@@ -75,7 +76,7 @@ Manifest V3, как следствие, использует меньше раз
 
 ## [Использование](#usage)
 
-> **См. также:**
+> **Смотрите также:**
 [официальная документация](https://github.com/gorhill/uBlock/wiki) (англ.)
 
 ### [Меню](#menu)
@@ -147,7 +148,7 @@ Manifest V3, как следствие, использует меньше раз
 [баг-трекер фильтров](https://github.com/uBlockOrigin/uAssets/issues?q=is%3Aissue)
 перед тем, как создавать новый отчёт.
 
-## [См. также](#see-also)
+## [Смотрите также](#see-also)
 
 - Википедия — [uBlock Origin](https://ru.wikipedia.org/wiki/UBlock_Origin)
 - Сообщество на Reddit — [r/uBlockOrigin](https://www.reddit.com/r/uBlockOrigin)

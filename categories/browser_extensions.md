@@ -20,7 +20,8 @@ Opera, Vivaldi, Яндекс. На Android устанавливать расши
 на странице `chrome://extensions` (ссылка может отличаться в зависимости от
 браузера), после чего появится возможность загрузить расширение из папки.
 
-> **Внимание:** В июне 2024 года
+> [!warning]
+В июне 2024 года
 [в Google Chrome планируется отключить расширения на Manifest V2.](https://developer.chrome.com/blog/resuming-the-transition-to-mv3)
 Многие блокировщики контента (например, [uBlock Origin](/wiki/ublock_origin))
 утратят свою эффективность. Если вы хотите продолжать пользоваться такими
@@ -49,7 +50,8 @@ Iceraven.
 
 ### [WebKit (Safari)](#webkit-safari)
 
-> **Внимание:** Этот раздел необходимо дополнить информацией.
+> [!warning]
+Этот раздел необходимо дополнить информацией.
 [Узнайте как помочь](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
 
 Относятся Safari и GNOME Web (Epiphany).
