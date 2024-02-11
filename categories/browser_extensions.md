@@ -5,6 +5,8 @@
 
 ## [Виды браузеров](#browser-types)
 
+> **Основная статья:** [Браузеры#Движки](/wiki/browsers#engines)
+
 ### [Chromium](#chromium)
 
 Относится большинство браузеров на ПК: Google Chrome, Microsoft Edge, Brave,
@@ -49,10 +51,6 @@ Iceraven.
 пункта "Дополнения".
 
 ### [WebKit (Safari)](#webkit-safari)
-
-> [!warning]
-Этот раздел необходимо дополнить информацией.
-[Узнайте как помочь](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
 
 Относятся Safari и GNOME Web (Epiphany).
 
