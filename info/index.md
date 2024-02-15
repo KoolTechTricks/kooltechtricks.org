@@ -50,7 +50,8 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ### [Приложения для Android](#android-apps)
 
-- [URLCheck](/wiki/urlcheck.md)
+- [URLCheck](/wiki/urlcheck)
+- [Obtainium](/wiki/obtainium)
 - [TrackerControl](/wiki/trackercontrol)
 - [F-Droid](/wiki/f-droid)
 
