@@ -15,9 +15,9 @@
 
 ## Лицензия
 
-Все тексты и изображения доступны под лицензией
-[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0).
-Эту же лицензию использует [Википедия](https://www.wikipedia.org).
+Все тексты и изображения доступны по лицензии
+[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
+([Creative Commons «С указанием авторства — С сохранением условий»](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
 
 Некоторые изображения в этом репозитории были взяты из сторонних источников. К
 ним не применяется лицензия этого репозитория:
