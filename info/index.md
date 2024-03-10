@@ -27,7 +27,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 # [Исследовать](#discover)
 
-## [Выбор редакции](#editors-choice)
+## [Избранное](#featured)
 
 ### [Подборки](#compilations)
 
