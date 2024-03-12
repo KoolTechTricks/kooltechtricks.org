@@ -158,24 +158,36 @@ Chrome, Firefox, Brave и все остальные работают точно 
 - **Скачать:**
     - [Официальный сайт](https://www.mozilla.org/firefox/new) (авто-обновления)
     - Windows [winget](/wiki/winget): `Mozilla.Firefox`
+    - Linux [Flathub](https://flathub.org/apps/org.mozilla.firefox):
+    `org.mozilla.firefox` (могут быть ограничения)
 
 Стандартный браузер, подойдёт многим для повседневного использования.
 
-**Функции.** Может не хватать некоторых функций, которые есть в
-Chromium-подобных браузерах: группировка вкладок, веб-приложения (Progressive
-Web Apps), перевод страниц. Некоторые из них можно полностью или частично
-вернуть при помощи дополнений:
+**Функции.** В целом опыт использования очень похож на Google Chrome и Microsoft
+Edge, но не хватает некоторых функций. Их можно полностью или частично добавить
+при помощи расширений.
 
-- [Progressive Web Apps for Firefox](https://addons.mozilla.org/firefox/addon/pwas-for-firefox)
-- [Tree Style Tab (Древовидный стиль вкладок)](https://addons.mozilla.org/firefox/addon/tree-style-tab)
-- [Firefox Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers)
-— официальное расширение, которое позволяет использовать разные аккаунты на
-одних сайтах в одном браузере.
-- [Linguist](https://addons.mozilla.org/addon/linguist-translator) — переводчик,
-который может использовать технологию [Bergamot](https://browser.mt), не
-требующую подключения к интернету. В Firefox уже имеется встроенный
-оффлайн-переводчик (`about:translations`), но перевод с английского языка на
-русский пока не поддерживается.
+**Веб-приложения (Progressive Web Apps)** официально не поддерживаются, но с
+этой работой хорошо справляется
+[дополнение](https://addons.mozilla.org/firefox/addon/pwas-for-firefox).
+
+**Группировка вкладок**
+[находится в разработке](https://news.itsfoss.com/mozilla-firefox-tab-grouping),
+но пока можно попробовать эти расширения:
+[Simple Tab Groups](https://addons.mozilla.org/firefox/addon/simple-tab-groups),
+[Sidebery](https://addons.mozilla.org/firefox/addon/sidebery),
+[Tree Style Tab (Древовидный стиль вкладок)](https://addons.mozilla.org/firefox/addon/tree-style-tab).
+Дополнительно можно выделить официальное расширение
+[Firefox Multi-Account Containers](https://addons.mozilla.org/firefox/addon/multi-account-containers),
+которое позволяет использовать разные аккаунты на одних сайтах в одном браузере.
+
+**Перевод страниц** уже встроен в браузер (`about:translations`). Он использует
+технологию [Bergamot](https://browser.mt), не требующую подключения к интернету.
+На данный момент перевод с английского языка на русский пока не поддерживается,
+но вы можете установить расширение
+[Linguist](https://addons.mozilla.org/addon/linguist-translator), которое
+позволяет переводить страницы на множество языков, используя различные движки и
+сервисы.
 
 **Совместимость.** Проблемы с отображением страниц случаются очень редко и
 только на каких-то особенных сайтах. О них необходимо сообщать либо через
