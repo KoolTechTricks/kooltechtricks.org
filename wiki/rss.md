@@ -199,6 +199,21 @@ Thunderbird может быть не только [почтовым клиент
 
 ![Скриншот Inoreader](/media/rss_inoreader.jpg)
 
+## [Omnivore](#omnivore)
+
+[Omnivore](https://omnivore.app) — приложение для «чтения на потом», которое
+также может использоваться как агрегатор RSS. Оно больше подходит для сохранения
+статей, чтобы почитать их позже, что также может быть полезно. Есть приложения
+для мобильных устройств и расширения для браузеров. Имеется
+[API](https://docs.omnivore.app/integrations/api.html) и
+[интеграции со сторонними приложениями](https://docs.omnivore.app/integrations/api.html#sample-apps).
+
+Omnivore бесплатен и полностью с
+[открытым исходным кодом](https://github.com/omnivore-app/omnivore) — можно
+хостить свой экземпляр приложения.
+
+![Веб-интерфейс приложения Omnivore](/media/rss_omnivore.webp)
+
 ## [FreshRSS](#freshrss)
 
 [FreshRSS](https://freshrss.org) — сервис с
