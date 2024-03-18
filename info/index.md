@@ -24,6 +24,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [О проекте](/about)
 - [RSS-лента](/feed.atom)
 - [Telegram-канал](https://t.me/KoolTechTricks)
+- [Mastodon](https://lor.sh/@KoolTechTricks)
 
 # [Исследовать](#discover)
 
