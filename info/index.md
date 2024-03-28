@@ -68,6 +68,10 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [winget](/wiki/winget)
 - [Anki](/wiki/anki)
 
+### [Linux](#linux)
+
+- [Arch Linux](/wiki/arch_linux)
+
 ## [Вики](#wiki)
 
 Всего страниц: TOTAL_IN_WIKI ([показать все](/wiki))
