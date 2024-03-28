@@ -659,7 +659,8 @@ sudo btrfs subvolume list /  # /home
 
 - `ntfs-3g`, `exfat-utils` — Управление дополнительными файловыми системами
 - `unrar` — Разархивация RAR
-- `cups` — Поддержка печати
+- `cups` — Служба печати [CUPS](https://wiki.archlinux.org/title/CUPS_(Русский))
+(`systemctl enable cups.service && systemctl start cups.service`)
 - `power-profiles-daemon` — Профили энергопотребления для ноутбука
 - `aspell-en`, `aspell-ru` — Проверка орфографии
 - `noto-fonts-emoji` — Эмодзи
