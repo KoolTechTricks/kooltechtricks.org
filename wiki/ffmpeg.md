@@ -123,7 +123,9 @@ FFmpeg также может использоваться как библиот�
 
 ### [Конвертация](#converting)
 
-`ffmpeg -i input.mp4 output.avi`
+```sh
+ffmpeg -i input.mp4 output.avi
+```
 
 Поддерживаются все популярные форматы: mp4, avi, mov, mkv, mp3, wav, ogg, webm,
 webp, png, jpeg, gif. Полный список можно получить через `ffmpeg -formats` и
@@ -131,7 +133,9 @@ webp, png, jpeg, gif. Полный список можно получить че
 
 ### [Стерео в моно](#stereo-to-mono)
 
-`ffmpeg -i input.mp3 -ac 1 output.mp3`
+```sh
+ffmpeg -i input.mp3 -ac 1 output.mp3
+```
 
 [Источник](https://stackoverflow.com/questions/39487643/how-to-convert-stereo-sound-to-mono-with-ffmpeg#51494497)
 
@@ -139,13 +143,17 @@ webp, png, jpeg, gif. Полный список можно получить че
 
 Указать время начала и длительность выходного фрагмента соответственно.
 
-`ffmpeg -i input.mp4 -ss 00:00:01.123 -t 00:01:02.321 -async 1 output.mp4`
+```sh
+ffmpeg -i input.mp4 -ss 00:00:01.123 -t 00:01:02.321 -async 1 output.mp4
+```
 
 [Источник](https://stackoverflow.com/questions/18444194/cutting-the-videos-based-on-start-and-end-time-using-ffmpeg#18449609)
 
 ### [Вставить аудио](#insert-audio)
 
-`ffmpeg -i input.mp4 -i audio.mp3 -c copy -map 0:v:0 -map 1:a:0 output.mp4`
+```sh
+ffmpeg -i input.mp4 -i audio.mp3 -c copy -map 0:v:0 -map 1:a:0 output.mp4
+```
 
 [Источник](https://superuser.com/questions/590201/add-audio-to-video-using-ffmpeg#590210)
 
@@ -153,7 +161,9 @@ webp, png, jpeg, gif. Полный список можно получить че
 
 Здесь необходимо знать точки начала и конца с точностью до пикселя.
 
-`ffmpeg -i input.mp4 -filter:v "crop=80:60:200:100" -c:a copy output.mp4`
+```sh
+ffmpeg -i input.mp4 -filter:v "crop=80:60:200:100" -c:a copy output.mp4
+```
 
 ![Демонстрация значения чисел при
 кадрировании, источник:
@@ -166,7 +176,9 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 Значение громкости можно указывать в процентах (0.5 — в два раза тише) или в
 децибелах (-5dB — уменьшить на 5 децибел).
 
-`ffmpeg -i input.mp3 -filter:a "volume=0.5" output.mp3`
+```sh
+ffmpeg -i input.mp3 -filter:a "volume=0.5" output.mp3
+```
 
 [Источник](https://trac.ffmpeg.org/wiki/AudioVolume#Changingvolume)
 
@@ -174,7 +186,9 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 Если вам нужно убрать звук, то можно удалить аудио-поток.
 
-`ffmpeg -i input.mp3 -c copy -an output.mp3`
+```sh
+ffmpeg -i input.mp3 -c copy -an output.mp3
+```
 
 [Источник](https://superuser.com/questions/268985/remove-audio-from-video-file-with-ffmpeg#268986)
 
@@ -182,19 +196,25 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 Это поможет сократить размер файла.
 
-`ffmpeg -i input.mp4 -b:v 64k -bufsize 64k output.mp4`
+```sh
+ffmpeg -i input.mp4 -b:v 64k -bufsize 64k output.mp4
+```
 
 [Источник](https://www.ffmpeg.org/ffmpeg-all.html#Description)
 
 ### [Ограничение кадров в секунду](#limit-frames-per-second)
 
-`ffmpeg -i input.mp4 -r 24 output.mp4`
+```sh
+ffmpeg -i input.mp4 -r 24 output.mp4
+```
 
 [Источник](https://www.ffmpeg.org/ffmpeg-all.html#Description)
 
 ### [Изменить разрешение](#change-resolution)
 
-`ffmpeg -i input.mp4 -vf scale=480:320,setdar=4:3 output.mp4`
+```sh
+ffmpeg -i input.mp4 -vf scale=480:320,setdar=4:3 output.mp4
+```
 
 - `scale` — разрешение (640x360, 1280x720, 3840x2160)
 - `setdar` — соотношение сторон (16:9, 1:1)
