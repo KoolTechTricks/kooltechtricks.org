@@ -569,6 +569,7 @@ sudo ufw allow 1714:1764/tcp
 - [Устранение неполадок в системе](https://wiki.archlinux.org/title/General_troubleshooting_(Русский))
 - [Улучшение производительности](https://wiki.archlinux.org/title/Improving_performance_(Русский))
 - [Безопасность](https://wiki.archlinux.org/title/Security_(Русский))
+- [Расширения для браузеров](https://wiki.archlinux.org/title/Browser_extensions_(Русский))
 - [Ноутбук](https://wiki.archlinux.org/title/Laptop) (англ.)
 - [Игры](https://wiki.archlinux.org/title/Gaming) (англ.)
 - [Исправление проблем в определённых играх](https://wiki.archlinux.org/title/Steam/Game-specific_troubleshooting) (англ.)
