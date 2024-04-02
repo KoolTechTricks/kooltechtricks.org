@@ -463,9 +463,6 @@ reboot
 - `xdg-desktop-portal-gtk` — корректное отображение программ из Flatpak
 - `flatpak-kcm` — Меню прав приложений в параметрах системы
 - `print-manager` — Управление принтерами
-- Языковые серверы для Kate: `python-lsp-server`, `rust-analyzer`,
-`vscode-html-languageserver`, `vscode-css-languageserver`,
-`typescript-language-server`, `bash-language-server`, `shellcheck`
 - `markdownpart` — Рендер Markdown в Kate
 - `qt6-quick3d` — Эффект куба
 
@@ -679,6 +676,8 @@ sudo btrfs subvolume list /  # /home
 - `lshw` — Информация об оборудовании
 - `flatpak` — Пакетный менеджер [Flatpak](https://wiki.archlinux.org/title/Flatpak)
 - `git` — Система контроля версий для работы с исходным кодом программ
+- [Языковые серверы](https://wiki.archlinux.org/title/Language_Server_Protocol)
+для Kate, Neovim
 
 Вы можете использовать Flatpak для установки графических программ: браузер,
 офис, утилиты, мессенджеры — все они доступны во [Flathub](https://flathub.org).
