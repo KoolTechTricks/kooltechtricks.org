@@ -548,7 +548,8 @@ User Agent. Код браузера закрыт, его трудно прове
 [Divested Computing](https://divested.dev). Убраны проприетарные
 библиотеки (хотя по какой-то причине они всё равно обнаруживаются Tracker
 Control), используются настройки от
-[arkenfox](https://github.com/arkenfox/user.js).
+[arkenfox](https://github.com/arkenfox/user.js). Получает обновления до новой
+версии Firefox крайне быстро.
 
 **Производительность (v121.0.0).** Результат теста Speedometer 2.0: 13.3
 (±0.14).
