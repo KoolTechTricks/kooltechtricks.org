@@ -201,6 +201,14 @@ https://video.stackexchange.com/a/4571](https://i.stack.imgur.com/oZXFK.jpg)
 
 [Источник](https://stackoverflow.com/questions/34391499/change-video-resolution-ffmpeg#45007383)
 
+### [Уменьшить размер видео](#reduce-video-size)
+
+```sh
+ffmpeg -i input.mp4 -crf 35 output.mp4
+```
+
+[Источник](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg#38380)
+
 ## [Сторонние инструменты](#third-party-applications)
 
 ### [ffmpeg.app](#ffmpegapp)
