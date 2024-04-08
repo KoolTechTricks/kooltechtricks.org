@@ -64,7 +64,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [VeraCrypt](/wiki/veracrypt)
 - [scrcpy](/wiki/scrcpy)
 - [Syncthing](/wiki/syncthing)
-- [yt-dlp](/wiki/yt_dlp)
+- [yt-dlp](/wiki/yt-dlp)
 - [winget](/wiki/winget)
 - [Anki](/wiki/anki)
 
