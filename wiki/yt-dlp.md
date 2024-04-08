@@ -165,6 +165,41 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--sponsorblock-mark КАТЕГОРИИ` — Пометить сегменты.
 - `--sponsorblock-remove КАТЕГОРИИ` — Удалить сегменты.
 
+## [Плагины](#plugins)
+
+> **Основная статья:**
+[yt-dlp — Плагины](https://github.com/yt-dlp/yt-dlp#plugins) (англ.)
+
+Плагины позволяют дополнить функциональность yt-dlp.
+
+- **Экстракторы (extractor)** активируются всегда при обнаружении совместимой
+ссылки.
+- **Постпроцессоры (postprocessor)** вызываются параметром
+`--use-postprocessor НАЗВАНИЕ`.
+
+> [!caution]
+Все плагины импортируются даже если их не использовать. Не производится никаких
+проверок кода плагинов. Используйте их на свой страх и риск и только тогда,
+когда вы доверяете источнику.
+
+Папку с плагином нужно поместить в специальную директорию. Смотрите
+[руководство по установке плагинов](https://github.com/yt-dlp/yt-dlp#installing-plugins)
+(англ.).
+
+> **Смотрите также:**
+[Список плагинов](https://github.com/yt-dlp/yt-dlp/wiki/Plugins) (англ.)
+
+### [DeArrow](#dearrow)
+
+[DeArrow](/wiki/dearrow) — расширение и API для замены названий и обложек видео
+на менее вызывающие, используя краудсорсинг.
+
+[Ссылка на плагин](https://github.com/QuantumWarpCode/yt-dlp-dearrow)
+
+- `--use-postprocessor DeArrow:when=pre_process` — Активировать плагин.
+- `--use-postprocessor "DeArrow:when=pre_process;SelectTitle=True"` — Выбрать
+название среди доступных.
+
 ## [Сторонние приложения](#third-party-apps)
 
 ### [Parabolic](#parabolic)

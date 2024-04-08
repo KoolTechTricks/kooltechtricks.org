@@ -104,6 +104,7 @@
         "PARTUUID",
         "paru",
         "PKGBUILD",
+        "postprocessor",
         "Redistributable",
         "rootflags",
         "rootpw",
