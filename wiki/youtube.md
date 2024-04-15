@@ -210,7 +210,7 @@ YouTube.](/media/unhook.jpg)
 
 ### [yt-dlp](#yt-dlp)
 
-> **Основная статья:** [yt-dlp](/wiki/yt_dlp)
+> **Основная статья:** [yt-dlp](/wiki/yt-dlp)
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) — универсальная программа для
 скачивания видео со многих популярных сайтов: YouTube, TikTok, X (Twitter),
