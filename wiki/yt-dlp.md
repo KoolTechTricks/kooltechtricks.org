@@ -6,9 +6,8 @@
 [другие](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md). Имеет
 гибкий консольный интерфейс, возможно скачивать плейлисты и прямые эфиры.
 
-С [открытым исходным кодом](https://github.com/yt-dlp/yt-dlp), активно
-поддерживается сообществом. Заменяет любые сомнительные программы и расширения
-для скачивания видео. Кроме того, является
+С открытым исходным кодом, активно поддерживается сообществом. Заменяет любые
+сомнительные программы и расширения для скачивания видео. Кроме того, является
 [библиотекой Python](https://pypi.org/project/yt-dlp), что позволяет
 интегрировать себя в [сторонние приложения](#third-party-apps).
 
@@ -19,7 +18,7 @@ yt-dlp является продолжением (форком) youtube-dl. yout
 > Подобный способ скачивания аудио и видео из интернета может нарушать
 авторские права и условия пользования сайтов. Используйте на свой страх и риск.
 
-![Скачивание видео при помощи консольного интерфейса yt-dlp](/media/yt_dlp.jpg)
+![Скачивание видео при помощи консольного интерфейса yt-dlp](/media/yt-dlp.webp)
 
 ## [Установка](#installation)
 
@@ -31,10 +30,14 @@ yt-dlp является продолжением (форком) youtube-dl. yout
 [Официальное руководство по установке](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
 (англ.)
 
+> [!note]
+> Если вам не удобно пользоваться консолью, установите вместо этого
+какое-нибудь [стороннее приложение](#third-party-apps).
+
 ### [Windows](#windows)
 
 Вы можете скачать yt-dlp через [winget](/wiki/winget), чтобы сразу же
-(после выхода из учётной записи), использовать его в командной строке.
+(после выхода из сеанса), использовать его в командной строке.
 
 ```powershell
 winget install yt-dlp
@@ -45,15 +48,15 @@ winget upgrade yt-dlp  # Обновление
 
 Иначе можно скачать
 [исполняемый файл](https://github.com/yt-dlp/yt-dlp/releases/latest)
-(yt-dlp.exe), но для использования его в командной строке из любого места
-необходимо [добавить его в переменную среды Path](/wiki/cli#path).
+(yt-dlp.exe). Для использования в командной строке из любого места необходимо
+[добавить его в переменную среды Path](/wiki/cli#path).
 
 ### [Linux](#linux)
 
 Вы можете как скачать исполняемый файл, так и воспользоваться пакетными
 менеджерами:
 
-- Arch и все производные: `sudo pacman -S yt-dlp`
+- Arch и все производные (EndeavourOS, Manjaro): `sudo pacman -S yt-dlp`
 - Debian и все производные (Ubuntu, Mint и другие):
     1. Добавьте сторонний репозиторий:
     `sudo add-apt-repository ppa:tomtomtom/yt-dlp`
@@ -94,12 +97,12 @@ yt-dlp имеет только [консольный интерфейс](/wiki/c
 yt-dlp [параметры] <ссылка(и...)>
 ```
 
-Если вам неудобно пользоваться терминалом, воспользуйтесь
-[сторонними приложениями](#third-party-apps), которые предоставляют графический
+Если вам неудобно пользоваться терминалом, попробуйте
+[сторонние приложения](#third-party-apps), которые предоставляют графический
 интерфейс.
 
-Если вы хотите использовать yt-dlp как библиотеку Python для написания своей
-программы, изучите
+Если вы хотите использовать yt-dlp как библиотеку Python для своей программы,
+изучите
 [официальную документацию](https://github.com/yt-dlp/yt-dlp#embedding-yt-dlp)
 (англ.).
 
@@ -155,9 +158,9 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--live-from-start` — Скачивать прямую трансляцию с начала.
 - `--no-live-from-start` — Скачивать прямую трансляцию с текущего момента.
 
-#### [Sponsorblock](#sponsorblock)
+#### [SponsorBlock](#sponsorblock)
 
-Интеграция со [Sponsorblock](/wiki/sponsorblock) позволяет удалять ненужные
+Интеграция со [SponsorBlock](/wiki/sponsorblock) позволяет удалять ненужные
 сегменты: напоминание о подписке, анимация перехода, титры, самореклама,
 спонсоры (`sponsor`, `intro`, `outro`, `selfpromo`, `preview`, `interaction`,
 `all`, `default`).
@@ -191,8 +194,8 @@ yt-dlp [параметры] <ссылка(и...)>
 
 ### [DeArrow](#dearrow)
 
-[DeArrow](/wiki/dearrow) — расширение и API для замены названий и обложек видео
-на менее вызывающие, используя краудсорсинг.
+[DeArrow](/wiki/dearrow) — расширение для браузера и API для замены названий и
+обложек видео на менее вызывающие, используя краудсорсинг.
 
 [Ссылка на плагин](https://github.com/QuantumWarpCode/yt-dlp-dearrow)
 
@@ -202,57 +205,144 @@ yt-dlp [параметры] <ссылка(и...)>
 
 ## [Сторонние приложения](#third-party-apps)
 
+> **Смотрите также:**
+[Список графических интерфейсов для yt-dlp](https://old.reddit.com/r/youtubedl/wiki/info-guis)
+(англ.)
+
 ### [Parabolic](#parabolic)
 
-[Parabolic](https://github.com/NickvisionApps/Parabolic) — простое и
-функциональное приложение для скачивания видео. Является нативным графическим
-интерфейсом yt-dlp.
+![Parabolic](/media/yt-dlp_parabolic.webp)
 
-- Windows: Скачайте установщик (`NickvisionTubeConverterSetup.exe`) с
-[GitHub](https://github.com/NickvisionApps/Parabolic/releases/latest)
-- Linux:
-    - [Flathub](https://flathub.org/apps/details/org.nickvision.tubeconverter)
-    - [Snap Store](https://snapcraft.io/tube-converter)
-    - [AUR](https://aur.archlinux.org/packages/parabolic)
+- **Платформа:** Windows, Linux
+- **Технологии:** WinUI (Windows), GTK (Linux),
+[Открытый исходный код](https://github.com/NickvisionApps/Parabolic)
+- **Скачать:**
+    - Windows:
+        - [GitHub](https://github.com/NickvisionApps/Parabolic/releases/latest)
+        (`NickvisionTubeConverterSetup.exe`)
+    - Linux:
+        - [Flathub](https://flathub.org/apps/org.nickvision.tubeconverter)
+        - [Snap Store](https://snapcraft.io/tube-converter)
+        - [AUR](https://aur.archlinux.org/packages/parabolic)
 
-![Скриншот программы Parabolic](/media/yt_dlp_parabolic.png)
+Простое и функциональное приложение для скачивания видео. Является нативным
+графическим интерфейсом yt-dlp.
+
+### [yt-dlg](#yt-dlg)
+
+![yt-dlg](/media/yt-dlp_yt-dlg.webp)
+
+- **Платформа:** Windows, Linux, macOS
+- **Технологии:** Python (wxPython), Форк youtube-dl-gui,
+[Открытый исходный код](https://github.com/oleksis/youtube-dl-gui)
+- **Скачать:**
+    - [GitHub](https://github.com/oleksis/youtube-dl-gui/releases/latest)
+    - Windows:
+        - [winget](/wiki/winget) `winget install -e --id yt-dlg.yt-dlg`
+        - [Microsoft Store](https://apps.microsoft.com/store/detail/ytdlg/XP9CCFSWS911F5)
+    - Linux [Snap Store](https://snapcraft.io/yt-dlg)
+    - [Инструкция](https://github.com/oleksis/youtube-dl-gui#installation)
+    (англ.)
+
+Кросс-платформенный графический интерфейс yt-dlp. Является продолжением
+youtube-dl-gui, который перестал разрабатываться.
+
+### [Tartube](#tartube)
+
+![Tartube](/media/yt-dlp_tartube.webp)
+
+- **Платформа:** Windows, Linux
+- **Технологии:** Python, GTK 3, основан на youtube-dl-gui,
+[Открытый исходный код](https://github.com/axcore/tartube)
+- **Скачать:**
+    - [GitHub](https://github.com/axcore/tartube/releases/latest)
+    - [SourceForge](https://sourceforge.net/projects/tartube)
+    - [Инструкция](https://github.com/axcore/tartube#3-downloads)
+    (англ.)
+
+Графический интерфейс для youtube-dl, частично основанный на youtube-dl-gui.
+
+Это самое функциональное приложение. Можно добавлять каналы в базу данных, а
+затем скачивать новые видео в пару нажатий. Есть пошаговое руководство
+использования. Классический режим эмулирует интерфейс оригинального
+youtube-dl-gui.
+
+### [Open Video Downloader](#open-video-downloader)
+
+![Open Video Downloader](/media/yt-dlp_open_video_downloader.webp)
+
+- **Платформа:** Windows, Linux, macOS
+- **Технологии:** [Electron](/wiki/browsers#electron),
+[Открытый исходный код](https://github.com/StefanLobbenmeier/youtube-dl-gui)
+- **Скачать:**
+    - [GitHub](https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/latest)
+
+Кросс-платформенный графический интерфейс для yt-dlp, построенный на
+веб-технологиях Electron (Chromium).
 
 ### [ytDownloader](#ytdownloader)
 
+![ytDownloader](/media/yt-dlp_ytdownloader.webp)
+
+- **Платформа:** Windows, Linux, macOS
+- **Технологии:** [Electron](/wiki/browsers#electron),
+[Открытый исходный код](https://github.com/aandrew-me/ytdownloader)
+- **Скачать:**
+    - Windows:
+        - [Exe-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.exe)
+        - [Msi-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.msi)
+        (нет авто-обновлений и выбора папки установки)
+        - [Chocolatey](https://community.chocolatey.org/packages/ytdownloader)
+        - [winget](/wiki/winget): `aandrew-me.ytDownloader`
+    - Linux:
+        - [Flathub](https://flathub.org/apps/details/me.aandrew.ytdownloader):
+        `me.aandrew.ytdownloader`
+        - [Snap](https://snapcraft.io/ytdownloader)
+        - [AppImage](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Linux.AppImage)
+        - [AUR](https://aur.archlinux.org/packages/ytdownloader-gui)
+    - [macOS](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Mac.dmg)
+
 [ytDownloader](https://ytdn.netlify.app) — минималистичное приложение для
-скачивания видео из интернета. Является графическим интерфейсом yt-dlp на основе
-[Electron](/wiki/browsers#electron).
+скачивания видео из интернета. Является графическим интерфейсом yt-dlp,
+построенный на веб-технологиях [Electron](/wiki/browsers#electron). Доступно
+множество вариантов скачивания.
 
-- Windows:
-    - [Exe-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.exe)
-    - [Msi-установщик](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Win.msi)
-    (нет авто-обновлений и выбора папки установки)
-    - [Chocolatey](https://community.chocolatey.org/packages/ytdownloader)
-    - [winget](/wiki/winget): `aandrew-me.ytDownloader`
-- Linux:
-    - [Flathub](https://flathub.org/apps/details/me.aandrew.ytdownloader):
-    `me.aandrew.ytdownloader`
-    - [Snap](https://snapcraft.io/ytdownloader)
-    - [AppImage](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Linux.AppImage)
-    - [AUR](https://aur.archlinux.org/packages/ytdownloader-gui)
-- macOS: [Скачать](https://github.com/aandrew-me/ytDownloader/releases/latest/download/YTDownloader_Mac.dmg)
+### [Seal](#seal)
 
-![Скриншот программы ytDownloader](/media/yt_dlp_ytdownloader.png)
+![Seal](/media/yt-dlp_seal.webp)
+
+- **Платформа:** Android
+- **Технологии:** Kotlin,
+[Открытый исходный код](https://github.com/JunkFood02/Seal)
+- **Скачать:**
+    - [GitHub](https://github.com/JunkFood02/Seal/releases/latest)
+    - [F-Droid](https://f-droid.org/packages/com.junkfood.seal)
+
+Загрузчик видео и аудио файлов на Android. Использует yt-dlp для скачивания.
 
 ### [mpv](#mpv)
+
+![mpv](/media/yt-dlp_mpv.webp)
+
+![Haruna](/media/yt-dlp_haruna.webp)
+
+- **Платформа:** Windows, Linux, macOS
+- **Технологии:** C, [Открытый исходный код](https://github.com/mpv-player/mpv)
+- **Скачать:**
+    - [Инструкция](https://mpv.io/installation) (англ.)
+- **Медиаплееры на основе mpv:**
+    - [SMPlayer](https://www.smplayer.info) (Qt)
+    - [Haruna Media Player](https://haruna.kde.org) (Qt)
+    - [Celluloid](https://celluloid-player.github.io) (GTK)
+    - [Baka MPlayer](https://github.com/u8sand/Baka-MPlayer) (Qt)
+    - [mpv-android](https://github.com/mpv-android/mpv-android)
+    - [Outplayer](https://apps.apple.com/app/outplayer/id1449923287) (iOS)
 
 [mpv](https://mpv.io) — свободный кроссплатформенный медиаплеер. В него
 интегрирован yt-dlp, а значит можно проигрывать не только локальные файлы, но и
 видео из интернета.
 
-mpv также используется в качестве бек-энда для многих других медиаплееров:
-
-- [SMPlayer](https://www.smplayer.info) (Qt)
-- [Haruna Media Player](https://haruna.kde.org) (Qt)
-- [Celluloid](https://celluloid-player.github.io) (GTK)
-- [Baka MPlayer](https://github.com/u8sand/Baka-MPlayer) (Qt)
-
-![Скриншот программы Haruna](/media/yt_dlp_haruna.jpg)
+Существует множество медиаплееров, использующих библиотеку mpv в их основе.
 
 ## [Исправление проблем](#troubleshooting)
 
