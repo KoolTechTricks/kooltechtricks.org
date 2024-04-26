@@ -67,6 +67,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [yt-dlp](/wiki/yt-dlp)
 - [winget](/wiki/winget)
 - [Anki](/wiki/anki)
+- [Todo.txt](/wiki/todo.txt)
 
 ### [Linux](#linux)
 
