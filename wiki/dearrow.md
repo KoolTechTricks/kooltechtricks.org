@@ -10,7 +10,7 @@
 
 ![Сравнение оригинальных обложек видео с обложками из DeArrow. Заменённые превью
 являются моментами из видео, а названия переписаны так, чтобы можно было понять
-о чём будет идти речь.](/media/dearrow.jpg)
+о чём будет идти речь.](/media/dearrow.webp)
 
 ## [Применение](#utilization)
 
@@ -37,7 +37,7 @@ DeArrow заменяет обложки на существующие кадры
 Официальное расширение:
 
 - [Firefox](https://addons.mozilla.org/firefox/addon/dearrow) (ПК и Android)
-- [Chromium](https://chrome.google.com/webstore/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)
+- [Chromium](https://chrome.google.com/webstore/detail/enamippconapkdmgfgjchkhakpfinmaj)
 (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Safari](https://apps.apple.com/app/dearrow-for-youtube/id6451469297)
 
@@ -82,8 +82,8 @@ DeArrow заменяет обложки на существующие кадры
 
 Не всегда можно встретить замены на англоязычных видео, а на русскоязычных их
 очень мало. Чаще всего они присутствуют у старых видео популярных авторов.
-Согласно статистике сервера, более 30 тысяч пользователей отправили 98 тысяч
-заголовков и 51 тысячу превью. Вы всегда можете внести свой вклад, чтобы
+Согласно статистике сервера, более 17 тысяч пользователей отправили 155 тысяч
+заголовков и 77 тысяч превью. Вы всегда можете внести свой вклад, чтобы
 улучшить опыт использования расширения для всех пользователей.
 
 ### [Внести вклад](#contribute)
