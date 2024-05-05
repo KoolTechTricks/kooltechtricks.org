@@ -164,24 +164,22 @@ YouTube.](/media/unhook.jpg)
 > **Основная статья:** [DeArrow](/wiki/dearrow)
 
 [DeArrow](https://dearrow.ajay.app) — расширение для YouTube, которое заменяет
-обложки и названия видео на более правдоподобные и понятные. Оно основано на
-краудсорсинге: пользователи могут предложить свои названия и время из видео на
-превью, чтобы затем расширение их автоматически заменяло для других
-пользователей.
+обложки и названия видео на более правдоподобные и менее эмоциональные.
+Пользователи могут предлагать свои варианты заголовков, которые затем будут
+отображаться другим людям.
 
 ![Сравнение оригинальных обложек видео с обложками из DeArrow. Заменённые превью
 являются моментами из видео, а названия переписаны так, чтобы можно было понять
-о чём будет идти речь.](/media/dearrow.jpg)
+о чём будет идти речь.](/media/dearrow.webp)
 
 > [!note]
 Официальное расширение является платным. Можно купить ключ за единоразовый
-платёж. Это нужно для поддержки разработчиков и оплаты серверов.
-Однако вы можете [запросить бесплатный доступ](https://dearrow.ajay.app/free).
+платёж. Это нужно для поддержки разработчиков и оплаты серверов. Однако вы
+можете [запросить бесплатный доступ](https://dearrow.ajay.app/free).
 
-- [Firefox](https://addons.mozilla.org/firefox/addon/dearrow) и все производные
-(LibreWolf, Waterfox, Floorp) для ПК и Android
-- [Chromium](https://chrome.google.com/webstore/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)
-и все производные (Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
+- [Firefox](https://addons.mozilla.org/firefox/addon/dearrow) (ПК и Android)
+- [Chromium](https://chrome.google.com/webstore/detail/enamippconapkdmgfgjchkhakpfinmaj)
+(Google Chrome, Microsoft Edge, Brave, Opera, Vivaldi, Яндекс)
 - [Safari](https://apps.apple.com/app/dearrow-for-youtube/id6451469297)
 
 ### [BlockTube](#blocktube)
