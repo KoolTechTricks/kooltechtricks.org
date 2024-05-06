@@ -51,7 +51,7 @@ DeArrow заменяет обложки на существующие кадры
 мобильной версии YouTube ([m.youtube.com](https://m.youtube.com)).
 - Сторонние приложения:
     - [LibreTube](https://github.com/libre-tube/LibreTube)
-    - [Clipous](https://github.com/lamarios/clipious)
+    - [Clipious](https://github.com/lamarios/clipious)
 
 ### [Прочее](#other)
 

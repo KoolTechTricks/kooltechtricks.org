@@ -122,7 +122,7 @@ SponsorBlock позволяет указывать эпизоды — собст
     - [Форк NewPipe](https://github.com/polymorphicshade/NewPipe) (разработка
     остановлена);
     - [SkyTube](https://github.com/SkyTubeTeam/SkyTube);
-    - [Clipous](https://github.com/lamarios/clipious).
+    - [Clipious](https://github.com/lamarios/clipious).
 
 ### [iOS](#ios)
 
