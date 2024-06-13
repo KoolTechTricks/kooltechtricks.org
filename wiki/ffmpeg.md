@@ -184,10 +184,12 @@ ffmpeg -i input.mp3 -filter:a "volume=0.5" output.mp3
 
 ### [Убрать аудио](#remove-audio)
 
-Если вам нужно убрать звук, то можно удалить аудио-поток.
+Если вам нужно убрать звук, то можно удалить аудиопоток. Обратите внимание, что
+в некоторых сервисах (например, в Telegram) видео без аудиопотока
+воспринимается как Gif.
 
 ```sh
-ffmpeg -i input.mp3 -c copy -an output.mp3
+ffmpeg -i input.mp4 -c copy -an output.mp4
 ```
 
 [Источник](https://superuser.com/questions/268985/remove-audio-from-video-file-with-ffmpeg#268986)
