@@ -51,27 +51,34 @@ uBlock Origin также позволяет заблокировать любо�
 Установите расширение для:
 
 - [Firefox](https://addons.mozilla.org/addon/ublock-origin) (ПК и Android)
-- [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Chromium](https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak)
 - [Opera](https://addons.opera.com/extensions/details/ublock)
 - [Thunderbird](https://addons.thunderbird.net/thunderbird/addon/ublock-origin)
 
 > [!warning]
-В июне 2024 года
-[в Google Chrome планируется отключить расширения на Manifest V2](https://developer.chrome.com/blog/resuming-the-transition-to-mv3).
-Вместе с этим uBlock Origin больше нельзя будет пользоваться. Вы можете
-использовать менее эффективный uBlock Origin Lite, основанный на Manifest V3 или
-перейти на другой браузер, например, Firefox (не Chromium) или Brave (форк
-Chromium). [Подробнее](https://t.me/KoolTechTricks/116)
+> uBlock Origin — это расширение Manifest V2. Поддержка расширений Manifest V2
+в браузере Google Chrome
+[прекращается](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html),
+скоро придётся использовать менее эффективную
+[Lite-версию](#ublock-origin-lite).
+Это также может затронуть и другие Chromium-подобные браузеры
+(Edge, Opera, Яндекс).
+[Подробнее](https://lor.sh/@KoolTechTricks/112559271484989578)
+
+> [!tip]
+> uBlock Origin
+[работает лучше в браузере Firefox](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox).
 
 ### [uBlock Origin Lite](#ublock-origin-lite)
 
 Это расширение основано на Manifest V3, более новому стандарту, который
-сейчас Google внедряет в свой браузер. Оно менее эффективно из-за ограничений
-Manifest V3, как следствие, использует меньше разрешений.
+сейчас Google внедряет в свой браузер. Оно
+[менее эффективно](https://github.com/uBlockOrigin/uBOL-home/wiki/Frequently-asked-questions-(FAQ)#filtering-capabilities-which-cant-be-ported-to-mv3)
+из-за ограничений Manifest V3, как следствие, использует меньше разрешений.
 
 - [Firefox](https://addons.mozilla.org/addon/ublock-origin-lite)
-- [Chromium](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh)
+- [Chromium](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh)
 - [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
 
 ## [Использование](#usage)
