@@ -1,5 +1,5 @@
 # [Поисковики](#search-engines)
-> Categories: Compilations, Internet, Privacy
+> Categories: Internet, Privacy, software-collections
 
 Подборка поисковых систем, которые не собирают и не продают данные о своих
 пользователях третьим лицам с целью показа персонализированной рекламы. Их можно

@@ -32,6 +32,8 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ### [Подборки ПО](#software-collections)
 
+- [Поисковики](/wiki/search-engines)
+
 [Показать все](/categories/software-collections) (TOTAL_IN_SOFTWARE-COLLECTIONS)
 
 ### [Подборки](#compilations)
@@ -40,7 +42,6 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 - [Telegram](/wiki/telegram)
 - [YouTube](/wiki/youtube)
 - [Почтовые клиенты](/wiki/email)
-- [Поисковики](/wiki/search_engines)
 - [RSS](/wiki/rss.html)
 
 [Показать все](/categories/compilations) (TOTAL_IN_COMPILATIONS)
