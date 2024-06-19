@@ -30,6 +30,10 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ## [Избранное](#featured)
 
+### [Подборки ПО](#software-collections)
+
+[Показать все](/categories/software-collections) (TOTAL_IN_SOFTWARE-COLLECTIONS)
+
 ### [Подборки](#compilations)
 
 - [Браузеры](/wiki/browsers)
