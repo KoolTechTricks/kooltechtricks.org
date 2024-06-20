@@ -33,6 +33,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 ### [Подборки ПО](#software-collections)
 
 - [Поисковики](/wiki/search-engines)
+- [Приложения Mastodon](/wiki/mastodon-apps)
 
 [Показать все](/categories/software-collections) (TOTAL_IN_SOFTWARE-COLLECTIONS)
 
