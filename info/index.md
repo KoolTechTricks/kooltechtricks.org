@@ -34,6 +34,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 - [Поисковики](/wiki/search-engines)
 - [Приложения Mastodon](/wiki/mastodon-apps)
+- [Клиенты F-Droid](/wiki/f-droid-clients)
 
 [Показать все](/categories/software-collections) (TOTAL_IN_SOFTWARE-COLLECTIONS)
 
