@@ -68,6 +68,7 @@ Kool Tech Tricks Вики — свободный ресурс, на которо
 
 ### [Программы](#software)
 
+- [KeePassXC](/wiki/keepassxc)
 - [VeraCrypt](/wiki/veracrypt)
 - [scrcpy](/wiki/scrcpy)
 - [Syncthing](/wiki/syncthing)
