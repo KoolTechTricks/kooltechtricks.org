@@ -1,5 +1,16 @@
-# [scrcpy](#scrcpy)
-> Categories: Android
++++
+title = 'scrcpy'
+categories = ['android']
+publishDate = '2023-11-17T17:37:47Z'
+lastmod = '2023-12-24T13:10:53Z'
+summary = """Консольная программа для отражения экрана и аудио с \
+Android-устройства на компьютер под управлением Windows, Linux и macOS."""
+cover = '/media/scrcpy.jpg'
+featured = true
++++
+
+# scrcpy
+{{< categories >}}
 
 [scrcpy](https://github.com/Genymobile/scrcpy) — консольная программа для
 отражения экрана и аудио с Android-устройства на компьютер под управлением
@@ -7,28 +18,30 @@ Windows, Linux и macOS.
 
 ![Демонстрация отражённого экрана Android](/media/scrcpy.jpg)
 
-## [Применение](#utilization)
+## Применение
 
 - Демонстрация экрана
 - Запись видео
-- Использование телефона [в качестве веб-камеры](#camera)
+- Использование телефона [в качестве веб-камеры](#камера)
 - Использование клавиатуры и мыши для ввода
 - Drag & Drop для отправки файлов и установки приложений (APK)
 - Копирование и вставка текста с компьютера в телефон и наоборот
 
-## [Установка](#installation)
+## Установка
 
-> **См. также:**
+> **Смотрите также:**
 [Руководство по использованию интерфейса командной строки](/wiki/cli)
+{.related}
 
 Android-устройство должно соответствовать
 [требованиям](https://github.com/Genymobile/scrcpy/#prerequisites).
 
-### [Windows](#windows)
+### Windows
 
 > **См. также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md)
 (англ.)
+{.related}
 
 Скачайте [последнюю версию](https://github.com/Genymobile/scrcpy/releases) и
 распакуйте её.
@@ -40,11 +53,12 @@ Android-устройство должно соответствовать
 архив вручную) (вы также можете открыть файл `open_a_terminal_here.bat`),
 после чего запустите `scrcpy`.
 
-### [Linux](#linux)
+### Linux
 
-> **См. также:**
+> **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
 (англ.)
+{.related}
 
 Установите программу из вашего менеджера пакетов:
 
@@ -58,11 +72,12 @@ Android-устройство должно соответствовать
 
 После установки, запустите программу из терминала: `scrcpy`
 
-### [macOS](#macos)
+### macOS
 
-> **См. также:**
+> **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/macos.md)
 (англ.)
+{.related}
 
 Программа доступна в [Homebrew](https://brew.sh): `brew install scrcpy`. Вам
 также потребуется установить `adb`: `brew install android-platform-tools`.
@@ -72,7 +87,7 @@ Android-устройство должно соответствовать
 
 После установки, запустите программу из терминала: `scrcpy`.
 
-## [Использование](#usage)
+## Использование
 
 1. Подключите Android-устройство по проводу или
 [Wi-Fi](https://www.genymotion.com/blog/open-source-project-scrcpy-now-works-wirelessly)
@@ -81,7 +96,7 @@ Android-устройство должно соответствовать
 3. Запустите `scrcpy` в терминале. Должно появиться окно с экраном вашего
 телефона.
 
-### [Параметры](#parameters)
+### Параметры
 
 Укажите дополнительные параметры после `scrcpy` в консоли.
 
@@ -92,14 +107,16 @@ Android-устройство должно соответствовать
 - Отключить аудио: `--no-audio`
 - Отключить управление с компьютера: `-n`
 
-> **См. также:**
+> **Смотрите также:**
 [Документация](https://github.com/Genymobile/scrcpy#user-documentation) (англ.)
+{.related}
 
-### [Камера](#camera)
+### Камера
 
-> **См. также:**
+> **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/camera.md)
 (англ.)
+{.related}
 
 Отражение камеры появилось в scrcpy 2.2 и доступно для Android 12 и
 выше.
@@ -138,11 +155,11 @@ $ scrcpy --video-source=camera --camera-fps=60
 [перенаправить вывод в виртуальную камеру](https://github.com/Genymobile/scrcpy/blob/master/doc/v4l2.md). На других системах можно использовать
 [виртуальную камеру OBS](https://obsproject.com/forum/resources/obs-virtualcam.949).
 
-### [Исправление проблем](#troubleshooting)
+### Исправление проблем
 
 - [FAQ](https://github.com/Genymobile/scrcpy/blob/master/FAQ.md)
 - [Баг-трекер](https://github.com/Genymobile/scrcpy/issues)
 
-### [См. также](#see-also)
+### Смотрите также
 
 - [Использование телефона в качестве веб-камеры на Linux](https://3iinc.xyz/blog/how-to-use-your-phone-as-a-webcam-with-scrcpy)

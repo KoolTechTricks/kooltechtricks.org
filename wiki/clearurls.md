@@ -1,12 +1,23 @@
-# [ClearURLs](#clearurls)
-> Categories: Browser Extensions, Internet, Privacy
++++
+title = 'ClearURLs'
+categories = ['browser-extensions', 'internet', 'privacy']
+publishDate = '2023-12-25T12:55:51Z'
+lastmod = '2024-04-02T17:56:36Z'
+summary = """Расширение, которое автоматически убирает отслеживающие параметры \
+из ссылок."""
+cover = '/media/clearurls.jpg'
+featured = true
++++
+
+# ClearURLs
+{{< categories >}}
 
 [ClearURLs](https://clearurls.xyz) — расширение, которое автоматически убирает
 отслеживающие параметры из ссылок.
 
 ![Скриншот главной страницы расширения ClearURLs](/media/clearurls.jpg)
 
-## [Применение](#utilization)
+## Применение
 
 Многие сайты используют отслеживающие элементы такие как utm_source, utm_medium,
 чтобы помечать вашу активность. Однако они не обязательны для корректной работы
@@ -27,7 +38,7 @@ ClearURLs, она будет выглядеть так:
 
 `https://www.amazon.com/dp/exampleProduct`
 
-## [Установка](#installation)
+## Установка
 
 Установите расширение для:
 
@@ -38,7 +49,7 @@ ClearURLs, она будет выглядеть так:
 У расширения [открытый исходный код](https://github.com/ClearURLs/Addon). Вы
 можете изучать его работу, свободно модифицировать и распространять сборки.
 
-## [Использование](#usage)
+## Использование
 
 После установки ClearURLs автоматически начнёт очищать ссылки от отслеживающих
 параметров, пока вы посещаете различные сайты. Вы можете разрешить реферальные
@@ -55,7 +66,7 @@ ClearURLs, она будет выглядеть так:
 
 ![Инструмент очистки ссылок ClearURLs](/media/clearurls_tool.jpg)
 
-## [Сторонние приложения](#third-party-apps)
+## Сторонние приложения
 
 - Расширение [uBlock Origin](/wiki/ublock_origin) имеет встроенный фильтр
 [AdGuard URL Tracking Protection](https://kb.adguard.com/en/general/adguard-ad-filters),
@@ -66,7 +77,7 @@ ClearURLs, она будет выглядеть так:
 параметров: для этого нужно нажать правой кнопкой мыши по ссылке и выбрать
 соответствующий пункт в меню.
 
-## [Исправление проблем](#troubleshooting)
+## Исправление проблем
 
 Вы можете проверить корректность работы расширения на
 [тестовой странице](https://test.clearurls.xyz).
@@ -77,6 +88,6 @@ ClearURLs, она будет выглядеть так:
 [GitHub](https://github.com/ClearURLs/Addon/issues) (англ.) и при необходимости
 создайте отчёт о проблеме.
 
-## [См. также](#see-also)
+## Смотрите также
 
 - [Документация](https://docs.clearurls.xyz) (англ.)

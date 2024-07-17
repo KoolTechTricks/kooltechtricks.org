@@ -1,1 +1,0 @@
-# [Искусственный интеллект](#artificial-intelligence)

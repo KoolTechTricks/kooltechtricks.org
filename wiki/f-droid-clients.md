@@ -1,18 +1,29 @@
-# [Клиенты F-Droid](#f-droid-clients)
-> Categories: android, software-collections
++++
+title = 'Клиенты F-Droid'
+categories = ['android', 'software-collections']
+publishDate = '2024-06-25T18:34:37Z'
+lastmod = '2024-06-25T18:48:42Z'
+summary = """Подборка приложений для F-Droid — свободного каталога приложений \
+Android."""
+cover = '/media/f-droid-clients-droid-ify.webp'
+featured = true
++++
+
+# Клиенты F-Droid
+{{< categories >}}
 
 Подборка приложений для [F-Droid](/wiki/f-droid) — свободного каталога
 приложений Android.
 
-> Flags: cover(/media/f-droid-clients-droid-ify.webp)
-
-Вы можете использовать [официальный клиент F-Droid](#official-client), но он
+Вы можете использовать [официальный клиент F-Droid](#официальный-клиент), но он
 выглядит устаревшим. Рекомендуется попробовать сторонние клиенты, перечисленные
 на этой странице. Они обычно выглядят красивее и предоставляют более удобный
 пользовательский опыт.
 
 > **Смотрите также:** [F-Droid](/wiki/f-droid)
+{.related}
 
+{{< blockquote >}}
 > [!note]
 > Для обеспечения надёжной проверки и установки обновлений рекомендуется
 отключить оптимизацию расхода. Приложение может само порекомендовать выполнить
@@ -21,8 +32,9 @@
 > Скорее всего, система Android не будет давать сторонним приложениям
 устанавливать другие автоматически в фоне, поэтому придётся выполнять этот
 процесс вручную. Поведение может отличаться в зависимости от клиента.
+{{< /blockquote >}}
 
-## [Официальный клиент](#official-client)
+## Официальный клиент
 
 ![Официальный клиент F-Droid](/media/f-droid-clients-official.webp)
 
@@ -57,7 +69,7 @@
 - Сканирование репозиториев на съёмных хранилищах;
 - Тревожная кнопка.
 
-### [F-Droid Basic](#f-droid-basic)
+### F-Droid Basic
 
 - Скачать из [F-Droid](https://f-droid.org/packages/org.fdroid.basic).
 
@@ -68,7 +80,7 @@
 - Нет функции получения приложений от людей рядом без интернета (Nearby Share);
 - Нет тревожной кнопки.
 
-## [Droid-ify](#droid-ify)
+## Droid-ify
 
 ![Droid-ify](/media/f-droid-clients-droid-ify.webp)
 
@@ -97,7 +109,7 @@
 - Добавление приложений в избранное;
 - Экспорт/импорт настроек и списка репозиториев.
 
-## [Neo Store](#neo-store)
+## Neo Store
 
 ![Neo Store](/media/f-droid-clients-neo-store.webp)
 
@@ -137,9 +149,10 @@
 - Экспорт/импорт настроек и списка репозиториев;
 - Детский режим (отключение установки новых приложений).
 
-## [Obtainium](#obtainium)
+## Obtainium
 
 > **Основная статья:** [Obtainium](/wiki/obtainium)
+{.related}
 
 ![Obtainium](/media/obtainium.png)
 

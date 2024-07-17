@@ -1,5 +1,17 @@
-# [Почтовые клиенты](#email-clients)
-> Categories: Compilations, Internet
++++
+title = 'Почтовые клиенты'
+categories = ['compilations', 'internet']
+publishDate = '2023-10-29T16:19:33Z'
+lastmod = '2024-02-26T18:18:00Z'
+summary = """Многие привыкли использовать веб-интерфейс своего почтового \
+сервиса. Однако можно использовать сторонние клиенты, которые предоставляют \
+более удобный и конфиденциальный опыт."""
+cover = '/media/email_thunderbird.png'
+featured = true
++++
+
+# Почтовые клиенты
+{{< categories >}}
 
 Многие привыкли использовать веб-интерфейс своего почтового сервиса. Однако
 можно использовать сторонние клиенты, которые предоставляют более удобный и
@@ -23,7 +35,7 @@
 Если у вас не получается войти в свой аккаунт, попробуйте не вводить пароль,
 чтобы вызвать отдельное окно аутентификации.
 
-## [Thunderbird](#thunderbird)
+## Thunderbird
 
 - **Платформа:** ПК (Windows, Linux, macOS)
 - **Технологии:** Открытый исходный код, на основе Firefox
@@ -40,12 +52,13 @@
 (IRC/XMPP/Matrix) и [агрегатор RSS](/wiki/rss#thunderbird). Поддерживаются
 [расширения](https://addons.thunderbird.net).
 
-Сейчас разрабатывается Thunderbird [для Android](#thunderbird-android) (бывший
-K-9 Mail) и для iOS (пока недоступно).
+Сейчас разрабатывается Thunderbird
+[для Android](#k-9-mail-thunderbird-для-android) (бывший K-9 Mail) и для iOS
+(пока недоступно).
 
 ![Скриншот Thunderbird для ПК](/media/email_thunderbird.png)
 
-### [Betterbird](#betterbird)
+### Betterbird
 
 Форк Thunderbird с исправлением некоторых ошибок и добавлением дополнительных
 функций.
@@ -55,7 +68,7 @@ K-9 Mail) и для iOS (пока недоступно).
 - [Скачать с официального сайта](https://betterbird.eu/downloads/index.php)
 - Windows [winget](/wiki/winget): `Betterbird.Betterbird`
 
-## [FairEmail](#fairemail)
+## FairEmail
 
 - **Платформа:** Android
 - **Технологии:** Java, C++,
@@ -74,7 +87,7 @@ K-9 Mail) и для iOS (пока недоступно).
 
 ![Скриншот FairEmail](/media/email_fairemail.jpg)
 
-## [K-9 Mail (Thunderbird для Android)](#thunderbird-android)
+## K-9 Mail (Thunderbird для Android)
 
 - **Платформа:** Android
 - **Технологии:** Kotlin, Java,

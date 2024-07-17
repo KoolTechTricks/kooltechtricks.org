@@ -1,5 +1,17 @@
-# [yt-dlp](#yt-dlp)
-> Categories: Audio Video, YouTube
++++
+title = 'yt-dlp'
+categories = ['audio-video', 'youtube']
+publishDate = '2023-09-24T17:43:27Z'
+lastmod = '2024-04-17T14:10:14Z'
+summary = """Универсальная программа для скачивания видео и аудио из \
+интернета: YouTube, TikTok, X (Twitter), Reddit и другие. Имеет гибкий \
+консольный интерфейс, возможно скачивать плейлисты и прямые эфиры."""
+cover = '/media/yt-dlp.webp'
+featured = true
++++
+
+# yt-dlp
+{{< categories >}}
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) — универсальная программа для
 скачивания видео и аудио из интернета: YouTube, TikTok, X (Twitter), Reddit и
@@ -9,18 +21,20 @@
 С открытым исходным кодом, активно поддерживается сообществом. Заменяет любые
 сомнительные программы и расширения для скачивания видео. Кроме того, является
 [библиотекой Python](https://pypi.org/project/yt-dlp), что позволяет
-интегрировать себя в [сторонние приложения](#third-party-apps).
+интегрировать себя в [сторонние приложения](#сторонние-приложения).
 
 yt-dlp является продолжением (форком) youtube-dl. youtube-dl больше не
 рекомендуется использовать из-за малой активности в разработке.
 
+{{< blockquote >}}
 > [!caution]
 > Подобный способ скачивания аудио и видео из интернета может нарушать
 авторские права и условия пользования сайтов. Используйте на свой страх и риск.
+{{< /blockquote >}}
 
 ![Скачивание видео при помощи консольного интерфейса yt-dlp](/media/yt-dlp.webp)
 
-## [Установка](#installation)
+## Установка
 
 Найти официальные исполняемые файлы для всех операционных систем можно на
 [GitHub](https://github.com/yt-dlp/yt-dlp/releases/latest). Одиночный
@@ -29,12 +43,15 @@ yt-dlp является продолжением (форком) youtube-dl. yout
 > **Смотрите также:**
 [Официальное руководство по установке](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
 (англ.)
+{.related}
 
+{{< blockquote >}}
 > [!note]
 > Если вам не удобно пользоваться консолью, установите вместо этого
-какое-нибудь [стороннее приложение](#third-party-apps).
+какое-нибудь [стороннее приложение](#сторонние-приложения).
+{{< /blockquote >}}
 
-### [Windows](#windows)
+### Windows
 
 Вы можете скачать yt-dlp через [winget](/wiki/winget), чтобы сразу же
 (после выхода из сеанса), использовать его в командной строке.
@@ -51,7 +68,7 @@ winget upgrade yt-dlp  # Обновление
 (yt-dlp.exe). Для использования в командной строке из любого места необходимо
 [добавить его в переменную среды Path](/wiki/cli#path).
 
-### [Linux](#linux)
+### Linux
 
 Вы можете как скачать исполняемый файл, так и воспользоваться пакетными
 менеджерами:
@@ -63,12 +80,12 @@ winget upgrade yt-dlp  # Обновление
     2. Обновите список пакетов: `sudo apt update`
     3. Установите yt-dlp: `sudo apt install yt-dlp`
 
-### [macOS](#macos)
+### macOS
 
 - Homebrew: `brew install yt-dlp`
 - MacPorts: `sudo port install yt-dlp`
 
-### [Android](#android)
+### Android
 
 Для использования консольных программ на Android, вам понадобится
 [Termux](https://github.com/termux/termux-app/releases/latest).
@@ -79,7 +96,7 @@ winget upgrade yt-dlp  # Обновление
 3. Установить Python: `pkg install libexpat openssl python`
 4. Установить yt-dlp: `pip install -U yt-dlp`
 
-### [Python](#python)
+### Python
 
 [Пакет PyPI](https://pypi.org/project/yt-dlp) можно установить одной из этих
 команд:
@@ -89,7 +106,7 @@ python3 -m pip install -U yt-dlp
 pip install yt-dlp
 ```
 
-## [Использование](#usage)
+## Использование
 
 yt-dlp имеет только [консольный интерфейс](/wiki/cli):
 
@@ -106,15 +123,18 @@ yt-dlp [параметры] <ссылка(и...)>
 [официальную документацию](https://github.com/yt-dlp/yt-dlp#embedding-yt-dlp)
 (англ.).
 
+{{< blockquote >}}
 > [!tip]
 > Используйте [FFmpeg](/wiki/ffmpeg) для конвертации полученного видео.
+{{< /blockquote >}}
 
-### [Параметры](#parameters)
+### Параметры
 
 > **Смотрите также:**
 [Список параметров](https://github.com/yt-dlp/yt-dlp#usage-and-options) (англ.)
+{.related}
 
-#### [Скачивание](#downloading)
+#### Скачивание
 
 - `-S "res:480"` — Указать разрешение (144, 480, 2160 и т.д.).
 - `-f mp4` — Указать расширение (mp4, webm и др.).
@@ -124,14 +144,14 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--cookies-from-browser БРАУЗЕР` — Использовать куки браузера (`brave`,
 `chrome`, `chromium`, `edge`, `firefox`, `opera`, `safari`, `vivaldi`).
 
-#### [Дополнительные файлы](#additional-files)
+#### Дополнительные файлы
 
 - `--write-thumbnail` — Скачать обложку видео.
 - `--write-subs` — Скачать субтитры.
 - `--write-info-json` — Сохранить метаданные в JSON (может содержать личную
 информацию).
 
-#### [Формат вывода](#output-format)
+#### Формат вывода
 
 - `-P, --paths ПУТЬ` — Указать путь скачивания.
 - `-o, --output ШАБЛОН` — Указать имя выходного файла по
@@ -143,7 +163,7 @@ yt-dlp [параметры] <ссылка(и...)>
 - `-w, --no-overwrites` — Не перезаписывать никакие файлы.
 - `--force-overwrites` — Перезаписывать все файлы.
 
-#### [Несколько видео](#several-videos)
+#### Несколько видео
 
 Если ссылка указывает на плейлист, то yt-dlp попробует скачать все видео.
 
@@ -153,12 +173,12 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--yes-playlist` — Скачать плейлист, если ссылка указывает на видео и
 плейлист.
 
-#### [Прямые трансляции](#livestreams)
+#### Прямые трансляции
 
 - `--live-from-start` — Скачивать прямую трансляцию с начала.
 - `--no-live-from-start` — Скачивать прямую трансляцию с текущего момента.
 
-#### [SponsorBlock](#sponsorblock)
+#### SponsorBlock
 
 Интеграция со [SponsorBlock](/wiki/sponsorblock) позволяет удалять ненужные
 сегменты: напоминание о подписке, анимация перехода, титры, самореклама,
@@ -168,10 +188,11 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--sponsorblock-mark КАТЕГОРИИ` — Пометить сегменты.
 - `--sponsorblock-remove КАТЕГОРИИ` — Удалить сегменты.
 
-## [Плагины](#plugins)
+## Плагины
 
 > **Основная статья:**
 [yt-dlp — Плагины](https://github.com/yt-dlp/yt-dlp#plugins) (англ.)
+{.related}
 
 Плагины позволяют дополнить функциональность yt-dlp.
 
@@ -180,10 +201,12 @@ yt-dlp [параметры] <ссылка(и...)>
 - **Постпроцессоры (postprocessor)** вызываются параметром
 `--use-postprocessor НАЗВАНИЕ`.
 
+{{< blockquote >}}
 > [!caution]
 Все плагины импортируются даже если их не использовать. Не производится никаких
 проверок кода плагинов. Используйте их на свой страх и риск и только тогда,
 когда вы доверяете источнику.
+{{< /blockquote >}}
 
 Папку с плагином нужно поместить в специальную директорию. Смотрите
 [руководство по установке плагинов](https://github.com/yt-dlp/yt-dlp#installing-plugins)
@@ -191,8 +214,9 @@ yt-dlp [параметры] <ссылка(и...)>
 
 > **Смотрите также:**
 [Список плагинов](https://github.com/yt-dlp/yt-dlp/wiki/Plugins) (англ.)
+{.related}
 
-### [DeArrow](#dearrow)
+### DeArrow
 
 [DeArrow](/wiki/dearrow) — расширение для браузера и API для замены названий и
 обложек видео на менее вызывающие, используя краудсорсинг.
@@ -203,13 +227,14 @@ yt-dlp [параметры] <ссылка(и...)>
 - `--use-postprocessor "DeArrow:when=pre_process;SelectTitle=True"` — Выбрать
 название среди доступных.
 
-## [Сторонние приложения](#third-party-apps)
+## Сторонние приложения
 
 > **Смотрите также:**
 [Список графических интерфейсов для yt-dlp](https://old.reddit.com/r/youtubedl/wiki/info-guis)
 (англ.)
+{.related}
 
-### [Parabolic](#parabolic)
+### Parabolic
 
 ![Parabolic](/media/yt-dlp_parabolic.webp)
 
@@ -228,7 +253,7 @@ yt-dlp [параметры] <ссылка(и...)>
 Простое и функциональное приложение для скачивания видео. Является нативным
 графическим интерфейсом yt-dlp.
 
-### [yt-dlg](#yt-dlg)
+### yt-dlg
 
 ![yt-dlg](/media/yt-dlp_yt-dlg.webp)
 
@@ -247,7 +272,7 @@ yt-dlp [параметры] <ссылка(и...)>
 Кросс-платформенный графический интерфейс yt-dlp. Является продолжением
 youtube-dl-gui, который перестал разрабатываться.
 
-### [Tartube](#tartube)
+### Tartube
 
 ![Tartube](/media/yt-dlp_tartube.webp)
 
@@ -267,7 +292,7 @@ youtube-dl-gui, который перестал разрабатываться.
 использования. Классический режим эмулирует интерфейс оригинального
 youtube-dl-gui.
 
-### [Open Video Downloader](#open-video-downloader)
+### Open Video Downloader
 
 ![Open Video Downloader](/media/yt-dlp_open_video_downloader.webp)
 
@@ -280,7 +305,7 @@ youtube-dl-gui.
 Кросс-платформенный графический интерфейс для yt-dlp, построенный на
 веб-технологиях Electron (Chromium).
 
-### [ytDownloader](#ytdownloader)
+### ytDownloader
 
 ![ytDownloader](/media/yt-dlp_ytdownloader.webp)
 
@@ -307,7 +332,7 @@ youtube-dl-gui.
 построенный на веб-технологиях [Electron](/wiki/browsers#electron). Доступно
 множество вариантов скачивания.
 
-### [Seal](#seal)
+### Seal
 
 ![Seal](/media/yt-dlp_seal.webp)
 
@@ -320,7 +345,7 @@ youtube-dl-gui.
 
 Загрузчик видео и аудио файлов на Android. Использует yt-dlp для скачивания.
 
-### [mpv](#mpv)
+### mpv
 
 ![mpv](/media/yt-dlp_mpv.webp)
 
@@ -344,7 +369,7 @@ youtube-dl-gui.
 
 Существует множество медиаплееров, использующих библиотеку mpv в их основе.
 
-## [Исправление проблем](#troubleshooting)
+## Исправление проблем
 
 Если программа перестала работать, то убедитесь, что установлена последняя
 версия: `yt-dlp -U`. Также можете проверить

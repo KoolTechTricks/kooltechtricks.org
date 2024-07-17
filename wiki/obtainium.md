@@ -1,5 +1,16 @@
-# [Obtainium](#obtainium)
-> Categories: Android
++++
+title = 'Obtainium'
+categories = ['android']
+publishDate = '2024-02-15T18:09:55Z'
+lastmod = '2024-03-22T12:42:04Z'
+summary = """Приложение для Android, которое позволяет получать обновления \
+напрямую из источников GitHub, F-Droid, GitLab, Codeberg, APKPure и др."""
+cover = '/media/obtainium.png'
+featured = true
++++
+
+# Obtainium
+{{< categories >}}
 
 [Obtainium](https://github.com/ImranR98/Obtainium#readme) — приложение для
 Android, которое позволяет получать обновления напрямую из источников GitHub,
@@ -7,7 +18,7 @@ F-Droid, GitLab, Codeberg, APKPure и др.
 
 ![Obtainium](/media/obtainium.png)
 
-## [Применение](#utilization)
+## Применение
 
 Многие разработчики приложений с открытым исходным кодом публикуют обновления в
 репозитории на GitHub, GitLab, Codeberg и др. Однако обычно там нет
@@ -27,7 +38,7 @@ Play.
 том числе F-Droid, избавит от необходимости иметь несколько установленных
 магазинов приложений на устройстве.
 
-## [Установка](#installation)
+## Установка
 
 Скачайте Obtainium с
 [GitHub](https://github.com/ImranR98/Obtainium/releases/latest)
@@ -37,12 +48,13 @@ Play.
 Приложение также доступно в
 [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid).
 
-## [Использование](#usage)
+## Использование
 
 > **Основная статья:**
 [Obtainium Wiki](https://github.com/ImranR98/Obtainium/wiki) (англ.)
+{.related}
 
-### [Добавить приложение](#add-app)
+### Добавить приложение
 
 Во вкладке "Добавить" в поле "URL-источник приложения" вставьте ссылку на
 репозиторий с приложением, которое вы хотите установить. Вы также можете
@@ -57,7 +69,7 @@ Play.
 При частой проверке можно столкнуться с ограничением. Можно ввести API-ключ
 GitHub, чтобы увеличить лимит запросов.
 
-### [Импорт/Экспорт](#importexport)
+### Импорт/Экспорт
 
 Список установленных приложений и настройки можно экспортировать. Для этого
 зайдите в соответствующую вкладку и выберите каталог для экспорта. Файл JSON
@@ -70,6 +82,6 @@ GitHub.
 Пока что нет возможности автоматически определить уже установленные приложения.
 [(Статус проблемы)](https://github.com/ImranR98/Obtainium/issues/163)
 
-## [Исправление проблем](#troubleshooting)
+## Исправление проблем
 
 - Баг-трекер на [GitHub](https://github.com/ImranR98/Obtainium/issues)
