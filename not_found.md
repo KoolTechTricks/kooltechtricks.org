@@ -1,17 +1,16 @@
 +++
 title = 'Страница не найдена'
-type = 'info'
 noindex = true
 [sitemap]
 disable = true
 +++
+
 # Страница не найдена
 
-Возможно, вы попали не по адресу.
+Возможно, вы попали не по адресу, или эта страница была перемещена.
 
-Но, может быть, эта страница могла бы существовать на Вики?
+Если вы считаете, что страница должна быть найдена, вы можете
+[сообщить о проблеме](https://github.com/KoolTechTricks/pages/issues/new).
 
-В таком случае вы можете предложить или написать свою страницу.
-
-[Узнайте как помочь](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
-или [сообщите о проблеме](https://github.com/KoolTechTricks/pages/issues/new).
+Также вы можете написать свою страницу.
+[Узнайте как внести свой вклад](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
