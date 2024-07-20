@@ -1,6 +1,7 @@
 +++
 title = 'Поисковики'
 categories = ['internet', 'privacy', 'software-collections']
+aliases = ['search_engines']
 publishDate = '2023-12-16T17:01:34Z'
 lastmod = '2024-06-19T14:35:55Z'
 summary = """Подборка поисковых систем, которые не собирают и не продают \

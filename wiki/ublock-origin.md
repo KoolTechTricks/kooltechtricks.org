@@ -1,6 +1,7 @@
 +++
 title = 'uBlock Origin'
 categories = ['browser-extensions', 'internet', 'privacy']
+aliases = ['ublock_origin']
 publishDate = '2023-12-19T16:54:56Z'
 lastmod = '2024-06-13T18:01:58Z'
 summary = """Расширение с открытым исходным кодом, предназначенное для \

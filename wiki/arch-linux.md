@@ -1,6 +1,7 @@
 +++
 title = 'Arch Linux'
 categories = ['linux']
+aliases = ['arch_linux']
 publishDate = '2024-03-28T16:43:56Z'
 lastmod = '2024-04-02T18:45:14Z'
 summary = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \

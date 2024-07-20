@@ -1,6 +1,7 @@
 +++
 title = 'Todo.txt'
 categories = ['productivity']
+aliases = ['todo.txt']
 publishDate = '2024-04-26T14:36:31Z'
 lastmod = '2024-04-26T14:45:26Z'
 summary = """Открытый текстовый формат файла списка задач, который удобно \

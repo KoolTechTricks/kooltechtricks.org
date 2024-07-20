@@ -1,6 +1,7 @@
 +++
 title = 'yt-dlp'
 categories = ['audio-video', 'youtube']
+aliases = ['yt_dlp']
 publishDate = '2023-09-24T17:43:27Z'
 lastmod = '2024-04-17T14:10:14Z'
 summary = """Универсальная программа для скачивания видео и аудио из \
