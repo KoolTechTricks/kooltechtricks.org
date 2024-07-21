@@ -15,6 +15,8 @@ Kool Tech Вики — свободный ресурс, на котором мо
 надоедливых проблем и многое другое.
 
 Исходные тексты всех страниц доступны в репозитории на
-[GitHub](https://github.com/KoolTechTricks/pages). Каждый может
+[GitHub](https://github.com/KoolTechTricks/pages) под лицензией
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru). Каждый
+может
 [внести свой вклад](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
 в развитие Вики.
