@@ -1,6 +1,7 @@
 +++
 title = 'История'
 publishDate = 2024-07-22T13:30:00Z
+lastmod = 2024-07-22T14:44:00Z
 summary = 'История развития Kool Tech Tricks.'
 +++
 
@@ -83,4 +84,6 @@ Hugo используется для этого. Оказалось, что Hugo
 Подробнее про это обновление можно прочитать
 [в блоге](/blog/2024/07/website-update).
 
-![Новый сайт на Hugo](hugo-website.png)
+![Новый сайт на Hugo — домашняя страница](hugo-1.png)
+
+![Новый сайт на Hugo — Вики-страница Sponsorblock](hugo-2.png)
