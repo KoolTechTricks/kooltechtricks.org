@@ -6,7 +6,6 @@ lastmod = '2024-06-25T18:48:42Z'
 summary = """Подборка приложений для F-Droid — свободного каталога приложений \
 Android."""
 cover = '/media/f-droid-clients-droid-ify.webp'
-featured = true
 +++
 
 # Клиенты F-Droid
