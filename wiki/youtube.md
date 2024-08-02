@@ -15,6 +15,9 @@ summary = """На этой странице собраны скрытые фун
 альтернативы для YouTube, чтобы улучшить пользовательский опыт и исправить
 надоедливые проблемы.
 
+> **Смотрите также:** [Исправление проблем с YouTube](/wiki/youtube-troubleshooting)
+{.related}
+
 ## Встроенные функции
 
 ### Таймер сна и перерывов
@@ -133,21 +136,8 @@ YouTube.](/media/unhook.jpg)
 
 ### Аватарки
 
-{{< blockquote >}}
-> [!note]
-Данный раздел актуален только для пользователей из России.
-{{< /blockquote >}}
-
-Чтобы вернуть аватарки и картинки из постов сообщества, необходимо
-перенаправлять запросы с одного CDN-сервера YouTube на другой.
-
-1. Скачайте расширение Resource Override
-([Firefox](https://addons.mozilla.org/ru/firefox/addon/resourceoverride) /
-[Chromium](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii))
-2. Нажмите на иконку расширения.
-3. Добавьте переадресацию с `https://yt3.ggpht.com/*` на `https://yt4.ggpht.com/*`
-
-![Демонстрация результата конфигурации расширения Resource Override](/media/youtube_resource_override.jpg)
+> **Раздел перемещён:** [Исправление проблем с YouTube # Аватарки](/wiki/youtube-troubleshooting#аватарки)
+{.related}
 
 ### SponsorBlock
 

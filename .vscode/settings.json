@@ -131,6 +131,7 @@
         "PKGBUILD",
         "Pleroma",
         "postprocessor",
+        "Predirect",
         "pyenv",
         "Redistributable",
         "rootflags",
