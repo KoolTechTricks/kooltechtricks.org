@@ -3,7 +3,7 @@ title = 'yt-dlp'
 categories = ['audio-video', 'youtube']
 aliases = ['yt_dlp']
 publishDate = '2023-09-24T17:43:27Z'
-lastmod = 2024-08-02T13:00:00Z
+lastmod = 2024-08-03T13:00:00Z
 summary = """Универсальная программа для скачивания видео и аудио из \
 интернета: YouTube, TikTok, X (Twitter), Reddit и другие. Имеет гибкий \
 консольный интерфейс, возможно скачивать плейлисты и прямые эфиры."""

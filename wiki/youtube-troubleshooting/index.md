@@ -2,7 +2,7 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-02T13:18:00Z
+lastmod = 2024-08-03T13:39:00Z
 summary = """Используйте эти методы исключительно для восстановления доступа к \
 образовательному контенту."""
 cover = '/wiki/youtube-troubleshooting/index.webp'
@@ -105,7 +105,7 @@ VirusTotal [показывает](https://www.virustotal.com/gui/file/f540f3ff4f
 
 {{< blockquote >}}
 > [!note]
-Возможно, этот способ не работает.
+Возможно, этот способ не работает или требуется дополнительная настройка.
 {{< /blockquote >}}
 
 1. Скачайте [ByeDPI](https://github.com/hufrea/byedpi/releases/latest) для
