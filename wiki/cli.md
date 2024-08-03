@@ -2,7 +2,7 @@
 title = 'Интерфейс командной строки'
 categories = ['guides']
 publishDate = '2023-10-20T17:58:20Z'
-lastmod = '2023-12-24T08:45:39Z'
+lastmod = '2024-08-03T11:32:00Z'
 summary = """Способ взаимодействия с программой посредством отправки текстовых \
 команд в консоль (терминал)."""
 cover = '/media/cli_usage.jpg'
@@ -40,7 +40,11 @@ featured = false
 
 В Windows можно использовать стандартные программы `cmd` или `powershell`, но в
 современных версиях рекомендуется
-[Windows Terminal](https://apps.microsoft.com/detail/windows-terminal/9N0DX20HK701).
+[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701) (Терминал
+Windows).
+
+В macOS предустановлено приложение Терминал. Открыть его можно через Spotlight
+или Launchpad.
 
 В Linux эмулятор терминала обычно предустановлен вместе со средой рабочего
 стола. Для GNOME это GNOME Terminal, для KDE — Konsole. Также можно перейти
