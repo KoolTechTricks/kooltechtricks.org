@@ -133,6 +133,7 @@
         "postprocessor",
         "Predirect",
         "pyenv",
+        "QUIC",
         "Redistributable",
         "rootflags",
         "rootpw",
