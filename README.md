@@ -34,8 +34,6 @@
 [источника](https://github.com/Genymobile/scrcpy)
 - [syncthing.jpg](/media/syncthing.jpg) — взято из
 [источника](https://syncthing.net)
-- [/wiki/youtube-troubleshooting/index.png](/wiki/youtube-troubleshooting/index.png) —
-[texterra.ru](https://texterra.ru/blog/chto-delat-esli-yutub-zablokiruyut-v-rossii.html)
 
 Этот список может не содержать все файлы, взятые из сторонних источников. Не
 гарантировано, что ссылки рабочие и актуальные.

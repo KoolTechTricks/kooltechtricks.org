@@ -5,7 +5,7 @@ publishDate = 2024-08-02T14:00:00Z
 lastmod = 2024-08-02T13:18:00Z
 summary = """Используйте эти методы исключительно для восстановления доступа к \
 образовательному контенту."""
-cover = '/wiki/youtube-troubleshooting/index.png'
+cover = '/wiki/youtube-troubleshooting/index.webp'
 featured = false
 +++
 
