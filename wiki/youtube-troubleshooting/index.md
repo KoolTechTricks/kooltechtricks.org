@@ -2,7 +2,7 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-02T14:00:00Z
+lastmod = 2024-08-02T10:50:00Z
 summary = """Используйте эти методы исключительно для восстановления доступа к \
 образовательному контенту."""
 cover = '/wiki/youtube-troubleshooting/index.png'
@@ -39,6 +39,23 @@ featured = false
 `security.tls.enable_kyber` на значение `false`.
 
 Источник: [Код Дурова](https://kod.ru/youtube-restore)
+
+### Android
+
+1. Скачайте [APK-файл](https://github.com/dovecoteescapee/ByeDPIAndroid/releases/latest)
+и установите приложение ByeDPIAndroid;
+2. Нажмите на кнопку Connect и подтвердите подключение.
+
+{{< blockquote >}}
+> [!warning]
+VirusTotal [показывает](https://www.virustotal.com/gui/file/f540f3ff4ff1c89ae9579b7773bf19411f9d9a6c1e60ad231020dfe13df14b03)
+наличие вирусов в этом приложении. Разработчик
+[ответил почему](https://github.com/dovecoteescapee/ByeDPIAndroid/issues/5#issuecomment-2187601061)
+и пообещал исправить это.
+>
+> Мы не анализировали код и не собирали это приложение, поэтому не можем
+гарантировать его безопасность.
+{{< /blockquote >}}
 
 ### Piped
 
