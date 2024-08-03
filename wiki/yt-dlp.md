@@ -3,7 +3,7 @@ title = 'yt-dlp'
 categories = ['audio-video', 'youtube']
 aliases = ['yt_dlp']
 publishDate = '2023-09-24T17:43:27Z'
-lastmod = '2024-04-17T14:10:14Z'
+lastmod = 2024-08-02T13:00:00Z
 summary = """Универсальная программа для скачивания видео и аудио из \
 интернета: YouTube, TikTok, X (Twitter), Reddit и другие. Имеет гибкий \
 консольный интерфейс, возможно скачивать плейлисты и прямые эфиры."""
@@ -375,3 +375,7 @@ youtube-dl-gui.
 Если программа перестала работать, то убедитесь, что установлена последняя
 версия: `yt-dlp -U`. Также можете проверить
 [баг-трекер](https://github.com/yt-dlp/yt-dlp/issues).
+
+Если при скачивании видео через yt-dlp появляются ошибки подключения к серверам
+`googlevideo.com`, смотрите страницу
+[Исправление проблем с YouTube # yt-dlp](/wiki/youtube-troubleshooting#yt-dlp).

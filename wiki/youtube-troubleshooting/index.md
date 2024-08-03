@@ -2,7 +2,7 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-02T12:14:00Z
+lastmod = 2024-08-02T13:18:00Z
 summary = """Используйте эти методы исключительно для восстановления доступа к \
 образовательному контенту."""
 cover = '/wiki/youtube-troubleshooting/index.png'
@@ -95,6 +95,25 @@ VirusTotal [показывает](https://www.virustotal.com/gui/file/f540f3ff4f
 > Мы не анализировали код и не собирали это приложение, поэтому не можем
 гарантировать его безопасность.
 {{< /blockquote >}}
+
+### yt-dlp
+
+При скачивании видео через [yt-dlp](/wiki/yt-dlp) могут появляться ошибки
+подключения к серверам `googlevideo.com`.
+[Здесь](https://github.com/yt-dlp/yt-dlp/issues/10443#issuecomment-2248940967)
+описано как это можно исправить.
+
+{{< blockquote >}}
+> [!note]
+Возможно, этот способ не работает.
+{{< /blockquote >}}
+
+1. Скачайте [ByeDPI](https://github.com/hufrea/byedpi/releases/latest) для
+Windows (`x86_64-w64.zip`) или Linux (`x86_64.tar.gz`);
+2. Распакуйте архив и
+[запустите программу в терминале](/wiki/cli#использование). Команда для Linux:
+`./ciadpi-x86_64 -i 127.0.0.1 -p 10801 -d 1`;
+3. Используйте параметр `--proxy 'socks5://127.0.0.1:10801'` в yt-dlp.
 
 ### Piped
 
