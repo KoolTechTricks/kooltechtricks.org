@@ -2,7 +2,7 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-02T10:50:00Z
+lastmod = 2024-08-02T11:27:00Z
 summary = """Используйте эти методы исключительно для восстановления доступа к \
 образовательному контенту."""
 cover = '/wiki/youtube-troubleshooting/index.png'
@@ -39,6 +39,21 @@ featured = false
 `security.tls.enable_kyber` на значение `false`.
 
 Источник: [Код Дурова](https://kod.ru/youtube-restore)
+
+### macOS и Linux
+
+1. Скачайте [SpoofDPI](https://github.com/xvzc/SpoofDPI/releases/latest) для
+вашей платформы (Darwin = macOS, amd64 = x86_64);
+2. Запустите программу в терминале: `spoof-dpi`
+([подробнее](/wiki/cli#использование));
+3. Программа запустит локальный прокси-сервер по адресу `127.0.0.1:8080`.
+Система может начать автоматически его использовать, но возможно придётся
+сделать это вручную в настройках браузера или системы.
+4. Если не помогло, попробуйте запустить программу с параметрами
+`--enable-doh --window-size 0`. Для отображения логов используйте параметр
+`-debug`.
+
+Источник: [Бэкдор](https://t.me/whackdoor/12105)
 
 ### Android
 
