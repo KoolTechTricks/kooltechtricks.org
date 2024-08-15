@@ -1,14 +1,15 @@
 +++
 title = 'F-Droid'
 categories = ['android']
-publishDate = '2023-11-07T15:46:39Z'
-lastmod = '2024-07-23T17:01:00Z'
-summary = """Каталог приложений для Android с открытым исходным кодом. Это \
+publishDate = 2023-11-07T15:46:39Z
+lastmod = 2024-07-23T17:01:00Z
+description = """Каталог приложений для Android с открытым исходным кодом. Это \
 некоммерческий проект, который уважает свободу и конфиденциальность \
 пользователей."""
 cover = '/media/f-droid-clients-official.webp'
 featured = true
 +++
+
 # F-Droid
 {{< categories >}}
 
@@ -118,7 +119,6 @@ f-droid.org]. Он добавлен во все клиенты.
 попробовать их.
 
 > **Смотрите также:** [Клиенты F-Droid]
-{.related}
 
 [официального клиента]: https://f-droid.org/F-Droid.apk
 

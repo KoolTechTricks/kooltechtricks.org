@@ -2,7 +2,7 @@
 title = 'История'
 publishDate = 2024-07-22T13:30:00Z
 lastmod = 2024-07-22T14:44:00Z
-summary = 'История развития Kool Tech Tricks.'
+description = 'История развития Kool Tech Tricks.'
 +++
 
 # История

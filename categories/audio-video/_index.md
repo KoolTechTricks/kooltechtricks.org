@@ -1,6 +1,6 @@
 +++
 title = 'Аудио/Видео'
-summary = 'Работа с аудио и/или видео.'
+description = 'Работа с аудио и/или видео.'
 aliases = ['audio_video']
 +++
 

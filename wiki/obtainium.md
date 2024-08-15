@@ -1,9 +1,9 @@
 +++
 title = 'Obtainium'
 categories = ['android']
-publishDate = '2024-02-15T18:09:55Z'
-lastmod = '2024-03-22T12:42:04Z'
-summary = """Приложение для Android, которое позволяет получать обновления \
+publishDate = 2024-02-15T18:09:55Z
+lastmod = 2024-03-22T12:42:04Z
+description = """Приложение для Android, которое позволяет получать обновления \
 напрямую из источников GitHub, F-Droid, GitLab, Codeberg, APKPure и др."""
 cover = '/media/obtainium.png'
 featured = true
@@ -52,7 +52,6 @@ Play.
 
 > **Основная статья:**
 [Obtainium Wiki](https://github.com/ImranR98/Obtainium/wiki) (англ.)
-{.related}
 
 ### Добавить приложение
 

@@ -2,9 +2,9 @@
 title = 'Return YouTube Dislike'
 categories = ['browser-extensions', 'youtube']
 aliases = ['return_youtube_dislike']
-publishDate = '2023-08-26T13:28:00Z'
-lastmod = '2024-08-08T13:43:00Z'
-summary = """Расширение, которое возвращает счётчик дизлайков под видео на \
+publishDate = 2023-08-26T13:28:00Z
+lastmod = 2024-08-08T13:43:00Z
+description = """Расширение, которое возвращает счётчик дизлайков под видео на \
 YouTube."""
 cover = '/media/return_youtube_dislike.png'
 +++
@@ -67,7 +67,6 @@ cover = '/media/return_youtube_dislike.png'
 > **Смотрите также:**
 > - [Ответы на вопросы](https://returnyoutubedislike.com/faq)
 > - [Безопасность](https://github.com/Anarios/return-youtube-dislike/blob/main/Docs/SECURITY-FAQru.md)
-{.related}
 
 ## Исправление проблем
 

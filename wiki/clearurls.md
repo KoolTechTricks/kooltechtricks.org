@@ -1,10 +1,10 @@
 +++
 title = 'ClearURLs'
 categories = ['browser-extensions', 'internet', 'privacy']
-publishDate = '2023-12-25T12:55:51Z'
-lastmod = '2024-04-02T17:56:36Z'
-summary = """Расширение, которое автоматически убирает отслеживающие параметры \
-из ссылок."""
+publishDate = 2023-12-25T12:55:51Z
+lastmod = 2024-04-02T17:56:36Z
+description = """Расширение, которое автоматически убирает отслеживающие \
+параметры из ссылок."""
 cover = '/media/clearurls.jpg'
 featured = true
 +++

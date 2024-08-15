@@ -1,9 +1,9 @@
 +++
 title = 'SponsorBlock'
 categories = ['browser-extensions', 'youtube']
-publishDate = '2023-08-23T15:57:00Z'
-lastmod = '2024-05-06T17:24:31Z'
-summary = """Расширение для пропуска раздражающих сегментов в видео на \
+publishDate = 2023-08-23T15:57:00Z
+lastmod = 2024-05-06T17:24:31Z
+description = """Расширение для пропуска раздражающих сегментов в видео на \
 YouTube: напоминания о подписке, интро, переход к важной части, самореклама, \
 спонсоры. Пользователи предлагают новые сегменты или исправляют уже \
 существующие, чтобы затем расширение их автоматически пропускало для других."""
@@ -58,12 +58,10 @@ SponsorBlock предназначен для автоматического ил
 
 ![Демонстрация меток на видео](/media/sponsorblock_labels.png)
 
-{{< blockquote >}}
 > [!warning]
 Эти метки устанавливают такие же пользователи, как и вы, поэтому информация
 может быть недостоверной. Проверяйте перед отправкой, и не отправляйте, если не
 уверены.
-{{< /blockquote >}}
 
 ### Эпизоды
 
@@ -127,7 +125,6 @@ SponsorBlock позволяет указывать эпизоды — собст
 > **Основная статья:**
 [SponsorBlock для Android](https://github.com/ajayyy/SponsorBlock/wiki/Android)
 (англ.)
-{.related}
 
 - [Расширение в Firefox](https://addons.mozilla.org/android/addon/sponsorblock)
 на Android для мобильной версии YouTube
@@ -144,7 +141,6 @@ SponsorBlock позволяет указывать эпизоды — собст
 
 > **Основная статья:**
 [SponsorBlock для iOS](https://github.com/ajayyy/SponsorBlock/wiki/iOS) (англ.)
-{.related}
 
 - [Расширение в Safari](https://github.com/ajayyy/SponsorBlock/wiki/Safari) для
 мобильной версии YouTube ([m.youtube.com](https://m.youtube.com)).
@@ -214,13 +210,11 @@ Chromecast
 для перемещения видео по кадрам, и кнопку "Предпросмотр", чтобы посмотреть
 результат.
 
-{{< blockquote >}}
 > [!tip]
 Если вы не уверены в правильности сегмента, то лучше не отправлять его. Вы
 можете спросить знающих людей в чате
 [Matrix](https://matrix.to/#/#sponsor:ajay.app) или
 [Discord](https://discord.gg/SponsorBlock) (англ.).
-{{< /blockquote >}}
 
 > **Смотрите также:**
 > - [Создание сегментов](https://wiki.sponsor.ajay.app/w/Creating_Segments)
@@ -228,7 +222,6 @@ Chromecast
 > - [Принципы и методика](https://wiki.sponsor.ajay.app/w/Guidelines) (англ.)
 > - [Советы и рекомендации](https://wiki.sponsor.ajay.app/w/Advice_for_submitting)
 (англ.)
-{.related}
 
 Помощь является почти анонимной и не требует регистрации. Есть список лидеров,
 кто больше внёс вклад. Своё отображаемое имя можно сменить в меню расширения.

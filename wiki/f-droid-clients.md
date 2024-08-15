@@ -1,10 +1,10 @@
 +++
 title = 'Клиенты F-Droid'
 categories = ['android', 'software-collections']
-publishDate = '2024-06-25T18:34:37Z'
-lastmod = '2024-06-25T18:48:42Z'
-summary = """Подборка приложений для F-Droid — свободного каталога приложений \
-Android."""
+publishDate = 2024-06-25T18:34:37Z
+lastmod = 2024-06-25T18:48:42Z
+description = """Подборка приложений для F-Droid — свободного каталога \
+приложений Android."""
 cover = '/media/f-droid-clients-droid-ify.webp'
 +++
 
@@ -20,9 +20,7 @@ cover = '/media/f-droid-clients-droid-ify.webp'
 пользовательский опыт.
 
 > **Смотрите также:** [F-Droid](/wiki/f-droid)
-{.related}
 
-{{< blockquote >}}
 > [!note]
 > Для обеспечения надёжной проверки и установки обновлений рекомендуется
 отключить оптимизацию расхода. Приложение может само порекомендовать выполнить
@@ -31,7 +29,6 @@ cover = '/media/f-droid-clients-droid-ify.webp'
 > Скорее всего, система Android не будет давать сторонним приложениям
 устанавливать другие автоматически в фоне, поэтому придётся выполнять этот
 процесс вручную. Поведение может отличаться в зависимости от клиента.
-{{< /blockquote >}}
 
 ## Официальный клиент
 
@@ -151,7 +148,6 @@ cover = '/media/f-droid-clients-droid-ify.webp'
 ## Obtainium
 
 > **Основная статья:** [Obtainium](/wiki/obtainium)
-{.related}
 
 ![Obtainium](/media/obtainium.png)
 

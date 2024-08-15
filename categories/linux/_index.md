@@ -1,6 +1,6 @@
 +++
 title = 'Linux'
-summary = 'Про операционные системы семейства GNU/Linux'
+description = 'Про операционные системы семейства GNU/Linux'
 +++
 
 # Linux

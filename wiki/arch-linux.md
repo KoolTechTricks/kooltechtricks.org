@@ -2,9 +2,9 @@
 title = 'Arch Linux'
 categories = ['linux']
 aliases = ['arch_linux']
-publishDate = '2024-03-28T16:43:56Z'
-lastmod = '2024-04-02T18:45:14Z'
-summary = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \
+publishDate = 2024-03-28T16:43:56Z
+lastmod = 2024-04-02T18:45:14Z
+description = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \
 Программы в нём обновляются постоянно — пользователи получают новейшие версии. \
 Изначально в Arch не установлено никаких программ, кроме ядра и основных \
 инструментов. Необходимо проводить ручную установку в терминале, но есть и \
@@ -37,21 +37,17 @@ Live-окружением для восстановления
 
 > **Смотрите также:**
 [Часто задаваемые вопросы — ArchWiki](https://wiki.archlinux.org/title/Frequently_asked_questions_(Русский))
-{.related}
 
 ## Производные
 
 > **Смотрите также:**
 [Дистрибутивы, основанные на Arch — ArchWiki](https://wiki.archlinux.org/title/Arch-based_distributions_(Русский))
-{.related}
 
-{{< blockquote >}}
 > [!important]
 > Все официальные и большинство сторонних ресурсов про Arch Linux, включая эту
 страницу, не предусматривают применение на производных дистрибутивах. Вы **не**
 используете Arch Linux, если пользуетесь его производными, однако вам тоже
 необходимо уделять время обслуживанию системы.
-{{< /blockquote >}}
 
 ### EndeavourOS
 
@@ -103,12 +99,10 @@ Manjaro использует свои репозитории, в которых 
 [Ventoy](https://www.ventoy.net), чтобы иметь возможность загружаться с ISO
 напрямую, не перезаписывая USB-накопитель.
 
-{{< blockquote >}}
 > [!warning]
 > Установка операционной системы потенциально ведёт к потере данных.
 Подразумевается, что у вас уже есть актуальная и рабочая резервная копия всех
 важных данных.
-{{< /blockquote >}}
 
 Установочный образ не поддерживает
 [Secure Boot](https://wiki.archlinux.org/title/Unified_Extensible_Firmware_Interface/Secure_Boot)
@@ -133,18 +127,13 @@ Manjaro использует свои репозитории, в которых 
 
 > **Основная статья:**
 [Dual boot with Windows — ArchWiki](https://wiki.archlinux.org/title/Dual_boot_with_Windows)
-{.related}
 
-{{< blockquote >}}
 > [!caution]
 > Этот раздел не был надёжно проверен и может содержать неточности и неполную
 информацию. Рекомендуется исследовать другие ресурсы.
-{{< /blockquote >}}
 
-{{< blockquote >}}
 > [!note]
 > Информация в этом разделе актуальна только для режима загрузки UEFI.
-{{< /blockquote >}}
 
 Сначала следует установить Windows, так как она может стереть загрузчик
 Linux. Загрузчик Windows можно скопировать на другой носитель, а затем после
@@ -183,7 +172,6 @@ Archinstall производит установку системы не совс
 
 > **Смотрите также:**
 [Документация Archinstall](https://archinstall.archlinux.page) (англ.)
-{.related}
 
 ## Ручная установка
 
@@ -216,12 +204,10 @@ Archinstall производит установку системы не совс
 Определите диск, на который вы собираетесь установить систему. Если желаемый
 диск не отображается, отключите режим RAID в BIOS/UEFI.
 
-{{< blockquote >}}
 > [!warning]
 > Выполнение операций над дисками и разделами может привести к потере данных. У
 вас всегда должна быть актуальная резервная копия. Запускайте все команды
 осторожно.
-{{< /blockquote >}}
 
 #### Разметка
 
@@ -270,13 +256,11 @@ mkfs.btrfs -L home /dev/sda4
 достаточно файловой системы ext4. Тогда нужно использовать соответствующую
 команду `mkfs.ext4`.
 
-{{< blockquote >}}
 > [!note]
 > **Подробнее про Btrfs:**
 > - [https://christitus.com/btrfs-guide](https://christitus.com/btrfs-guide)
 (англ.)
 > - [https://ctlos.github.io/wiki/btrfs/btrfs-part1](https://ctlos.github.io/wiki/btrfs/btrfs-part1)
-{{< /blockquote >}}
 
 #### Монтирование
 
@@ -440,7 +424,6 @@ reboot
 
 > **Смотрите также:**
 [Основные рекомендации — ArchWiki](https://wiki.archlinux.org/title/General_recommendations_(Русский))
-{.related}
 
 ### NVIDIA
 
@@ -462,7 +445,6 @@ reboot
 [Среды рабочего стола](https://wiki.archlinux.org/title/Desktop_environment_(Русский)),
 [Сравнение рабочих столов](https://wiki.archlinux.org/title/Comparison_of_desktop_environments_(Русский))
 — Arch Wiki
-{.related}
 
 Установите нужные пакеты, перечислив их в `pacman -S`, и удалите ненужные при
 помощи `pacman -Rns`.
@@ -474,7 +456,6 @@ reboot
 > **Смотрите также:**
 [Рекомендации по установке KDE](https://community.kde.org/Distributions/Packaging_Recommendations)
 (англ.)
-{.related}
 
 Основные:
 - `plasma-meta` / `plasma` — Рабочий стол.
@@ -513,11 +494,9 @@ systemctl enable sddm.service
 reboot
 ```
 
-{{< blockquote >}}
 > [!important]
 > Для работы сеанса Wayland в VirtualBox требуется включить 3D-ускорение в
 настройках машины.
-{{< /blockquote >}}
 
 #### Пользовательские директории
 
@@ -525,10 +504,8 @@ reboot
 [пользовательские директории](https://wiki.archlinux.org/title/XDG_user_directories_(Русский))
 "Загрузки", "Рабочий стол" и другие:
 
-{{< blockquote >}}
 > [!important]
 > Войдите под учётной записью вашего пользователя, прежде чем менять директории.
-{{< /blockquote >}}
 
 ```sh
 xdg-user-dirs-update --set DOWNLOAD ~/download
@@ -546,7 +523,6 @@ ls ~  # Удалите лишние папки при помощи rm -r
 Вы можете настроить систему во время или после установки.
 
 > **Смотрите также:** [Конфигурация Pacman](#конфигурация-1)
-{.related}
 
 ### Микрокод
 
@@ -616,7 +592,6 @@ sudo ufw allow 1714:1764/tcp
 
 > **Смотрите также:**
 [Обслуживание системы — ArchWiki](https://wiki.archlinux.org/title/System_maintenance_(Русский))
-{.related}
 
 Вы должны регулярно обновлять систему командой `sudo pacman -Syu`. Частичные
 обновления могут сломать систему — всегда обновляйте полностью. Перед тем, как
@@ -627,7 +602,6 @@ sudo ufw allow 1714:1764/tcp
 
 > **Смотрите также:**
 [Устранение неполадок в системе — ArchWiki](https://wiki.archlinux.org/title/General_troubleshooting_(Русский))
-{.related}
 
 - Смотрите журнал системы:
     - `sudo journalctl -b` — Текущий сеанс
@@ -791,7 +765,6 @@ sudo systemctl start reflector.timer
 
 > **Основная статья:**
 [Pacman — Очистка кэша пакетов — ArchWiki](https://wiki.archlinux.org/title/Pacman_(Русский)#Очистка_кэша_пакетов)
-{.related}
 
 При обновлении и установке пакетов Pacman сохраняет старые версии для
 возможности быстрого отката. Настройте автоматическое удаление старых архивов
@@ -812,7 +785,6 @@ sudo systemctl start paccache.timer
 
 > **Основная статья:**
 [Arch User Repository — ArchWiki](https://wiki.archlinux.org/title/Arch_User_Repository_(Русский))
-{.related}
 
 В [пользовательском репозитории](https://aur.archlinux.org) (AUR) можно найти
 практически любую программу. Это хоть и удобно, но добавляет риски безопасности

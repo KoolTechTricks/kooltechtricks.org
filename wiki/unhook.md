@@ -1,9 +1,9 @@
 +++
 title = 'Unhook'
 categories = ['browser-extensions', 'wellbeing', 'youtube']
-publishDate = '2023-08-23T15:57:00Z'
-lastmod = '2023-12-24T14:28:20Z'
-summary = """Расширение для YouTube и Twitch, которое убирает отвлекающие \
+publishDate = 2023-08-23T15:57:00Z
+lastmod = 2023-12-24T14:28:20Z
+description = """Расширение для YouTube и Twitch, которое убирает отвлекающие \
 элементы интерфейса: рекомендации и следующие видео."""
 cover = '/media/unhook_youtube.jpg'
 featured = true
@@ -45,14 +45,12 @@ YouTube.](/media/unhook.jpg)
 Рекомендации можно выключить и без расширения в том числе на телефоне и
 телевизоре. Для этого нужно очистить и отключить историю просмотра.
 
-{{< blockquote >}}
 > [!caution]
 **Данное действие необратимо!**
 >
 > 1. [Настройки аккаунта Google](https://myaccount.google.com)
 > 2. [Данные и конфиденциальность](https://myaccount.google.com/data-and-privacy)
 > 3. [История YouTube](https://myactivity.google.com/activitycontrols?settings=youtube) - Отключить
-{{< /blockquote >}}
 
 ### Конфигурация
 

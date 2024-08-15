@@ -1,9 +1,9 @@
 +++
 title = 'scrcpy'
 categories = ['android']
-publishDate = '2023-11-17T17:37:47Z'
-lastmod = '2023-12-24T13:10:53Z'
-summary = """Консольная программа для отражения экрана и аудио с \
+publishDate = 2023-11-17T17:37:47Z
+lastmod = 2023-12-24T13:10:53Z
+description = """Консольная программа для отражения экрана и аудио с \
 Android-устройства на компьютер под управлением Windows, Linux и macOS."""
 cover = '/media/scrcpy.jpg'
 featured = true
@@ -31,17 +31,15 @@ Windows, Linux и macOS.
 
 > **Смотрите также:**
 [Руководство по использованию интерфейса командной строки](/wiki/cli)
-{.related}
 
 Android-устройство должно соответствовать
 [требованиям](https://github.com/Genymobile/scrcpy/#prerequisites).
 
 ### Windows
 
-> **См. также:**
+> **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/windows.md)
 (англ.)
-{.related}
 
 Скачайте [последнюю версию](https://github.com/Genymobile/scrcpy/releases) и
 распакуйте её.
@@ -58,7 +56,6 @@ Android-устройство должно соответствовать
 > **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
 (англ.)
-{.related}
 
 Установите программу из вашего менеджера пакетов:
 
@@ -77,7 +74,6 @@ Android-устройство должно соответствовать
 > **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/macos.md)
 (англ.)
-{.related}
 
 Программа доступна в [Homebrew](https://brew.sh): `brew install scrcpy`. Вам
 также потребуется установить `adb`: `brew install android-platform-tools`.
@@ -109,14 +105,12 @@ Android-устройство должно соответствовать
 
 > **Смотрите также:**
 [Документация](https://github.com/Genymobile/scrcpy#user-documentation) (англ.)
-{.related}
 
 ### Камера
 
 > **Смотрите также:**
 [Полная инструкция](https://github.com/Genymobile/scrcpy/blob/master/doc/camera.md)
 (англ.)
-{.related}
 
 Отражение камеры появилось в scrcpy 2.2 и доступно для Android 12 и
 выше.
