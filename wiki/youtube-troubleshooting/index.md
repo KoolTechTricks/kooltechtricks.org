@@ -2,11 +2,10 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-08T13:33:00Z
+lastmod = 2024-08-21T16:33:00Z
 description = """Используйте эти методы исключительно для восстановления \
 доступа к образовательному контенту."""
 cover = 'index.webp'
-featured = false
 +++
 
 # Исправление проблем с YouTube
@@ -130,8 +129,7 @@ Piped — альтернативный приватный фронтенд дл�
 или Predirect ([Firefox](https://addons.mozilla.org/firefox/addon/predirector) /
 [Chromium](https://chromewebstore.google.com/detail/aiillidfcgfckfhkpiakhkkpbkknagnp)).
 
-Для Android можно скачать приложения
-[NewPipe](https://github.com/TeamNewPipe/NewPipe/releases/latest) или
+Для Android можно скачать приложение
 [LibreTube](https://github.com/libre-tube/LibreTube/releases/latest).
 
 ## Аватарки
