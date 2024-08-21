@@ -2,7 +2,7 @@
 title = 'Исправление проблем с YouTube'
 categories = ['guides', 'youtube']
 publishDate = 2024-08-02T14:00:00Z
-lastmod = 2024-08-21T16:33:00Z
+lastmod = 2024-08-21T16:40:00Z
 description = """Используйте эти методы исключительно для восстановления \
 доступа к образовательному контенту."""
 cover = 'index.webp'
@@ -138,9 +138,15 @@ Piped — альтернативный приватный фронтенд дл�
 перенаправлять запросы с одного CDN-сервера YouTube на другой.
 
 1. Скачайте расширение Resource Override
-([Firefox](https://addons.mozilla.org/ru/firefox/addon/resourceoverride) /
-[Chromium](https://chrome.google.com/webstore/detail/resource-override/pkoacgokdfckfpndoffpifphamojphii))
+([Firefox](https://addons.mozilla.org/firefox/addon/resourceoverride) /
+[Chromium](https://chromewebstore.google.com/detail/pkoacgokdfckfpndoffpifphamojphii))
 2. Нажмите на иконку расширения.
 3. Добавьте переадресацию с `https://yt3.ggpht.com/*` на `https://yt4.ggpht.com/*`
 
 ![Resource Override](resource-override.webp)
+
+Для Android вы можете модифицировать официальное приложение YouTube при помощи
+[ReVanced](https://revanced.app). В нём есть патч «Bypass image region
+restrictions», который заменяет сервер аналогично способу выше. Для его
+активации необходимо перейти в настройки ReVanced, вкладку «Прочие» и включить
+«Обход ограничений региона».
