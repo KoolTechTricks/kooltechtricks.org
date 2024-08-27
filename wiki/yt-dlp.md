@@ -1,6 +1,6 @@
 +++
 title = 'yt-dlp'
-categories = ['audio-video', 'youtube']
+categories = ['audio-video']
 aliases = ['yt_dlp']
 publishDate = 2023-09-24T17:43:27Z
 lastmod = 2024-08-03T13:00:00Z
