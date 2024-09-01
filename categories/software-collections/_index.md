@@ -19,7 +19,7 @@ featured = true
 внимание на предупреждения, так как что-то может иметь какие-либо проблемы.
 
 Вы всегда можете
-[внести свой вклад](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md),
+[внести свой вклад](https://github.com/KoolTechTricks/content/blob/main/CONTRIBUTING.md),
 если знаете хорошее ПО, которое стоило бы включить в подборку, или хотите
 сообщить о важных изменениях. Подробнее о принципах подборок вы можете почитать
-[здесь](https://github.com/KoolTechTricks/pages/wiki/Принципы-подборок).
+[здесь](https://github.com/KoolTechTricks/content/wiki/Принципы-подборок).

@@ -41,10 +41,10 @@ Kool Tech Вики — свободный ресурс, на котором мо
 информация, доступная каждому. На сайте она никогда не потеряется, ею удобно
 делиться с другими людьми, изменения можно отслеживать. Все исходные тексты
 страниц доступны в репозитории на
-[GitHub](https://github.com/KoolTechTricks/pages) под лицензией
+[GitHub](https://github.com/KoolTechTricks/content) под лицензией
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ru). Каждый
 может
-[внести свой вклад](https://github.com/KoolTechTricks/pages/blob/main/CONTRIBUTING.md)
+[внести свой вклад](https://github.com/KoolTechTricks/content/blob/main/CONTRIBUTING.md)
 в развитие Вики.
 
 ## Социальные сети

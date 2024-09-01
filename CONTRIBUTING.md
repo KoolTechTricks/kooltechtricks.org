@@ -1,12 +1,12 @@
 # Руководство по внесению вклада
 
 Вы можете помочь улучшить
-[Kool Tech Вики](https://kooltechtricks.neocities.org), чтобы страницы
+[Kool Tech Вики](https://kooltechtricks.org), чтобы страницы
 содержали актуальную и достоверную информацию, которой сможет воспользоваться
 любой желающий.
 
 Перед внесением своего вклада следует ознакомиться с этим руководством. Также
-смотрите [подробную документацию](https://github.com/KoolTechTricks/pages/wiki).
+смотрите [подробную документацию](https://github.com/KoolTechTricks/content/wiki).
 
 ## Общие требования
 
@@ -67,11 +67,11 @@
 
 ### Создание отчётов
 
-Вы можете [создать отчёт](https://github.com/KoolTechTricks/pages/issues/new) в
+Вы можете [создать отчёт](https://github.com/KoolTechTricks/content/issues/new) в
 этом репозитории на GitHub когда вы хотите:
 
-- [Сообщить о несоответствии](https://github.com/KoolTechTricks/pages/issues/5)
-- [Предложить добавить что-то новое](https://github.com/KoolTechTricks/pages/issues/4)
+- [Сообщить о несоответствии](https://github.com/KoolTechTricks/content/issues/5)
+- [Предложить добавить что-то новое](https://github.com/KoolTechTricks/content/issues/4)
 
 В заголовке отчёта укажите страницу(-ы), с которой(-ыми) связан отчёт, и краткое
 описание проблемы.
@@ -83,7 +83,7 @@
 ### Дискуссии
 
 На GitHub есть функция
-[дискуссий](https://github.com/KoolTechTricks/pages/discussions), где можно
+[дискуссий](https://github.com/KoolTechTricks/content/discussions), где можно
 обсуждать и комментировать что-либо о проекте. В качестве эксперимента они
 включены, чтобы можно было оставлять какие-либо комментарии.
 
@@ -95,17 +95,17 @@
 Если вы способны внести изменения в текст страниц самостоятельно, то можете
 [создать форк репозитория](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 Затем, этот форк можно
-[предложить](https://github.com/KoolTechTricks/pages/pulls) в качестве
+[предложить](https://github.com/KoolTechTricks/content/pulls) в качестве
 изменения. Опишите причину изменений, и почему они улучшат страницу. В случае
 принятия запроса на изменение, вы можете числиться в списке вкладчиков.
 
-Подробнее: https://github.com/KoolTechTricks/pages/wiki/Рабочее-пространство
+Подробнее: https://github.com/KoolTechTricks/content/wiki/Рабочее-пространство
 
 ## Формат страниц
 
 Все страницы написаны в формате Markdown.
 
-Подробнее про формат: https://github.com/KoolTechTricks/pages/wiki/Формат-страниц
+Подробнее про формат: https://github.com/KoolTechTricks/content/wiki/Формат-страниц
 
 ## Перевод на другие языки
 
