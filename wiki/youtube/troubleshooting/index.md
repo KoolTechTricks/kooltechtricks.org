@@ -1,7 +1,6 @@
 +++
 title = 'Исправление проблем с YouTube'
 categories = ['guides']
-aliases = ['/wiki/youtube-troubleshooting']
 publishDate = 2024-08-02T14:00:00Z
 lastmod = 2024-08-29T13:42:00Z
 description = """Используйте эти методы исключительно для восстановления \

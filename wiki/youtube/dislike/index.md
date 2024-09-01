@@ -1,7 +1,6 @@
 +++
 title = 'Return YouTube Dislike'
 categories = ['browser-extensions']
-aliases = ['/wiki/return_youtube_dislike', '/wiki/return-youtube-dislike']
 publishDate = 2023-08-26T13:28:00Z
 lastmod = 2024-08-27T17:25:00Z
 description = """Расширение и API для возвращения счётчика дизлайков под видео \

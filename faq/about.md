@@ -1,6 +1,5 @@
 +++
 title = 'О проекте'
-aliases = ['/about']
 publishDate = 2023-12-16T15:50:18Z
 lastmod = 2024-07-22T13:30:00Z
 description = """Приветствую на сайте Kool Tech Tricks. Я — единственный \
