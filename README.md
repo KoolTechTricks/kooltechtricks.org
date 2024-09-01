@@ -1,3 +1,7 @@
+> [!note]
+> Это ветка старой версии сайта для Neocities. Содержимое больше не будет
+обновляться.
+
 # Страницы Kool Tech Tricks Вики
 
 Страницы для сайта [Kool Tech Tricks Вики](https://kooltechtricks.neocities.org)
