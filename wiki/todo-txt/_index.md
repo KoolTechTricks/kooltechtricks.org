@@ -2,7 +2,7 @@
 title = 'Todo.txt'
 categories = ['productivity']
 publishDate = 2024-04-26T14:36:31Z
-lastmod = 2024-09-05T17:45:00Z
+lastmod = 2024-09-05T18:57:00Z
 description = """Открытый текстовый формат файла списка задач, который удобно \
 просматривать и изменять в обычном текстовом редакторе. Специальные приложения \
 дополняют функциональность."""
@@ -61,7 +61,7 @@ Todo.txt является общепринятым стандартом чтен
 добавьте к ней икс (`x`) в начало.
 
 > [!note]
-> Для подсветки текста может потребоваться установка [плагинов](#плагины).
+> Для подсветки текста может потребоваться установка [плагинов](plugins).
 Отсутствие подсветки не мешает ведению списка задач в текстовом файле. На
 примере используется текстовый редактор KWrite, в котором встроена поддержка
 синтаксиса Todo.txt.
@@ -153,8 +153,8 @@ OneDrive, Nextcloud) или [Syncthing](/wiki/syncthing).
 
 ## Плагины
 
-- Для Visual Studio Code
-([Microsoft](https://marketplace.visualstudio.com/items?itemName=davraamides.todotxt-mode)
-/ [Open VSX](https://open-vsx.org/extension/davraamides/todotxt-mode))
-- [Для Obsidian](https://github.com/mvgrimes/obsidian-todotxt-plugin)
+Так как Todo.txt является обычным текстовым файлом, то его могут читать и
+другие приложения. Однако для некоторых требуется установка специальных
+[плагинов](plugins) и настройка.
+
 - [Для Vim](https://github.com/freitass/todo.txt-vim)
