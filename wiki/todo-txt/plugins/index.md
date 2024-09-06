@@ -2,10 +2,9 @@
 title = 'Плагины Todo.txt'
 categories = ['software-collections']
 publishDate = 2024-09-05T18:57:00Z
-lastmod = 2024-09-05T18:57:00Z
-description = """Так как Todo.txt является обычным текстовым файлом, то его \
-могут читать и другие приложения. Однако для некоторых требуется установка \
-специальных плагинов и настройка."""
+lastmod = 2024-09-06T18:32:00Z
+description = """Добавьте поддержку открытого формата Todo.txt в удобные для \
+вас текстовые редакторы."""
 cover = ''
 featured = false
 +++
@@ -13,9 +12,8 @@ featured = false
 # Плагины Todo.txt
 {{< categories >}}
 
-Так как [Todo.txt](/wiki/todo-txt) является обычным текстовым файлом, то его
-могут читать и другие приложения. Однако для некоторых требуется установка
-специальных плагинов и настройка.
+Добавьте поддержку открытого формата [Todo.txt](/wiki/todo-txt) в удобные для
+вас текстовые редакторы.
 
 ## Obsidian
 
@@ -67,3 +65,45 @@ featured = false
 [Code - OSS]: https://github.com/microsoft/vscode
 
 ![Плагин todotxt-mode для Visual Studio Code](vscode-todotxt-mode.webp)
+
+## Kate / KWrite
+
+В [Kate](https://kate-editor.org) и KWrite встроена поддержка синтаксиса
+Todo.txt.
+
+По умолчанию подсвечиваются только файлы `todo.txt`. Чтобы подсвечивать файлы
+вида `<project>.todo.txt`, нужно изменить формат:
+
+Настройки → Открытие и сохранение → Типы файлов → Тип файла: Разное/Todo.txt
+→ Расширения файлов: `*todo.txt`.
+
+![Поддержка Todo.txt в Kate](kate-todotxt.webp)
+
+## Vim
+
+### todo.txt-vim
+
+[Плагин](https://github.com/freitass/todo.txt-vim), который добавляет подсветку
+синтаксиса Todo.txt в [Vim](https://www.vim.org) и сочетания клавиш для
+выполнения действий (сортировка, изменение приоритета, добавление даты, отметка
+завершённости).
+
+![Плагин todo.txt-vim для Vim](vim-todotxt.webp)
+
+## Helix
+
+В [Helix](https://helix-editor.com) встроена поддержка синтаксиса Todo.txt и
+автоматическая сортировка задач. Для этого необходимо [отредактировать] файл
+`languages.toml`:
+
+[отредактировать]: https://docs.helix-editor.com/languages.html
+
+```toml
+[[language]]
+name = "todotxt"
+scope = "text.todotxt"
+file-types = [{ glob = "todo.txt" }, { glob = "*.todo.txt" }, "todotxt"]
+auto-format = true  # false - не сортировать задачи при сохранении файла
+```
+
+![Поддержка Todo.txt в Helix](helix-todotxt.webp)
