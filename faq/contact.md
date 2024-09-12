@@ -11,7 +11,7 @@ description = 'Написать администратору и главному
 
 - [Telegram](https://t.me/KoolTechLord)
 - [Matrix](https://go.kde.org/matrix/#/@kooltechtricks:matrix.org)
-- [Электронная почта](mailto:kooltechnologytricks@gmail.com)
+- {{< email >}}
 - [Telegram-чат](https://t.me/KoolTechChat)
 
 Я могу не отвечать из-за того, что я не часто проверяю наличие сообщений, или
