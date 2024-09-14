@@ -20,12 +20,6 @@
 Некоторые изображения в этом репозитории были взяты из сторонних источников. К
 ним не применяется лицензия этого репозитория:
 
-- [email_fairemail.jpg](/media/email_fairemail.jpg) — собрано из
-[источника](https://github.com/M66B/FairEmail/tree/master/images)
-- [email_k9mail.jpg](/media/email_k9mail.jpg) — собрано из
-[источника](https://f-droid.org/en/packages/com.fsck.k9)
-- [email_thunderbird.png](/media/email_thunderbird.png) — взято из
-[источника](https://www.thunderbird.net)
 - [rss_nextcloud.jpg](/media/rss_nextcloud.jpg) — взято из
 [источника](https://github.com/nextcloud/news/blob/master/screenshots/1.png)
 - [scrcpy.jpg](/media/scrcpy.jpg) — взято из
