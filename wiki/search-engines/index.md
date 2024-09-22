@@ -3,7 +3,7 @@ title = 'Поисковики'
 categories = ['internet', 'privacy', 'software-collections']
 publishDate = 2023-12-16T17:01:34Z
 lastmod = 2024-09-22T12:38:00Z
-description = """Поиск в Интернете без опасений слежки и сбора персональных
+description = """Поиск в Интернете без опасений слежки и сбора персональных \
 данных в целях показа таргетированной рекламы."""
 cover = 'image.webp'
 featured = true
