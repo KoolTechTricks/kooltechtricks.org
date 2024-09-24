@@ -2,7 +2,7 @@
 title = 'Приложения YouTube'
 categories = ['software-collections', 'privacy']
 publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-08-27T17:25:00Z
+lastmod = 2024-09-24T17:42:00Z
 description = """Более удобный и конфиденциальный просмотр видео."""
 cover = 'image.webp'
 featured = false
@@ -663,7 +663,8 @@ Google. В ней нужна отдельная авторизация для и
 ([peertube.futo.org](https://peertube.futo.org)). Из-за этого может не удаваться
 найти авторов с других серверов. Вам нужно добавить плагин с адресом другого
 сервера PeerTube:
-https://pluginhost.grayjay.app/peertube?url=https://peertube.futo.org
+https://pluginhost.grayjay.app/peertube?url=https://peertube.futo.org.
+[Релевантный отчёт о проблеме](https://github.com/futo-org/grayjay-android/issues/1350)
 
 [^2]: LibreTube получает данные о дизлайках через Piped, поэтому при включении
 локального извлечения данных отображается ноль дизлайков.
