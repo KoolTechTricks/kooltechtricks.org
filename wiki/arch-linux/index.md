@@ -2,7 +2,7 @@
 title = 'Arch Linux'
 categories = ['guides', 'linux']
 publishDate = 2024-03-28T16:43:56Z
-lastmod = 2024-09-01T05:28:00Z
+lastmod = 2024-09-24T17:58:00Z
 description = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \
 Программы в нём обновляются постоянно — пользователи получают новейшие версии. \
 Изначально в Arch не установлено никаких программ, кроме ядра и основных \
@@ -877,19 +877,22 @@ yay
 sudo informant read
 ```
 
-## Благодарности
+## Ссылки
 
-В этом разделе будут перечислены ссылки на источники, из которых была взята
-значительная часть информации на этой странице. Вы можете ознакомиться с ними
-для получения дополнительной информации.
+Дополнительная информация по теме.
+
+### Ресурсы
 
 - [ARU — Руководство по оптимизации Arch Linux](https://ventureo.codeberg.page)
 
-Видео:
+### Видео
 
-- [I Installed The Hardest System Known To Man...](https://youtu.be/_JYIAaLrwcY) — SomeOrdinaryGamers (30 июл. 2023 г.)
-- [The Foundation](https://youtu.be/hdJX27g0z14) — EF - Linux Made Simple (30 мая 2023 г.)
-- [10 Things You MUST DO After Installing Arch Linux (2023)](https://youtu.be/odgD_RdJjCU) — Ksk Royal (17 февр. 2023 г.)
+- [I Installed The Hardest System Known To Man...](https://youtu.be/_JYIAaLrwcY)
+(2023) — SomeOrdinaryGamers [45:05]
+- [The Foundation](https://youtu.be/hdJX27g0z14) (2023) — EF - Linux Made Simple
+[1:14:43]
+- [10 Things You MUST DO After Installing Arch Linux](https://youtu.be/odgD_RdJjCU)
+(2023) — Ksk Royal [13:00]
 
 
 [Manual pages]: https://man.archlinux.org
