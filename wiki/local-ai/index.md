@@ -2,7 +2,7 @@
 title = 'Локальный искусственный интеллект'
 categories = ['ai', 'software-collections']
 publishDate = 2024-07-11T15:04:12Z
-lastmod = 2024-08-21T16:25:00Z
+lastmod = 2024-09-24T17:49:00Z
 description = """Подборка программ генеративного искусственного интеллекта \
 (ИИ) и нейросетей, которые можно запускать локально на своём компьютере или \
 сервере для обеспечения полного контроля и безопасности ваших данных. \
@@ -409,7 +409,7 @@ Upscayl подойдёт в качестве альтернативы платн
         - [Windows](https://superimage.io/#download-section).
     - **Свободная версия:**
         - [GitHub](https://github.com/Lucchetto/SuperImage/releases/latest);
-        - [F-Droid](https://f-droid.org/packages/com.zhenxiang.superimage).
+        - [Архив F-Droid](https://f-droid.org/archive): `com.zhenxiang.superimage`
 
 Приложение для Android и Windows, которое позволяет увеличивать разрешение
 изображений при помощи искусственного интеллекта на вашем устройстве.
