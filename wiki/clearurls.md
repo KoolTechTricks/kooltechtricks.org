@@ -68,7 +68,7 @@ ClearURLs, она будет выглядеть так:
 
 ## Сторонние приложения
 
-- Расширение [uBlock Origin](/wiki/ublock_origin) имеет встроенный фильтр
+- Расширение [uBlock Origin](/wiki/ublock-origin) имеет встроенный фильтр
 [AdGuard URL Tracking Protection](https://kb.adguard.com/en/general/adguard-ad-filters),
 который удаляет отслеживающие параметры.
 - Приложение [URLCheck](/wiki/urlcheck) для Android имеет модуль очистки
