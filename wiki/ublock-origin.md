@@ -2,7 +2,7 @@
 title = 'uBlock Origin'
 categories = ['browser-extensions', 'internet', 'privacy']
 publishDate = 2023-12-19T16:54:56Z
-lastmod = 2024-06-13T18:01:58Z
+lastmod = 2024-10-02T14:45:00Z
 description = """Расширение с открытым исходным кодом, предназначенное для \
 блокировки нежелательного контента на сайтах: трекеров, майнеров, всплывающих \
 окон, рекламы и т.д. Имеется множество фильтров, которые обновляются \
@@ -91,9 +91,8 @@ uBlock Origin также позволяет заблокировать любо�
 [менее эффективно](https://github.com/uBlockOrigin/uBOL-home/wiki/Frequently-asked-questions-(FAQ)#filtering-capabilities-which-cant-be-ported-to-mv3)
 из-за ограничений Manifest V3, как следствие, использует меньше разрешений.
 
-- [Firefox](https://addons.mozilla.org/addon/ublock-origin-lite)
 - [Chromium](https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin-lite/cimighlppcgcoapaliogpjjdehbnofhn)
+- [Edge](https://microsoftedge.microsoft.com/addons/detail/cimighlppcgcoapaliogpjjdehbnofhn)
 
 ## Использование
 
