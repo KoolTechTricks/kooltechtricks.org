@@ -2,7 +2,7 @@
 title = 'Arch Linux'
 categories = ['guides', 'linux']
 publishDate = 2024-03-28T16:43:56Z
-lastmod = 2024-10-28T12:14:00Z
+lastmod = 2024-10-28T13:20:00Z
 description = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \
 Программы в нём обновляются постоянно — пользователи получают новейшие версии. \
 Изначально в Arch не установлено никаких программ, кроме ядра и основных \
@@ -399,40 +399,49 @@ EDITOR=nano visudo
 
 ### Загрузчик
 
-[systemd-boot](https://wiki.archlinux.org/title/Systemd-boot) работает только в
-EFI (команда `ls /sys/firmware/efi/efivars` должна что-то выводить). Иначе
-установите [GRUB](https://wiki.archlinux.org/title/GRUB_(Русский)).
+Проверьте режим загрузки командой `ls /sys/firmware/efi/efivars`. Если она
+выводит какие-то значения, то у вас EFI, и вы можете установить загрузчик
+[systemd-boot]. Иначе вам подойдёт загрузчик [GRUB].
 
-Установите systemd-boot командой `bootctl install`. Если выводит предупреждения
-о дырах безопасности (Security hole), то
+[systemd-boot]: https://wiki.archlinux.org/title/Systemd-boot
+[GRUB]: https://wiki.archlinux.org/title/GRUB_(Русский)
+
+#### systemd-boot
+
+Установить загрузчик systemd-boot: `bootctl install`
+
+> [!note]
+> Если выводит предупреждения о дырах безопасности (Security hole), то
 [установите](https://bbs.archlinux.org/viewtopic.php?id=287695) параметры
 `fmask=0077,dmask=0077` для раздела boot в `/etc/fstab`, затем
 [смонтируйте заново](https://bbs.archlinux.org/viewtopic.php?pid=2113977#p2113977)
 с опциями `uid=0,gid=0,fmask=0077,dmask=0077`.
 
-Создайте опцию в меню загрузчика:
+Создайте опцию в меню загрузчика, файл `/boot/loader/entries/arch.conf`:
 
 ```conf
-# /boot/loader/entries/arch.conf
-
 title Arch Linux (linux)
 linux /vmlinuz-linux
 initrd /initramfs-linux.img
 ```
 
-Добавьте путь к корневому разделу при помощи команды:
+Добавьте путь к корневому разделу (в данном случае `/dev/sda3`) при помощи
+команды:
 
 ```sh
-echo "options root=PARTUUID=$(blkid -s PARTUUID -o value /dev/root) rootflags=subvol=@ rw" >> /boot/loader/entries/arch.conf
+# Для ext4
+echo "options root=PARTUUID=$(blkid -s PARTUUID -o value /dev/КОРНЕВОЙ_РАЗДЕЛ) rw" >> /boot/loader/entries/arch.conf
+
+# Для Btrfs
+echo "options root=PARTUUID=$(blkid -s PARTUUID -o value /dev/КОРНЕВОЙ_РАЗДЕЛ) rootflags=subvol=@ rw" >> /boot/loader/entries/arch.conf
+# `rootflags=subvol=@` Указывает на загрузку подраздела `@`. Без этого система не загрузится.
+
+# После `rw` через пробел перечисляются параметры ядра.
+
+nano /boot/loader/entries/arch.conf  # Проверка
 ```
 
-Обратите внимание на параметр `rootflags=subvol=@` — это подраздел в файловой
-системе Btrfs. Если его не установить или установить неправильно, то система не
-загрузится должным образом. В файловой системе ext4 такой опции не требуется.
-
-После `rw` через пробел перечисляются параметры ядра.
-
-Добавьте опции загрузки других ядер (linux-lts):
+Добавьте опции загрузки других ядер, например, linux-lts:
 
 ```sh
 cp /boot/loader/entries/arch.conf /boot/loader/entries/arch-lts.conf
@@ -442,8 +451,12 @@ nano /boot/loader/entries/arch-lts.conf
 # initrd /initramfs-linux-lts.img
 ```
 
-Также можно настроить загрузчик, чтобы указать таймаут перед загрузкой:
+Также можно настроить загрузчик, чтобы указать задержку перед загрузкой:
 `nano /boot/loader/loader.conf`.
+
+```conf
+timeout 3
+```
 
 ### Перезагрузка
 
