@@ -2,7 +2,7 @@
 title = 'Arch Linux'
 categories = ['guides', 'linux']
 publishDate = 2024-03-28T16:43:56Z
-lastmod = 2024-10-27T08:41:00Z
+lastmod = 2024-10-28T12:14:00Z
 description = """Простой, легковесный и гибкий дистрибутив GNU/Linux. \
 Программы в нём обновляются постоянно — пользователи получают новейшие версии. \
 Изначально в Arch не установлено никаких программ, кроме ядра и основных \
@@ -293,7 +293,7 @@ mkfs.btrfs -L home /dev/sda4
 снимки, нужно сначала создать подразделы:
 
 ```sh
-mount /dev/sda3 /mnt
+mount /dev/sda3 /mnt  # root
 btrfs subvolume create /mnt/@
 btrfs subvolume list /mnt  # Проверка
 umount /mnt
@@ -307,9 +307,10 @@ umount /mnt
 
 ```sh
 # Опции монтирования: https://btrfs.readthedocs.io/en/latest/Administration.html
-mount -o compress=lzo,subvol=@ /dev/sda3 /mnt
+mount -o compress=lzo,subvol=@ /dev/sda3 /mnt  # root
 mount --mkdir /dev/sda1 /mnt/boot
 mount --mkdir /dev/sda4 /mnt/home
+ls /mnt  # Проверка
 ```
 
 Аналогично можно создать подразделы для `/home`. Не ошибитесь при монтировании
@@ -329,6 +330,7 @@ pacstrap -K /mnt base linux linux-firmware
 |`linux`|Ядро системы
 |`linux-firmware`|Прошивка для оборудования (не нужна в виртуальной машине)
 |`linux-lts`|Дополнительное ядро с долгосрочной поддержкой
+|`linux-headers` / `linux-lts-headers`|Заголовки (headers) и скрипты для сборки модулей ядра. Необходимо для некоторых драйверов (NVIDIA, VirtualBox Guest Additions)
 |`intel-ucode` / `amd-ucode`|[Микрокод] (не нужен в виртуальной машине)
 |`btrfs-progs`|Управление файловой системой Btrfs
 |`nano`|Текстовый редактор
@@ -364,6 +366,9 @@ export LANG=ru_RU.UTF-8 LANGUAGE=en_US:en:C:ru_RU
 символов можно командой `setfont cyr-sun16`).
 
 ### Сеть
+
+Необходимо настроить сеть, иначе после загрузки в систему у вас не будет
+интернета, и вам придётся заново загружаться с установочного образа.
 
 ```sh
 pacman -S networkmanager
@@ -483,7 +488,7 @@ reboot
 Установите нужные пакеты, перечислив их в `pacman -S`, и удалите ненужные при
 помощи `pacman -Rns`.
 
-Стоит установить [важные пакеты](#пакеты).
+Также стоит установить [важные пакеты](#пакеты).
 
 #### KDE Plasma
 
@@ -561,7 +566,8 @@ ls ~  # Удалите лишние папки при помощи rm -r
 
 ### Микрокод
 
-Стоит установить [микрокод], чтобы получать патчи безопасности и стабильности:
+Стоит установить [микрокод] для вашего процессора, чтобы получать патчи
+безопасности и стабильности:
 
 ```sh
 grep vendor /proc/cpuinfo  # Информация о производителе
@@ -729,7 +735,6 @@ sudo btrfs subvolume list /  # /home
 
 |Название пакета|Описание|
 |:-------------:|--------|
-|`less`|Более удобное чтение текста в терминале (`less /proc/cpuinfo` или `cat /proc/cpuinfo \| less`)
 |`tldr`|Краткое руководство команд
 |`fastfetch` / `neofetch`|Информация о системе в терминале
 |`btop` / `htop`|Системный монитор в терминале
@@ -782,7 +787,7 @@ sudo pacman -S reflector
 sudo cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bak
 
 sudo reflector --verbose --country 'Germany,Russia,' --latest 20 \
---protocol https --sort rate --save /etc/pacman.d/mirrorlist
+    --protocol https --sort rate --save /etc/pacman.d/mirrorlist
 ```
 
 Включите службу и таймер для автоматического обновления зеркал. Перед этим
@@ -832,7 +837,7 @@ sudo systemctl start paccache.timer
 практически любую программу. Это хоть и удобно, но добавляет риски безопасности
 и поломки системы, поскольку эти пакеты официально не поддерживаются.
 Большинство пакетов из AUR компилируются (если не оканчиваются на -bin). Также
-можно найти программы последней нестабильной редакции (оканчиваются на -git).
+можно найти программы последней нестабильной версии (оканчиваются на -git).
 
 Вы можете использовать AUR для лёгкой и быстрой установки любой программы, но
 увлекаться им не стоит. Большинство нужных программ есть во
