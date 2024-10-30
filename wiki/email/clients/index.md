@@ -2,7 +2,7 @@
 title = 'Почтовые клиенты'
 categories = ['internet', 'privacy', 'productivity', 'software-collections']
 publishDate = 2024-09-14T17:29:00Z
-lastmod = 2024-09-14T20:52:00Z
+lastmod = 2024-10-30T18:59:00Z
 description = """Специальные программы, которые позволяют получать и \
 отправлять электронные письма. Они более удобные, функциональные и \
 конфиденциальные, чем веб-почта."""
@@ -127,28 +127,31 @@ VirusTotal, Send, ChatGPT, Gemini, но для большинства требу
 |**Экспорт/Импорт настроек**|💰 В версии Pro
 |**Переводчик**|⚠️ Через DeepL, но нужен API-ключ
 
-## K-9 Mail
+## Thunderbird для Android
 
-![K-9 Mail](k9mail.webp)
+![Thunderbird для Android](thunderbird-android.webp)
 
 |||
 |-|-|
 |**Платформа**|Android
 |**Технологии**|Kotlin, Java, Открытый исходный код
-|**Сайт**|https://k9mail.app
+|**Сайт**|https://www.thunderbird.net/mobile
 |**Поддержать**|https://www.thunderbird.net/?form=support
-|**Документация**|(Устарела) https://docs.k9mail.app
+|**Документация**|https://support.mozilla.org/products/thunderbird-android
 |**Отчёты об ошибках**|https://github.com/thunderbird/thunderbird-android/issues
 |**Исходный код**|https://github.com/thunderbird/thunderbird-android
-|**Информация актуальна для версии**|6.804
+|**Информация актуальна для версии**|8.0
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
+- [Google Play](https://play.google.com/store/apps/details?id=net.thunderbird.android)
 - [GitHub](https://github.com/thunderbird/thunderbird-android/releases/latest)
-- [F-Droid](https://f-droid.org/packages/com.fsck.k9)
+- [F-Droid](https://f-droid.org/packages/net.thunderbird.android)
 
-Простой почтовый клиент с открытым исходным кодом для Android, который
-разрабатывается под руководством Thunderbird. В будущем будет преобразован в
-Thunderbird для Android.
+Простой почтовый клиент с открытым исходным кодом для Android, который был
+преобразован из K-9 Mail.
+
+Вы можете [импортировать](https://support.mozilla.org/kb/thunderbird-android-import#w_how-to-import-from-thunderbird-desktop)
+аккаунты из Thunderbird для компьютера, используя QR-код
+(требуется версия 128.4.0 и выше).
 
 |||
 |-|-|
