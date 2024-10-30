@@ -1,6 +1,6 @@
 +++
 title = 'Локальный искусственный интеллект'
-categories = ['ai', 'privacy']
+categories = ['ai', 'privacy', 'selfhost']
 publishDate = 2024-07-11T15:04:12Z
 lastmod = 2024-10-06T11:40:00Z
 description = """Генеративный искусственный интеллект (ИИ) и нейросети, \
