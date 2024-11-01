@@ -2,10 +2,10 @@
 title = 'Плагины Todo.txt'
 categories = ['software-collections']
 publishDate = 2024-09-05T18:57:00Z
-lastmod = 2024-09-06T18:32:00Z
+lastmod = 2024-11-01T17:43:00Z
 description = """Добавьте поддержку открытого формата Todo.txt в удобные для \
 вас текстовые редакторы."""
-cover = ''
+cover = 'obsidian-todotxt.webp'
 featured = false
 +++
 
@@ -31,19 +31,24 @@ featured = false
 Плагин позволяет искать и фильтровать задачи, но нельзя сортировать и смотреть
 время создания.
 
+- [Добавить в Obsidian](obsidian://show-plugin?id=todotxt)
+
 ![Плагин Todo.txt для Obsidian](obsidian-todotxt.webp)
 
 ### TodoTxt Codeblocks
 
-Этот
-[плагин](https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks#readme)
-позволяет встраивать списки задач Todo.txt в текстовые файлы Markdown.
+Плагин [TodoTxt Codeblocks] позволяет встраивать списки задач Todo.txt в
+текстовые файлы Markdown.
 
 Функциональность сильно ограничена в рамках встроенного элемента. Тем не менее
 присутствует сортировка, предпросмотр в реальном времени, группировка по
 проектам с возможностью сворачивания, архивация.
 
+- [Добавить в Obsidian](obsidian://show-plugin?id=todotxt-codeblocks)
+
 ![Плагин Todo.txt для Obsidian](obsidian-todotxt-codeblocks.webp)
+
+[TodoTxt Codeblocks]: https://github.com/benjamonnguyen/obsidian-todotxt-codeblocks#readme
 
 ## Visual Studio Code
 
