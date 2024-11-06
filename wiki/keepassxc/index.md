@@ -2,7 +2,7 @@
 title = 'KeePassXC'
 categories = ['security']
 publishDate = 2024-06-30T13:59:34Z
-lastmod = 2024-06-30T14:15:17Z
+lastmod = 2024-11-06T11:46:00Z
 description = """Кроссплатформенный менеджер паролей с открытым исходным \
 кодом. Хранит все данные локально в зашифрованном виде. В программе нет \
 излишних функций, рекламы и платных подписок."""
@@ -443,6 +443,18 @@ KeePassXC (KDBX).
 - [Fediverse (Mastodon)](https://fosstodon.org/@keepassxc) (англ.)
 - [Поддержать](https://keepassxc.org/donate)
 
+## Альтернативы
+
+- [Bitwarden] — менеджер паролей, который хранит все данные надёжно в облаке.
+Это удобно, если вы не готовы заботиться о резервных копиях и синхронизации
+локальной базы данных KeePassXC. Код сервера и клиентов
+[открыт](https://github.com/bitwarden).
+
+[Bitwarden]: https://bitwarden.com
+
 ## Смотрите также
 
-- [Пароли — ArchWiki](https://wiki.archlinux.org/title/Security_(Русский)#Пароли)
+- [Введение в пароли](https://www.privacyguides.org/ru/basics/passwords-overview)
+— Privacy Guides
+- [Пароли](https://wiki.archlinux.org/title/Security_(Русский)#Пароли)
+— ArchWiki
