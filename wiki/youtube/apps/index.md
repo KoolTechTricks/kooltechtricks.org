@@ -2,7 +2,7 @@
 title = 'Приложения YouTube'
 categories = ['software-collections', 'privacy']
 publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-10-29T17:22:00Z
+lastmod = 2024-11-06T10:12:00Z
 description = """Более удобный и конфиденциальный просмотр видео."""
 cover = 'image.webp'
 featured = false
@@ -251,6 +251,8 @@ FreeTube — это настольное приложение YouTube, созд�
 ### Tubular
 
 ![Tubular с поддержкой SponsorBlock и Return YouTube Dislike](tubular.webp)
+
+- [GitHub](https://github.com/polymorphicshade/Tubular/releases/latest)
 
 Модификация NewPipe с добавлением поддержки SponsorBlock и Return YouTube
 Dislike.
