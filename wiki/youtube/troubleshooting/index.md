@@ -72,12 +72,6 @@ noindex = true
 
 Источник: [Бэкдор](https://t.me/whackdoor/12105)
 
-### Android
-
-1. Скачайте [APK-файл](https://github.com/dovecoteescapee/ByeDPIAndroid/releases/latest)
-и установите приложение ByeDPIAndroid;
-2. Нажмите на кнопку Connect и подтвердите подключение.
-
 ### Piped
 
 > **Основная статья:**
