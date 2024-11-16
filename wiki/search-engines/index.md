@@ -2,7 +2,7 @@
 title = 'Поисковики'
 categories = ['internet', 'privacy', 'software-collections']
 publishDate = 2023-12-16T17:01:34Z
-lastmod = 2024-09-24T17:31:00Z
+lastmod = 2024-11-16T19:52:00Z
 description = """Поиск в Интернете без опасений слежки и сбора персональных \
 данных в целях показа таргетированной рекламы."""
 cover = 'image.webp'
@@ -75,9 +75,11 @@ featured = true
 **Искусственный интеллект:**
 |||
 |-|-|
-|**Функции**|[Чат](https://duckduckgo.com/chat)
+|**Функции**|[Чат](https://duckduckgo.com/chat), Ассистент [DuckAssist]
 |**Модели**|GPT-4o mini, Claude 3, Llama 3.1, Mixtral 8x7B
 |**Справка**|https://duckduckgo.com/duckduckgo-help-pages/aichat
+
+[DuckAssist]: https://duckduckgo.com/duckduckgo-help-pages/results/duckassist
 
 **Замечания:**
 
