@@ -2,7 +2,7 @@
 title = 'Поисковики'
 categories = ['internet', 'privacy', 'software-collections']
 publishDate = 2023-12-16T17:01:34Z
-lastmod = 2024-11-16T19:52:00Z
+lastmod = 2024-11-23T18:47:00Z
 description = """Поиск в Интернете без опасений слежки и сбора персональных \
 данных в целях показа таргетированной рекламы."""
 cover = 'image.webp'
@@ -182,7 +182,7 @@ featured = true
 **Искусственный интеллект:**
 |||
 |-|-|
-|**Функции**|[Ответ с помощью ИИ](https://brave.com/blog/answer-with-ai), избранные фрагменты, описания
+|**Функции**|[Ответ с помощью ИИ](https://brave.com/blog/answer-with-ai), [Чат с ИИ](https://brave.com/blog/brave-search-chat-mode), избранные фрагменты, описания
 |**Модели**|Собственная модель
 |**Справка**|https://search.brave.com/help/ai
 
