@@ -2,7 +2,7 @@
 title = 'Syncthing'
 categories = ['files']
 publishDate = 2023-10-07T18:33:37Z
-lastmod = 2023-12-24T14:11:38Z
+lastmod = 2024-12-15T19:47:00Z
 description = """Программа для синхронизации файлов между двумя и более \
 устройствами в режиме реального времени."""
 cover = '/media/syncthing.jpg'
@@ -49,9 +49,16 @@ Syncthing позволяет синхронизировать различные
 
 ### Мобильное устройство
 
-Приложение для Android вы можете скачать из
-[Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
-или [F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid).
+[Официальное приложение](https://github.com/syncthing/syncthing-android)
+для Android больше не разрабатывается и не обновляется. Используйте
+[стороннее приложение](https://github.com/Catfriend1/syncthing-android),
+в которое было внесено множество изменений в интерфейс и функциональность.
+Скачать можно из
+[GitHub](https://github.com/Catfriend1/syncthing-android/releases/latest) или
+[F-Droid](https://f-droid.org/packages/com.github.catfriend1.syncthingandroid).
+Если вы пользовались официальным приложением, то настоятельно рекомендуется
+перейти на стороннее, чтобы продолжать получать обновления. Возможно перенести
+свои настройки.
 
 На iOS нет официального приложения, но есть стороннее
 [Möbius Sync](https://apps.apple.com/us/app/mobiussync/id1539203216).
