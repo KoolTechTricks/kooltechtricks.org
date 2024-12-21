@@ -2,7 +2,7 @@
 title = 'Приложения YouTube'
 categories = ['software-collections', 'privacy']
 publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-11-06T10:12:00Z
+lastmod = 2024-12-21T13:25:00Z
 description = """Более удобный и конфиденциальный просмотр видео."""
 cover = 'image.webp'
 featured = false
@@ -271,34 +271,41 @@ Dislike.
 
 ## Grayjay
 
-![Grayjay](grayjay.webp)
+![Grayjay на Android](grayjay.webp)
+
+![Grayjay на компьютере](grayjay_desktop.webp)
 
 |||
 |-|-|
-|**Платформа**|Android
+|**Платформа**|Android, Компьютер (Windows, Linux, macOS)
 |**Поддерживаемые сервисы**|YouTube, PeerTube[^1], Odysee, Twitch, Kick, Patreon, SoundCloud, Spotify, Rumble, Nebula, BiliBili
-|**Технологии**|Kotlin, Открытый исходный код ([Grayjay Core License 1.0])
+|**Технологии**|Kotlin, Доступный исходный код ([Source First License 1.1])
 |**Получение данных**|Извлечение YouTube / API платформ
 |**Сайт**|https://grayjay.app
 |**FAQ**|https://grayjay.app/faq.html
-|**Отчёты об ошибках**|https://github.com/futo-org/grayjay-android/issues
-|**Поддержать разработчиков**|Купить лицензию внутри приложения
-|**Исходный код**|https://gitlab.futo.org/videostreaming/grayjay
+|**Отчёты об ошибках**|[Android](https://github.com/futo-org/grayjay-android/issues), [Компьютер](https://github.com/futo-org/Grayjay.Desktop/issues)
+|**Поддержать разработчиков**|Купить лицензию внутри приложения (один ключ для Android и компьютера)
+|**Исходный код**|[Android](https://gitlab.futo.org/videostreaming/grayjay), [Компьютер](https://gitlab.futo.org/videostreaming/Grayjay.Desktop)
 |**Информация актуальна для версии**|Grayjay: 253, Плагин YouTube: 192
 
-[Grayjay Core License 1.0]: https://gitlab.futo.org/videostreaming/grayjay/-/blob/master/LICENSE.md
+[Source First License 1.1]: https://gitlab.futo.org/videostreaming/grayjay/-/blob/master/LICENSE.md
 
 - [APK](https://releases.grayjay.app/app-universal-release.apk)
 - [F-Droid](https://app.futo.org/fdroid/repo) (репозиторий FUTO)
 - [Google Play](https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore)
 (ограниченная функциональность)
+- [Компьютер](https://grayjay.app/desktop):
+    - [Windows](https://updater.grayjay.app/Apps/Grayjay.Desktop/Grayjay.Desktop-win-x64.zip)
+    - [Linux](https://updater.grayjay.app/Apps/Grayjay.Desktop/Grayjay.Desktop-linux-x64.zip)
+    - [macOS](https://grayjay.app/desktop)
 
 Grayjay позволяет просматривать видеоконтент на ваших собственных условиях,
 полностью сохраняя право собственности и контроль над тем, что вы смотрите.
 
-Смотрите видео и подписывайтесь на каналы не только с YouTube, но и со множества
-других платформ. Есть система плагинов, которая позволяет добавить любую
-платформу. Плагины обновляются независимо от приложения.
+Смотрите видео и прямые трансляции, слушайте музыку и подписывайтесь на каналы
+не только с YouTube, но и со множества других платформ. Система плагинов,
+обновляющихся независимо от приложения, позволяет добавить поддержку любой
+платформы.
 
 Вы можете войти в аккаунт на платформах через меню «Источники». Это даёт
 возможность просматривать ограниченный (платный) контент, импортировать подписки
@@ -314,6 +321,9 @@ API [Return YouTube Dislike] и пропуск сегментов [SponsorBlock]
 влияния и не могут заглушать мнения пользователей. Для регистрации в Polycentric
 не требуется почта или пароль — нужно только создать токен и хранить его в
 надёжном месте. Этот токен позволит писать от вашего имени.
+
+> [!note]
+> Таблица функциональности приведена для мобильной версии Grayjay.
 
 **Персонализация:**
 |||
