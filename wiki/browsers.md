@@ -2,7 +2,7 @@
 title = 'Браузеры'
 categories = ['compilations', 'internet', 'privacy']
 publishDate = 2024-01-11T13:59:20Z
-lastmod = 2024-07-03T14:50:21Z
+lastmod = 2024-12-24T20:34:00Z
 description = """Подборка браузеров, которые уважают конфиденциальность и \
 свободу пользователей."""
 featured = true
@@ -554,6 +554,10 @@ User Agent. Код браузера закрыт, его трудно прове
 (обновления с задержкой)
 
 ### Mull
+
+> [!caution]
+> Mull [больше не получает обновлений](https://www.divestos.org/pages/news#end),
+следовательно, крайне не рекомендуется для использования.
 
 Улучшенная и более укреплённая версия [Fennec](#fennec) от одного человека
 [Divested Computing](https://divested.dev). Убраны проприетарные
