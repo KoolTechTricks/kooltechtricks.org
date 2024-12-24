@@ -1,21 +1,17 @@
-+++
-title = 'Anki'
-categories = ['education']
-publishDate = 2023-08-30T14:48:00Z
-lastmod = 2024-04-06T13:49:20Z
-description = """Приложение для заучивания карточек. Оно помогает легко \
-учить информацию в виде текста, картинок или аудио, благодаря алгоритмам \
-постепенного обучения."""
-cover = '/media/anki.jpg'
-featured = true
-+++
-
-# Anki
-{{< categories >}}
+---
+title: Anki
+publishDate: 2023-08-30T14:48:00Z
+lastmod: 2024-04-06T13:49:20Z
+categories: ['education']
+authors: ['Kool Tech Lord']
+image: /media/anki.jpg
+---
 
 [Anki](https://apps.ankiweb.net) — приложение для заучивания карточек. Оно
 помогает легко учить информацию в виде текста, картинок или аудио, благодаря
 алгоритмам постепенного обучения.
+
+<!--more-->
 
 ![Скриншот программы Anki для ПК](/media/anki.jpg)
 

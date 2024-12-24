@@ -1,21 +1,17 @@
-+++
-title = 'KeePassXC'
-categories = ['security']
-publishDate = 2024-06-30T13:59:34Z
-lastmod = 2024-11-06T11:46:00Z
-description = """Кроссплатформенный менеджер паролей с открытым исходным \
-кодом. Хранит все данные локально в зашифрованном виде. В программе нет \
-излишних функций, рекламы и платных подписок."""
-cover = 'keepassxc.webp'
-featured = true
-+++
-
-# KeePassXC
-{{< categories >}}
+---
+title: KeePassXC
+publishDate: 2024-06-30T13:59:34Z
+lastmod: 2024-11-06T11:46:00Z
+categories: ['security']
+authors: ['Kool Tech Lord']
+image: keepassxc.webp
+---
 
 [KeePassXC] — кроссплатформенный менеджер паролей с [открытым исходным кодом].
 Хранит все данные локально в зашифрованном виде. В программе нет излишних
 функций, рекламы и платных подписок.
+
+<!--more-->
 
 ![KeePassXC](keepassxc.webp)
 

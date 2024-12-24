@@ -1,21 +1,17 @@
-+++
-title = 'Universal Android Debloater'
-categories = ['android', 'privacy']
-publishDate = 2024-08-08T14:57:00Z
-lastmod = 2024-10-06T18:20:00Z
-description = """Программа для удаления предустановленных приложений Android \
-без root-прав. У каждого приложения есть описание и степень безопасности \
-удаления."""
-cover = 'universal-android-debloater.webp'
-featured = true
-+++
-
-# Universal Android Debloater
-{{< categories >}}
+---
+title: Universal Android Debloater
+publishDate: 2024-08-08T14:57:00Z
+lastmod: 2024-10-06T18:20:00Z
+categories: ['android', 'privacy']
+authors: ['Kool Tech Lord']
+image: universal-android-debloater.webp
+---
 
 [Universal Android Debloater] (UAD) — программа для удаления предустановленных
 приложений Android без root-прав. У каждого приложения есть описание и степень
 безопасности удаления.
+
+<!--more-->
 
 На этой странице говорится про [Universal Android Debloater Next Generation],
 который является активным форком [Universal Android Debloater от 0x192].

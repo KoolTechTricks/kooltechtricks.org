@@ -1,22 +1,18 @@
-+++
-title = 'yt-dlp'
-categories = ['audio-video']
-publishDate = 2023-09-24T17:43:27Z
-lastmod = 2024-08-03T13:00:00Z
-description = """Универсальная программа для скачивания видео и аудио из \
-интернета: YouTube, TikTok, X (Twitter), Reddit и другие. Имеет гибкий \
-консольный интерфейс, возможно скачивать плейлисты и прямые эфиры."""
-cover = '/media/yt-dlp.webp'
-featured = true
-+++
-
-# yt-dlp
-{{< categories >}}
+---
+title: yt-dlp
+publishDate: 2023-09-24T17:43:27Z
+lastmod: 2024-08-03T13:00:00Z
+categories: ['audio-video']
+authors: ['Kool Tech Lord']
+image: /media/yt-dlp.webp
+---
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp#readme) — универсальная программа для
 скачивания видео и аудио из интернета: YouTube, TikTok, X (Twitter), Reddit и
 [другие](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md). Имеет
 гибкий консольный интерфейс, возможно скачивать плейлисты и прямые эфиры.
+
+<!--more-->
 
 С открытым исходным кодом, активно поддерживается сообществом. Заменяет любые
 сомнительные программы и расширения для скачивания видео. Кроме того, является

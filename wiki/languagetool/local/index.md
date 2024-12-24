@@ -1,20 +1,16 @@
-+++
-title = 'Локальный сервер LanguageTool'
-categories = ['guides', 'privacy', 'selfhost']
-publishDate = 2024-11-02T16:33:00Z
-lastmod = 2024-11-02T16:33:00Z
-description = """Запускайте проверку грамматики LanguageTool на вашем \
-компьютере, чтобы повысить уровень вашей конфиденциальности и снизить риск \
-утечки данных."""
-cover = 'gui.webp'
-featured = false
-+++
-
-# Локальный сервер LanguageTool
-{{< categories >}}
+---
+title: Локальный сервер LanguageTool
+publishDate: 2024-11-02T16:33:00Z
+lastmod: 2024-11-02T16:33:00Z
+categories: ['guides', 'privacy', 'selfhost']
+authors: ['Kool Tech Lord']
+image: gui.webp
+---
 
 Запускайте проверку грамматики [LanguageTool] на вашем компьютере, чтобы
 повысить уровень вашей конфиденциальности и снизить риск утечки данных.
+
+<!--more-->
 
 > [!note]
 > Локальный сервер LanguageTool не содержит правил на основе искусственного

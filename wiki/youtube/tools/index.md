@@ -1,15 +1,14 @@
-+++
-title = 'Инструменты для YouTube'
-categories = ['audio-video', 'software-collections']
-publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-10-29T18:26:00Z
-description = """Полезные программы и сервисы."""
-cover = ''
-featured = false
-+++
+---
+title: Инструменты для YouTube
+publishDate: 2024-08-27T17:25:00Z
+lastmod: 2024-10-29T18:26:00Z
+categories: ['audio-video', 'software-collections']
+authors: ['Kool Tech Lord']
+---
 
-# Инструменты для YouTube
-{{< categories >}}
+Полезные программы и сервисы.
+
+<!--more-->
 
 ## yt-dlp
 

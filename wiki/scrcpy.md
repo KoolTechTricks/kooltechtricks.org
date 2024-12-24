@@ -1,20 +1,17 @@
-+++
-title = 'scrcpy'
-categories = ['android']
-publishDate = 2023-11-17T17:37:47Z
-lastmod = 2023-12-24T13:10:53Z
-description = """Консольная программа для отражения экрана и аудио с \
-Android-устройства на компьютер под управлением Windows, Linux и macOS."""
-cover = '/media/scrcpy.jpg'
-featured = true
-+++
-
-# scrcpy
-{{< categories >}}
+---
+title: scrcpy
+publishDate: 2023-11-17T17:37:47Z
+lastmod: 2023-12-24T13:10:53Z
+categories: ['android']
+authors: ['Kool Tech Lord']
+image: /media/scrcpy.jpg
+---
 
 [scrcpy](https://github.com/Genymobile/scrcpy) — консольная программа для
 отражения экрана и аудио с Android-устройства на компьютер под управлением
 Windows, Linux и macOS.
+
+<!--more-->
 
 ![Демонстрация отражённого экрана Android](/media/scrcpy.jpg)
 

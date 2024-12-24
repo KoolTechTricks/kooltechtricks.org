@@ -1,16 +1,15 @@
-+++
-title = 'Приложения Mastodon'
-categories = ['internet', 'software-collections']
-publishDate = 2024-06-20T13:16:18Z
-lastmod = 2024-06-23T18:05:33Z
-description = """Приложения для доступа к децентрализованной сети Mastodon."""
-cover = '/media/mastodon-apps.png'
-+++
-
-# Приложения Mastodon
-{{< categories >}}
+---
+title: Приложения Mastodon
+publishDate: 2024-06-20T13:16:18Z
+lastmod: 2024-06-23T18:05:33Z
+categories: ['internet', 'software-collections']
+authors: ['Kool Tech Lord']
+image: /media/mastodon-apps.png
+---
 
 Приложения для доступа к децентрализованной сети Mastodon.
+
+<!--more-->
 
 Mastodon является открытой децентрализованной сетью, поэтому пользователи не
 привязаны к конкретным приложениям — всегда возможно использовать сторонние

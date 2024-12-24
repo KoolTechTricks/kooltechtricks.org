@@ -1,19 +1,16 @@
-+++
-title = 'Плагины LanguageTool'
-categories = ['software-collections']
-publishDate = 2024-11-02T16:33:00Z
-lastmod = 2024-11-02T16:33:00Z
-description = """Плагины и дополнения для текстовых редакторов, которые \
-добавляют поддержку проверки грамматики, используя LanguageTool."""
-cover = 'obsidian.webp'
-featured = false
-+++
-
-# Плагины LanguageTool
-{{< categories >}}
+---
+title: Плагины LanguageTool
+publishDate: 2024-11-02T16:33:00Z
+lastmod: 2024-11-02T16:33:00Z
+categories: ['software-collections']
+authors: ['Kool Tech Lord']
+image: obsidian.webp
+---
 
 Плагины и дополнения для текстовых редакторов, которые добавляют поддержку
 проверки грамматики, используя [LanguageTool].
+
+<!--more-->
 
 > [!note]
 > На этой странице не рассматриваются [официальные приложения] LanguageTool для

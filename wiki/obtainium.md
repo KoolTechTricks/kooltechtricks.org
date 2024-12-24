@@ -1,20 +1,17 @@
-+++
-title = 'Obtainium'
-categories = ['android']
-publishDate = 2024-02-15T18:09:55Z
-lastmod = 2024-03-22T12:42:04Z
-description = """Приложение для Android, которое позволяет получать обновления \
-напрямую из источников GitHub, F-Droid, GitLab, Codeberg, APKPure и др."""
-cover = '/media/obtainium.png'
-featured = true
-+++
-
-# Obtainium
-{{< categories >}}
+---
+title: Obtainium
+publishDate: 2024-02-15T18:09:55Z
+lastmod: 2024-03-22T12:42:04Z
+categories: ['android']
+authors: ['Kool Tech Lord']
+image: /media/obtainium.png
+---
 
 [Obtainium](https://github.com/ImranR98/Obtainium#readme) — приложение для
 Android, которое позволяет получать обновления напрямую из источников GitHub,
 F-Droid, GitLab, Codeberg, APKPure и др.
+
+<!--more-->
 
 ![Obtainium](/media/obtainium.png)
 

@@ -1,22 +1,18 @@
-+++
-title = 'Todo.txt'
-categories = ['productivity']
-publishDate = 2024-04-26T14:36:31Z
-lastmod = 2024-09-06T19:11:00Z
-description = """Открытый текстовый формат файла списка задач, который удобно \
-просматривать и изменять в обычном текстовом редакторе. Специальные приложения \
-дополняют функциональность."""
-layout = 'single'
-cover = 'image.webp'
-featured = true
-+++
-
-# Todo.txt
-{{< categories >}}
+---
+title: Todo.txt
+publishDate: 2024-04-26T14:36:31Z
+lastmod: 2024-09-06T19:11:00Z
+categories: ['productivity']
+authors: ['Kool Tech Lord']
+image: image.webp
+layout: single
+---
 
 [Todo.txt](http://todotxt.org) — открытый текстовый формат файла списка задач,
 который удобно просматривать и изменять в обычном текстовом редакторе.
 [Специальные приложения](apps) дополняют функциональность.
+
+<!--more-->
 
 ![Файл todo.txt, открытый в обычном текстовом редакторе и приложениях](image.webp)
 

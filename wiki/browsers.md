@@ -1,17 +1,14 @@
-+++
-title = 'Браузеры'
-categories = ['compilations', 'internet', 'privacy']
-publishDate = 2024-01-11T13:59:20Z
-lastmod = 2024-12-24T20:34:00Z
-description = """Подборка браузеров, которые уважают конфиденциальность и \
-свободу пользователей."""
-featured = true
-+++
-
-# Браузеры
-{{< categories >}}
+---
+title: Браузеры
+publishDate: 2024-01-11T13:59:20Z
+lastmod: 2024-12-24T20:34:00Z
+categories: ['compilations', 'internet', 'privacy']
+authors: ['Kool Tech Lord']
+---
 
 Подборка браузеров, которые уважают конфиденциальность и свободу пользователей.
+
+<!--more-->
 
 При оценке качества браузеров следует обращать внимание на следующие критерии:
 

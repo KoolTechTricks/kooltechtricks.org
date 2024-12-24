@@ -1,16 +1,14 @@
-+++
-title = 'Расширения для YouTube'
-categories = ['browser-extensions', 'software-collections']
-publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-08-27T17:25:00Z
-description = """Более удобный просмотр видео в браузере."""
-cover = ''
-+++
-
-# Расширения для YouTube
-{{< categories >}}
+---
+title: Расширения для YouTube
+publishDate: 2024-08-27T17:25:00Z
+lastmod: 2024-08-27T17:25:00Z
+categories: ['browser-extensions', 'software-collections']
+authors: ['Kool Tech Lord']
+---
 
 Более удобный просмотр видео в браузере.
+
+<!--more-->
 
 ## Return YouTube Dislike
 

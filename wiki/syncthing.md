@@ -1,19 +1,16 @@
-+++
-title = 'Syncthing'
-categories = ['files']
-publishDate = 2023-10-07T18:33:37Z
-lastmod = 2024-12-15T19:47:00Z
-description = """Программа для синхронизации файлов между двумя и более \
-устройствами в режиме реального времени."""
-cover = '/media/syncthing.jpg'
-featured = true
-+++
-
-# Syncthing
-{{< categories >}}
+---
+title: Syncthing
+publishDate: 2023-10-07T18:33:37Z
+lastmod: 2024-12-15T19:47:00Z
+categories: ['files']
+authors: ['Kool Tech Lord']
+image: /media/syncthing.jpg
+---
 
 [Syncthing](https://syncthing.net) — программа для синхронизации файлов между
 двумя и более устройствами в режиме реального времени.
+
+<!--more-->
 
 ![Скриншот веб-интерфейса Syncthing](/media/syncthing.jpg)
 

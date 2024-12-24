@@ -1,18 +1,16 @@
-+++
-title = 'Return YouTube Dislike'
-categories = ['browser-extensions']
-publishDate = 2023-08-26T13:28:00Z
-lastmod = 2024-08-27T17:25:00Z
-description = """Расширение и API для возвращения счётчика дизлайков под видео \
-на YouTube."""
-cover = 'image.webp'
-+++
-
-# Return YouTube Dislike
-{{< categories >}}
+---
+title: Return YouTube Dislike
+publishDate: 2023-08-26T13:28:00Z
+lastmod: 2024-08-27T17:25:00Z
+categories: ['browser-extensions']
+authors: ['Kool Tech Lord']
+image: image.webp
+---
 
 [Return YouTube Dislike](https://returnyoutubedislike.com) — расширение и API
 для возвращения счётчика дизлайков под видео на YouTube.
+
+<!--more-->
 
 ![Расширение Return YouTube Dislike показывает, что на видеообзоре много
 дизлайков](image.webp)

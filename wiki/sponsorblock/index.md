@@ -1,17 +1,11 @@
-+++
-title = 'SponsorBlock'
-categories = ['browser-extensions']
-publishDate = 2023-08-23T15:57:00Z
-lastmod = 2024-08-18T14:14:00Z
-description = """Расширение и API для пропуска раздражающих сегментов в видео \
-на YouTube. Пользователи отмечают напоминания о подписке, заставки, рекламу, \
-тем самым создавая базу данных, которой может пользоваться любой желающий."""
-cover = 'image.webp'
-featured = true
-+++
-
-# SponsorBlock
-{{< categories >}}
+---
+title: SponsorBlock
+publishDate: 2023-08-23T15:57:00Z
+lastmod: 2024-08-18T14:14:00Z
+categories: ['browser-extensions']
+authors: ['Kool Tech Lord']
+image: image.webp
+---
 
 [SponsorBlock] — расширение и API для пропуска раздражающих сегментов в видео на
 [YouTube]. Пользователи отмечают напоминания о подписке, заставки, рекламу, тем
@@ -19,6 +13,8 @@ featured = true
 
 [SponsorBlock]: https://sponsor.ajay.app
 [YouTube]: /wiki/youtube
+
+<!--more-->
 
 ![Плеер YouTube с установленным расширением SponsorBlock. Сегменты с рекламой
 выделены цветом и пропускаются автоматически.](image.webp)

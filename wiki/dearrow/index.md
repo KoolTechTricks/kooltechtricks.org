@@ -1,17 +1,11 @@
-+++
-title = 'DeArrow'
-categories = ['browser-extensions', 'wellbeing']
-publishDate = 2023-08-25T17:48:00Z
-lastmod = 2024-08-18T14:28:00Z
-description = """Расширение и API для замены эмоциональных и вызывающих \
-обложек и названий видео на YouTube. Пользователи предлагают свои названия, \
-тем самым создавая базу данных, которой может пользоваться любой желающий."""
-cover = 'dearrow.webp'
-featured = true
-+++
-
-# DeArrow
-{{< categories >}}
+---
+title: DeArrow
+publishDate: 2023-08-25T17:48:00Z
+lastmod: 2024-08-18T14:28:00Z
+categories: ['browser-extensions', 'wellbeing']
+authors: ['Kool Tech Lord']
+image: dearrow.webp
+---
 
 [DeArrow] — расширение и API для замены эмоциональных и вызывающих обложек и
 названий видео на [YouTube]. Пользователи предлагают свои названия, тем самым
@@ -19,6 +13,8 @@ featured = true
 
 [DeArrow]: https://dearrow.ajay.app
 [YouTube]: /wiki/youtube
+
+<!--more-->
 
 [Демонстрационное видео](https://youtu.be/QjjpDhHh_QI)
 

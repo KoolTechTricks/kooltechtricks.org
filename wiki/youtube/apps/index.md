@@ -1,15 +1,15 @@
-+++
-title = 'Приложения YouTube'
-categories = ['software-collections', 'privacy']
-publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-12-21T13:25:00Z
-description = """Более удобный и конфиденциальный просмотр видео."""
-cover = 'image.webp'
-featured = false
-+++
+---
+title: Приложения YouTube
+publishDate: 2024-08-27T17:25:00Z
+lastmod: 2024-12-21T13:25:00Z
+categories: ['software-collections', 'privacy']
+authors: ['Kool Tech Lord']
+image: image.webp
+---
 
-# Приложения YouTube
-{{< categories >}}
+Более удобный и конфиденциальный просмотр видео.
+
+<!--more-->
 
 Официальные приложения YouTube хоть и стабильные и не имеют проблем с
 воспроизведением, всё же не достают нужных функций и персонализации. Google

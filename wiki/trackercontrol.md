@@ -1,20 +1,17 @@
-+++
-title = 'TrackerControl'
-categories = ['android', 'privacy']
-publishDate = 2024-01-27T17:22:42Z
-lastmod = 2024-01-27T17:22:42Z
-description = """Приложение для Android, которое позволяет пользователям \
-отслеживать и блокировать скрытый сбор данных в других приложениях."""
-cover = '/media/trackercontrol.jpg'
-featured = true
-+++
-
-# TrackerControl
-{{< categories >}}
+---
+title: TrackerControl
+publishDate: 2024-01-27T17:22:42Z
+lastmod: 2024-01-27T17:22:42Z
+categories: ['android', 'privacy']
+authors: ['Kool Tech Lord']
+image: /media/trackercontrol.jpg
+---
 
 [TrackerControl](https://trackercontrol.org) — приложение для Android, которое
 позволяет пользователям отслеживать и блокировать скрытый сбор данных в других
 приложениях.
+
+<!--more-->
 
 ![TrackerControl показывает сколько компаний пыталось собрать данные и на какие
 серверы](/media/trackercontrol.jpg)

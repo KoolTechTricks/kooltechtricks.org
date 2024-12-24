@@ -1,23 +1,19 @@
-+++
-title = 'F-Droid'
-categories = ['android']
-publishDate = 2023-11-07T15:46:39Z
-lastmod = 2024-07-23T17:01:00Z
-description = """Каталог приложений для Android с открытым исходным кодом. Это \
-некоммерческий проект, который уважает свободу и конфиденциальность \
-пользователей."""
-cover = '/media/f-droid-clients-official.webp'
-featured = true
-+++
-
-# F-Droid
-{{< categories >}}
+---
+title: F-Droid
+publishDate: 2023-11-07T15:46:39Z
+lastmod: 2024-07-23T17:01:00Z
+categories: ['android']
+authors: ['Kool Tech Lord']
+image: /media/f-droid-clients-official.webp
+---
 
 [F-Droid] — каталог приложений для Android с открытым исходным кодом. Это
 некоммерческий проект, который уважает свободу и конфиденциальность
 пользователей.
 
 [F-Droid]: https://f-droid.org
+
+<!--more-->
 
 ## О проекте
 

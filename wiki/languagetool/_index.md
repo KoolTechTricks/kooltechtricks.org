@@ -1,19 +1,12 @@
-+++
-title = 'LanguageTool'
-categories = []
-publishDate = 2024-11-02T16:33:00Z
-lastmod = 2024-11-02T16:33:00Z
-description = """Программа для проверки грамматики с открытым исходным кодом. \
-Можно использовать расширение для браузера или плагины для текстовых \
-редакторов. Находит типичные ошибки, которые не могут быть обнаружены простой \
-проверкой орфографии. Подойдёт в качестве альтернативы Grammarly."""
-layout = 'single'
-cover = 'plugins/browser.webp'
-featured = false
-+++
-
-# LanguageTool
-{{< categories >}}
+---
+title: LanguageTool
+publishDate: 2024-11-02T16:33:00Z
+lastmod: 2024-11-02T16:33:00Z
+categories: []
+authors: ['Kool Tech Lord']
+image: plugins/browser.webp
+layout: single
+---
 
 [LanguageTool] — программа для проверки грамматики с
 [открытым исходным кодом] [^1]. Можно использовать в качестве расширения для
@@ -23,6 +16,8 @@ featured = false
 
 [LanguageTool]: https://languagetool.org
 [открытым исходным кодом]: https://github.com/languagetool-org/languagetool
+
+<!--more-->
 
 ![LanguageTool](plugins/browser.webp)
 

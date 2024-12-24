@@ -1,13 +1,18 @@
-+++
-title = 'История'
-publishDate = 2024-07-22T13:30:00Z
-lastmod = 2024-07-22T14:44:00Z
-description = 'История развития Kool Tech Tricks.'
-+++
-
-# История
+---
+title: История
+publishDate: 2024-07-22T13:30:00Z
+lastmod: 2024-07-22T14:44:00Z
+authors: ['Kool Tech Lord']
+---
 
 История развития Kool Tech Tricks.
+
+<!--more-->
+
+> [!warning]
+> История на этой странице не полная. Перейдите в
+[Блог](https://blog.kooltechtricks.org/categories/updates) для более
+полноценной истории.
 
 ## 2023
 

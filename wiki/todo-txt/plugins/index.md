@@ -1,19 +1,16 @@
-+++
-title = 'Плагины Todo.txt'
-categories = ['software-collections']
-publishDate = 2024-09-05T18:57:00Z
-lastmod = 2024-11-01T17:43:00Z
-description = """Добавьте поддержку открытого формата Todo.txt в удобные для \
-вас текстовые редакторы."""
-cover = 'obsidian-todotxt.webp'
-featured = false
-+++
-
-# Плагины Todo.txt
-{{< categories >}}
+---
+title: Плагины Todo.txt
+publishDate: 2024-09-05T18:57:00Z
+lastmod: 2024-11-01T17:43:00Z
+categories: ['software-collections']
+authors: ['Kool Tech Lord']
+image: obsidian-todotxt.webp
+---
 
 Добавьте поддержку открытого формата [Todo.txt](/wiki/todo-txt) в удобные для
 вас текстовые редакторы.
+
+<!--more-->
 
 ## Obsidian
 

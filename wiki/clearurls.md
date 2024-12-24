@@ -1,19 +1,16 @@
-+++
-title = 'ClearURLs'
-categories = ['browser-extensions', 'internet', 'privacy']
-publishDate = 2023-12-25T12:55:51Z
-lastmod = 2024-04-02T17:56:36Z
-description = """Расширение, которое автоматически убирает отслеживающие \
-параметры из ссылок."""
-cover = '/media/clearurls.jpg'
-featured = true
-+++
-
-# ClearURLs
-{{< categories >}}
+---
+title: ClearURLs
+publishDate: 2023-12-25T12:55:51Z
+lastmod: 2024-04-02T17:56:36Z
+categories: ['browser-extensions', 'internet', 'privacy']
+authors: ['Kool Tech Lord']
+image: /media/clearurls.jpg
+---
 
 [ClearURLs](https://clearurls.xyz) — расширение, которое автоматически убирает
 отслеживающие параметры из ссылок.
+
+<!--more-->
 
 ![Скриншот главной страницы расширения ClearURLs](/media/clearurls.jpg)
 

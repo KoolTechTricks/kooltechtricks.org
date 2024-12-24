@@ -1,19 +1,16 @@
-+++
-title = 'YouTube'
-categories = ['internet']
-publishDate = 2023-08-26T15:29:00Z
-lastmod = 2024-08-27T17:25:00Z
-description = """Главный видеохостинг Интернета, контролируемый компанией \
-Google. Является огромным архивом образовательного контента и истории."""
-layout = 'single'
-featured = true
-+++
-
-# YouTube
-{{< categories >}}
+---
+title: YouTube
+publishDate: 2023-08-26T15:29:00Z
+lastmod: 2024-08-27T17:25:00Z
+categories: ['internet']
+authors: ['Kool Tech Lord']
+layout: single
+---
 
 Главный видеохостинг Интернета, контролируемый компанией Google. Является
 огромным архивом образовательного контента и истории.
+
+<!--more-->
 
 ## Контент
 

@@ -1,20 +1,17 @@
-+++
-title = 'Интерфейс командной строки'
-categories = ['guides']
-publishDate = 2023-10-20T17:58:20Z
-lastmod = 2024-08-03T11:32:00Z
-description = """Способ взаимодействия с программой посредством отправки \
-текстовых команд в консоль (терминал)."""
-cover = '/media/cli_usage.jpg'
-featured = false
-+++
-
-# Интерфейс командной строки
-{{< categories >}}
+---
+title: Интерфейс командной строки
+publishDate: 2023-10-20T17:58:20Z
+lastmod: 2024-08-03T11:32:00Z
+categories: ['guides']
+authors: ['Kool Tech Lord']
+image: /media/cli_usage.jpg
+---
 
 **Интерфейс командной строки** *(англ. Command line interface, CLI)* — способ
 взаимодействия с программой посредством отправки текстовых команд в консоль
 (терминал).
+
+<!--more-->
 
 ## Применение
 

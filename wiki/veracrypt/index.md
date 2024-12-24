@@ -1,19 +1,17 @@
-+++
-title = 'VeraCrypt'
-categories = ['files', 'security']
-publishDate = 2023-11-24T17:43:45Z
-lastmod = 2024-09-19T19:28:00Z
-description = """Создание зашифрованных контейнеров для хранения файлов."""
-cover = 'veracrypt.webp'
-featured = true
-+++
-
-# VeraCrypt
-{{< categories >}}
+---
+title: VeraCrypt
+publishDate: 2023-11-24T17:43:45Z
+lastmod: 2024-09-19T19:28:00Z
+categories: ['files', 'security']
+authors: ['Kool Tech Lord']
+image: veracrypt.webp
+---
 
 [VeraCrypt] — программа для создания зашифрованных контейнеров, в которых можно
 хранить файлы. Контейнеры монтируются как виртуальные диски, но есть возможность
 зашифровать весь физический раздел.
+
+<!--more-->
 
 VeraCrypt с [открытым исходным кодом], написана на языках C, C++ и Assembly,
 доступна бесплатно для Windows, Linux и macOS.

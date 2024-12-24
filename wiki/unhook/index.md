@@ -1,21 +1,21 @@
-+++
-title = 'Unhook'
-categories = ['browser-extensions', 'wellbeing']
-publishDate = 2023-08-23T15:57:00Z
-lastmod = 2024-08-18T14:20:00Z
-description = """Расширение для YouTube и Twitch, которое убирает отвлекающие \
-элементы интерфейса: рекомендации и следующие видео."""
-cover = 'youtube-home.webp'
-+++
+---
+title: Unhook
+publishDate: 2023-08-23T15:57:00Z
+lastmod: 2024-08-18T14:20:00Z
+categories: ['browser-extensions', 'wellbeing']
+authors: ['Kool Tech Lord']
+image: youtube-home.webp
+---
 
 # Unhook
-{{< categories >}}
 
 [Unhook] — расширение для [YouTube] и Twitch, которое убирает отвлекающие элементы
 интерфейса: рекомендации и следующие видео.
 
 [Unhook]: https://unhook.app
 [YouTube]: /wiki/youtube
+
+<!--more-->
 
 ## Применение
 

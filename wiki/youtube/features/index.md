@@ -1,19 +1,15 @@
-+++
-title = 'Функции и возможности YouTube'
-categories = []
-publishDate = 2024-08-27T17:25:00Z
-lastmod = 2024-08-27T17:25:00Z
-description = """Скрытые или малоизвестные полезные функции YouTube, которые \
-официально поддерживаются."""
-cover = ''
-featured = false
-+++
-
-# Функции и возможности YouTube
-{{< categories >}}
+---
+title: Функции и возможности YouTube
+publishDate: 2024-08-27T17:25:00Z
+lastmod: 2024-08-27T17:25:00Z
+categories: []
+authors: ['Kool Tech Lord']
+---
 
 Скрытые или малоизвестные полезные функции YouTube, которые официально
 поддерживаются.
+
+<!--more-->
 
 ## RSS-лента
 

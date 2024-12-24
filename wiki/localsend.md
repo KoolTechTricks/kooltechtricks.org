@@ -1,21 +1,18 @@
-+++
-title = 'LocalSend'
-categories = ['files']
-publishDate = 2023-12-25T14:00:51Z
-lastmod = 2023-12-25T14:03:33Z
-description = """Приложение для передачи файлов между устройствами в пределах \
-локальной сети. Бесплатное, кроссплатформенное, с открытым исходным кодом. \
-Является альтернативой AirDrop."""
-cover = '/media/localsend.jpg'
-+++
-
-# LocalSend
-{{< categories >}}
+---
+title: LocalSend
+publishDate: 2023-12-25T14:00:51Z
+lastmod: 2023-12-25T14:03:33Z
+categories: ['files']
+authors: ['Kool Tech Lord']
+image: /media/localsend.jpg
+---
 
 [LocalSend](https://localsend.org) — приложение для передачи файлов между
 устройствами в пределах локальной сети. Бесплатное, кроссплатформенное,
 [с открытым исходным кодом](https://github.com/localsend/localsend). Является
 альтернативой AirDrop.
+
+<!--more-->
 
 ![Отправка файлов с компьютера на телефон при помощи LocalSend](/media/localsend.jpg)
 

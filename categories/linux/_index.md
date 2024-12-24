@@ -1,8 +1,5 @@
-+++
-title = 'Linux'
-description = 'Про операционные системы семейства GNU/Linux'
-+++
-
-# Linux
+---
+title: Linux
+---
 
 Про операционные системы семейства GNU/Linux.

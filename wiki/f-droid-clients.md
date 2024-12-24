@@ -1,18 +1,16 @@
-+++
-title = 'Клиенты F-Droid'
-categories = ['android', 'software-collections']
-publishDate = 2024-06-25T18:34:37Z
-lastmod = 2024-06-25T18:48:42Z
-description = """Подборка приложений для F-Droid — свободного каталога \
-приложений Android."""
-cover = '/media/f-droid-clients-droid-ify.webp'
-+++
-
-# Клиенты F-Droid
-{{< categories >}}
+---
+title: Клиенты F-Droid
+publishDate: 2024-06-25T18:34:37Z
+lastmod: 2024-06-25T18:48:42Z
+categories: ['android', 'software-collections']
+authors: ['Kool Tech Lord']
+image: /media/f-droid-clients-droid-ify.webp
+---
 
 Подборка приложений для [F-Droid](/wiki/f-droid) — свободного каталога
 приложений Android.
+
+<!--more-->
 
 Вы можете использовать [официальный клиент F-Droid](#официальный-клиент), но он
 выглядит устаревшим. Рекомендуется попробовать сторонние клиенты, перечисленные

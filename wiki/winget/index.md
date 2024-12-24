@@ -1,21 +1,17 @@
-+++
-title = 'WinGet'
-categories = ['windows']
-publishDate = 2023-09-21T16:39:58Z
-lastmod = 2024-07-26T14:00:00Z
-description = """Официальный пакетный менеджер для Windows, предоставляющий \
-возможность искать, устанавливать, обновлять и удалять программы, используя \
-консольный интерфейс."""
-cover = '/media/winget.webp'
-featured = true
-+++
-
-# WinGet
-{{< categories >}}
+---
+title: WinGet
+publishDate: 2023-09-21T16:39:58Z
+lastmod: 2024-07-26T14:00:00Z
+categories: ['windows']
+authors: ['Kool Tech Lord']
+image: /media/winget.webp
+---
 
 [WinGet](https://github.com/microsoft/winget-cli) — официальный пакетный
 менеджер для Windows, предоставляющий возможность искать, устанавливать,
 обновлять и удалять программы, используя консольный интерфейс.
+
+<!--more-->
 
 ![Установка программы при помощи консольного интерфейса WinGet](/media/winget.webp)
 
