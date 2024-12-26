@@ -1,7 +1,7 @@
 ---
 title: Аналитика на сайте
 publishDate: 2024-10-01T11:40:00Z
-lastmod: 2024-10-01T11:40:00Z
+lastmod: 2024-12-26T19:06:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -16,7 +16,7 @@ authors: ['Kool Tech Lord']
 [Добавляем аналитику, уважающую вашу конфиденциальность](https://blog.kooltechtricks.org/2024/10/adding-analytics)
 — Блог
 
-## Plausible
+## Plausible Analytics
 
 [Plausible] — простая и легковесная аналитика с
 [открытым исходным кодом](https://github.com/plausible/analytics), которая
@@ -80,7 +80,13 @@ authors: ['Kool Tech Lord']
 можно отказаться от аналитики, установив галочку.
 
 Эта настройка сохранится в локальном хранилище текущего браузера. Она не
-сохраняется в режиме «Инкогнито» и после сброса данных.
+сохраняется в режиме «Инкогнито» и после сброса данных. Настройка актуальна
+только для одного домена: если вы хотите отключить аналитику на
+[kooltechtricks.org] и на [blog.kooltechtricks.org], установите галочку
+два раза на обоих сайтах.
+
+[kooltechtricks.org]: https://kooltechtricks.org
+[blog.kooltechtricks.org]: https://blog.kooltechtricks.org
 
 Вы также можете отключить JavaScript в браузере, чтобы скрипт аналитики не
 загружался.
