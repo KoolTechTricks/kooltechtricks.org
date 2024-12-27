@@ -23,7 +23,7 @@ image: thunderbird.webp
 
 Подробнее: [Почему стоит использовать почтовый клиент, а не веб-почту].
 
-[Почему стоит использовать почтовый клиент, а не веб-почту]: https://telegra.ph/Pochemu-stoit-ispolzovat-pochtovyj-klient-a-ne-veb-pochtu-09-14
+[Почему стоит использовать почтовый клиент, а не веб-почту]: https://blog.kooltechtricks.org/2024/09/why-use-a-mail-client-vs-webmail
 
 Для авторизации в почтовом клиенте может потребоваться выполнение настройки.
 
