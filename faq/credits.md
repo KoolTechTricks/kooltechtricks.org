@@ -1,7 +1,7 @@
 ---
 title: Благодарности
 publishDate: 2024-07-22T13:30:00Z
-lastmod: 2024-09-01T10:45:00Z
+lastmod: 2025-01-05T09:32:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -59,3 +59,14 @@ Kool Tech Вики.
 
 [Сообщество](https://discourse.gohugo.io) отвечает на вопросы, предоставляет
 помощь и поддержку.
+
+## DivestOS
+
+На сайте [DivestOS] есть [поиск](https://divestos.org/pages/search) на основе
+[Pagefind]. Но главное здесь — это небольшое пояснение, что необходимо для
+работы этого поиска и как его исправить. Именно благодаря ему появилась
+страница в FAQ [Поиск по сайту](/faq/site-search), а также возврат к внешнему
+поиску через DuckDuckGo в случае отключённого WebAssembly.
+
+[DivestOS]: https://divestos.org
+[Pagefind]: https://pagefind.app
