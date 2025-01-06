@@ -1,7 +1,7 @@
 ---
 title: Связаться
 publishDate: 2024-07-22T13:30:00Z
-lastmod: 2024-09-18T18:05:00Z
+lastmod: 2025-01-06T17:21:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -20,11 +20,12 @@ authors: ['Kool Tech Lord']
 - Личные сообщения: [@KoolTechLord](https://t.me/KoolTechLord)
 - Чат: [@KoolTechChat](https://t.me/KoolTechChat)
 
-## Fediverse
+## Fediverse (Mastodon)
 
-- Mastodon: [@KoolTechTricks@lor.sh](https://lor.sh/@KoolTechTricks)
+- Kool Tech Tricks: [@KoolTechTricks@lor.sh](https://lor.sh/@KoolTechTricks)
+- Личный аккаунт создателя: [@KoolTechLord@mastodon.ml](https://mastodon.ml/@KoolTechLord)
 
-Вы можете упомянуть Kool Tech Tricks в своих публичных постах. Однако не
+Вы можете упомянуть эти аккаунты в своих публичных постах. Однако не
 рекомендуется оставлять личные сообщения, так как это неудобно и небезопасно.
 
 ## Резерв
