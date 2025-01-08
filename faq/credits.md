@@ -1,7 +1,7 @@
 ---
 title: Благодарности
 publishDate: 2024-07-22T13:30:00Z
-lastmod: 2025-01-05T09:32:00Z
+lastmod: 2025-01-06T17:34:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -70,3 +70,12 @@ Kool Tech Вики.
 
 [DivestOS]: https://divestos.org
 [Pagefind]: https://pagefind.app
+
+## Messenger-Matrix
+
+[Messenger-Matrix] — это большая таблица сравнения мессенджеров по
+функциональности, приватности и безопасности. Именно она послужила источником
+вдохновения раздела [Таблицы](/tables) на сайте. Некоторая функциональность
+Messenger-Matrix была также позаимствована для наших таблиц.
+
+[Messenger-Matrix]: https://www.messenger-matrix.de/messenger-matrix-en.html
