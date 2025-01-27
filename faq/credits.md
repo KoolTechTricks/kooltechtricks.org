@@ -1,7 +1,7 @@
 ---
 title: Благодарности
 publishDate: 2024-07-22T13:30:00Z
-lastmod: 2025-01-06T17:34:00Z
+lastmod: 2025-01-27T15:32:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -79,3 +79,9 @@ Kool Tech Вики.
 Messenger-Matrix была также позаимствована для наших таблиц.
 
 [Messenger-Matrix]: https://www.messenger-matrix.de/messenger-matrix-en.html
+
+## Material Icons
+
+На сайте используются значки [Material Icons](https://fonts.google.com/icons)
+от Google. Они доступны по лицензии
+[Apache v2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
