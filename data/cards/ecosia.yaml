@@ -1,0 +1,16 @@
+title: Ecosia
+description: >
+  Экологичная, но не конфиденциальная поисковая система. Использует Bing или
+  Google в своей поисковой выдаче. Деньги с рекламы направляются
+  благотворительным организациям, которые сажают деревья по всему миру.
+  Ecosia уменьшает количество углекислого газа в атмосфере, а серверы питаются
+  от солнечных панелей.
+homepage: https://www.ecosia.org
+wikipedia: https://en.wikipedia.org/wiki/Ecosia
+help: https://ecosia.helpscoutdocs.com
+license: proprietary
+screenshotsAlt:
+  0-ecosia-desktop-light.webp: Поиск в Ecosia на компьютере (светлая тема)
+  1-ecosia-mobile-light.webp: Поиск в Ecosia на телефоне (светлая тема)
+  2-ecosia-desktop-dark.webp: Поиск в Ecosia на компьютере (тёмная тема)
+  3-ecosia-mobile-dark.webp: Поиск в Ecosia на телефоне (тёмная тема)

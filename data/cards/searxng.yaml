@@ -1,0 +1,15 @@
+title: SearXNG
+description: >
+  Свободная метапоисковая система с открытым исходным кодом. Собирает результаты
+  из разных поисковиков и отдельных сайтов.
+homepage: https://searx.space
+wikipedia: https://en.wikipedia.org/wiki/SearXNG
+docs: https://docs.searxng.org
+issues: https://github.com/searxng/searxng/issues
+repository: https://github.com/searxng/searxng
+license: gnu-agpl-3.0
+screenshotsAlt:
+  0-searxng-desktop-light.webp: Поиск в SearXNG на компьютере (светлая тема)
+  1-searxng-mobile-light.webp: Поиск в SearXNG на телефоне (светлая тема)
+  2-searxng-desktop-dark.webp: Поиск в SearXNG на компьютере (тёмная тема)
+  3-searxng-mobile-dark.webp: Поиск в SearXNG на телефоне (тёмная тема)

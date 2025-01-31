@@ -1,0 +1,13 @@
+title: Startpage
+description: >
+  Одна из первых поисковых систем, уважающая конфиденциальность пользователей.
+  Использует Google в своей поисковой выдаче.
+homepage: https://startpage.com
+wikipedia: https://en.wikipedia.org/wiki/Startpage.com
+help: https://support.startpage.com/hc
+license: proprietary
+screenshotsAlt:
+  0-startpage-desktop-light.webp: Поиск в Startpage на компьютере (светлая тема)
+  1-startpage-mobile-light.webp: Поиск в Startpage на телефоне (светлая тема)
+  2-startpage-desktop-dark.webp: Поиск в Startpage на компьютере (тёмная тема)
+  3-startpage-mobile-dark.webp: Поиск в Startpage на телефоне (тёмная тема)
