@@ -53,11 +53,11 @@ npx -y pagefind --site public  # собрать индекс страниц Page
 Некоторые изображения в этом репозитории были взяты из сторонних источников. К
 ним не применяется лицензия этого репозитория:
 
-- [rss_nextcloud.jpg](/media/rss_nextcloud.jpg) — взято из
+- [rss_nextcloud.jpg](/content/media/rss_nextcloud.jpg) — взято из
 [источника](https://github.com/nextcloud/news/blob/master/screenshots/1.png)
-- [scrcpy.jpg](/media/scrcpy.jpg) — взято из
+- [scrcpy.jpg](/content/media/scrcpy.jpg) — взято из
 [источника](https://github.com/Genymobile/scrcpy)
-- [syncthing.jpg](/media/syncthing.jpg) — взято из
+- [syncthing.jpg](/content/media/syncthing.jpg) — взято из
 [источника](https://syncthing.net)
 
 Этот список может не содержать все файлы, взятые из сторонних источников. Не
