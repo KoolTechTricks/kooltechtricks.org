@@ -1,0 +1,15 @@
+title: Kagi
+description: >
+  Премиальная поисковая система без рекламы, которая уважает конфиденциальность
+  и приоритизирует удобство использования. Смешивает результаты поиска из
+  собственного индекса и разных источников.
+homepage: https://kagi.com
+wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)
+help: https://help.kagi.com
+repository: https://help.kagi.com/kagi/support-and-community/open-source.html
+license: proprietary
+screenshotsAlt:
+  0-kagi-desktop-light.webp: Поиск в Kagi на компьютере (светлая тема)
+  1-kagi-mobile-light.webp: Поиск в Kagi на телефоне (светлая тема)
+  2-kagi-desktop-dark.webp: Поиск в Kagi на компьютере (тёмная тема)
+  3-kagi-mobile-dark.webp: Поиск в Kagi на телефоне (тёмная тема)

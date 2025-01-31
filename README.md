@@ -1,25 +1,54 @@
-# Содержимое сайта Kool Tech Tricks
+# Сайт Kool Tech Tricks
 
-Исходные тексты страниц сайта [Kool Tech Tricks](https://kooltechtricks.org):
-Вики и FAQ.
+[Kool Tech Tricks](https://kooltechtricks.org) — свободный ресурс с полезной и
+интересной информацией о различном программном обеспечении.
+
+Этот репозиторий содержит исходные файлы содержимого сайта. Темы (шаблоны) для
+сборки находятся в отдельном приватном репозитории.
+
+Сайт сделан на [Hugo](https://gohugo.io).
 
 ## Внести свой вклад
 
 Вы можете [создать отчёт], если вы хотите сообщить о проблеме или предложить
 улучшения. Рекомендуется сначала ознакомиться с [руководством].
 
-[создать отчёт]: https://github.com/KoolTechTricks/content/issues/new
+[создать отчёт]: https://github.com/KoolTechTricks/kooltechtricks.org/issues/new
 [руководством]: /CONTRIBUTING.md
+
+> [!warning]
+> Руководство по внесению своего вклада устарело и нуждается в переработке.
+
+## Сборка
+
+> [!warning]
+> Чтобы собрать сайт локально, вам нужен доступ к приватным репозиториям тем.
+
+**Зависимости:**
+- [Git](https://git-scm.com/downloads)
+- [Hugo](https://gohugo.io/installation) v0.134.0 или выше
+- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm),
+чтобы собрать индекс страниц [Pagefind](https://pagefind.app)
+
+```sh
+git clone --recursive https://github.com/KoolTechTricks/kooltechtricks.org # --recursive чтобы клонировать темы
+cd kooltechtricks.org
+hugo server -D -O  # -O чтобы открыть в браузере
+npx -y pagefind --site public  # собрать индекс страниц Pagefind (необязательно)
+```
+
+В репозитории хранится скрипт сборки: [build.sh](/build.sh). При запуске он
+собирает сайт Hugo и индекс Pagefind, делает коммит и публикует сайт.
 
 ## Лицензия
 
-Все тексты и изображения доступны по лицензии
+Всё содержимое сайта и его публичные исходные файлы доступны по лицензии
 [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 ([Creative Commons «С указанием авторства — С сохранением условий»](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
 
-Все права на логотипы в директории `/logos` принадлежат их владельцам. Они
-используются в образовательных целях при упоминании соответствующих сервисов
-или приложений.
+Все права на логотипы в директории `/content/assets/logos` принадлежат их
+владельцам. Они используются в образовательных целях при упоминании
+соответствующих сервисов или приложений.
 
 Некоторые изображения в этом репозитории были взяты из сторонних источников. К
 ним не применяется лицензия этого репозитория:

@@ -1,0 +1,139 @@
+title = 'Kool Tech Tricks'
+baseURL = 'https://kooltechtricks.org/'
+theme = ['ktt-base-theme', 'ktt-wiki-theme']
+
+# Locale
+languageCode = 'ru-ru'
+defaultContentLanguage = 'ru-ru' # Without this line, date format will be en_US
+
+# Copyright message in the footer
+copyright = 'Содержимое доступно по лицензии [Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru), если не указано иное.'
+
+ignoreFiles = ['LICENSE', 'CONTRIBUTING.md', 'README.md', 'build.sh']
+
+[taxonomies]
+category = 'categories'
+
+[markup]
+[markup.tableOfContents]
+ordered = true
+
+[markup.goldmark.parser.attribute]
+block = true
+
+[outputs]
+home = ['html']
+section = ['html', 'rss']
+taxonomy = ['html', 'rss']
+term = ['html', 'rss']
+
+[params]
+color = '#1f89f5'  # theme-color tag
+locale = 'ru_RU'
+startYear = 2023  # Copyright 2023-2024
+
+##########################################
+## Navbar links at the top of the pages ##
+##########################################
+
+[[params.navbarLink]]
+url = '/wiki'
+title = 'Вики'
+[[params.navbarLink]]
+url = '/collections'
+title = 'Подборки'
+[[params.navbarLink]]
+url = '/tables'
+title = 'Таблицы'
+[[params.navbarLink]]
+url = '/faq'
+title = 'FAQ'
+[[params.navbarLink]]
+url = 'https://blog.kooltechtricks.org'
+title = 'Блог'
+
+#########################
+## Additional services ##
+#########################
+
+[params.plugins]
+
+# Plausible privacy-friendly analytics <https://plausible.io>
+[params.plugins.plausible]
+enabled = true
+notice = "На этом сайте используется аналитика [Plausible](https://plausible.io), уважающая вашу конфиденциальность. [Подробнее](/faq/analytics)"  # Message in the footer to inform visitors about analytics being used
+instance = "plausible.kooltechtricks.org"  # Self-hosted plausible domain
+domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
+
+# Links to Fediverse (Mastodon) <https://joinmastodon.org>
+[params.plugins.fediverse]
+enabled = true
+# fediverse:creator tag shows page author on fediverse
+# <https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon>
+handle = '@KoolTechTricks@lor.sh'
+# Verification
+# <https://joinmastodon.org/verification>
+urls = ['https://lor.sh/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
+
+# View history
+[params.plugins.git]
+enabled = true
+commits = 'https://github.com/KoolTechTricks/content/commits/main'  # History
+report = 'https://github.com/KoolTechTricks/content/issues/new'  # Report issue
+source = 'https://github.com/KoolTechTricks/content/blob/main'  # View source
+contributing = 'https://github.com/KoolTechTricks/content/blob/main/CONTRIBUTING.md'  # Contributing guide
+
+# Comments via Telegram channel <https://core.telegram.org/widgets/discussion>
+[params.plugins.telegram]
+enabled = false
+
+# Obfuscate email from spam bots <https://spencermortensen.com/articles/email-obfuscation>
+[params.plugins.emailObfuscation]
+obfuscated = '%6b%6f%6f%6c%74%65%63%68%6e%6f%6c%6f%67%79%74%72%69%63%6b%73%40%67%6d%61%69%6c%2e%63%6f%6d'
+noTLD = 'kooltechnologytricks@gmail'
+dotTLD = '.com'
+
+#############################
+## 88x31 buttons in footer ##
+#############################
+
+[[params.badges]]
+id = 'codeberg'
+url = 'https://codeberg.page'
+title = 'Hosted by Codeberg Pages'
+[[params.badges]]
+id = 'creativecommons'
+url = 'https://creativecommons.org/licenses/by-sa/4.0/deed.ru'
+title = 'CC BY-SA 4.0'
+[[params.badges]]
+id = 'hugo'
+url = 'https://gohugo.io'
+title = 'Made with Hugo'
+
+########################################
+## Links to other resources in footer ##
+########################################
+
+[[params.links]]
+section = 'Узнать больше'
+[[params.links.urls]]
+url = '/faq/about'
+title = 'О проекте'
+[[params.links.urls]]
+url = '/faq/privacy-policy'
+title = 'Политика конфиденциальности'
+[[params.links.urls]]
+url = '/faq/contact'
+title = 'Связаться'
+[[params.links.urls]]
+url = 'https://github.com/KoolTechTricks/content'
+title = 'Исходные тексты страниц'
+
+[[params.links]]
+section = 'Подписаться'
+[[params.links.urls]]
+url = 'https://t.me/KoolTechTricks'
+title = 'Telegram-канал'
+[[params.links.urls]]
+url = 'https://lor.sh/@KoolTechTricks'
+title = 'Fediverse (Mastodon)'

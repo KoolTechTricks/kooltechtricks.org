@@ -1,2 +1,4 @@
 .obsidian
 todo.txt
+.hugo_build.lock
+public
