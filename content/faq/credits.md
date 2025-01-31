@@ -1,7 +1,7 @@
 ---
 title: Благодарности
 publishDate: 2024-07-22T13:30:00Z
-lastmod: 2025-01-27T15:32:00Z
+lastmod: 2025-01-31T17:53:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -85,3 +85,8 @@ Messenger-Matrix была также позаимствована для наш�
 На сайте используются значки [Material Icons](https://fonts.google.com/icons)
 от Google. Они доступны по лицензии
 [Apache v2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
+
+## Privacy Guides
+
+Карточки с информацией в [подборках](/collections) были вдохновлены похожими
+карточками на сайте [Privacy Guides](https://www.privacyguides.org)
