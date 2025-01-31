@@ -8,7 +8,7 @@
 смотрите [подробную документацию].
 
 [Вики Kool Tech Tricks]: https://kooltechtricks.org
-[подробную документацию]: https://github.com/KoolTechTricks/content/wiki
+[подробную документацию]: https://github.com/KoolTechTricks/kooltechtricks.org/wiki
 
 ## Общие требования
 
@@ -66,11 +66,11 @@
 
 ### Создание отчётов
 
-Вы можете [создать отчёт](https://github.com/KoolTechTricks/content/issues/new)
+Вы можете [создать отчёт](https://github.com/KoolTechTricks/kooltechtricks.org/issues/new)
 в этом репозитории на GitHub когда вы хотите:
 
-- [Сообщить о несоответствии](https://github.com/KoolTechTricks/content/issues/5)
-- [Предложить добавить что-то новое](https://github.com/KoolTechTricks/content/issues/4)
+- [Сообщить о несоответствии](https://github.com/KoolTechTricks/kooltechtricks.org/issues/5)
+- [Предложить добавить что-то новое](https://github.com/KoolTechTricks/kooltechtricks.org/issues/4)
 
 В заголовке отчёта укажите страницу(-ы), с которой(-ыми) связан отчёт, и краткое
 описание проблемы.
@@ -84,17 +84,17 @@
 Если вы способны внести изменения в текст страниц самостоятельно, то можете
 [создать форк репозитория](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 Затем, этот форк можно
-[предложить](https://github.com/KoolTechTricks/content/pulls) в качестве
+[предложить](https://github.com/KoolTechTricks/kooltechtricks.org/pulls) в качестве
 изменения. Опишите причину изменений, и почему они улучшат страницу. В случае
 принятия запроса на изменение, вы можете числиться в списке вкладчиков.
 
-Подробнее: https://github.com/KoolTechTricks/content/wiki/Рабочее-пространство
+Подробнее: https://github.com/KoolTechTricks/kooltechtricks.org/wiki/Рабочее-пространство
 
 ## Формат страниц
 
 Все страницы написаны в формате Markdown.
 
-Подробнее про формат: https://github.com/KoolTechTricks/content/wiki/Формат-страниц
+Подробнее про формат: https://github.com/KoolTechTricks/kooltechtricks.org/wiki/Формат-страниц
 
 ## Перевод на другие языки
 

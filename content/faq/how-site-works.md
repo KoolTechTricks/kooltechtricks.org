@@ -20,7 +20,7 @@ authors: ['Kool Tech Lord']
 [Блог]). [Git] — это система контроля версий, которая помогает отслеживать
 изменения и упрощает совместную работу.
 
-[Вики]: https://github.com/KoolTechTricks/content
+[Вики]: https://github.com/KoolTechTricks/kooltechtricks.org
 [Блог]: https://codeberg.org/KoolTechTricks/pages-blog
 [Git]: https://git-scm.com
 [Markdown]: https://ru.wikipedia.org/wiki/Markdown

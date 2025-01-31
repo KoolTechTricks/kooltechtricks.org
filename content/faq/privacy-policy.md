@@ -194,7 +194,7 @@ Plausible пытается найти разумный баланс между �
 труд. Поэтому посетители сайта могут увидеть ваше имя пользователя и перейти на
 ваш профиль.
 
-[GitHub]: https://github.com/KoolTechTricks/content
+[GitHub]: https://github.com/KoolTechTricks/kooltechtricks.org
 [Политика конфиденциальности GitHub]: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
 
 ## Вопросы по конфиденциальности

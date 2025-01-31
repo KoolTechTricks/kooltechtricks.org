@@ -78,10 +78,10 @@ urls = ['https://lor.sh/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
 # View history
 [params.plugins.git]
 enabled = true
-commits = 'https://github.com/KoolTechTricks/content/commits/main'  # History
-report = 'https://github.com/KoolTechTricks/content/issues/new'  # Report issue
-source = 'https://github.com/KoolTechTricks/content/blob/main'  # View source
-contributing = 'https://github.com/KoolTechTricks/content/blob/main/CONTRIBUTING.md'  # Contributing guide
+commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'  # History
+report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
+source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
+contributing = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md'  # Contributing guide
 
 # Comments via Telegram channel <https://core.telegram.org/widgets/discussion>
 [params.plugins.telegram]
@@ -126,7 +126,7 @@ title = 'Политика конфиденциальности'
 url = '/faq/contact'
 title = 'Связаться'
 [[params.links.urls]]
-url = 'https://github.com/KoolTechTricks/content'
+url = 'https://github.com/KoolTechTricks/kooltechtricks.org'
 title = 'Исходные тексты страниц'
 
 [[params.links]]
