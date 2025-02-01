@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2024-11-17T15:31:00Z
+lastmod: 2025-02-01T12:45:00Z
 categories: ['guides', 'linux']
 authors: ['Kool Tech Lord']
 image: image.webp
@@ -893,6 +893,11 @@ yay -S informant
 yay
 sudo informant read
 ```
+
+> [!important]
+> После крупных обновлений Python, Informant понадобится переустановить:
+`yay -S informant`.
+[Подробнее](https://aur.archlinux.org/packages/informant#comment-970197)
 
 ### Понижение версии пакетов
 
