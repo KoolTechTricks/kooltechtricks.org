@@ -17,7 +17,7 @@ title: Расширения для браузера
 
 Относится большинство браузеров на ПК: Google Chrome, Microsoft Edge, Brave,
 Opera, Vivaldi, Яндекс. На Android устанавливать расширения позволяет
-[Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser).
+[Microsoft Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary).
 
 Основным каталогом расширений является
 [Интернет-магазин Chrome](https://chromewebstore.google.com). Для отдельных
