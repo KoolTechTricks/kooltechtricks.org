@@ -1,7 +1,7 @@
 ---
 title: Генерация текста при помощи локального искусственного интеллекта
 publishDate: 2024-10-06T11:40:00Z
-lastmod: 2025-01-05T10:02:00Z
+lastmod: 2025-02-01T12:40:00Z
 categories: ['ai', 'software-collections']
 authors: ['Kool Tech Lord']
 image: gpt4all.webp
@@ -160,12 +160,13 @@ Ollama имеет [встроенный каталог языковых моде
 
 Для более удобного взаимодействия с искусственным интеллектом можно установить
 отдельный [веб-интерфейс](https://itsfoss.com/ollama-web-ui-tools), например,
-[Open WebUI]. У сервера есть API, который можно использовать для интеграции в
-другие программы. Смотрите
+[Page Assist] или [Open WebUI]. У сервера есть API, который можно использовать
+для интеграции в другие программы. Смотрите
 [примеры использования](https://github.com/ollama/ollama/tree/main/examples).
 
 [интерфейсом командной строки]: /wiki/cli
 [встроенный каталог языковых моделей]: https://ollama.com/library
+[Page Assist]: https://github.com/n4ze3m/page-assist#readme
 [Open WebUI]: https://github.com/open-webui/open-webui#readme
 
 ## KoboldCpp
