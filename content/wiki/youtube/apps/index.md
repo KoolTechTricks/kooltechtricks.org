@@ -1,7 +1,7 @@
 ---
 title: Приложения YouTube
 publishDate: 2024-08-27T17:25:00Z
-lastmod: 2024-12-21T13:25:00Z
+lastmod: 2024-02-01T11:51:00Z
 categories: ['software-collections', 'privacy']
 authors: ['Kool Tech Lord']
 image: image.webp
@@ -281,7 +281,7 @@ Dislike.
 |**Поддерживаемые сервисы**|YouTube, PeerTube[^1], Odysee, Twitch, Kick, Patreon, SoundCloud, Spotify, Rumble, Nebula, BiliBili
 |**Технологии**|Kotlin, Доступный исходный код ([Source First License 1.1])
 |**Получение данных**|Извлечение YouTube / API платформ
-|**Сайт**|https://grayjay.app
+|**Сайт**|[Android](https://grayjay.app), [Компьютер](https://grayjay.app/desktop)
 |**FAQ**|https://grayjay.app/faq.html
 |**Отчёты об ошибках**|[Android](https://github.com/futo-org/grayjay-android/issues), [Компьютер](https://github.com/futo-org/Grayjay.Desktop/issues)
 |**Поддержать разработчиков**|Купить лицензию внутри приложения (один ключ для Android и компьютера)
