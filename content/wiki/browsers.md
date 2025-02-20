@@ -1,7 +1,7 @@
 ---
 title: Браузеры
 publishDate: 2024-01-11T13:59:20Z
-lastmod: 2024-12-24T20:34:00Z
+lastmod: 2025-02-20T14:08:00Z
 categories: ['compilations', 'internet', 'privacy']
 authors: ['Kool Tech Lord']
 ---
@@ -550,26 +550,33 @@ User Agent. Код браузера закрыт, его трудно прове
 **Скачать:** [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid)
 (обновления с задержкой)
 
-### Mull
+### IronFox
 
-> [!caution]
-> Mull [больше не получает обновлений](https://www.divestos.org/pages/news#end),
-следовательно, крайне не рекомендуется для использования.
+[IronFox] — улучшенная и более укреплённая версия [Fennec](#fennec). Является
+продолжением развития браузера Mull.
 
-Улучшенная и более укреплённая версия [Fennec](#fennec) от одного человека
-[Divested Computing](https://divested.dev). Убраны проприетарные
-библиотеки (хотя по какой-то причине они всё равно обнаруживаются Tracker
-Control), используются настройки от
-[arkenfox](https://github.com/arkenfox/user.js). Получает обновления до новой
-версии Firefox крайне быстро.
+[IronFox]: https://gitlab.com/ironfox-oss/IronFox
 
-**Производительность (v121.0.0).** Результат теста Speedometer 2.0: 13.3
-(±0.14).
+> [!note]
+> Mull перестал поддерживаться, когда в конце 2024 года [проект DivestOS был
+закрыт]. К счастью, быстро нашлась группа энтузиастов, которая продолжила
+развитие этого браузера под новым названием IronFox. Ни в коем случае не
+используйте Mull — замените его на IronFox.
 
-**Скачать:** Рекомендуется устанавливать из
-[репозитория DivestOS](https://divestos.org/apks/official/fdroid/repo), куда
-обновления поступают чаще, чем в
-[официальный репозиторий F-Droid](https://f-droid.org/packages/us.spotco.fennec_dos).
+[проект DivestOS был закрыт]: https://web.archive.org/web/20250120181116/https://www.divestos.org/pages/news#end
+
+- Убраны проприетарные библиотеки (хотя по какой-то причине они всё равно
+обнаруживаются TrackerControl).
+- Используются настройки от [arkenfox](https://github.com/arkenfox/user.js).
+- Получает обновления до новой версии Firefox в течение суток.
+- uBlock Origin установлен и включён по умолчанию.
+- Убраны поисковые системы Google и Bing.
+
+**Скачать:**
+- [GitLab](https://gitlab.com/ironfox-oss/IronFox/-/releases)
+- [Obtainium](obtainium://app/%7B%22id%22%3A%22org.ironfoxoss.ironfox%22%2C%22url%22%3A%22https%3A%2F%2Ffdroid.ironfoxoss.org%2Ffdroid%2Frepo%2F%22%2C%22author%22%3A%22IronFox%20OSS%22%2C%22name%22%3A%22IronFox%22%2C%22additionalSettings%22%3A%22%7B%5C%22appIdOrName%5C%22%3A%5C%22org.ironfoxoss.ironfox%5C%22%2C%5C%22pickHighestVersionCode%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22IronFox%20is%20a%20secure%2C%20hardened%20and%20privacy-oriented%20web%20browser%20for%20Android%2C%20based%20on%20Firefox.%5C%22%7D%22%2C%22overrideSource%22%3A%22FDroidRepo%22%7D) ([?](/wiki/obtainium))
+- [Собственный репозиторий F-Droid](fdroidrepos://fdroid.ironfoxoss.org/fdroid/repo?fingerprint=C5E291B5A571F9C8CD9A9799C2C94E02EC9703948893F2CA756D67B94204F904)
+- [Accrescent](https://accrescent.app/app/org.ironfoxoss.ironfox)
 
 ### Iceraven
 
