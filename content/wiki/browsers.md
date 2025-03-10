@@ -1,7 +1,7 @@
 ---
 title: Браузеры
 publishDate: 2024-01-11T13:59:20Z
-lastmod: 2025-02-20T14:08:00Z
+lastmod: 2025-03-10T17:41:00Z
 categories: ['compilations', 'internet', 'privacy']
 authors: ['Kool Tech Lord']
 ---
@@ -274,7 +274,9 @@ Firefox. Такую строку можно временно изменить н
 
 ## LibreWolf
 
-![Скриншот браузера LibreWolf](/media/browsers_librewolf.png)
+> **Основная статья:** [LibreWolf](/wiki/librewolf)
+
+![Окно браузера LibreWolf](/wiki/librewolf/librewolf.png)
 
 - **Платформа:** Windows, Linux, macOS
 - **Технологии:** Gecko, Форк Firefox,
