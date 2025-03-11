@@ -1,7 +1,7 @@
 ---
 title: LibreWolf
 publishDate: 2025-03-10T17:42:00Z
-lastmod: 2025-03-10T17:42:00Z
+lastmod: 2025-03-11T04:51:00Z
 categories: ['privacy']
 authors: ['Lord Trickster']
 image: librewolf.png
@@ -94,7 +94,7 @@ LibreWolf. Если обновления будут найдены, то поя�
 эта версия будет получать обновления автоматически:
 
 ```sh
-brew install --cask librewolf
+brew install librewolf --no-quarantine
 ```
 
 Иначе можно скачать файл `.dmg` с [сайта](https://librewolf.net/installation/macos),
