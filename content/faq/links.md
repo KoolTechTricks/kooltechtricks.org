@@ -1,7 +1,7 @@
 ---
 title: Ссылки
 publishDate: 2024-10-25T17:25:00Z
-lastmod: 2025-03-16T08:25:00Z
+lastmod: 2025-03-16T08:29:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -23,6 +23,7 @@ authors: ['Kool Tech Lord']
 |Fediverse (Mastodon)|   [lor.sh/@KoolTechTricks]   | Активно |15 мар. 2024 г.|[/@KoolTechTricks.rss]
 |      YouTube       |[youtube.com/@KoolTechTricks] |Неактивно|6 июн. 2024 г. |[/feeds/videos.xml]
 |     Сайт/Домен     |     [kooltechtricks.org]     | Активно |1 сен. 2024 г. |По разделам
+|   Bluesky   |[bsky.app/profile/kooltechtricks.org]|Неактивно|11 ноя. 2024 г.|[/profile/kooltechtricks.org/rss]
 
 [t.me/KoolTechTricks]: https://t.me/KoolTechTricks
 [RSS-Bridge]: https://rss-bridge.org/bridge01/?action=display&username=KoolTechTricks&bridge=TelegramBridge&format=Atom
@@ -37,6 +38,8 @@ authors: ['Kool Tech Lord']
 [youtube.com/@KoolTechTricks]: https://www.youtube.com/@KoolTechTricks
 [/feeds/videos.xml]: https://www.youtube.com/feeds/videos.xml?channel_id=UCpgXGvl34e24uhdtaO51Fqg
 [kooltechtricks.org]: https://kooltechtricks.org
+[bsky.app/profile/kooltechtricks.org]: https://bsky.app/profile/kooltechtricks.org
+[/profile/kooltechtricks.org/rss]: https://bsky.app/profile/kooltechtricks.org/rss
 
 
 [^1]: RSS-ленты Telegram не являются официальными. Стабильная работа не
