@@ -1,7 +1,7 @@
 ---
 title: Ссылки
 publishDate: 2024-10-25T17:25:00Z
-lastmod: 2024-10-25T17:25:00Z
+lastmod: 2025-03-16T08:25:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -16,7 +16,7 @@ authors: ['Kool Tech Lord']
 |      Платформа     |            Ссылка            |Состояние|    Создано    | RSS-лента |
 |:------------------:|:----------------------------:|:-------:|:-------------:|:---------:|
 |   Telegram-канал   |     [t.me/KoolTechTricks]    | Активно |2 мар. 2023 г. |[RSS-Bridge] или [RSSHub] [^1]
-|    Telegram-чат    |      [t.me/KoolTechChat]     | Активно |2 мар. 2023 г. |—
+|    Telegram-чат    |     [t.me/TechTricksChat]    | Активно |2 мар. 2023 г. |—
 |       GitHub       |  [github.com/KoolTechTricks] | Активно |21 авг. 2023 г.|—
 |      Codeberg      |[codeberg.org/KoolTechTricks] | Активно |26 авг. 2023 г.|[/KoolTechTricks.atom]
 |     Neocities      |[kooltechtricks.neocities.org]|  Архив  |27 авг. 2023 г.|—
@@ -27,7 +27,7 @@ authors: ['Kool Tech Lord']
 [t.me/KoolTechTricks]: https://t.me/KoolTechTricks
 [RSS-Bridge]: https://rss-bridge.org/bridge01/?action=display&username=KoolTechTricks&bridge=TelegramBridge&format=Atom
 [RSSHub]: https://rsshub.app/telegram/channel/KoolTechTricks
-[t.me/KoolTechChat]: https://t.me/KoolTechChat
+[t.me/TechTricksChat]: https://t.me/TechTricksChat
 [github.com/KoolTechTricks]: https://github.com/KoolTechTricks
 [codeberg.org/KoolTechTricks]: https://codeberg.org/KoolTechTricks
 [/KoolTechTricks.atom]: https://codeberg.org/KoolTechTricks.atom

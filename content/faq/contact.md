@@ -18,7 +18,7 @@ authors: ['Kool Tech Lord']
 ## Telegram
 
 - Личные сообщения: [@KoolTechLord](https://t.me/KoolTechLord)
-- Чат: [@KoolTechChat](https://t.me/KoolTechChat)
+- Чат: [@TechTricksChat](https://t.me/TechTricksChat)
 
 ## Fediverse (Mastodon)
 
