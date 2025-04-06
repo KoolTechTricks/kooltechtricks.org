@@ -1,0 +1,30 @@
+title: LibreWolf
+description: >
+  Модификация браузера Firefox, нацеленная на приватность
+  пользователей, безопасность и свободу без весомого ущерба для удобства
+  использования. Основана на последней стабильной версии Firefox с опозданием в
+  пару дней.
+homepage: https://librewolf.net
+kttpage: /software/librewolf
+wikipedia: https://ru.wikipedia.org/wiki/LibreWolf
+help: https://librewolf.net/docs/faq
+issues: https://codeberg.org/librewolf/issues
+repository: https://codeberg.org/librewolf
+license: mpl-2.0
+screenshotsAlt:
+  0-librewolf-light.png: Окно браузера LibreWolf (светлая тема)
+  1-librewolf-dark.png: Окно браузера LibreWolf (тёмная тема)
+get:
+  title: Скачать
+  links:
+    Все варианты: https://librewolf.net/installation
+    Windows:
+      Официальный сайт: https://librewolf.net/installation/windows
+      Microsoft Store: https://apps.microsoft.com/store/detail/9NVN9SZ8KFD7
+    Linux:
+      Flathub: https://flathub.org/apps/details/io.gitlab.librewolf-community
+      AppImage: https://librewolf.net/installation/linux/#appimage
+    macOS:
+      Homebrew: >
+        `brew install librewolf --no-quarantine`
+      Официальный сайт (без автообновлений): https://librewolf.net/installation/macos/#disk-image

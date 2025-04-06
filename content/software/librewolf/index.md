@@ -1,10 +1,10 @@
 ---
 title: LibreWolf
 publishDate: 2025-03-10T17:42:00Z
-lastmod: 2025-03-16T08:44:00Z
-categories: ['privacy']
-authors: ['Lord Trickster']
-image: librewolf.png
+lastmod: 2025-04-06T20:33:00Z
+# categories: [browsers, privacy]
+authors: [kttrickster]
+image: /assets/screenshots/librewolf/0-librewolf-light.png
 imageAlt: Окно браузера LibreWolf
 ---
 
@@ -15,7 +15,7 @@ imageAlt: Окно браузера LibreWolf
 
 <!--more-->
 
-![Окно браузера LibreWolf](librewolf.png)
+![Окно браузера LibreWolf](/assets/screenshots/librewolf/0-librewolf-light.png)
 
 [LibreWolf]: https://librewolf.net
 
@@ -137,17 +137,17 @@ brew install librewolf --no-quarantine
 которым вас всё равно можно идентифицировать, поэтому отключение данной
 настройки не приведёт к существенной потере конфиденциальности.
 
-> Настройки браузера → LibreWolf (`about:preferences#librewolf`) →
-Fingerprinting → Отключить «Enable ResistFingerprinting»
+> Настройки браузера → LibreWolf (`about:preferences#librewolf`) → Отслеживание
+→ Отключить «Препятствовать созданию отпечатков (ResistFingerprinting)»
 
 ### Сертификаты OCSP (SEC_ERROR_OCSP_SERVER_ERROR)
 
 В LibreWolf Протокол состояния сетевого сертификата (OCSP) включён в режиме
-жёсткого отказа (hard-fail). Это означает, что если статус отзыва сертификата не
-может быть проверен из-за невозможности связаться с центром сертификации, то он
-будет считаться недействительным. Хотя это повышает безопасность, это также
-может снизить удобство использования, поскольку серверы OCSP часто выходят из
-строя.
+принудительного отказа (hard-fail). Это означает, что если статус отзыва
+сертификата не может быть проверен из-за невозможности связаться с центром
+сертификации, то он будет считаться недействительным. Хотя это повышает
+безопасность, это также может снизить удобство использования, поскольку серверы
+OCSP часто выходят из строя.
 
 Если вы столкнулись с этой ошибкой:
 - Серверы OCSP обычно блокируются файлами хостов и списками блокировки по
@@ -156,23 +156,23 @@ Fingerprinting → Отключить «Enable ResistFingerprinting»
 
 Вы можете отключить OCSP hard-fail в настройках LibreWolf:
 
-> Настройки браузера → LibreWolf (`about:preferences#librewolf`) → Security →
-Отключить «Enforce OCSP hard-fail»
+> Настройки браузера → LibreWolf (`about:preferences#librewolf`) → Безопасность
+→ Отключить «Принудительная отмена подключения при ошибках OCSP»
 
 ### Синхронизация Firefox Sync
 
 Пользуетесь синхронизацией Firefox через аккаунт Mozilla? Вы можете использовать
 её точно так же и в LibreWolf:
 
-> Настройки браузера → LibreWolf (`about:preferences#librewolf`) → Browser
-Behavior → Включить «Enable Firefox Sync» и перезапустить браузер.
+> Настройки браузера → LibreWolf (`about:preferences#librewolf`) → Поведение
+браузера → Включить «Синхронизация Firefox» и перезапустить браузер.
 
 ### WebGL
 
 WebGL может понадобиться для видеоконференций.
 
 > Настройки браузера → LibreWolf (`about:preferences#librewolf`) →
-Fingerprinting → Включить «Enable WebGL»
+Fingerprinting → Включить «Использовать WebGL»
 
 ### Очистка cookie
 
@@ -181,14 +181,15 @@ Fingerprinting → Включить «Enable WebGL»
 
 Вы можете добавлять сайты в исключения, чтобы их cookie не очищались. Нажмите на
 значок замочка слева в адресной строке и активируйте переключатель
-«LibreWolf: Always store cookies/data for this site».
+«LibreWolf: Всегда сохранять куки и данные этого сайта».
 
-![LibreWolf: Always store cookies/data for this site](allow_cookies.png)
+![LibreWolf: Всегда сохранять куки и данные этого сайта](allow_cookies.png)
 
 Чтобы посмотреть список разрешённых сайтов, у которых не будут очищаться cookie,
-зайдите в настройки браузера и раздел «Приватность и защита» (`about:preferences#privacy`).
-Ниже в разделе «Куки и данные сайтов» нажмите «Управление исключениями...».
-Здесь можно редактировать список сайтов: разрешать или блокировать cookie.
+зайдите в настройки браузера и раздел «Приватность и защита»
+(`about:preferences#privacy`). Ниже в разделе «Куки и данные сайтов» нажмите
+«Управление исключениями...». Здесь можно редактировать список сайтов: разрешать
+или блокировать cookie.
 
 ![Управление исключениями](manage_exceptions.png)
 

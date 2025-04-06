@@ -38,6 +38,9 @@ startYear = 2023  # Copyright 2023-2024
 url = '/wiki'
 title = 'Вики'
 [[params.navbarLink]]
+url = '/software'
+title = 'Программы'
+[[params.navbarLink]]
 url = '/collections'
 title = 'Подборки'
 [[params.navbarLink]]
