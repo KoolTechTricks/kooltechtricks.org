@@ -48,8 +48,8 @@ Kool Tech Вики — свободный ресурс, на котором мо
 ## Социальные сети
 
 - [Telegram-канал](https://t.me/KoolTechTricks)
-- [Mastodon/Fediverse](https://lor.sh/@KoolTechTricks)
-- [RSS-лента (Mastodon)](https://lor.sh/@KoolTechTricks.rss)
+- [Mastodon/Fediverse](https://cr8r.gg/@KoolTechTricks)
+- [RSS-лента (Mastodon)](https://cr8r.gg/@KoolTechTricks.rss)
 
 В социальных сетях я делюсь с вами интересными находками в Интернете, полезными
 программами и новостями.

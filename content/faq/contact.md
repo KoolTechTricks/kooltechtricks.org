@@ -22,7 +22,7 @@ authors: ['Kool Tech Lord']
 
 ## Fediverse (Mastodon)
 
-- Kool Tech Tricks: [@KoolTechTricks@lor.sh](https://lor.sh/@KoolTechTricks)
+- Kool Tech Tricks: [@KoolTechTricks@cr8r.gg](https://cr8r.gg/@KoolTechTricks)
 - Личный аккаунт автора: [@KoolTechLord@mastodon.ml](https://mastodon.ml/@KoolTechLord)
 
 Вы можете упомянуть эти аккаунты в своих публичных постах. Однако не

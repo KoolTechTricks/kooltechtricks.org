@@ -71,10 +71,10 @@ domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
 enabled = true
 # fediverse:creator tag shows page author on fediverse
 # <https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon>
-handle = '@KoolTechTricks@lor.sh'
+handle = '@KoolTechTricks@cr8r.gg'
 # Verification
 # <https://joinmastodon.org/verification>
-urls = ['https://lor.sh/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
+urls = ['https://cr8r.gg/@KoolTechTricks', 'https://lor.sh/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
 
 # View history
 [params.plugins.git]
@@ -136,5 +136,5 @@ section = 'Подписаться'
 url = 'https://t.me/KoolTechTricks'
 title = 'Telegram-канал'
 [[params.links.urls]]
-url = 'https://lor.sh/@KoolTechTricks'
+url = 'https://cr8r.gg/@KoolTechTricks'
 title = 'Fediverse (Mastodon)'
