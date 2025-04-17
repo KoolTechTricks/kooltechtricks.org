@@ -1,7 +1,7 @@
 ---
 title: Аналитика на сайте
 publishDate: 2024-10-01T11:40:00Z
-lastmod: 2024-12-26T19:06:00Z
+lastmod: 2025-04-17T16:25:00Z
 authors: ['Kool Tech Lord']
 ---
 
@@ -47,7 +47,7 @@ authors: ['Kool Tech Lord']
 - Google Tag Manager `https://www.googletagmanager.com/gtag/js`: **~130 КБ**
 - Google Analytics `https://www.google-analytics.com/analytics.js`: **~50 КБ**
 - Яндекс Метрика `https://mc.yandex.ru/metrika/tag.js`: **~200 КБ**
-- Plausible `https://plausible.io/js/script.js`: **1,4 КБ**
+- Plausible `https://plausible.io/js/script.js`: **2,6 КБ**
 
 Каждый раз, когда вы посещаете страницы сайтов с аналитикой от Google или
 Яндекса (а это более половины всех сайтов в Интернете), к вам загружаются
@@ -69,6 +69,8 @@ authors: ['Kool Tech Lord']
 он популярен.
 - **Посещения отдельных страниц:** Какие страницы пользуются популярностью и
 что следует почаще обновлять.
+- **Время, проведённое на странице:** Как долго люди проводят время на сайте и
+как далеко прокручивают страницу.
 - **Источники:** Откуда люди узнают о нашем сайте.
 
 Все данные представлены в обобщённом виде. Мы не можем отслеживать индивидуально
