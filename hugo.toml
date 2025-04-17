@@ -63,7 +63,7 @@ title = 'Блог'
 [params.plugins.plausible]
 enabled = true
 notice = "На этом сайте используется аналитика [Plausible](https://plausible.io), уважающая вашу конфиденциальность. [Подробнее](/faq/analytics)"  # Message in the footer to inform visitors about analytics being used
-instance = "plausible.kooltechtricks.org"  # Self-hosted plausible domain
+instance = "plausible-analytics.kooltechtricks.org"  # Self-hosted plausible domain
 domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
 
 # Links to Fediverse (Mastodon) <https://joinmastodon.org>
