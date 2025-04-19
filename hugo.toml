@@ -44,6 +44,9 @@ title = 'Программы'
 url = '/collections'
 title = 'Подборки'
 [[params.navbarLink]]
+url = '/guides'
+title = 'Руководства'
+[[params.navbarLink]]
 url = '/tables'
 title = 'Таблицы'
 [[params.navbarLink]]
