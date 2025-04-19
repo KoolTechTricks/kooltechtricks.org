@@ -1,9 +1,11 @@
 #!/bin/bash
 
+HUGO="./hugo"
+
 # Get commit hashes and versions for Build Commit message
 BUILD_HASH=$(git rev-parse --short HEAD)
 BUILD_DESCRIPTION=$(git log --format=%B -n 1 $SITE_HASH)
-HUGO_VERSION=$(hugo version)
+HUGO_VERSION=$($HUGO version)
 COMMIT_MESSAGE="repo: ${BUILD_HASH}, hugo: ${HUGO_VERSION:6:7}"
 COMMIT_DESCRIPTION_1=""
 COMMIT_DESCRIPTION_2="${BUILD_DESCRIPTION}"
@@ -12,7 +14,7 @@ COMMIT_DESCRIPTION_2="${BUILD_DESCRIPTION}"
 # Do not remove .git!
 find ./public -mindepth 1 ! -regex '^./public/\.git\(/.*\)?' -delete
 
-hugo
+$HUGO
 npx -y pagefind --site public  # Pagefind site search
 
 cd public
