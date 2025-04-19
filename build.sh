@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HUGO="./hugo"
+HUGO="hugo"
 
 # Get commit hashes and versions for Build Commit message
 BUILD_HASH=$(git rev-parse --short HEAD)
