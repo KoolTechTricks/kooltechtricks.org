@@ -1,9 +1,10 @@
+image: /assets/logos/searxng.svg
 features:
   - bing
   - brave-search
   - duckduckgo
   - ecosia
-  - google-search
+  - google
   - searxng
   - startpage
   - kagi
