@@ -1,8 +1,9 @@
 ---
 title: Поисковые системы
+fancyTitle: Подборка лучших альтернативных поисковых систем
 publishDate: 2023-12-16T17:01:34Z
 lastmod: 2025-02-15T12:07:00Z
-authors: ['Lord Trickster']
+authors: [kttrickster]
 image: /assets/hero/search-engines.webp
 imageAlt: >
   Строки поиска DuckDuckGo, Startpage, Brave Search, SearXNG, Ecosia, Kagi,
