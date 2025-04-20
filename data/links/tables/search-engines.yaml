@@ -1,0 +1,14 @@
+features:
+  - bing
+  - brave-search
+  - duckduckgo
+  - ecosia
+  - google-search
+  - searxng
+  - startpage
+  - kagi
+  - mojeek
+  - yandex
+seeAlso:
+  - title: Подборка поисковых систем
+    link: /collections/search-engines

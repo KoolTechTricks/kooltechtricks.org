@@ -1,0 +1,24 @@
+features: # О чём рассказано на странице? В формате идентификаторов
+  - thing-1
+  - thing-2
+seeAlso: # Смотрите также (другие страницы на этом сайте)
+  - title: Подборка
+    link: /collections/example
+  - title: Вики
+    link: /wiki/example
+articles: # Статьи
+  - title: Статья 1
+    link: https://example.com/article # Внешняя ссылка
+  - title: Статья 2
+    link: /wiki/example # Внутренняя ссылка
+videos: # Видео
+  - title: Название видео, которое скопировано из видеохостинга
+    by: Канал автора видео
+    year: 2009 # Год публикации
+    duration: 30:32 # Длительность
+    link: https://youtu.be/dQw4w9WgXcQ
+  - title: What is PeerTube?
+    by: framasoft
+    year: 2018
+    duration: 1:53
+    link: https://framatube.org/w/9c9de5e8-0a1e-484a-b099-e80766180a6d
