@@ -1,0 +1,19 @@
+title: Obtainium
+description: >
+  Получайте обновления приложений для Android напрямую из их источников: GitHub,
+  F-Droid, RuStore, Huawei AppGallery, APKPure и другие сайты.
+homepage: https://obtainium.imranr.dev
+kttpage: /software/obtainium
+help: https://wiki.obtainium.imranr.dev
+issues: https://github.com/ImranR98/Obtainium/issues
+repository: https://github.com/ImranR98/Obtainium
+license: gnu-gpl-3.0
+screenshotsAlt:
+  0-obtainium-list-light.png: Список приложений в Obtainium (светлая тема)
+  1-obtainium-app-light.png: Информация о приложении в Obtainium (светлая тема)
+  2-obtainium-list-dark.png: Список приложений в Obtainium (тёмная тема)
+  3-obtainium-app-dark.png: Информация о приложении в Obtainium (тёмная тема)
+get:
+  title: Скачать
+  links:
+    GitHub: https://github.com/ImranR98/Obtainium/releases/latest/download/app-release.apk
