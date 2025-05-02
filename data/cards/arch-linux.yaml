@@ -1,0 +1,19 @@
+title: Arch Linux
+description: >
+  Простой, легковесный и гибкий дистрибутив GNU/Linux. Программы в нём
+  обновляются постоянно — пользователи получают новейшие версии. Изначально в
+  Arch не установлено никаких программ, кроме ядра и основных инструментов.
+  Система устанавливается в терминале вручную или при помощи автоматического
+  установщика.
+homepage: https://archlinux.org
+kttpage: /software/arch-linux
+wikipedia: https://ru.wikipedia.org/wiki/Arch_Linux
+docs: https://wiki.archlinux.org
+issues: https://wiki.archlinux.org/title/Bug_reporting_guidelines
+repository: https://gitlab.archlinux.org/archlinux
+license: gnu-gpl
+donate: https://archlinux.org/donate
+get:
+  title: Скачать
+  links:
+    Официальный сайт: https://archlinux.org/download
