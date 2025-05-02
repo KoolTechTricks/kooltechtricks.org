@@ -50,7 +50,7 @@ title = 'Руководства'
 url = '/tables'
 title = 'Таблицы'
 [[params.navbarLink]]
-url = '/faq'
+url = 'https://docs.kooltechtricks.org'
 title = 'FAQ'
 [[params.navbarLink]]
 url = 'https://blog.kooltechtricks.org'
@@ -65,7 +65,7 @@ title = 'Блог'
 # Plausible privacy-friendly analytics <https://plausible.io>
 [params.plugins.plausible]
 enabled = true
-notice = "На этом сайте используется аналитика [Plausible](https://plausible.io), уважающая вашу конфиденциальность. [Подробнее](/faq/analytics)"  # Message in the footer to inform visitors about analytics being used
+notice = "На этом сайте используется аналитика [Plausible](https://plausible.io), уважающая вашу конфиденциальность. [Подробнее](https://docs.kooltechtricks.org/faq/analytics)"  # Message in the footer to inform visitors about analytics being used
 instance = "plausible-analytics.kooltechtricks.org"  # Self-hosted plausible domain
 domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
 
@@ -91,12 +91,6 @@ contributing = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/C
 [params.plugins.telegram]
 enabled = false
 
-# Obfuscate email from spam bots <https://spencermortensen.com/articles/email-obfuscation>
-[params.plugins.emailObfuscation]
-obfuscated = '%6b%6f%6f%6c%74%65%63%68%6e%6f%6c%6f%67%79%74%72%69%63%6b%73%40%67%6d%61%69%6c%2e%63%6f%6d'
-noTLD = 'kooltechnologytricks@gmail'
-dotTLD = '.com'
-
 #############################
 ## 88x31 buttons in footer ##
 #############################
@@ -121,13 +115,13 @@ title = 'Made with Hugo'
 [[params.links]]
 section = 'Узнать больше'
 [[params.links.urls]]
-url = '/faq/about'
+url = 'https://docs.kooltechtricks.org/about'
 title = 'О проекте'
 [[params.links.urls]]
-url = '/faq/privacy-policy'
+url = 'https://docs.kooltechtricks.org/faq/privacy-policy'
 title = 'Политика конфиденциальности'
 [[params.links.urls]]
-url = '/faq/contact'
+url = 'https://docs.kooltechtricks.org/about/contact'
 title = 'Связаться'
 [[params.links.urls]]
 url = 'https://github.com/KoolTechTricks/kooltechtricks.org'
