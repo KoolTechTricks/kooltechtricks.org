@@ -30,6 +30,13 @@ color = '#1f89f5'  # theme-color tag
 locale = 'ru_RU'
 startYear = 2023  # Copyright 2023-2024
 
+###########
+## Embed ##
+###########
+
+[params.embed]
+publishedTime = false
+
 ##########################################
 ## Navbar links at the top of the pages ##
 ##########################################
