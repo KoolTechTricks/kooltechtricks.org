@@ -1,0 +1,18 @@
+title: Universal Android Debloater
+description: >
+  Настольная программа для удаления предустановленных приложений Android с
+  использованием ADB без root-прав. Для каждого приложения обозначено описание и
+  степень безопасности удаления.
+kttpage: /software/universal-android-debloater
+help: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/FAQ
+docs: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki
+issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues
+repository: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+license: gnu-gpl-3.0
+screenshotsAlt:
+  0-universal-android-debloater-light.png: Universal Android Debloater (светлая тема)
+  1-universal-android-debloater-dark.png: Universal Android Debloater (тёмная тема)
+get:
+  title: Установить
+  links:
+    Инструкция: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/Getting-started
