@@ -1,7 +1,7 @@
 ---
 title: Universal Android Debloater
 publishDate: 2024-08-08T14:57:00Z
-lastmod: 2025-05-04T14:41:00Z
+lastmod: 2025-05-04T15:03:00Z
 #categories: [android, privacy]
 authors: [kttrickster]
 image: /assets/screenshots/universal-android-debloater/0-universal-android-debloater-light.png
@@ -62,6 +62,10 @@ Android.
 или обновления ПО. Благодаря этой особенности вы не сможете окирпичить телефон,
 но в то же время вы сможете избавиться от приложений, которые могли бы
 загружаться при запуске системы.
+
+Тем не менее при бездумном удалении приложений возможно войти в состояние
+бесконечной перезагрузки (boot loop), из-за чего вам придётся сбрасывать
+телефон до заводских настроек.
 
 > **Смотрите также:**
 > [Universal Android Debloater FAQ](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/FAQ#how-is-it-possible-to-delete-a-system-package-without-root-permission).
