@@ -1,7 +1,7 @@
 ---
 title: URLCheck
 publishDate: 2024-01-26T18:25:03Z
-lastmod: 2025-05-05T20:09:00Z
+lastmod: 2025-05-05T20:17:00Z
 #categories: [android, privacy, security]
 authors: [kttrickster]
 image: /assets/screenshots/urlcheck/0-urlcheck-popup-light.png
@@ -42,7 +42,7 @@ imageAlt: >
 сокращённые ссылки и перенаправляйте на другой сайт в один клик.
 
 URLCheck с [открытым исходным кодом][URLCheck], весит меньше 2 МБ и не
-требовательно к разрешениям и ресурсам устройства.
+требователен к разрешениям и ресурсам устройства.
 
 ## Установка
 
