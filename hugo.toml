@@ -133,6 +133,9 @@ title = 'Связаться'
 [[params.links.urls]]
 url = 'https://github.com/KoolTechTricks/kooltechtricks.org'
 title = 'Исходные тексты страниц'
+[[params.links.urls]]
+url = '/contributors'
+title = 'Внесли свой вклад'
 
 [[params.links]]
 section = 'Подписаться'

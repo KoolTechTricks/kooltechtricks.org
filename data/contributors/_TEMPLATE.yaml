@@ -1,0 +1,15 @@
+name: John Doe  # Имя
+handle: _TEMPLATE  # Уникальный юзернейм
+weight: 999  # Порядок отображения. Чем больше число - тем ниже в списке
+avatar:  # Аватарка (необязательно)
+  format: png  # Формат (png, svg)
+  description: Стандартная аватарка  # Описание аватарки в поле alt
+about: >  # О себе
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+homepage: https://example.com  # Личный сайт
+links:  # Социальные сети, контакты
+  telegram: https://t.me/username
+  fediverse: https://mastodon.social/@Mastodon
+  bluesky: https://bsky.app/profile/bsky.app
