@@ -3,7 +3,7 @@ title: URLCheck
 publishDate: 2024-01-26T18:25:03Z
 lastmod: 2025-05-05T20:17:00Z
 #categories: [android, privacy, security]
-authors: [kttrickster]
+contributors: [kttrickster]
 image: /assets/screenshots/urlcheck/0-urlcheck-popup-light.png
 imageAlt: >
   Всплывающее окно URLCheck показывает полный адрес ссылки и предлагает очистить

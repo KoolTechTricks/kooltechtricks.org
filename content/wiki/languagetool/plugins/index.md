@@ -3,7 +3,7 @@ title: Плагины LanguageTool
 publishDate: 2024-11-02T16:33:00Z
 lastmod: 2024-11-02T16:33:00Z
 categories: ['software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: obsidian.webp
 ---
 

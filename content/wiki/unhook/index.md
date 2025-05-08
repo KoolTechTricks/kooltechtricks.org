@@ -3,7 +3,7 @@ title: Unhook
 publishDate: 2023-08-23T15:57:00Z
 lastmod: 2024-08-18T14:20:00Z
 categories: ['browser-extensions', 'wellbeing']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: youtube-home.webp
 ---
 

@@ -3,7 +3,7 @@ title: Приложения Todo.txt
 publishDate: 2024-09-05T17:45:00Z
 lastmod: 2024-09-05T17:45:00Z
 categories: ['productivity', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 ---
 
 Приложения для ведения списка задач, использующие открытый текстовый формат

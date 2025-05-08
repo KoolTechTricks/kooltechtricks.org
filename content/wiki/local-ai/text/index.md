@@ -3,7 +3,7 @@ title: Генерация текста при помощи локального 
 publishDate: 2024-10-06T11:40:00Z
 lastmod: 2025-02-01T12:40:00Z
 categories: ['ai', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: gpt4all.webp
 ---
 

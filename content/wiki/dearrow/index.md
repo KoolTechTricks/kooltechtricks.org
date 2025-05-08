@@ -3,7 +3,7 @@ title: DeArrow
 publishDate: 2023-08-25T17:48:00Z
 lastmod: 2024-08-18T14:28:00Z
 categories: ['browser-extensions', 'wellbeing']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: dearrow.webp
 ---
 

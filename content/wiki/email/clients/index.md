@@ -3,7 +3,7 @@ title: Почтовые клиенты
 publishDate: 2024-09-14T17:29:00Z
 lastmod: 2024-10-30T19:21:00Z
 categories: ['internet', 'privacy', 'productivity', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: thunderbird.webp
 ---
 

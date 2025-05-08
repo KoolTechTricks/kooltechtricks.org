@@ -3,7 +3,7 @@ title: Функции и возможности YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-08-27T17:25:00Z
 categories: []
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 ---
 
 Скрытые или малоизвестные полезные функции YouTube, которые официально

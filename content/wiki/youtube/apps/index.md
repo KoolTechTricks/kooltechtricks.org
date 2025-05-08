@@ -3,7 +3,7 @@ title: Приложения YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-02-01T11:51:00Z
 categories: ['software-collections', 'privacy']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: image.webp
 ---
 

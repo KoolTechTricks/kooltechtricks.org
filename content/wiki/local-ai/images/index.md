@@ -3,7 +3,7 @@ title: Генерация изображений при помощи локал�
 publishDate: 2024-10-06T11:40:00Z
 lastmod: 2024-10-06T11:40:00Z
 categories: ['ai', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: stable-diffusion-web-ui.webp
 ---
 

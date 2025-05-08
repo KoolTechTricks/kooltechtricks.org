@@ -2,7 +2,7 @@
 title: Как использовать консольные программы?
 publishDate: 2023-10-20T17:58:20Z
 lastmod: 2025-04-19T21:35:00Z
-authors: [kttrickster]
+contributors: [kttrickster]
 image: image.png
 imageAlt: >
   Окно терминала, в котором введена команда:

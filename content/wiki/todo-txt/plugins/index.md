@@ -3,7 +3,7 @@ title: Плагины Todo.txt
 publishDate: 2024-09-05T18:57:00Z
 lastmod: 2024-11-01T17:43:00Z
 categories: ['software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: obsidian-todotxt.webp
 ---
 

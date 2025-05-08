@@ -3,7 +3,7 @@ title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
 lastmod: 2024-08-03T13:00:00Z
 categories: ['audio-video']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/yt-dlp.webp
 ---
 

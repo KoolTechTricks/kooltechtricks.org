@@ -3,7 +3,7 @@ title: ClearURLs
 publishDate: 2023-12-25T12:55:51Z
 lastmod: 2024-04-02T17:56:36Z
 categories: ['browser-extensions', 'internet', 'privacy']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/clearurls.jpg
 ---
 

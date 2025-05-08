@@ -3,7 +3,7 @@ title: Приложения Mastodon
 publishDate: 2024-06-20T13:16:18Z
 lastmod: 2024-06-23T18:05:33Z
 categories: ['internet', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/mastodon-apps.png
 ---
 

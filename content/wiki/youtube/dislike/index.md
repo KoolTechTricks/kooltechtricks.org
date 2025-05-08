@@ -3,7 +3,7 @@ title: Return YouTube Dislike
 publishDate: 2023-08-26T13:28:00Z
 lastmod: 2024-08-27T17:25:00Z
 categories: ['browser-extensions']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: image.webp
 ---
 

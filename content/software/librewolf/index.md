@@ -3,7 +3,7 @@ title: LibreWolf
 publishDate: 2025-03-10T17:42:00Z
 lastmod: 2025-04-06T20:33:00Z
 # categories: [browsers, privacy]
-authors: [kttrickster]
+contributors: [kttrickster]
 image: /assets/screenshots/librewolf/0-librewolf-light.png
 imageAlt: Окно браузера LibreWolf
 ---

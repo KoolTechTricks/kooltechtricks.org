@@ -3,7 +3,7 @@ title: Локальный сервер LanguageTool
 publishDate: 2024-11-02T16:33:00Z
 lastmod: 2024-11-02T16:33:00Z
 categories: ['guides', 'privacy', 'selfhost']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: gui.webp
 ---
 

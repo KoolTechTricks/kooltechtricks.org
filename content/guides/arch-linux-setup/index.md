@@ -2,7 +2,7 @@
 title: Установка и настройка Arch Linux
 publishDate: 2025-05-02T13:36:09Z
 lastmod: 2025-05-02T20:23:00Z
-authors: [kttrickster]
+contributors: [kttrickster]
 image: hero.webp
 imageAlt: >
   Терминал при первой загрузке Arch Linux с установочного образа переливается в

@@ -3,7 +3,7 @@ title: F-Droid
 publishDate: 2023-11-07T15:46:39Z
 lastmod: 2024-07-23T17:01:00Z
 categories: ['android']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/f-droid-clients-official.webp
 ---
 

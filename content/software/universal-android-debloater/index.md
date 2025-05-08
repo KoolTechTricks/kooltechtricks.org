@@ -3,7 +3,7 @@ title: Universal Android Debloater
 publishDate: 2024-08-08T14:57:00Z
 lastmod: 2025-05-04T15:03:00Z
 #categories: [android, privacy]
-authors: [kttrickster]
+contributors: [kttrickster]
 image: /assets/screenshots/universal-android-debloater/0-universal-android-debloater-light.png
 imageAlt: >
   Окно программы Universal Android Debloater, которое показывает список

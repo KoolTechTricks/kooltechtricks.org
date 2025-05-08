@@ -2,7 +2,7 @@
 title: Как использовать Obtainium для получения обновлений приложений не из Google Play?
 publishDate: 2025-04-27T10:10:00Z
 lastmod: 2025-04-27T10:10:00Z
-authors: [kttrickster]
+contributors: [kttrickster]
 image: hero.png
 imageAlt: >
   Схема, на которой изображены логотипы GitHub, F-Droid и RuStore.

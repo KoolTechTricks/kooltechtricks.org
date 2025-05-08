@@ -3,7 +3,7 @@ title: Расширения для YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-08-27T17:25:00Z
 categories: ['browser-extensions', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 ---
 
 Более удобный просмотр видео в браузере.

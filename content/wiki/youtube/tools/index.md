@@ -3,7 +3,7 @@ title: Инструменты для YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-10-29T18:26:00Z
 categories: ['audio-video', 'software-collections']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 ---
 
 Полезные программы и сервисы.

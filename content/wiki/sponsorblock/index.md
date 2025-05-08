@@ -3,7 +3,7 @@ title: SponsorBlock
 publishDate: 2023-08-23T15:57:00Z
 lastmod: 2024-08-18T14:14:00Z
 categories: ['browser-extensions']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: image.webp
 ---
 

@@ -3,7 +3,7 @@ title: Telegram
 publishDate: 2024-03-02T14:28:23Z
 lastmod: 2024-03-02T14:28:23Z
 categories: ['compilations', 'internet']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/telegram.webp
 ---
 

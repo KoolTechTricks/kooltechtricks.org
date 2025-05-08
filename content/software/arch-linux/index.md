@@ -3,7 +3,7 @@ title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
 lastmod: 2025-05-02T20:23:00Z
 #categories: [linux]
-authors: [kttrickster]
+contributors: [kttrickster]
 ---
 
 [Arch Linux](https://archlinux.org) — простой, легковесный и гибкий дистрибутив

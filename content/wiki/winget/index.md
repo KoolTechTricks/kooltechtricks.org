@@ -3,7 +3,7 @@ title: WinGet
 publishDate: 2023-09-21T16:39:58Z
 lastmod: 2024-07-26T14:00:00Z
 categories: ['windows']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/winget.webp
 ---
 

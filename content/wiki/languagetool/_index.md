@@ -3,7 +3,7 @@ title: LanguageTool
 publishDate: 2024-11-02T16:33:00Z
 lastmod: 2024-11-02T16:33:00Z
 categories: []
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: plugins/browser.webp
 layout: single
 ---

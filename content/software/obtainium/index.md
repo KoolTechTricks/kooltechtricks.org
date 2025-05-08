@@ -3,7 +3,7 @@ title: Obtainium
 publishDate: 2024-02-15T18:09:55Z
 lastmod: 2025-04-27T10:10:00Z
 # categories: [android]
-authors: [kttrickster]
+contributors: [kttrickster]
 image: obtainium.webp
 imageAlt: >
   Скриншоты Obtainium на экране списка приложений и информации о приложении

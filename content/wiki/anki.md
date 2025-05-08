@@ -3,7 +3,7 @@ title: Anki
 publishDate: 2023-08-30T14:48:00Z
 lastmod: 2024-04-06T13:49:20Z
 categories: ['education']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/anki.jpg
 ---
 

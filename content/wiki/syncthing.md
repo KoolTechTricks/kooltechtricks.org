@@ -3,7 +3,7 @@ title: Syncthing
 publishDate: 2023-10-07T18:33:37Z
 lastmod: 2024-12-15T19:47:00Z
 categories: ['files']
-authors: ['Kool Tech Lord']
+contributors: [kttrickster]
 image: /media/syncthing.jpg
 ---
 
