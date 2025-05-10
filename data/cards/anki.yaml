@@ -1,0 +1,33 @@
+title: Anki
+description: >
+  Программа для заучивания карточек в виде текста, картинок или аудио. Упрощает
+  процесс запоминания информации, благодаря алгоритмам постепенного обучения.
+homepage: https://apps.ankiweb.net
+kttpage: /software/anki
+wikipedia: https://ru.wikipedia.org/wiki/Anki
+docs: https://docs.ankiweb.net
+issues: https://github.com/ankitects/anki/issues
+repository: https://github.com/ankitects/anki
+license: gnu-agpl-3.0-or-later
+donate: https://apps.apple.com/app/ankimobile-flashcards/id373493387
+screenshotsAlt:
+  0-anki-decks-light.png: Список колод в Anki (светлая тема)
+  1-anki-card-light.png: Процесс изучения карточек в Anki (светлая тема)
+  2-anki-add-light.png: Добавление карточки в Anki (светлая тема)
+  3-anki-decks-dark.png: Список колод в Anki (тёмная тема)
+  4-anki-card-dark.png: Процесс изучения карточек в Anki (тёмная тема)
+  5-anki-add-dark.png: Добавление карточки в Anki (тёмная тема)
+get:
+  title: Скачать
+  links:
+    Компьютер:
+      Официальный сайт: https://apps.ankiweb.net/#downloads
+      GitHub: https://github.com/ankitects/anki/releases/latest
+      Flathub (Linux): https://flathub.org/apps/net.ankiweb.Anki
+    Android (AnkiDroid):
+      Google Play: https://play.google.com/store/apps/details?id=com.ichi2.anki
+      Obtainium: obtainium://add/https://github.com/ankidroid/Anki-Android
+      GitHub: https://github.com/ankidroid/Anki-Android/releases/latest
+      F-Droid: https://f-droid.org/packages/com.ichi2.anki
+    iOS (AnkiMobile): https://apps.apple.com/app/id373493387
+    Веб (AnkiWeb): https://ankiweb.net
