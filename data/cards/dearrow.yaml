@@ -1,0 +1,27 @@
+title: DeArrow
+description: >
+  Расширение для браузера, которое заменяет эмоциональные и вызывающие обложки
+  и названия видео на YouTube на более нейтральные и правдоподобные.
+  Пользователи предлагают свои названия, тем самым создавая базу данных,
+  которой может пользоваться любой желающий.
+homepage: https://dearrow.ajay.app
+kttpage: /software/dearrow
+docs: https://wiki.sponsor.ajay.app/w/DeArrow/Guidelines
+issues: https://github.com/ajayyy/DeArrow/issues
+repository: https://github.com/ajayyy/DeArrow
+license: gnu-gpl-3.0
+donate: https://dearrow.ajay.app/donate
+screenshotsAlt:
+  0-dearrow-videos-light.webp: >
+    Примеры изменённых названий и обложек видео:
+    1) Вся правда об Apple Vision Pro — «Чёрное зеркало» → Краткие итоги WWDC2023;
+    2) 10 Minutes To Escape Or This Room Explodes! → Escape 5 Floors of Obstacles in 10 Minutes for $250,000;
+    3) Китайская электрофура — КОСМОС! → Обзор и тест-драйв китайского электротягача DeepWay;
+    4) NFT не нужны → Почему NFT является скамом.
+get:
+  title: Скачать
+  links:
+    Chromium: https://chromewebstore.google.com/detail/enamippconapkdmgfgjchkhakpfinmaj
+    Firefox: https://addons.mozilla.org/firefox/addon/dearrow
+    Safari: https://apps.apple.com/app/id6451469297
+    Бесплатно: https://dearrow.ajay.app/free
