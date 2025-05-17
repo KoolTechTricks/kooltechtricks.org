@@ -1,0 +1,25 @@
+title: Phanpy
+description: >
+  Необычное минималистичное веб-приложение для Mastodon. Содержит уникальные
+  функции и решения по дизайну.
+homepage: https://phanpy.social
+issues: https://github.com/cheeaun/phanpy/issues
+repository: https://github.com/cheeaun/phanpy
+license: mit
+donate: https://github.com/sponsors/cheeaun
+screenshotsAlt:
+  0-phanpy-home-desktop-light.png: Домашняя лента в Phanpy на широком экране (светлая тема)
+  1-phanpy-profile-desktop-light.png: Просмотр профиля в Phanpy на широком экране (светлая тема)
+  2-phanpy-catchup-light.webp: Функция Catch-up (Наверстать упущенное) показывает активность за последние несколько часов (светлая тема)
+  3-phanpy-home-mobile-light.png: Домашняя лента в Phanpy на узком экране (светлая тема)
+  4-phanpy-profile-mobile-light.png: Просмотр профиля в Phanpy на узком экране (светлая тема)
+  5-phanpy-home-desktop-dark.png: Домашняя лента в Phanpy на широком экране (тёмная тема)
+  6-phanpy-profile-desktop-dark.png: Просмотр профиля в Phanpy на широком экране (тёмная тема)
+  7-phanpy-catchup-dark.webp: Функция Catch-up (Наверстать упущенное) показывает активность за последние несколько часов (тёмная тема)
+  8-phanpy-home-mobile-dark.png: Домашняя лента в Phanpy на узком экране (тёмная тема)
+  9-phanpy-profile-mobile-dark.png: Просмотр профиля в Phanpy на узком экране (тёмная тема)
+get:
+  title: Открыть
+  links:
+    Стабильная версия: https://phanpy.social
+    Новейшая версия: https://dev.phanpy.social

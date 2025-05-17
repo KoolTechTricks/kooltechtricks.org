@@ -1,0 +1,21 @@
+title: Moshidon
+description: >
+  Модифицированная версия официального приложения Mastodon для Android.
+  Добавляет важные отсутствующие функции.
+homepage: https://lucasggamerm.github.io/moshidon
+help: https://lucasggamerm.github.io/moshidon/FAQ.html
+issues: https://github.com/LucasGGamerM/moshidon/issues
+repository: https://github.com/LucasGGamerM/moshidon
+license: gnu-gpl-3.0
+donate: https://github.com/LucasGGamerM/moshidon#donate
+screenshotsAlt:
+  0-moshidon-home-light.webp: Домашняя лента в Moshidon (светлая тема)
+  1-moshidon-profile-light.webp: Просмотр профиля в Moshidon (светлая тема)
+  2-moshidon-home-dark.webp: Домашняя лента в Moshidon (тёмная тема)
+  3-moshidon-profile-dark.webp: Просмотр профиля в Moshidon (тёмная тема)
+get:
+  title: Скачать
+  links:
+    Google Play: https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda
+    GitHub: https://github.com/LucasGGamerM/moshidon/releases/latest
+    F-Droid: https://f-droid.org/packages/org.joinmastodon.android.moshinda

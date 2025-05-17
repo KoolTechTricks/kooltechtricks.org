@@ -1,0 +1,22 @@
+title: Tuba
+description: >
+  Приложение для Mastodon, заточенное под рабочий стол GNOME на Linux.
+homepage: https://tuba.geopjr.dev
+help: https://github.com/GeopJr/Tuba/wiki
+issues: https://github.com/GeopJr/Tuba/issues
+repository: https://github.com/GeopJr/Tuba
+license: gnu-gpl-3.0
+donate: https://geopjr.dev/donate
+screenshotsAlt:
+  0-tuba-home-desktop-light.png: Домашняя лента в Tuba на широком экране (светлая тема)
+  1-tuba-profile-desktop-light.png: Просмотр профиля в Tuba на широком экране (светлая тема)
+  2-tuba-home-mobile-light.png: Домашняя лента в Tuba на узком экране (светлая тема)
+  3-tuba-profile-mobile-light.png: Просмотр профиля в Tuba на узком экране (светлая тема)
+  4-tuba-home-desktop-dark.png: Домашняя лента в Tuba на широком экране (тёмная тема)
+  5-tuba-profile-desktop-dark.png: Просмотр профиля в Tuba на широком экране (тёмная тема)
+  6-tuba-home-mobile-dark.png: Домашняя лента в Tuba на узком экране (тёмная тема)
+  7-tuba-profile-mobile-dark.png: Просмотр профиля в Tuba на узком экране (тёмная тема)
+get:
+  title: Скачать
+  links:
+    Flathub (Linux): https://flathub.org/apps/details/dev.geopjr.Tuba

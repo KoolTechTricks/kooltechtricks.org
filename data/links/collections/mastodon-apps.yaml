@@ -1,0 +1,15 @@
+features:
+  - elk
+  - phanpy
+  - moshidon
+  - tusky
+  - tuba
+seeAlso:
+  - title: Таблица сравнения приложений для Mastodon
+    link: /tables/mastodon-apps
+    description: >
+      Если вы хотите сравнить функциональность каждого приложения
+      (включая официальных и не вошедших в подборку)
+articles:
+  - title: Полный список приложений
+    link: https://joinmastodon.org/ru/apps

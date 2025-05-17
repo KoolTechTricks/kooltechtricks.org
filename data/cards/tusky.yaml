@@ -1,0 +1,22 @@
+title: Tusky
+icon: tusky.png
+description: >
+  Легковесное приложение для Mastodon, интерфейс которого похож на старую
+  версию приложения Twitter. Одно из первых сторонних приложений, которое
+  активно развивается и по сей день.
+homepage: https://tusky.app
+issues: https://github.com/tuskyapp/Tusky/issues
+repository: https://github.com/tuskyapp/Tusky
+license: gnu-gpl-3.0
+donate: https://example.com/Ссылка-на-пожертвования
+screenshotsAlt:
+  0-tusky-home-light.webp: Домашняя лента в Tusky (светлая тема)
+  1-tusky-profile-light.webp: Просмотр профиля в Tusky (светлая тема)
+  2-tusky-home-dark.webp: Домашняя лента в Tusky (тёмная тема)
+  3-tusky-profile-dark.webp: Просмотр профиля в Tusky (тёмная тема)
+get:
+  title: Скачать
+  links:
+    Google Play: https://play.google.com/store/apps/details?id=com.keylesspalace.tusky
+    GitHub: https://github.com/tuskyapp/Tusky/releases/latest
+    F-Droid: https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky

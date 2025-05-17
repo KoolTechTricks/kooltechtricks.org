@@ -1,0 +1,24 @@
+title: Elk
+description: >
+  Шустрое веб-приложение Mastodon, находящееся в активной разработке. Интерфейс
+  похож на современную веб-версию X (Twitter).
+homepage: https://docs.elk.zone
+help: https://docs.elk.zone/guide
+issues: https://github.com/elk-zone/elk/issues
+repository: https://github.com/elk-zone/elk
+license: mit
+donate: https://docs.elk.zone/guide/sponsoring
+screenshotsAlt:
+  0-elk-home-desktop-light.png: Домашняя лента в Elk на широком экране (светлая тема)
+  1-elk-profile-desktop-light.png: Просмотр профиля в Elk на широком экране (светлая тема)
+  2-elk-home-mobile-light.png: Домашняя лента в Elk на узком экране (светлая тема)
+  3-elk-profile-mobile-light.png: Просмотр профиля в Elk на узком экране (светлая тема)
+  4-elk-home-desktop-dark.png: Домашняя лента в Elk на широком экране (тёмная тема)
+  5-elk-profile-desktop-dark.png: Просмотр профиля в Elk на широком экране (тёмная тема)
+  6-elk-home-mobile-dark.png: Домашняя лента в Elk на узком экране (тёмная тема)
+  7-elk-profile-mobile-dark.png: Просмотр профиля в Elk на узком экране (тёмная тема)
+get:
+  title: Открыть
+  links:
+    Стабильная версия: https://elk.zone
+    Новейшая версия: https://main.elk.zone
