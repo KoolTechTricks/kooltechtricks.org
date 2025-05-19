@@ -17,14 +17,14 @@ screenshotsAlt:
 get:
   title: Скачать
   links:
-    Все варианты: https://librewolf.net/installation
-    Windows:
-      Официальный сайт: https://librewolf.net/installation/windows
-      Microsoft Store: https://apps.microsoft.com/store/detail/9NVN9SZ8KFD7
-    Linux:
-      Flathub: https://flathub.org/apps/details/io.gitlab.librewolf-community
-      AppImage: https://librewolf.net/installation/linux/#appimage
-    macOS:
-      Homebrew: >
+    1 Все варианты: https://librewolf.net/installation
+    2 Windows:
+      1 Официальный сайт: https://librewolf.net/installation/windows
+      2 Microsoft Store: https://apps.microsoft.com/store/detail/9NVN9SZ8KFD7
+    3 Linux:
+      1 Flathub: https://flathub.org/apps/details/io.gitlab.librewolf-community
+      2 AppImage: https://librewolf.net/installation/linux/#appimage
+    4 macOS:
+      1 Homebrew: >
         `brew install librewolf --no-quarantine`
-      Официальный сайт (без автообновлений): https://librewolf.net/installation/macos/#disk-image
+      2 Официальный сайт (без автообновлений): https://librewolf.net/installation/macos/#disk-image

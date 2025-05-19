@@ -20,14 +20,14 @@ screenshotsAlt:
 get:
   title: Скачать
   links:
-    Компьютер:
-      Официальный сайт: https://apps.ankiweb.net/#downloads
-      GitHub: https://github.com/ankitects/anki/releases/latest
-      Flathub (Linux): https://flathub.org/apps/net.ankiweb.Anki
-    Android (AnkiDroid):
-      Google Play: https://play.google.com/store/apps/details?id=com.ichi2.anki
-      Obtainium: obtainium://add/https://github.com/ankidroid/Anki-Android
-      GitHub: https://github.com/ankidroid/Anki-Android/releases/latest
-      F-Droid: https://f-droid.org/packages/com.ichi2.anki
-    iOS (AnkiMobile): https://apps.apple.com/app/id373493387
-    Веб (AnkiWeb): https://ankiweb.net
+    1 Компьютер:
+      1 Официальный сайт: https://apps.ankiweb.net/#downloads
+      2 GitHub: https://github.com/ankitects/anki/releases/latest
+      3 Flathub (Linux): https://flathub.org/apps/net.ankiweb.Anki
+    2 Android (AnkiDroid):
+      1 Google Play: https://play.google.com/store/apps/details?id=com.ichi2.anki
+      2 Obtainium: obtainium://add/https://github.com/ankidroid/Anki-Android
+      3 GitHub: https://github.com/ankidroid/Anki-Android/releases/latest
+      4 F-Droid: https://f-droid.org/packages/com.ichi2.anki
+    3 iOS (AnkiMobile): https://apps.apple.com/app/id373493387
+    4 Веб (AnkiWeb): https://ankiweb.net
