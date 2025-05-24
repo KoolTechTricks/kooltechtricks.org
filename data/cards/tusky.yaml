@@ -5,10 +5,10 @@ description: >
   версию приложения Twitter. Одно из первых сторонних приложений, которое
   активно развивается и по сей день.
 homepage: https://tusky.app
-issues: https://github.com/tuskyapp/Tusky/issues
-repository: https://github.com/tuskyapp/Tusky
+issues: https://codeberg.org/tusky/Tusky/issues
+repository: https://codeberg.org/tusky/Tusky
 license: gnu-gpl-3.0
-donate: https://example.com/Ссылка-на-пожертвования
+donate: https://opencollective.com/tusky
 screenshotsAlt:
   0-tusky-home-light.webp: Домашняя лента в Tusky (светлая тема)
   1-tusky-profile-light.webp: Просмотр профиля в Tusky (светлая тема)
@@ -18,5 +18,5 @@ get:
   title: Скачать
   links:
     1 Google Play: https://play.google.com/store/apps/details?id=com.keylesspalace.tusky
-    2 GitHub: https://github.com/tuskyapp/Tusky/releases/latest
+    2 GitHub: https://codeberg.org/tusky/Tusky/releases/latest
     3 F-Droid: https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky
