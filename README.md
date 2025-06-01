@@ -46,6 +46,11 @@ npx -y pagefind --site public  # собрать индекс страниц Page
 [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
 ([Creative Commons «С указанием авторства — С сохранением условий»](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
 
+[Брендинг Kool Tech Tricks] доступен по лицензии [CC BY-NC-SA 4.0].
+
+[Брендинг Kool Tech Tricks]: https://docs.kooltechtricks.org/about/branding
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
+
 Все права на логотипы в директории `/content/assets/logos` принадлежат их
 владельцам. Они используются в образовательных целях при упоминании
 соответствующих сервисов или приложений.
