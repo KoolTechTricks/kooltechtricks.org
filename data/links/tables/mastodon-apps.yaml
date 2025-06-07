@@ -6,6 +6,7 @@ features:
   - mastodon-web
   - moshidon
   - phanpy
+  - pl-fe
   - tokodon
   - toot
   - tuba
