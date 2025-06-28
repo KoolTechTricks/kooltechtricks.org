@@ -1,7 +1,7 @@
 ---
 title: Установка и настройка Arch Linux
 publishDate: 2025-05-02T13:36:09Z
-lastmod: 2025-05-02T20:23:00Z
+lastmod: 2025-06-28T10:03:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: >
@@ -283,7 +283,7 @@ pacstrap -K /mnt base linux linux-firmware
 |`linux-headers` / `linux-lts-headers`|Заголовки (headers) и скрипты для сборки модулей ядра. Необходимо для некоторых драйверов (NVIDIA, VirtualBox Guest Additions)
 |`intel-ucode` / `amd-ucode`|[Микрокод] (не нужен в виртуальной машине)
 |`btrfs-progs`|Управление файловой системой Btrfs
-|`nano`|Текстовый редактор
+|`nano` / `msedit`|Простой текстовый редактор в терминале
 |`man-db`|Руководства команд [Manual pages]
 
 [Микрокод]: https://wiki.archlinux.org/title/Microcode_(Русский)
