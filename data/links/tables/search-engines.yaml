@@ -1,5 +1,6 @@
 icon: searxng
 features:
+  - 4get
   - bing
   - brave-search
   - duckduckgo
