@@ -25,43 +25,48 @@ section = ['html', 'rss']
 taxonomy = ['html', 'rss']
 term = ['html', 'rss']
 
+[menus]
+[[menus.main]]
+name = 'Вики'
+pageRef = '/wiki'
+weight = 1
+[[menus.main]]
+name = 'Программы'
+pageRef = '/software'
+weight = 2
+[[menus.main]]
+name = 'Подборки'
+pageRef = '/collections'
+weight = 3
+[[menus.main]]
+name = 'Руководства'
+pageRef = '/guides'
+weight = 4
+[[menus.main]]
+name = 'Таблицы'
+pageRef = '/tables'
+weight = 5
+# [[menus.main]]
+# name = 'FAQ'
+# url = 'https://docs.kooltechtricks.org'
+# weight = 6
+# [[menus.main]]
+# name = 'Блог'
+# url = 'https://blog.kooltechtricks.org'
+# weight = 7
+
 [params]
-color = '#1f89f5'  # theme-color tag
+color = '#1f89f5'
 locale = 'ru_RU'
 startYear = 2023  # Copyright 2023-2024
 
-###########
-## Embed ##
-###########
+###############
+## Fediverse ##
+###############
 
-[params.embed]
-publishedTime = false
-
-##########################################
-## Navbar links at the top of the pages ##
-##########################################
-
-[[params.navbarLink]]
-url = '/wiki'
-title = 'Вики'
-[[params.navbarLink]]
-url = '/software'
-title = 'Программы'
-[[params.navbarLink]]
-url = '/collections'
-title = 'Подборки'
-[[params.navbarLink]]
-url = '/guides'
-title = 'Руководства'
-[[params.navbarLink]]
-url = '/tables'
-title = 'Таблицы'
-[[params.navbarLink]]
-url = 'https://docs.kooltechtricks.org'
-title = 'FAQ'
-[[params.navbarLink]]
-url = 'https://blog.kooltechtricks.org'
-title = 'Блог'
+[params.fediverse]
+handle = '@KoolTechTricks@cr8r.gg'
+urls = ['https://cr8r.gg/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
 
 #########################
 ## Additional services ##
@@ -76,16 +81,6 @@ notice = "На этом сайте используется аналитика [
 instance = "plausible-analytics.kooltechtricks.org"  # Self-hosted plausible domain
 domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
 
-# Links to Fediverse (Mastodon) <https://joinmastodon.org>
-[params.plugins.fediverse]
-enabled = true
-# fediverse:creator tag shows page author on fediverse
-# <https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon>
-handle = '@KoolTechTricks@cr8r.gg'
-# Verification
-# <https://joinmastodon.org/verification>
-urls = ['https://cr8r.gg/@KoolTechTricks', 'https://lor.sh/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
-
 # View history
 [params.plugins.git]
 enabled = true
@@ -93,10 +88,6 @@ commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/con
 report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
 source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
 contributing = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md'  # Contributing guide
-
-# Comments via Telegram channel <https://core.telegram.org/widgets/discussion>
-[params.plugins.telegram]
-enabled = false
 
 #############################
 ## 88x31 buttons in footer ##
