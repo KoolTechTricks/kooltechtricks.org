@@ -1,7 +1,7 @@
 ---
 title: Таблица сравнения приложений для Mastodon
 publishDate: 2025-05-17T15:10:00Z
-lastmod: 2025-07-09T15:48:00Z
+lastmod: 2025-07-12T18:35:00Z
 contributors: [kttrickster]
 summary: Сравнение функциональности приложений для Mastodon
 ---
@@ -101,10 +101,10 @@ summary: Сравнение функциональности приложени�
             <!--Elk-->             <td>0.16.0</td>
             <!--Fedilab-->         <td>3.33.0</td>
             <!--Mastodon Android--><td>2.9.7</td>
-            <!--Mastodon Web-->    <td>4.3.7</td>
+            <!--Mastodon Web-->    <td>4.4.1</td>
             <!--Moshidon-->        <td>2.3.0+fork.109.moshinda</td>
-            <!--Phanpy-->          <td>2025.04.26.0d0fa92</td>
-            <!--pl-fe-->           <td>v0.0.1-a6f5e26</td>
+            <!--Phanpy-->          <td>2025.06.22.c651e9a</td>
+            <!--pl-fe-->           <td>—</td>
             <!--Tokodon-->         <td>25.04</td>
             <!--toot-->            <td>0.48.0</td>
             <!--Tuba-->            <td>0.9.2</td>
@@ -344,6 +344,20 @@ summary: Сравнение функциональности приложени�
             <!--Tusky-->           <td class="good">Есть</td>
         </tr>
         <tr>
+            <th>Отображение цитат</th>
+            <!--Elk-->             <td class="bad">Нет</td>
+            <!--Fedilab-->         <td class="warn">Некорректно</td>
+            <!--Mastodon Android--><td class="bad">Нет</td>
+            <!--Mastodon Web-->    <td class="good">Есть</td>
+            <!--Moshidon-->        <td class="good">Есть</td>
+            <!--Phanpy-->          <td class="good">Есть</td>
+            <!--pl-fe-->           <td class="bad">Нет</td>
+            <!--Tokodon-->         <td class="warn">Не всегда</td>
+            <!--toot-->            <td class="good">Есть</td>
+            <!--Tuba-->            <td class="warn">Некорректно</td>
+            <!--Tusky-->           <td class="bad">Нет</td>
+        </tr>
+        <tr>
             <th class="sticky">Профили</th>
         </tr>
         <tr>
@@ -361,7 +375,7 @@ summary: Сравнение функциональности приложени�
             <!--Tusky-->           <td>—</td>
         </tr>
         <tr>
-            <th>Избранные хештеги</th>
+            <th>Избранные/рекомендованные хештеги</th>
             <!--Elk-->             <td class="bad">Нет</td>
             <!--Fedilab-->         <td class="good">Есть</td>
             <!--Mastodon Android--><td class="good">Есть</td>
@@ -373,6 +387,20 @@ summary: Сравнение функциональности приложени�
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="good">Есть</td>
+        </tr>
+        <tr>
+            <th>Избранные/рекомендованные профили</th>
+            <!--Elk-->             <td class="bad">Нет</td>
+            <!--Fedilab-->         <td class="bad">Нет</td>
+            <!--Mastodon Android--><td class="bad">Нет</td>
+            <!--Mastodon Web-->    <td class="good">Есть</td>
+            <!--Moshidon-->        <td class="bad">Нет</td>
+            <!--Phanpy-->          <td class="good">Есть</td>
+            <!--pl-fe-->           <td class="good">Есть</td>
+            <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--toot-->            <td class="bad">Нет</td>
+            <!--Tuba-->            <td class="bad">Нет</td>
+            <!--Tusky-->           <td class="bad">Нет</td>
         </tr>
         <tr>
             <th>Заметки профилей</th>
@@ -387,6 +415,20 @@ summary: Сравнение функциональности приложени�
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
+        </tr>
+        <tr>
+            <th>Кто подписан среди знакомых</th>
+            <!--Elk-->             <td class="bad">Нет</td>
+            <!--Fedilab-->         <td class="good">Есть</td>
+            <!--Mastodon Android--><td class="good">Есть</td>
+            <!--Mastodon Web-->    <td class="good">Есть</td>
+            <!--Moshidon-->        <td class="bad">Нет</td>
+            <!--Phanpy-->          <td class="bad">Нет</td>
+            <!--pl-fe-->           <td class="good">Есть</td>
+            <!--Tokodon-->         <td class="good">Есть</td>
+            <!--toot-->            <td class="bad">Нет</td>
+            <!--Tuba-->            <td class="bad">Нет</td>
+            <!--Tusky-->           <td class="bad">Нет</td>
         </tr>
         <tr>
             <th class="sticky">Публикация</th>
@@ -625,20 +667,6 @@ summary: Сравнение функциональности приложени�
             <!--Tokodon-->         <td class="bad">Нет</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
-            <!--Tusky-->           <td class="bad">Нет</td>
-        </tr>
-        <tr>
-            <th><details><summary>Рендер ссылок на пост как цитаты</summary>Возможность цитирования должна появится в Mastodon 4.4 осенью 2025 года. Пока что некоторые приложения могут отображать последнюю ссылку на пост как цитату.</details></th>
-            <!--Elk-->             <td class="bad">Нет</td>
-            <!--Fedilab-->         <td class="bad">Нет</td>
-            <!--Mastodon Android--><td>—</td>
-            <!--Mastodon Web-->    <td>—</td>
-            <!--Moshidon-->        <td class="good">Есть</td>
-            <!--Phanpy-->          <td class="good">Есть</td>
-            <!--pl-fe-->           <td class="bad">Нет</td>
-            <!--Tokodon-->         <td class="good">Есть</td>
-            <!--toot-->            <td class="good">Есть</td>
-            <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
         </tr>
         <tr>
