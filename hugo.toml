@@ -1,6 +1,6 @@
 title = 'Kool Tech Tricks'
 baseURL = 'https://kooltechtricks.org/'
-theme = ['ktt-base-theme', 'ktt-wiki-theme']
+theme = ['ktt-wiki-theme', 'ktt-base-theme']
 
 # Locale
 languageCode = 'ru-ru'
@@ -59,6 +59,16 @@ weight = 5
 color = '#1f89f5'
 locale = 'ru_RU'
 startYear = 2023  # Copyright 2023-2024
+
+#########
+## Git ##
+#########
+
+[params.git]
+commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'  # History
+report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
+source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
+contributing = 'https://docs.kooltechtricks.org/contributing'  # Contributing guide
 
 ###############
 ## Fediverse ##
