@@ -2,7 +2,7 @@
 title: TrackerControl
 publishDate: 2024-01-27T17:22:42Z
 lastmod: 2024-01-27T17:22:42Z
-categories: ['android', 'privacy']
+#categories: ['android', 'privacy']
 contributors: [kttrickster]
 image: /media/trackercontrol.jpg
 ---

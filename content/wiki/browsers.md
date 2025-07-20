@@ -2,7 +2,7 @@
 title: Браузеры
 publishDate: 2024-01-11T13:59:20Z
 lastmod: 2025-03-10T17:41:00Z
-categories: ['compilations', 'internet', 'privacy']
+#categories: ['compilations', 'internet', 'privacy']
 contributors: [kttrickster]
 ---
 

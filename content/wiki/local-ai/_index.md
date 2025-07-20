@@ -2,7 +2,7 @@
 title: Локальный искусственный интеллект
 publishDate: 2024-07-11T15:04:12Z
 lastmod: 2024-11-23T19:11:00Z
-categories: ['ai', 'privacy', 'selfhost']
+#categories: ['ai', 'privacy', 'selfhost']
 contributors: [kttrickster]
 layout: single
 ---

@@ -1,3 +1,4 @@
 articles:
   - title: LinuxCommand.org (Unix)
     link: https://linuxcommand.org/
+    description: Если вы хотите хорошо научиться использовать консольный интерфейс и писать Bash-скрипты.

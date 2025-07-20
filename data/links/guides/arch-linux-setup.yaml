@@ -1,6 +1,8 @@
+features: arch-linux
 seeAlso:
   - title: Подробнее про Arch Linux
     link: /software/arch-linux
+    description: Важные пакеты и полезные настройки.
 videos:
   - title: I Installed The Hardest System Known To Man...
     by: SomeOrdinaryGamers

@@ -2,7 +2,7 @@
 title: RSS
 publishDate: 2023-09-26T16:02:33Z
 lastmod: 2024-11-01T17:37:00Z
-categories: ['compilations', 'internet']
+#categories: ['compilations', 'internet']
 contributors: [kttrickster]
 image: /media/rss_guard.jpg
 ---

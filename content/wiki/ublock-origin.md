@@ -2,7 +2,7 @@
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
 lastmod: 2024-10-02T14:45:00Z
-categories: ['browser-extensions', 'internet', 'privacy']
+#categories: ['browser-extensions', 'internet', 'privacy']
 contributors: [kttrickster]
 image: /media/ublock_origin.jpg
 ---

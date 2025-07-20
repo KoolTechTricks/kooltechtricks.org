@@ -8,17 +8,6 @@ image: /assets/screenshots/librewolf/0-librewolf-light.png
 imageAlt: Окно браузера LibreWolf
 ---
 
-[LibreWolf] — модификация браузера Firefox, нацеленная на приватность
-пользователей, безопасность и свободу без весомого ущерба для удобства
-использования. Основана на последней стабильной версии Firefox с опозданием в
-пару дней.
-
-<!--more-->
-
-![Окно браузера LibreWolf](/assets/screenshots/librewolf/0-librewolf-light.png)
-
-[LibreWolf]: https://librewolf.net
-
 ## Применение
 
 Браузер LibreWolf предназначен для повышения конфиденциальности пользователей:

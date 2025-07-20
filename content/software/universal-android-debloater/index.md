@@ -10,14 +10,6 @@ imageAlt: >
   приложений для удаления или восстановления
 ---
 
-[Universal Android Debloater] (UAD) — настольная программа для удаления
-предустановленных приложений Android без root-прав. У каждого приложения есть
-описание и степень безопасности удаления.
-
-<!--more-->
-
-[Universal Android Debloater]: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#readme
-
 На этой странице говорится про [Universal Android Debloater Next Generation]
 (UAD-ng) — активное продолжение [Universal Android Debloater от 0x192].
 Оригинальный проект не получал обновлений с 2023 года, поэтому настоятельно не
@@ -28,10 +20,6 @@ imageAlt: >
 
 > [!caution]
 > Используйте эту программу на свой страх и риск.
-
-![Окно программы Universal Android Debloater, которое показывает список
-приложений для удаления или
-восстановления](/assets/screenshots/universal-android-debloater/0-universal-android-debloater-light.png)
 
 ## Применение
 

@@ -2,7 +2,7 @@
 title: Клиенты F-Droid
 publishDate: 2024-06-25T18:34:37Z
 lastmod: 2024-06-25T18:48:42Z
-categories: ['android', 'software-collections']
+#categories: ['android', 'software-collections']
 contributors: [kttrickster]
 image: /media/f-droid-clients-droid-ify.webp
 ---

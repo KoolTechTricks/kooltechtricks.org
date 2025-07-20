@@ -9,8 +9,8 @@ defaultContentLanguage = 'ru-ru' # Without this line, date format will be en_US
 # Copyright message in the footer
 copyright = 'Содержимое доступно по лицензии [Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru), если не указано иное.'
 
-[taxonomies]
-category = 'categories'
+#[taxonomies]
+#category = 'categories'
 
 [markup]
 [markup.tableOfContents]
@@ -20,10 +20,10 @@ ordered = true
 block = true
 
 [outputs]
-home = ['html']
+home = ['html', 'rss']
 section = ['html', 'rss']
-taxonomy = ['html', 'rss']
-term = ['html', 'rss']
+taxonomy = []
+term = []
 
 [menus]
 [[menus.main]]
@@ -78,6 +78,84 @@ contributing = 'https://docs.kooltechtricks.org/contributing'  # Contributing gu
 handle = '@KoolTechTricks@cr8r.gg'
 urls = ['https://cr8r.gg/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
 
+#############
+## Socials ##
+#############
+
+[[params.socials]]
+id = 'telegram'
+title = 'Телеграм-канал'
+url = 'https://t.me/KoolTechTricks'
+
+[[params.socials]]
+id = 'mastodon'
+title = 'Mastodon (Fediverse)'
+url = 'https://cr8r.gg/@KoolTechTricks'
+
+[[params.socials]]
+id = 'bluesky'
+title = 'Bluesky'
+url = 'https://bsky.app/profile/kooltechtricks.org'
+
+[[params.socials]]
+id = 'xitter'
+title = 'X/Twitter'
+url = 'https://x.com/KoolTechTricks'
+
+[[params.socials]]
+id = 'youtube'
+title = 'YouTube'
+url = 'https://www.youtube.com/@KoolTechTricks'
+
+[[params.socials]]
+id = 'github'
+title = 'Исходные тексты страниц на GitHub'
+url = 'https://github.com/KoolTechTricks/kooltechtricks.org'
+
+[[params.socials]]
+id = 'rss-feed'
+title = 'RSS-лента'
+url = '/index.xml'
+
+################
+## Learn more ##
+################
+
+[[params.learnMore]]
+title = 'О проекте'
+url = 'https://docs.kooltechtricks.org/about'
+
+[[params.learnMore]]
+title = 'Политика конфиденциальности'
+url = 'https://docs.kooltechtricks.org/faq/privacy-policy'
+
+[[params.learnMore]]
+title = 'Связаться'
+url = 'https://docs.kooltechtricks.org/about/contact'
+
+[[params.learnMore]]
+title = 'Участники'
+url = '/contributors'
+
+######################
+## Badges in footer ##
+######################
+
+[[params.badges]]
+id = 'codeberg'
+url = 'https://codeberg.page'
+title = 'Hosted by Codeberg Pages'
+
+[[params.badges]]
+id = 'creativecommons'
+url = 'https://creativecommons.org/licenses/by-sa/4.0/deed.ru'
+title = 'CC BY-SA 4.0'
+
+[[params.badges]]
+id = 'hugo'
+url = 'https://gohugo.io'
+title = 'Made with Hugo'
+
 #########################
 ## Additional services ##
 #########################
@@ -87,7 +165,6 @@ urls = ['https://cr8r.gg/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
 # Plausible privacy-friendly analytics <https://plausible.io>
 [params.plugins.plausible]
 enabled = true
-notice = "На этом сайте используется аналитика [Plausible](https://plausible.io), уважающая вашу конфиденциальность. [Подробнее](https://docs.kooltechtricks.org/faq/analytics)"  # Message in the footer to inform visitors about analytics being used
 instance = "plausible-analytics.kooltechtricks.org"  # Self-hosted plausible domain
 domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
 
@@ -98,51 +175,3 @@ commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/con
 report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
 source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
 contributing = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md'  # Contributing guide
-
-#############################
-## 88x31 buttons in footer ##
-#############################
-
-[[params.badges]]
-id = 'codeberg'
-url = 'https://codeberg.page'
-title = 'Hosted by Codeberg Pages'
-[[params.badges]]
-id = 'creativecommons'
-url = 'https://creativecommons.org/licenses/by-sa/4.0/deed.ru'
-title = 'CC BY-SA 4.0'
-[[params.badges]]
-id = 'hugo'
-url = 'https://gohugo.io'
-title = 'Made with Hugo'
-
-########################################
-## Links to other resources in footer ##
-########################################
-
-[[params.links]]
-section = 'Узнать больше'
-[[params.links.urls]]
-url = 'https://docs.kooltechtricks.org/about'
-title = 'О проекте'
-[[params.links.urls]]
-url = 'https://docs.kooltechtricks.org/faq/privacy-policy'
-title = 'Политика конфиденциальности'
-[[params.links.urls]]
-url = 'https://docs.kooltechtricks.org/about/contact'
-title = 'Связаться'
-[[params.links.urls]]
-url = 'https://github.com/KoolTechTricks/kooltechtricks.org'
-title = 'Исходные тексты страниц'
-[[params.links.urls]]
-url = '/contributors'
-title = 'Внесли свой вклад'
-
-[[params.links]]
-section = 'Подписаться'
-[[params.links.urls]]
-url = 'https://t.me/KoolTechTricks'
-title = 'Telegram-канал'
-[[params.links.urls]]
-url = 'https://cr8r.gg/@KoolTechTricks'
-title = 'Fediverse (Mastodon)'

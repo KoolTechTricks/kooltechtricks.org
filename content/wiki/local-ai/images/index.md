@@ -2,7 +2,7 @@
 title: Генерация изображений при помощи локального искусственного интеллекта
 publishDate: 2024-10-06T11:40:00Z
 lastmod: 2024-10-06T11:40:00Z
-categories: ['ai', 'software-collections']
+#categories: ['ai', 'software-collections']
 contributors: [kttrickster]
 image: stable-diffusion-web-ui.webp
 ---

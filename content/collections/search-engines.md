@@ -29,8 +29,6 @@ imageAlt: >
 (Google) в строку поиска. Это бывает полезно, если результаты поиска вас не
 удовлетворяют.
 
-{{< related search-engines >}}
-
 ## DuckDuckGo
 
 {{< card duckduckgo >}}

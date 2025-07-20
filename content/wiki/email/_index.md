@@ -2,7 +2,7 @@
 title: Электронная почта
 publishDate: 2023-10-29T16:19:33Z
 lastmod: 2024-11-01T17:59:00Z
-categories: ['internet']
+#categories: ['internet']
 contributors: [kttrickster]
 layout: single
 ---
