@@ -6,11 +6,12 @@ features:
   - duckduckgo
   - ecosia
   - google
-  - searxng
-  - startpage
   - kagi
   - mojeek
   - mullvad-leta
+  - qwant
+  - searxng
+  - startpage
   - waterfox-private-search
   - yandex
 seeAlso:
