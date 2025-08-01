@@ -1,12 +1,11 @@
 title = 'Kool Tech Tricks'
 baseURL = 'https://kooltechtricks.org/'
+
 theme = ['ktt-wiki-theme', 'ktt-base-theme']
 
-# Locale
 languageCode = 'ru-ru'
 defaultContentLanguage = 'ru-ru' # Without this line, date format will be en_US
 
-# Copyright message in the footer
 copyright = 'Содержимое доступно по лицензии [Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru), если не указано иное.'
 
 #[taxonomies]
@@ -46,14 +45,6 @@ weight = 4
 name = 'Таблицы'
 pageRef = '/tables'
 weight = 5
-# [[menus.main]]
-# name = 'FAQ'
-# url = 'https://docs.kooltechtricks.org'
-# weight = 6
-# [[menus.main]]
-# name = 'Блог'
-# url = 'https://blog.kooltechtricks.org'
-# weight = 7
 
 [params]
 color = '#1f89f5'
@@ -65,10 +56,18 @@ startYear = 2023  # Copyright 2023-2024
 #########
 
 [params.git]
-commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'  # History
-report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
-source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
-contributing = 'https://docs.kooltechtricks.org/contributing'  # Contributing guide
+commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'
+report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'
+source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'
+contributing = 'https://docs.kooltechtricks.org/contributing'
+
+###############
+## Analytics ##
+###############
+
+[params.plausible]
+instance = "plausible-analytics.kooltechtricks.org"
+domain = "kooltechtricks.org"
 
 ###############
 ## Fediverse ##
@@ -137,6 +136,18 @@ url = 'https://docs.kooltechtricks.org/about/contact'
 title = 'Участники'
 url = '/contributors'
 
+#################
+## Other sites ##
+#################
+
+[[params.otherSites]]
+title = 'Блог'
+url = 'https://blog.kooltechtricks.org'
+
+[[params.otherSites]]
+title = 'Документация'
+url = 'https://docs.kooltechtricks.org'
+
 ######################
 ## Badges in footer ##
 ######################
@@ -155,23 +166,3 @@ title = 'CC BY-SA 4.0'
 id = 'hugo'
 url = 'https://gohugo.io'
 title = 'Made with Hugo'
-
-#########################
-## Additional services ##
-#########################
-
-[params.plugins]
-
-# Plausible privacy-friendly analytics <https://plausible.io>
-[params.plugins.plausible]
-enabled = true
-instance = "plausible-analytics.kooltechtricks.org"  # Self-hosted plausible domain
-domain = "kooltechtricks.org"  # Plausible "domain" name/id in your dashboard
-
-# View history
-[params.plugins.git]
-enabled = true
-commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'  # History
-report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'  # Report issue
-source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'  # View source
-contributing = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/CONTRIBUTING.md'  # Contributing guide

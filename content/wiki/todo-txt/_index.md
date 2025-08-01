@@ -6,6 +6,8 @@ lastmod: 2024-09-06T19:11:00Z
 contributors: [kttrickster]
 image: image.webp
 layout: single
+kind: page
+sidebar: default
 ---
 
 [Todo.txt](http://todotxt.org) — открытый текстовый формат файла списка задач,

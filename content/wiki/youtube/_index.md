@@ -5,6 +5,8 @@ lastmod: 2024-08-27T17:25:00Z
 #categories: ['internet']
 contributors: [kttrickster]
 layout: single
+kind: page
+# sidebar: default
 ---
 
 Главный видеохостинг Интернета, контролируемый компанией Google. Является
