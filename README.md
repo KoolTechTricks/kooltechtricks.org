@@ -21,8 +21,9 @@
 > [!note]
 > Чтобы собрать сайт локально, вам нужен доступ к приватным репозиториям тем.
 Если у вас нет доступа, вы можете просматривать файлы через другие программы для
-рендера Markdown, например, [Obsidian](https://obsidian.md). Или вы можете
-написать [свои шаблоны Hugo](https://gohugo.io/documentation).
+рендера Markdown, например, [Obsidian](https://obsidian.md). Также вы можете
+написать [свои шаблоны Hugo](https://gohugo.io/documentation) или взять
+[готовые](https://themes.gohugo.io).
 
 **Зависимости:**
 - [Git](https://git-scm.com/downloads)
@@ -48,15 +49,19 @@ npx -y pagefind --site public  # собрать индекс страниц Page
 
 [Брендинг Kool Tech Tricks] доступен по лицензии [CC BY-NC-SA 4.0].
 
-[Брендинг Kool Tech Tricks]: https://docs.kooltechtricks.org/about/branding
-[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
-
 Все права на логотипы в директории `/content/assets/logos` принадлежат их
 владельцам. Они используются в образовательных целях при упоминании
 соответствующих сервисов или приложений.
 
 Поиск по сайту основан на [Pagefind](https://github.com/Pagefind/pagefind).
 Лицензия: MIT.
+
+[Material Icons] от Google, лицензия [Apache v2.0]
+
+[Брендинг Kool Tech Tricks]: https://docs.kooltechtricks.org/about/branding
+[CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
+[Material Icons]: https://fonts.google.com/icons
+[Apache v2.0]: https://www.apache.org/licenses/LICENSE-2.0.html
 
 Некоторые изображения в этом репозитории были взяты из сторонних источников. К
 ним не применяется лицензия этого репозитория:

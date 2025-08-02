@@ -1,7 +1,7 @@
 title = 'Kool Tech Tricks'
 baseURL = 'https://kooltechtricks.org/'
 
-theme = ['ktt-wiki-theme', 'ktt-base-theme']
+theme = ['ktt-main-theme', 'ktt-base-theme']
 
 languageCode = 'ru-ru'
 defaultContentLanguage = 'ru-ru' # Without this line, date format will be en_US
@@ -50,6 +50,17 @@ weight = 5
 color = '#1f89f5'
 locale = 'ru_RU'
 startYear = 2023  # Copyright 2023-2024
+
+###########################
+## Disclaimers in footer ##
+###########################
+
+disclaimers = [
+    """Сайт поддерживается волонтёрами. Не вся информация может быть актуальной и
+    достоверной. Проверяйте источники и
+    [вносите свой вклад](https://docs.kooltechtricks.org/contributing) там, где
+    требуются исправления и дополнения."""
+]
 
 #########
 ## Git ##

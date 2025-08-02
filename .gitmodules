@@ -1,6 +1,6 @@
 [submodule "themes/ktt-base-theme"]
 	path = themes/ktt-base-theme
 	url = git@codeberg.org:KoolTechTricks/ktt-base-theme
-[submodule "themes/ktt-wiki-theme"]
-	path = themes/ktt-wiki-theme
-	url = git@codeberg.org:KoolTechTricks/ktt-wiki-theme
+[submodule "themes/ktt-main-theme"]
+	path = themes/ktt-main-theme
+	url = git@codeberg.org:KoolTechTricks/ktt-main-theme
