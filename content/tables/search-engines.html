@@ -1,7 +1,7 @@
 ---
 title: Таблица сравнения поисковых систем
 publishDate: 2025-01-08T12:00:00Z
-lastmod: 2025-08-03T14:33:00Z
+lastmod: 2025-08-03T15:00:00Z
 contributors: [kttrickster]
 summary: >
   Сравнение поисковых систем по источникам выдачи, приватности и
@@ -421,7 +421,7 @@ summary: >
         </tr>
         <tr>
             <th><details><summary>Автодополнение запроса</summary>Не следует отправлять незаконченные тексты каждый раз при вводе символов</details></th>
-            <!--4get-->        <td class="good">Нет</td>
+            <!--4get-->        <td class="good">Отключено по умолчанию</td>
             <!--Bing-->        <td class="warn">Включено по умолчанию</td>
             <!--Brave Search--><td class="bad">Есть, не отключается</td>
             <!--DuckDuckGo-->  <td class="warn">Включено по умолчанию</td>
@@ -439,7 +439,7 @@ summary: >
         </tr>
         <tr>
             <th><details><summary>Проксирование изображений</summary>Если изображения не проксируются, то браузер будет отправлять много запросов на серверы, где они расположены. Это приводит к утечке вашего IP-адреса</details></th>
-            <!--4get-->        <td class="good">Всегда</td>
+            <!--4get-->        <td class="good">Всегда (при включённом JavaScript)</td>
             <!--Bing-->        <td class="warn">Не при нажатии</td>
             <!--Brave Search--><td class="good">Всегда</td>
             <!--DuckDuckGo-->  <td class="good">Всегда</td>
@@ -449,7 +449,7 @@ summary: >
             <!--Mojeek-->      <td class="good">Всегда</td>
             <!--Mullvad Leta--><td>—</td>
             <!--Qwant-->       <td class="good">Всегда</td>
-            <!--SearXNG-->     <td class="good">Всегда</td>
+            <!--SearXNG-->     <td class="good">Всегда (при включённом JavaScript), но может быть отключено на некоторых серверах</td>
             <!--Startpage-->   <td class="good">Всегда</td>
             <!--Swisscows-->   <td class="good">Всегда</td>
  <!--Waterfox Private Search--><td class="good">Всегда</td>
@@ -728,7 +728,7 @@ summary: >
             <!--Mojeek-->      <td class="bad">Нет</td>
             <!--Mullvad Leta--><td>—</td>
             <!--Qwant-->       <td class="bad">Нет</td>
-            <!--SearXNG-->     <td class="bad">Нет</td>
+            <!--SearXNG-->     <td class="good">Через <a href="https://tineye.com" target="_blank">TinEye</a>: <code>!tineye url</code></td>
             <!--Startpage-->   <td class="bad">Нет</td>
             <!--Swisscows-->   <td class="bad">Нет</td>
  <!--Waterfox Private Search--><td class="bad">Нет</td>
@@ -821,7 +821,7 @@ summary: >
             <!--Mojeek-->      <td class="bad">Нет</td>
             <!--Mullvad Leta--><td class="bad">Нет</td>
             <!--Qwant-->       <td class="bad">Нет</td>
-            <!--SearXNG-->     <td class="bad">Нет</td>
+            <!--SearXNG-->     <td class="good">Через команду <code>!</code></td>
             <!--Startpage-->   <td class="good">Есть</td>
             <!--Swisscows-->   <td class="bad">Нет</td>
  <!--Waterfox Private Search--><td class="bad">Нет</td>
@@ -839,7 +839,7 @@ summary: >
             <!--Mojeek-->      <td class="bad">Нет</td>
             <!--Mullvad Leta--><td class="bad">Нет</td>
             <!--Qwant-->       <td class="good">Есть</td>
-            <!--SearXNG-->     <td class="bad">Нет</td>
+            <!--SearXNG-->     <td class="good">Через <a href="https://wttr.in" target="_blank">wttr.in</a>: <code>!wttr город</code></td>
             <!--Startpage-->   <td class="good">Есть</td>
             <!--Swisscows-->   <td class="bad">Нет</td>
  <!--Waterfox Private Search--><td class="bad">Нет</td>
@@ -857,7 +857,7 @@ summary: >
             <!--Mojeek-->      <td class="bad">Нет</td>
             <!--Mullvad Leta--><td class="good">Есть (из Википедии)</td>
             <!--Qwant-->       <td class="bad">Нет</td>
-            <!--SearXNG-->     <td class="bad">Нет</td>
+            <!--SearXNG-->     <td class="good">Через команду <code>!</code></td>
             <!--Startpage-->   <td class="good">Есть</td>
             <!--Swisscows-->   <td class="bad">Нет</td>
  <!--Waterfox Private Search--><td class="bad">Нет</td>
