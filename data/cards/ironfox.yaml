@@ -1,0 +1,21 @@
+title: IronFox
+icon: ironfox.png
+description: >
+  Браузер, основанный на Firefox для Android. По умолчанию настроен так, чтобы
+  обеспечить хорошую конфиденциальность и безопасность в интернете без сильного
+  ущерба для удобства использования.
+homepage: https://ironfoxoss.org
+docs: https://gitlab.com/ironfox-oss/IronFox/-/blob/dev/docs/README.md
+issues: https://gitlab.com/ironfox-oss/IronFox/-/issues
+repository: https://gitlab.com/ironfox-oss/IronFox
+license: gnu-agpl-3.0
+screenshotsAlt:
+  0-ironfox-light.png: IronFox (светлая тема)
+  1-ironfox-dark.png: IronFox (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Obtainium: obtainium://app/%7B%22id%22%3A%22org.ironfoxoss.ironfox%22%2C%22url%22%3A%22https%3A%2F%2Ffdroid.ironfoxoss.org%2Ffdroid%2Frepo%2F%22%2C%22author%22%3A%22IronFox%20OSS%22%2C%22name%22%3A%22IronFox%22%2C%22additionalSettings%22%3A%22%7B%5C%22appIdOrName%5C%22%3A%5C%22org.ironfoxoss.ironfox%5C%22%2C%5C%22pickHighestVersionCode%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22IronFox%20is%20a%20secure%2C%20hardened%20and%20privacy-oriented%20web%20browser%20for%20Android%2C%20based%20on%20Firefox.%5C%22%7D%22%2C%22overrideSource%22%3A%22FDroidRepo%22%7D
+    2 F-Droid: fdroidrepos://fdroid.ironfoxoss.org/fdroid/repo?fingerprint=C5E291B5A571F9C8CD9A9799C2C94E02EC9703948893F2CA756D67B94204F904
+    3 Accrescent: https://accrescent.app/app/org.ironfoxoss.ironfox
+    4 GitLab: https://gitlab.com/ironfox-oss/IronFox/-/releases

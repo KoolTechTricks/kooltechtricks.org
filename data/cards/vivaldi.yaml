@@ -1,0 +1,22 @@
+title: Vivaldi
+description: >
+  Браузер на основе Chromium от независимых разработчиков. Содержит огромное
+  множество функций и настроек персонализации. Плохо защищает от отслеживания и
+  содержит спонсированные ярлыки, но не собирает личные данные.
+homepage: https://vivaldi.com
+wikipedia: https://ru.wikipedia.org/wiki/Vivaldi
+help: https://help.vivaldi.com
+issues: https://vivaldi.com/bugreport
+license: proprietary
+donate: https://vivaldi.com/donate
+screenshotsAlt:
+  0-vivaldi-desktop-light.png: Vivaldi для компьютера (светлая тема)
+  1-vivaldi-android-light.png: Vivaldi для Android (светлая тема)
+  2-vivaldi-desktop-dark.png: Vivaldi для компьютера (тёмная тема)
+  3-vivaldi-android-dark.png: Vivaldi для Android (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://vivaldi.com/download
+    2 Android: https://play.google.com/store/apps/details?id=com.vivaldi.browser
+    3 iOS: https://apps.apple.com/app/id1633234600

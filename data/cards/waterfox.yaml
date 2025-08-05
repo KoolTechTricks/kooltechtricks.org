@@ -1,0 +1,23 @@
+title: Waterfox
+description: >
+  Браузер, ориентированный на пользователя с учётом конфиденциальности.
+  Основан на Firefox ESR (старая, но поддерживаемая версия). Доступен и для
+  Android.
+homepage: https://waterfox.net
+wikipedia: https://en.wikipedia.org/wiki/Waterfox
+docs: https://waterfox.net/docs
+issues: https://github.com/BrowserWorks/Waterfox/issues
+repository: https://github.com/BrowserWorks/Waterfox
+license: mpl-2.0
+donate: https://buymeacoffee.com/waterfox
+screenshotsAlt:
+  0-waterfox-desktop-light.png: Waterfox для компьютера (светлая тема)
+  1-waterfox-android-light.png: Waterfox для Android (светлая тема)
+  2-waterfox-desktop-dark.png: Waterfox для компьютера (тёмная тема)
+  3-waterfox-android-dark.png: Waterfox для Android (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://waterfox.net/download
+    2 Flathub: https://flathub.org/apps/net.waterfox.waterfox
+    3 Google Play: https://play.google.com/store/apps/details?id=net.waterfox.android.release

@@ -19,23 +19,23 @@ screenshotsAlt: # Описания скриншотов
   3-example-mobile-dark.webp: Телефон (тёмная тема)
 get: # Ссылки на скачивание/установку
   title: Скачать # Заголовок раздела (Скачать/Установить/Получить или другое)
-  links: # Ссылки в свободной форме, оформляются в виде вложенного списка
-    Windows:
-      Официальный сайт: https://example.com
-      GitHub: https://github.com
-    Linux:
-      Flathub: https://flathub.org
-      GitHub: https://github.com
-      Arch Linux: >
+  links: # Ссылки в свободной форме, оформляются в виде вложенного списка. Можно указать числа для сортировки
+    1 Windows:
+      1 Официальный сайт: https://example.com
+      2 GitHub: https://github.com
+    2 Linux:
+      1 Flathub: https://flathub.org
+      2 GitHub: https://github.com
+      3 Arch Linux: >
         `sudo pacman -S example`
-    macOS:
+    3 macOS:
       GitHub: https://github.com
-    Android:
-      Google Play: https://play.google.com
-      F-Droid: https://f-droid.org
-      GitHub: https://github.com
-    iOS:
+    4 Android:
+      1 Google Play: https://play.google.com
+      2 F-Droid: https://f-droid.org
+      3 GitHub: https://github.com
+    5 iOS:
       AppStore: https://apple.com
-    Браузер: https://example.net
-    Chromium: https://chromewebstore.google.com
-    Firefox: https://addons.mozilla.org
+    6 Браузер: https://example.net
+    7 Chromium: https://chromewebstore.google.com
+    8 Firefox: https://addons.mozilla.org

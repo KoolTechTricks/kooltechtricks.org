@@ -1,0 +1,29 @@
+title: Brave
+description: >
+  Браузер, который хорошо защищает вашу конфиденциальность по умолчанию,
+  блокируя рекламу и отслеживающие элементы на сайтах. Основан на
+  модифицированной версии Chromium. Имеет тесные интеграции с криптовалютами и
+  искусственным интеллектом.
+homepage: https://brave.com
+wikipedia: https://en.wikipedia.org/wiki/Brave_(web_browser)
+help: https://support.brave.com/hc
+issues: https://github.com/brave/brave-browser/issues
+repository: https://github.com/brave/brave-browser
+license: mpl-2.0
+screenshotsAlt:
+  0-brave-desktop-light.png: Brave для компьютера (светлая тема)
+  1-brave-android-light.png: Brave для Android (светлая тема)
+  2-brave-desktop-dark.png: Brave для компьютера (тёмная тема)
+  3-brave-android-dark.png: Brave для Android (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Windows: https://laptop-updates.brave.com/latest/winx64
+    2 macOS: https://laptop-updates.brave.com/latest/osx
+    3 Linux: https://brave.com/linux/#release-channel-installation
+    4 iOS: https://brave.com/ios
+    5 Android:
+      1 Google Play: https://play.google.com/store/apps/details?id=com.brave.browser
+      2 Obtainium: obtainium://app/%7B%22id%22%3A%22com.brave.browser%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2Fbrave%2Fbrave-browser%22%2C%22author%22%3A%22Brave%20Software%20Inc.%22%2C%22name%22%3A%22Brave%22%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Atrue%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22Release%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22Universal%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Brave%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22Brave%20is%20an%20open-source%20web%20browser%20for%20Windows%2C%20macOS%2C%20Linux%2C%20Android%20and%20iOS.%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22Brave%20Software%20Inc.%5C%22%7D%22%7D
+      3 F-Droid: https://brave-browser-apk-release.s3.brave.com/fdroid/repo/index.html
+    6 GitHub: https://github.com/brave/brave-browser/releases/latest

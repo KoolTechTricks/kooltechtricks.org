@@ -1,0 +1,20 @@
+title: Orion
+icon: orion.png
+description: >
+  Браузер на основе WebKit. Разрабатывается Kagi Inc. Ориентирован на
+  приватность. Поддерживает расширения Chromium и Firefox.
+homepage: https://kagi.com/orion
+wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)#Orion_Browser
+help: https://help.kagi.com/orion
+issues: https://orionfeedback.org
+repository: https://github.com/OrionBrowser
+license: proprietary
+donate: https://kagi.com/orion/orionplus.html
+screenshotsAlt:
+  0-orion-macos-light.png: Orion для macOS (светлая тема) (взято из официального пресс-кита)
+  1-orion-ios-light.png: Orion для iOS (светлая тема) (взято из официального пресс-кита)
+get:
+  title: Скачать
+  links:
+    1 macOS: https://cdn.kagi.com/downloads/OrionInstaller.dmg
+    2 iOS: https://apps.apple.com/app/id1484498200

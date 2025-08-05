@@ -1,0 +1,26 @@
+title: DuckDuckGo Browser
+icon: duckduckgo.svg
+description: >
+  Браузер от создателей одноимённой конфиденциальной поисковой системы.
+  Блокирует отслеживание на сайтах, имеет обучающие элементы по обеспечению
+  конфиденциальности в интернете. Использует системный компонент WebView для
+  отображения страниц (Android и Windows: Blink, iOS и macOS: WebKit). С
+  открытым исходным кодом для Android, iOS и macOS; проприетарный для Windows.
+homepage: https://duckduckgo.com/app
+wikipedia: https://ru.wikipedia.org/wiki/DuckDuckGo_Private_Browser
+help: https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/does-duckduckgo-make-a-browser
+repository: https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview
+license: apache-2.0
+screenshotsAlt:
+  0-duckduckgo_browser-android-light.png: DuckDuckGo Browser для Android (светлая тема)
+  1-duckduckgo_browser-android-dark.png: DuckDuckGo Browser для Android (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Windows: https://duckduckgo.com/windows
+    2 macOS: https://duckduckgo.com/mac
+    3 Android:
+      1 Google Play: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
+      2 GitHub: https://github.com/duckduckgo/Android/releases/latest
+      3 F-Droid: https://f-droid.org/packages/com.duckduckgo.mobile.android
+    4 iOS: https://apps.apple.com/app/id663592361

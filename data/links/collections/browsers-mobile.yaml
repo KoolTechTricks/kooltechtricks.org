@@ -1,0 +1,15 @@
+features:
+  - firefox
+  - ironfox
+  - waterfox
+  - brave
+  - cromite
+  - duckduckgo-browser
+  - vivaldi
+  - orion
+articles:
+  - title: Мобильные браузеры — Privacy Guides
+    link: https://www.privacyguides.org/en/mobile-browsers
+    description: >
+      Это подборка мобильных браузеров с упором на конфиденциальность. Также
+      здесь есть рекомендованные настройки.
