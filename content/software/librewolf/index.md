@@ -106,7 +106,7 @@ brew install librewolf --no-quarantine
 Разработчики не планируют выпускать LibreWolf для Android. В качестве
 альтернативы рекомендуется использовать браузер [IronFox] со схожими целями.
 
-[IronFox]: /wiki/browsers#ironfox
+[IronFox]: /collections/browsers-mobile#ironfox
 
 ## Менее строгие настройки
 
