@@ -1,0 +1,20 @@
+title: Zen Browser
+description: >
+  Браузер с открытым исходным кодом на основе последней стабильной версии
+  Firefox. Имеет сильно модифицированный интерфейс, который можно настроить.
+  Считается духовным наследником Arc, но с повышенной конфиденциальностью.
+homepage: https://zen-browser.app
+wikipedia: https://en.wikipedia.org/wiki/Zen_Browser
+docs: https://docs.zen-browser.app
+issues: https://github.com/zen-browser/desktop/issues
+repository: https://github.com/zen-browser/desktop
+license: mpl-2.0
+donate: https://zen-browser.app/donate
+screenshotsAlt:
+  0-zen_browser-light.png: Zen Browser (светлая тема)
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://zen-browser.app/download
+    2 GitHub: https://github.com/zen-browser/desktop/releases/latest
+    3 Flathub: https://flathub.org/apps/app.zen_browser.zen

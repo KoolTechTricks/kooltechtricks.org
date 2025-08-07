@@ -1,0 +1,22 @@
+title: Floorp
+description: >
+  Браузер на основе последней стабильной версии Firefox. Содержит много
+  уникальных функций.
+homepage: https://floorp.app
+wikipedia: https://en.wikipedia.org/wiki/Floorp
+docs: https://docs.floorp.app
+issues: https://github.com/Floorp-Projects/Floorp/issues
+repository: https://github.com/Floorp-Projects/Floorp
+license: mpl-2.0
+donate: https://github.com/sponsors/surapunoyousei
+screenshotsAlt:
+  0-floorp-light.webp: Floorp (светлая тема)
+  1-floorp-dark.webp: Floorp (тёмная тема)
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://floorp.app/download
+    2 GitHub: https://github.com/Floorp-Projects/Floorp/releases/latest
+    3 Winget (Windows): https://winstall.app/apps/Ablaze.Floorp
+    4 Flathub (Linux): https://flathub.org/apps/one.ablaze.floorp
+    5 Brew (macOS): https://formulae.brew.sh/cask/floorp

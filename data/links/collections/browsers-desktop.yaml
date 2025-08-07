@@ -1,0 +1,19 @@
+features:
+  - firefox
+  - waterfox
+  - zen-browser
+  - librewolf
+  - floorp
+  - brave
+  - ungoogled-chromium
+  - vivaldi
+  - orion
+seeAlso:
+  - title: Мобильные браузеры
+    link: /collections/browsers-mobile
+articles:
+  - title: Браузеры для компьютера — Privacy Guides
+    link: https://www.privacyguides.org/en/desktop-browsers
+    description: >
+      Это подборка браузеров для компьютера с упором на конфиденциальность.
+      Также здесь есть рекомендованные настройки.

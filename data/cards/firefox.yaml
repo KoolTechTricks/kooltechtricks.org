@@ -8,7 +8,7 @@ help: https://support.mozilla.org
 issues: https://bugzilla.mozilla.org
 repository: https://github.com/mozilla-firefox/firefox
 license: mpl-2.0
-donate: https://www.mozillafoundation.org
+donate: https://www.mozillafoundation.org/donate
 screenshotsAlt:
   0-firefox-desktop-light.png: Firefox для компьютера (светлая тема)
   1-firefox-android-light.png: Firefox для Android (светлая тема)

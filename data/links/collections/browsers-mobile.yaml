@@ -7,6 +7,9 @@ features:
   - duckduckgo-browser
   - vivaldi
   - orion
+seeAlso:
+  - title: Браузеры для компьютера
+    link: /collections/browsers-desktop
 articles:
   - title: Мобильные браузеры — Privacy Guides
     link: https://www.privacyguides.org/en/mobile-browsers
