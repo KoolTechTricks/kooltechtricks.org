@@ -1,7 +1,7 @@
 title: Firefox
 description: >
   Браузер с открытым исходным кодом, разрабатываемый Mozilla. Основан на
-  собственном независимом движке Gecko.
+  собственном движке Gecko.
 homepage: https://www.firefox.com
 wikipedia: https://en.wikipedia.org/wiki/Firefox
 help: https://support.mozilla.org
@@ -9,16 +9,28 @@ issues: https://bugzilla.mozilla.org
 repository: https://github.com/mozilla-firefox/firefox
 license: mpl-2.0
 donate: https://www.mozillafoundation.org/donate
-screenshotsAlt:
-  0-firefox-desktop-light.png: Firefox для компьютера (светлая тема)
-  1-firefox-android-light.png: Firefox для Android (светлая тема)
-  2-firefox-desktop-dark.png: Firefox для компьютера (тёмная тема)
-  3-firefox-android-dark.png: Firefox для Android (тёмная тема)
+screenshots:
+  0-firefox-desktop-light.png:
+    alt: Firefox для компьютера (светлая тема)
+    type: desktop
+    color: light
+  1-firefox-android-light.png:
+    alt: Firefox для Android (светлая тема)
+    type: mobile
+    color: light
+  2-firefox-desktop-dark.png:
+    alt: Firefox для компьютера (тёмная тема)
+    type: desktop
+    color: dark
+  3-firefox-android-dark.png:
+    alt: Firefox для Android (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:
     1 Официальный сайт: https://www.firefox.com/thanks
-    2 Microsoft Store: https://apps.microsoft.com/detail/9nzvdkpmr9rd
-    3 Flathub: https://flathub.org/apps/org.mozilla.firefox
-    4 Google Play: https://play.google.com/store/apps/details?id=org.mozilla.firefox
-    5 AppStore: https://apps.apple.com/app/id989804926
+    2 Microsoft Store (Windows): https://apps.microsoft.com/detail/9nzvdkpmr9rd
+    3 Flathub (Linux): https://flathub.org/apps/org.mozilla.firefox
+    4 Google Play (Android): https://play.google.com/store/apps/details?id=org.mozilla.firefox
+    5 AppStore (iOS): https://apps.apple.com/app/id989804926

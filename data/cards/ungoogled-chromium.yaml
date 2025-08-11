@@ -1,15 +1,21 @@
 title: Ungoogled Chromium
 description: >
-  Chromium, из которого вырезаны все службы Google.
+  Браузер Chromium, из которого вырезаны все службы Google.
 homepage: https://ungoogled-software.github.io
 wikipedia: https://en.wikipedia.org/wiki/Ungoogled_chromium
 help: https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq
 issues: https://github.com/ungoogled-software/ungoogled-chromium/issues
 repository: https://github.com/ungoogled-software/ungoogled-chromium
 license: bsd-3-clause
-screenshotsAlt:
-  0-ungoogled_chromium-light.png: Ungoogled Chromium (светлая тема)
-  1-ungoogled_chromium-dark.png: Ungoogled Chromium (тёмная тема)
+screenshots:
+  0-ungoogled_chromium-light.png:
+    alt: Ungoogled Chromium (светлая тема)
+    type: desktop
+    color: light
+  1-ungoogled_chromium-dark.png:
+    alt: Ungoogled Chromium (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:

@@ -1,20 +1,31 @@
 title: Brave
 description: >
-  Браузер, который хорошо защищает вашу конфиденциальность по умолчанию,
-  блокируя рекламу и отслеживающие элементы на сайтах. Основан на
-  модифицированной версии Chromium. Имеет тесные интеграции с криптовалютами и
-  искусственным интеллектом.
+  Браузер с хорошей защитой от отслеживания по умолчанию без ущерба для удобства
+  использования. С открытым исходным кодом, основан на модифицированной версии
+  Chromium. Имеет тесную интеграцию с криптовалютами.
 homepage: https://brave.com
 wikipedia: https://en.wikipedia.org/wiki/Brave_(web_browser)
 help: https://support.brave.com/hc
 issues: https://github.com/brave/brave-browser/issues
 repository: https://github.com/brave/brave-browser
 license: mpl-2.0
-screenshotsAlt:
-  0-brave-desktop-light.png: Brave для компьютера (светлая тема)
-  1-brave-android-light.png: Brave для Android (светлая тема)
-  2-brave-desktop-dark.png: Brave для компьютера (тёмная тема)
-  3-brave-android-dark.png: Brave для Android (тёмная тема)
+screenshots:
+  0-brave-desktop-light.webp:
+    alt: Brave для компьютера (светлая тема)
+    type: desktop
+    color: light
+  1-brave-android-light.webp:
+    alt: Brave для Android (светлая тема)
+    type: mobile
+    color: light
+  2-brave-desktop-dark.webp:
+    alt: Brave для компьютера (тёмная тема)
+    type: desktop
+    color: dark
+  3-brave-android-dark.webp:
+    alt: Brave для Android (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:

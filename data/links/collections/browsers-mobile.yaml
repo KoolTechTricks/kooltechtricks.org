@@ -1,18 +1,22 @@
 features:
   - firefox
-  - ironfox
   - waterfox
+  - ironfox
   - brave
-  - cromite
   - duckduckgo-browser
   - vivaldi
+  - cromite
   - orion
 seeAlso:
   - title: Браузеры для компьютера
     link: /collections/browsers-desktop
+  - title: Браузерные движки
+    link: /wiki/browser-engines
+  - title: Расширения для браузера
+    link: /wiki/browser-extensions
 articles:
   - title: Мобильные браузеры — Privacy Guides
     link: https://www.privacyguides.org/en/mobile-browsers
     description: >
-      Это подборка мобильных браузеров с упором на конфиденциальность. Также
-      здесь есть рекомендованные настройки.
+      Это подборка браузеров для телефона со строгим упором на
+      конфиденциальность. Также здесь есть рекомендованные настройки.

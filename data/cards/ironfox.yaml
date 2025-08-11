@@ -1,17 +1,23 @@
 title: IronFox
 icon: ironfox.png
 description: >
-  Браузер, основанный на Firefox для Android. По умолчанию настроен так, чтобы
-  обеспечить хорошую конфиденциальность и безопасность в интернете без сильного
-  ущерба для удобства использования.
+  Браузер для Android, обеспечивающий хорошую конфиденциальность и безопасность
+  в интернете без сильного ущерба для удобства использования. Основан на
+  последней стабильной версии Firefox.
 homepage: https://ironfoxoss.org
 docs: https://gitlab.com/ironfox-oss/IronFox/-/blob/dev/docs/README.md
 issues: https://gitlab.com/ironfox-oss/IronFox/-/issues
 repository: https://gitlab.com/ironfox-oss/IronFox
 license: gnu-agpl-3.0
-screenshotsAlt:
-  0-ironfox-light.png: IronFox (светлая тема)
-  1-ironfox-dark.png: IronFox (тёмная тема)
+screenshots:
+  0-ironfox-light.png:
+    alt: IronFox (светлая тема)
+    type: mobile
+    color: light
+  1-ironfox-dark.png:
+    alt: IronFox (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:

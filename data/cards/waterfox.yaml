@@ -1,8 +1,7 @@
 title: Waterfox
 description: >
-  Браузер, ориентированный на пользователя с учётом конфиденциальности.
-  Основан на Firefox ESR (старая, но поддерживаемая версия). Доступен и для
-  Android.
+  Браузер, ориентированный на пользователя.
+  Основан на Firefox ESR (старая, но поддерживаемая версия).
 homepage: https://waterfox.net
 wikipedia: https://en.wikipedia.org/wiki/Waterfox
 docs: https://waterfox.net/docs
@@ -10,14 +9,26 @@ issues: https://github.com/BrowserWorks/Waterfox/issues
 repository: https://github.com/BrowserWorks/Waterfox
 license: mpl-2.0
 donate: https://buymeacoffee.com/waterfox
-screenshotsAlt:
-  0-waterfox-desktop-light.png: Waterfox для компьютера (светлая тема)
-  1-waterfox-android-light.png: Waterfox для Android (светлая тема)
-  2-waterfox-desktop-dark.png: Waterfox для компьютера (тёмная тема)
-  3-waterfox-android-dark.png: Waterfox для Android (тёмная тема)
+screenshots:
+  0-waterfox-desktop-light.png:
+    alt: Waterfox для компьютера (светлая тема)
+    type: desktop
+    color: light
+  1-waterfox-android-light.png:
+    alt: Waterfox для Android (светлая тема)
+    type: mobile
+    color: light
+  2-waterfox-desktop-dark.png:
+    alt: Waterfox для компьютера (тёмная тема)
+    type: desktop
+    color: dark
+  3-waterfox-android-dark.png:
+    alt: Waterfox для Android (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:
     1 Официальный сайт: https://waterfox.net/download
-    2 Flathub: https://flathub.org/apps/net.waterfox.waterfox
-    3 Google Play: https://play.google.com/store/apps/details?id=net.waterfox.android.release
+    2 Flathub (Linux): https://flathub.org/apps/net.waterfox.waterfox
+    3 Google Play (Android): https://play.google.com/store/apps/details?id=net.waterfox.android.release

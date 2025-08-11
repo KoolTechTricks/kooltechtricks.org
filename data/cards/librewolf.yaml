@@ -1,9 +1,8 @@
 title: LibreWolf
 description: >
-  Модификация браузера Firefox, нацеленная на приватность
-  пользователей, безопасность и свободу без весомого ущерба для удобства
-  использования. Основана на последней стабильной версии Firefox с опозданием в
-  пару дней.
+  Браузер, нацеленный на конфиденциальность, безопасность и свободу без весомого
+  ущерба для удобства использования. Основан на последней стабильной версии
+  Firefox с опозданием в пару дней.
 homepage: https://librewolf.net
 kttpage: /software/librewolf
 wikipedia: https://ru.wikipedia.org/wiki/LibreWolf
@@ -11,9 +10,15 @@ help: https://librewolf.net/docs/faq
 issues: https://codeberg.org/librewolf/issues
 repository: https://codeberg.org/librewolf
 license: mpl-2.0
-screenshotsAlt:
-  0-librewolf-light.png: Окно браузера LibreWolf (светлая тема)
-  1-librewolf-dark.png: Окно браузера LibreWolf (тёмная тема)
+screenshots:
+  0-librewolf-light.png:
+    alt: LibreWolf (светлая тема)
+    type: desktop
+    color: light
+  1-librewolf-dark.png:
+    alt: LibreWolf (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:

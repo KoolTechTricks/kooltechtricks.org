@@ -1,7 +1,8 @@
 title: Floorp
 description: >
-  Браузер на основе последней стабильной версии Firefox. Содержит много
-  уникальных функций.
+  Браузер с большим количеством настроек и функций. Ранее основывался на Firefox
+  ESR (старая, но поддерживаемая версия). С версии 12 основывается на
+  последней стабильной версии Firefox.
 homepage: https://floorp.app
 wikipedia: https://en.wikipedia.org/wiki/Floorp
 docs: https://docs.floorp.app
@@ -9,9 +10,15 @@ issues: https://github.com/Floorp-Projects/Floorp/issues
 repository: https://github.com/Floorp-Projects/Floorp
 license: mpl-2.0
 donate: https://github.com/sponsors/surapunoyousei
-screenshotsAlt:
-  0-floorp-light.webp: Floorp (светлая тема)
-  1-floorp-dark.webp: Floorp (тёмная тема)
+screenshots:
+  0-floorp-light.webp:
+    alt: Floorp (светлая тема)
+    type: desktop
+    color: light
+  1-floorp-dark.webp:
+    alt: Floorp (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:

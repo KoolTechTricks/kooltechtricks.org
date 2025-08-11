@@ -1,18 +1,30 @@
 title: Cromite
 description: >
-  Браузер, основанный на модифицированном Chromium, со встроенным блокировщиком
-  рекламы и акцентом на конфиденциальность.
+  Браузер, ориентированный на конфиденциальность, со встроенным блокировщиком
+  трекеров и рекламы. Основан на модифицированной версии Chromium.
 homepage: https://www.cromite.org
 docs: https://github.com/uazo/cromite/tree/master/docs
 issues: https://github.com/uazo/cromite/issues
 repository: https://github.com/uazo/cromite
 license: gnu-gpl-3.0
 donate: https://www.paypal.com/pools/c/9e5lO2OIzb
-screenshotsAlt:
-  0-cromite-desktop-light.png: Cromite для компьютера (светлая тема)
-  1-cromite-mobile-light.png: Cromite для телефона (светлая тема)
-  2-cromite-desktop-dark.png: Cromite для компьютера (тёмная тема)
-  3-cromite-mobile-dark.png: Cromite для телефона (тёмная тема)
+screenshots:
+  0-cromite-desktop-light.png:
+    alt: Cromite для компьютера (светлая тема)
+    type: desktop
+    color: light
+  1-cromite-mobile-light.png:
+    alt: Cromite для телефона (светлая тема)
+    type: mobile
+    color: light
+  2-cromite-desktop-dark.png:
+    alt: Cromite для компьютера (тёмная тема)
+    type: desktop
+    color: dark
+  3-cromite-mobile-dark.png:
+    alt: Cromite для телефона (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:

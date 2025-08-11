@@ -1,22 +1,35 @@
 title: Vivaldi
 description: >
-  Браузер на основе Chromium от независимых разработчиков. Содержит огромное
-  множество функций и настроек персонализации. Плохо защищает от отслеживания и
-  содержит спонсированные ярлыки, но не собирает личные данные.
+  Браузер от независимых разработчиков, заботящихся о своих пользователях.
+  С закрытым исходным кодом, основан на Chromium. Содержит огромное множество
+  функций и настроек персонализации. Содержит спонсированные ярлыки, но не
+  продаёт личные данные пользователей.
 homepage: https://vivaldi.com
 wikipedia: https://ru.wikipedia.org/wiki/Vivaldi
 help: https://help.vivaldi.com
 issues: https://vivaldi.com/bugreport
 license: proprietary
 donate: https://vivaldi.com/donate
-screenshotsAlt:
-  0-vivaldi-desktop-light.png: Vivaldi для компьютера (светлая тема)
-  1-vivaldi-android-light.png: Vivaldi для Android (светлая тема)
-  2-vivaldi-desktop-dark.png: Vivaldi для компьютера (тёмная тема)
-  3-vivaldi-android-dark.png: Vivaldi для Android (тёмная тема)
+screenshots:
+  0-vivaldi-desktop-light.png:
+    alt: Vivaldi для компьютера (светлая тема)
+    type: desktop
+    color: light
+  1-vivaldi-android-light.png:
+    alt: Vivaldi для Android (светлая тема)
+    type: mobile
+    color: light
+  2-vivaldi-desktop-dark.png:
+    alt: Vivaldi для компьютера (тёмная тема)
+    type: desktop
+    color: dark
+  3-vivaldi-android-dark.png:
+    alt: Vivaldi для Android (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:
     1 Официальный сайт: https://vivaldi.com/download
-    2 Android: https://play.google.com/store/apps/details?id=com.vivaldi.browser
-    3 iOS: https://apps.apple.com/app/id1633234600
+    2 Google Play (Android): https://play.google.com/store/apps/details?id=com.vivaldi.browser
+    3 AppStore (iOS): https://apps.apple.com/app/id1633234600
