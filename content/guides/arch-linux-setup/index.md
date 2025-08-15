@@ -1,7 +1,7 @@
 ---
 title: Установка и настройка Arch Linux
 publishDate: 2025-05-02T13:36:09Z
-lastmod: 2025-06-28T10:03:00Z
+lastmod: 2025-08-15T18:23:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: >
@@ -193,7 +193,7 @@ EFI, не создавайте еще один, а используйте сущ
 Для установки системы нужен как минимум один корневой раздел и раздел EFI в
 режиме UEFI.
 
-1. **boot** (`ef00`): 1GiB
+1. **boot** (`ef00`): 1 GiB
     - Раздел загрузчика EFI.
 2. **swap** (`8200`): Половина ОЗУ (не больше 16 GiB)
     - Раздел [подкачки](https://wiki.archlinux.org/title/Swap_(Русский)), куда
@@ -288,6 +288,10 @@ pacstrap -K /mnt base linux linux-firmware
 
 [Микрокод]: https://wiki.archlinux.org/title/Microcode_(Русский)
 [Manual pages]: https://man.archlinux.org
+
+> [!tip]
+> Лучше устанавливать дополнительные пакеты после установки системы, так как в
+процессе что-то может пойти не так, и вам придётся начинать заново.
 
 ### Локализация
 

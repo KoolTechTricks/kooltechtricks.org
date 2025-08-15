@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2025-07-21T09:41:00Z
+lastmod: 2025-08-15T18:23:00Z
 #categories: [linux]
 contributors: [kttrickster]
 ---
@@ -174,7 +174,7 @@ sudo btrfs subvolume list /  # /home
 |Название пакета|Описание|
 |:-------------:|--------|
 |`ntfs-3g`, `exfat-utils`, `btrfs-progs`|Управление дополнительными файловыми системами
-|`unrar`|Разархивация RAR
+|`unrar` / `unrar-free`|Разархивация RAR
 |`cups`|Служба печати [CUPS] (`systemctl enable cups.service && systemctl start cups.service`)
 |`power-profiles-daemon`|Профили энергопотребления для ноутбука
 |`aspell-en`, `aspell-ru`|Проверка орфографии
@@ -228,7 +228,7 @@ sudo btrfs subvolume list /  # /home
 Include = /etc/pacman.d/mirrorlist
 ```
 
-multilib — репозиторий с 32-битными программами. Включите его, чтобы иметь
+`multilib` — репозиторий с 32-битными программами. Включите его, чтобы иметь
 возможность установить Steam[^2] и дополнительные пакеты для Wine.
 
 Также есть репозитории *-testing, в которых тестируются новые версии пакетов.
