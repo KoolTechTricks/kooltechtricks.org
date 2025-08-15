@@ -212,13 +212,3 @@ Firefox, и их слепое применение для LibreWolf может �
 
 Ознакомьтесь с [документацией](https://librewolf.net/docs/settings), чтобы
 узнать больше.
-
-## Ссылки
-
-- [FAQ](https://librewolf.net/docs/faq) содержит ответы на большинство вопросов
-и исправление проблем
-- [Отчёты об ошибках](https://codeberg.org/librewolf/issues)
-- Новости в [Fediverse (Mastodon)](https://chaos.social/@librewolf)
-- Сообщество на [Reddit](https://www.reddit.com/r/LibreWolf) и в
-[Fediverse (Lemmy)](https://lemmy.ml/c/librewolf)
-- Чат в [Matrix](https://go.kde.org/matrix/#/#librewolf:matrix.org)

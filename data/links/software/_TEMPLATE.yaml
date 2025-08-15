@@ -8,6 +8,23 @@ articles: # Статьи
     link: https://example.com/article # Внешняя ссылка
   - title: Статья 2
     link: /wiki/example # Внутренняя ссылка
+community: # Сообщество / Социальные сети
+  - type: bluesky
+    data: bsky.app # Домен-юзернейм. Полная ссылка будет подставлена автоматически
+  - type: discord
+    data: https://discord.gg/
+  - type: forum
+    data: https://forum.example.com
+  - type: lemmy
+    data: https://lemmy.ml/c/announcements
+  - type: mastodon
+    data: https://mastodon.social/@Mastodon
+  - type: matrix
+    data: room:example.com # Сайт-редиректор будет подставлен автоматически: go.kde.org/matrix
+  - type: reddit
+    data: pics
+  - type: xitter
+    data: https://x.com/x
 videos: # Видео
   - title: Название видео, которое скопировано из видеохостинга
     by: Канал автора видео

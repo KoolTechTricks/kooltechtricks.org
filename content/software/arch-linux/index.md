@@ -430,11 +430,3 @@ sudo pacman -U file:///var/cache/pacman/pkg/пакет-старая_версия
 [^2]: Steam можно установить через Flatpak, в таком случае вам не потребуется
 включать репозиторий multilib. Так как Steam и все запускаемые через него игры
 будут находиться в песочнице, это может вызвать некоторые проблемы.
-
-## Ссылки
-
-- [Форум](https://bbs.archlinux.org)
-- Сообщество на [Reddit](https://old.reddit.com/r/archlinux)
-- [Англоязычные](https://wiki.archlinux.org/title/Getting_involved#Groups) и
-[русскоязычные](https://wiki.archlinux.org/title/International_communities#Russian)
-сообщества Arch Linux

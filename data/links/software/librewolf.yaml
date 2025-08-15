@@ -1,0 +1,9 @@
+community:
+  - type: mastodon
+    data: https://chaos.social/@librewolf
+  - type: matrix
+    data: librewolf-community:matrix.org
+  - type: lemmy
+    data: https://lemmy.ml/c/librewolf
+  - type: reddit
+    data: LibreWolf

@@ -4,3 +4,12 @@ seeAlso:
 articles:
   - title: ARU — Руководство по оптимизации Arch Linux
     link: https://ventureo.codeberg.page
+  - title: Англоязычные сообщества Arch Linux
+    link: https://wiki.archlinux.org/title/Getting_involved#Groups
+  - title: Русскоязычные сообщества Arch Linux
+    link: https://wiki.archlinux.org/title/International_communities#Russian
+community:
+  - type: forum
+    data: https://bbs.archlinux.org
+  - type: reddit
+    data: archlinux

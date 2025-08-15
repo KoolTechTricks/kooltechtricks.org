@@ -1,0 +1,14 @@
+seeAlso:
+  - title: Состояние сервера
+    link: https://status.sponsor.ajay.app
+community:
+  - type: matrix
+    data: sponsor:ajay.app
+  - type: discord
+    data: https://discord.gg/SponsorBlock
+  - type: mastodon
+    data: https://fosstodon.org/@sponsorblock
+  - type: bluesky
+    data: sponsor.ajay.app
+  - type: xitter
+    data: https://x.com/SponsorBlock

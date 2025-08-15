@@ -225,13 +225,6 @@ Google Maps, YouTube и др.[^1]).
 3. Мгновенно (при вибрации), удерживайте клавишу увеличения громкости;
 4. Выполните «очистку данных» (clear data).
 
-## Ссылки
-
-- [Отчёты об ошибках](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues);
-- [Внести свой вклад в UAD](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/How-to-contribute);
-- Чат в [Matrix](https://go.kde.org/matrix/#/#uad-ng:matrix.org) и
-[Discord](https://discord.gg/YHujHzA57a) (соединены мостом).
-
 
 [^1]: После повторного скачивания системных приложений из Google Play вы всё
 равно не сможете удалить их без специальных инструментов (ADB/Universal Android

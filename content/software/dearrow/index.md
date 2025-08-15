@@ -143,16 +143,3 @@ A/B-тестирование обложек, когда авторы могут 
 [другие приложения]: https://wiki.sponsor.ajay.app/w/DeArrow/Community
 [База данных]: https://sponsor.ajay.app/database
 [собственный сервер]: https://github.com/mchangrh/sb-mirror
-
-## Ссылки
-
-- [Статус сервера](https://status.sponsor.ajay.app)
-- [Отчёты об ошибках](https://github.com/ajayyy/DeArrow/issues)
-- Чат и поддержка в [Matrix] и [Discord]
-- Обновления и новости в [Fediverse (Mastodon)], [Bluesky] и [X]
-
-[Matrix]: https://go.kde.org/matrix/#/#sponsor:ajay.app
-[Discord]: https://discord.gg/SponsorBlock
-[Fediverse (Mastodon)]: https://fosstodon.org/@sponsorblock
-[Bluesky]: https://bsky.app/profile/sponsor.ajay.app
-[X]: https://x.com/SponsorBlock
