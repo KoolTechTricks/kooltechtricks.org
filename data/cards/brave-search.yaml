@@ -6,8 +6,20 @@ homepage: https://search.brave.com
 wikipedia: https://en.wikipedia.org/wiki/Brave_Search
 help: https://search.brave.com/help
 license: proprietary
-screenshotsAlt:
-  0-brave_search-desktop-light.webp: Brave Search на компьютере (светлая тема)
-  1-brave_search-mobile-light.webp: Brave Search на телефоне (светлая тема)
-  2-brave_search-desktop-dark.webp: Brave Search на компьютере (тёмная тема)
-  3-brave_search-mobile-dark.webp: Brave Search на телефоне (тёмная тема)
+screenshots:
+  0-brave_search-desktop-light.webp:
+    alt: Brave Search на компьютере (светлая тема)
+    type: desktop
+    color: light
+  1-brave_search-mobile-light.webp:
+    alt: Brave Search на телефоне (светлая тема)
+    type: mobile
+    color: light
+  2-brave_search-desktop-dark.webp:
+    alt: Brave Search на компьютере (тёмная тема)
+    type: desktop
+    color: dark
+  3-brave_search-mobile-dark.webp:
+    alt: Brave Search на телефоне (тёмная тема)
+    type: mobile
+    color: dark

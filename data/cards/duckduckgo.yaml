@@ -7,8 +7,20 @@ wikipedia: https://en.wikipedia.org/wiki/DuckDuckGo
 help: https://duckduckgo.com/duckduckgo-help-pages
 repository: https://github.com/duckduckgo
 license: proprietary
-screenshotsAlt:
-  0-duckduckgo-desktop-light.webp: Поиск в DuckDuckGo на компьютере (светлая тема)
-  1-duckduckgo-mobile-light.webp: Поиск в DuckDuckGo на телефоне (светлая тема)
-  2-duckduckgo-desktop-dark.webp: Поиск в DuckDuckGo на компьютере (тёмная тема)
-  3-duckduckgo-mobile-dark.webp: Поиск в DuckDuckGo на телефоне (тёмная тема)
+screenshots:
+  0-duckduckgo-desktop-light.webp:
+    alt: Поиск в DuckDuckGo на компьютере (светлая тема)
+    type: desktop
+    color: light
+  1-duckduckgo-mobile-light.webp:
+    alt: Поиск в DuckDuckGo на телефоне (светлая тема)
+    type: mobile
+    color: light
+  2-duckduckgo-desktop-dark.webp:
+    alt: Поиск в DuckDuckGo на компьютере (тёмная тема)
+    type: desktop
+    color: dark
+  3-duckduckgo-mobile-dark.webp:
+    alt: Поиск в DuckDuckGo на телефоне (тёмная тема)
+    type: mobile
+    color: dark

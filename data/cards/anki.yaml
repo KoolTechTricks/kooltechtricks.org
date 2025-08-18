@@ -10,13 +10,31 @@ issues: https://github.com/ankitects/anki/issues
 repository: https://github.com/ankitects/anki
 license: gnu-agpl-3.0-or-later
 donate: https://apps.apple.com/app/ankimobile-flashcards/id373493387
-screenshotsAlt:
-  0-anki-decks-light.png: Список колод в Anki (светлая тема)
-  1-anki-card-light.png: Процесс изучения карточек в Anki (светлая тема)
-  2-anki-add-light.png: Добавление карточки в Anki (светлая тема)
-  3-anki-decks-dark.png: Список колод в Anki (тёмная тема)
-  4-anki-card-dark.png: Процесс изучения карточек в Anki (тёмная тема)
-  5-anki-add-dark.png: Добавление карточки в Anki (тёмная тема)
+screenshots:
+  0-anki-decks-light.png:
+    alt: Список колод в Anki (светлая тема)
+    type: desktop
+    color: light
+  1-anki-card-light.png:
+    alt: Процесс изучения карточек в Anki (светлая тема)
+    type: desktop
+    color: light
+  2-anki-add-light.png:
+    alt: Добавление карточки в Anki (светлая тема)
+    type: desktop
+    color: light
+  3-anki-decks-dark.png:
+    alt: Список колод в Anki (тёмная тема)
+    type: desktop
+    color: dark
+  4-anki-card-dark.png:
+    alt: Процесс изучения карточек в Anki (тёмная тема)
+    type: desktop
+    color: dark
+  5-anki-add-dark.png:
+    alt: Добавление карточки в Anki (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:

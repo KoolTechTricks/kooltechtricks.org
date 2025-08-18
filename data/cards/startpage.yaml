@@ -6,8 +6,20 @@ homepage: https://startpage.com
 wikipedia: https://en.wikipedia.org/wiki/Startpage.com
 help: https://support.startpage.com/hc
 license: proprietary
-screenshotsAlt:
-  0-startpage-desktop-light.webp: Поиск в Startpage на компьютере (светлая тема)
-  1-startpage-mobile-light.webp: Поиск в Startpage на телефоне (светлая тема)
-  2-startpage-desktop-dark.webp: Поиск в Startpage на компьютере (тёмная тема)
-  3-startpage-mobile-dark.webp: Поиск в Startpage на телефоне (тёмная тема)
+screenshots:
+  0-startpage-desktop-light.webp:
+    alt: Поиск в Startpage на компьютере (светлая тема)
+    type: desktop
+    color: light
+  1-startpage-mobile-light.webp:
+    alt: Поиск в Startpage на телефоне (светлая тема)
+    type: mobile
+    color: light
+  2-startpage-desktop-dark.webp:
+    alt: Поиск в Startpage на компьютере (тёмная тема)
+    type: desktop
+    color: dark
+  3-startpage-mobile-dark.webp:
+    alt: Поиск в Startpage на телефоне (тёмная тема)
+    type: mobile
+    color: dark

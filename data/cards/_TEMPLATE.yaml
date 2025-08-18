@@ -12,11 +12,23 @@ issues: https://example.com/Ссылка-на-отчёты-об-ошибках
 repository: https://example.com/Ссылка-на-репозиторий-с-исходным-кодом
 license: gnu-gpl-3.0 # Одна из лицензий в директории /data/licenses
 donate: https://example.com/Ссылка-на-пожертвования
-screenshotsAlt: # Описания скриншотов
-  0-example-desktop-light.webp: Компьютер (светлая тема)
-  1-example-mobile-light.webp: Телефон (светлая тема)
-  2-example-desktop-dark.webp: Компьютер (тёмная тема)
-  3-example-mobile-dark.webp: Телефон (тёмная тема)
+screenshots: # Скриншоты
+  0-example-desktop-light.webp: # Перечисление файлов с расширением
+    alt: Компьютер (светлая тема) # Описание
+    type: desktop # Тип (desktop/mobile) отвечает за отображение данного скриншота в подборке для компьютера/телефона. Можно оставить пустым, если этот параметр не релевантен для данной карточки
+    color: light # Тема (light/dark) отвечает за отображение скришота при светлой или тёмной теме. Если не задано ни одного скриншота другой темы, не указывайте этот параметр (или добавьте # в начало)
+  1-example-mobile-light.webp:
+    alt: Телефон (светлая тема)
+    type: mobile
+    color: light
+  2-example-desktop-dark.webp:
+    alt: Компьютер (тёмная тема)
+    type: desktop
+    color: dark
+  3-example-mobile-dark.webp:
+    alt: Телефон (тёмная тема)
+    type: mobile
+    color: dark
 get: # Ссылки на скачивание/установку
   title: Скачать # Заголовок раздела (Скачать/Установить/Получить или другое)
   links: # Ссылки в свободной форме, оформляются в виде вложенного списка. Можно указать числа для сортировки

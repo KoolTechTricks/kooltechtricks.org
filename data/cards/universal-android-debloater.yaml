@@ -9,9 +9,13 @@ docs: https://github.com/Universal-Debloater-Alliance/universal-android-debloate
 issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues
 repository: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
 license: gnu-gpl-3.0
-screenshotsAlt:
-  0-universal-android-debloater-light.png: Universal Android Debloater (светлая тема)
-  1-universal-android-debloater-dark.png: Universal Android Debloater (тёмная тема)
+screenshots:
+  0-universal-android-debloater-light.png:
+    alt: Universal Android Debloater (светлая тема)
+    color: light
+  1-universal-android-debloater-dark.png:
+    alt: Universal Android Debloater (тёмная тема)
+    color: dark
 get:
   title: Установить
   links:

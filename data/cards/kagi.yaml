@@ -8,8 +8,20 @@ wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)
 help: https://help.kagi.com
 repository: https://help.kagi.com/kagi/support-and-community/open-source.html
 license: proprietary
-screenshotsAlt:
-  0-kagi-desktop-light.webp: Поиск в Kagi на компьютере (светлая тема)
-  1-kagi-mobile-light.webp: Поиск в Kagi на телефоне (светлая тема)
-  2-kagi-desktop-dark.webp: Поиск в Kagi на компьютере (тёмная тема)
-  3-kagi-mobile-dark.webp: Поиск в Kagi на телефоне (тёмная тема)
+screenshots:
+  0-kagi-desktop-light.webp:
+    alt: Поиск в Kagi на компьютере (светлая тема)
+    type: desktop
+    color: light
+  1-kagi-mobile-light.webp:
+    alt: Поиск в Kagi на телефоне (светлая тема)
+    type: mobile
+    color: light
+  2-kagi-desktop-dark.webp:
+    alt: Поиск в Kagi на компьютере (тёмная тема)
+    type: desktop
+    color: dark
+  3-kagi-mobile-dark.webp:
+    alt: Поиск в Kagi на телефоне (тёмная тема)
+    type: mobile
+    color: dark

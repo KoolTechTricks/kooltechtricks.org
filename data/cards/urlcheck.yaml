@@ -7,11 +7,19 @@ issues: https://github.com/TrianguloY/URLCheck/issues
 repository: https://github.com/TrianguloY/URLCheck
 license: cc-by-4.0
 donate: https://triangularapps.blogspot.com/p/support.html
-screenshotsAlt:
-  0-urlcheck-popup-light.png: Всплывающее окно URLCheck (светлая тема)
-  1-urlcheck-clean-light.png: Очистка ссылки в URLCheck (светлая тема)
-  2-urlcheck-popup-dark.png: Всплывающее окно URLCheck (тёмная тема)
-  3-urlcheck-clean-dark.png: Очистка ссылки в URLCheck (тёмная тема)
+screenshots:
+  0-urlcheck-popup-light.png:
+    alt: Всплывающее окно URLCheck (светлая тема)
+    color: light
+  1-urlcheck-clean-light.png:
+    alt: Очистка ссылки в URLCheck (светлая тема)
+    color: light
+  2-urlcheck-popup-dark.png:
+    alt: Всплывающее окно URLCheck (тёмная тема)
+    color: dark
+  3-urlcheck-clean-dark.png:
+    alt: Очистка ссылки в URLCheck (тёмная тема)
+    color: dark
 get:
   title: Скачать
   links:

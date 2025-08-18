@@ -8,11 +8,19 @@ help: https://wiki.obtainium.imranr.dev
 issues: https://github.com/ImranR98/Obtainium/issues
 repository: https://github.com/ImranR98/Obtainium
 license: gnu-gpl-3.0
-screenshotsAlt:
-  0-obtainium-list-light.png: Список приложений в Obtainium (светлая тема)
-  1-obtainium-app-light.png: Информация о приложении в Obtainium (светлая тема)
-  2-obtainium-list-dark.png: Список приложений в Obtainium (тёмная тема)
-  3-obtainium-app-dark.png: Информация о приложении в Obtainium (тёмная тема)
+screenshots:
+  0-obtainium-list-light.png:
+    alt: Список приложений в Obtainium (светлая тема)
+    color: light
+  1-obtainium-app-light.png:
+    alt: Информация о приложении в Obtainium (светлая тема)
+    color: light
+  2-obtainium-list-dark.png:
+    alt: Список приложений в Obtainium (тёмная тема)
+    color: dark
+  3-obtainium-app-dark.png:
+    alt: Информация о приложении в Obtainium (тёмная тема)
+    color: dark
 get:
   title: Скачать
   links:

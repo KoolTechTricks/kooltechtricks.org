@@ -8,11 +8,23 @@ issues: https://github.com/LucasGGamerM/moshidon/issues
 repository: https://github.com/LucasGGamerM/moshidon
 license: gnu-gpl-3.0
 donate: https://github.com/LucasGGamerM/moshidon#donate
-screenshotsAlt:
-  0-moshidon-home-light.webp: Домашняя лента в Moshidon (светлая тема)
-  1-moshidon-profile-light.webp: Просмотр профиля в Moshidon (светлая тема)
-  2-moshidon-home-dark.webp: Домашняя лента в Moshidon (тёмная тема)
-  3-moshidon-profile-dark.webp: Просмотр профиля в Moshidon (тёмная тема)
+screenshots:
+  0-moshidon-home-light.webp:
+    alt: Домашняя лента в Moshidon (светлая тема)
+    type: mobile
+    color: light
+  1-moshidon-profile-light.webp:
+    alt: Просмотр профиля в Moshidon (светлая тема)
+    type: mobile
+    color: light
+  2-moshidon-home-dark.webp:
+    alt: Домашняя лента в Moshidon (тёмная тема)
+    type: mobile
+    color: dark
+  3-moshidon-profile-dark.webp:
+    alt: Просмотр профиля в Moshidon (тёмная тема)
+    type: mobile
+    color: dark
 get:
   title: Скачать
   links:

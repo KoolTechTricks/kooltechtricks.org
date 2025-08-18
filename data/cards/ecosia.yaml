@@ -9,8 +9,20 @@ homepage: https://www.ecosia.org
 wikipedia: https://en.wikipedia.org/wiki/Ecosia
 help: https://ecosia.helpscoutdocs.com
 license: proprietary
-screenshotsAlt:
-  0-ecosia-desktop-light.webp: Поиск в Ecosia на компьютере (светлая тема)
-  1-ecosia-mobile-light.webp: Поиск в Ecosia на телефоне (светлая тема)
-  2-ecosia-desktop-dark.webp: Поиск в Ecosia на компьютере (тёмная тема)
-  3-ecosia-mobile-dark.webp: Поиск в Ecosia на телефоне (тёмная тема)
+screenshots:
+  0-ecosia-desktop-light.webp:
+    alt: Поиск в Ecosia на компьютере (светлая тема)
+    type: desktop
+    color: light
+  1-ecosia-mobile-light.webp:
+    alt: Поиск в Ecosia на телефоне (светлая тема)
+    type: mobile
+    color: light
+  2-ecosia-desktop-dark.webp:
+    alt: Поиск в Ecosia на компьютере (тёмная тема)
+    type: desktop
+    color: dark
+  3-ecosia-mobile-dark.webp:
+    alt: Поиск в Ecosia на телефоне (тёмная тема)
+    type: mobile
+    color: dark
