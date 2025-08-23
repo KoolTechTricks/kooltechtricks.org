@@ -86,7 +86,11 @@ domain = "kooltechtricks.org"
 
 [params.fediverse]
 handle = '@KoolTechTricks@cr8r.gg'
-urls = ['https://cr8r.gg/@KoolTechTricks', 'https://mastodon.ml/@KoolTechLord']
+urls = [
+    'https://cr8r.gg/@KoolTechTricks',
+    'https://mastodon.ml/@KoolTechLord',
+    'https://infosec.exchange/@kttrickster',
+]
 
 #############
 ## Socials ##
