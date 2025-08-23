@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2025-08-15T18:23:00Z
+lastmod: 2025-08-23T16:39:00Z
 #categories: [linux]
 contributors: [kttrickster]
 ---
@@ -341,6 +341,12 @@ https_proxy="127.0.0.1:2080" yay [...]
 ```
 
 То же самое можно сделать и с другими программами, например, `git` или `flatpak`.
+
+Зеркало `aur.archlinux.org` размещено на GitHub:
+
+```sh
+git clone --branch <имя_пакета> --single-branch https://github.com/archlinux/aur.git <имя_пакета>
+```
 
 ### Новости
 
