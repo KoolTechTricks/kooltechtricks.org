@@ -1,7 +1,7 @@
 ---
 title: Браузерные движки
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2025-08-11T20:52:00Z
+lastmod: 2025-08-24T15:59:00Z
 contributors: [kttrickster]
 ---
 
@@ -158,9 +158,11 @@ Apple также [получает](https://arstechnica.com/tech-policy/2025/03/
 [Цель Mozilla](https://www.mozilla.org/ru/about/manifesto) — обеспечение
 открытого и свободного интернета для каждого. Они внедряют в Firefox технологии
 по защите от отслеживания и не прекращают поддержку Manifest V2 в отличие от
-[Google](#chromium--blink).
+[Google](#chromium--blink). Однако Firefox
+[защищён от эксплойтов хуже](https://madaidans-insecurities.github.io/firefox-chromium.html),
+чем Chromium.
 
-Однако у Mozilla есть проблемы:
+Также у Mozilla есть проблемы:
 - Значительная часть прибыли идёт от Google за поисковую систему по умолчанию.
 - Mozilla нужен стабильный источник прибыли, чтобы не зависеть от Google.
 Поэтому они занимаются сторонними проектами, но многие из них
@@ -176,12 +178,13 @@ Apple также [получает](https://arstechnica.com/tech-policy/2025/03/
 [Mozilla.ai]: https://www.mozilla.ai
 [Anonym]: https://blog.mozilla.org/en/advertising/mozilla-anonym-raising-the-bar-for-privacy-preserving-digital-advertising
 
-Итог:
+В итоге получается замкнутый круг:
 - Mozilla меньше занимается развитием Firefox, и он отстаёт от Chromium.
 - Меньше пользователей Firefox как из-за отсутствия функциональности, так
 из-за действий Mozilla.
 - Низкая доля на рынке браузеров — меньше веб-разработчиков уделяют внимание
-Firefox. Некоторые сайты не работают через Firefox, что отталкивает ещё больше
+Firefox.
+- Некоторые сайты не работают через Firefox, что отталкивает ещё больше
 пользователей.
 
 Тем не менее рекомендуется продолжать использовать Firefox или браузеры на его
