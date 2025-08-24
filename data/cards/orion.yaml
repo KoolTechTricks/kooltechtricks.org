@@ -3,7 +3,7 @@ icon: orion.png
 description: >
   Браузер, ориентированный на пользователя, со встроенной блокировкой
   отслеживания и нулевой телеметрией. Основан на WebKit, но поддерживает
-  расширения для Chromium и Firefox.
+  расширения для Chromium и Firefox. Разработка финансируется пользователями.
 homepage: https://kagi.com/orion
 wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)#Orion_Browser
 help: https://help.kagi.com/orion
