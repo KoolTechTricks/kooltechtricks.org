@@ -14,7 +14,11 @@ screenshots:
   0-zen_browser-light.png:
     alt: Zen Browser (светлая тема)
     type: desktop
-    #color: light
+    color: light
+  1-zen_browser-dark.png:
+    alt: Zen Browser (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:
