@@ -21,3 +21,9 @@ articles:
     description: >
       Это подборка браузеров для компьютера со строгим упором на
       конфиденциальность. Также здесь есть рекомендованные настройки.
+videos:
+  - title: Which browser should you use right now?
+    by: Theo - t3․gg
+    year: 2025
+    duration: 1:07:13
+    link: https://youtu.be/m1QrNF9wZao
