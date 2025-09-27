@@ -5,12 +5,13 @@ features:
   - searxng
   - ecosia
   - kagi
-  - mojeek
 seeAlso:
   - title: Таблица сравнения поисковых систем
     link: /tables/search-engines
+    description: >
+      Ещё больше поисковых систем с подробным разбором многих характеристик.
 videos:
-  - title: 'Google Search sucks, AI is everywhere: what should you use?'
+  - title: "Google Search sucks, AI is everywhere: what should you use?"
     by: The Linux Experiment
     year: 2025
     duration: 18:51

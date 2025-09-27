@@ -1,26 +1,2 @@
 title: Mojeek
-description: >
-  Нишевая независимая поисковая система, которая использует собственный
-  индекс. Основана в 2004 году как личный проект. Придерживается политике
-  конфиденциальности «без слежки».
 homepage: https://www.mojeek.com
-wikipedia: https://en.wikipedia.org/wiki/Mojeek
-help: https://www.mojeek.com/support
-license: proprietary
-screenshots:
-  0-mojeek-desktop-light.webp:
-    alt: Поиск в Mojeek на компьютере (светлая тема)
-    type: desktop
-    color: light
-  1-mojeek-mobile-light.webp:
-    alt: Поиск в Mojeek на телефоне (светлая тема)
-    type: mobile
-    color: light
-  2-mojeek-desktop-dark.webp:
-    alt: Поиск в Mojeek на компьютере (тёмная тема)
-    type: desktop
-    color: dark
-  3-mojeek-mobile-dark.webp:
-    alt: Поиск в Mojeek на телефоне (тёмная тема)
-    type: mobile
-    color: dark
