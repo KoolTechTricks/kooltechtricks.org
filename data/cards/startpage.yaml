@@ -1,25 +1,25 @@
 title: Startpage
 description: >
-  Одна из первых поисковых систем, уважающая конфиденциальность пользователей.
+  Поисковая система, уважающая конфиденциальность пользователей.
   Использует Google в своей поисковой выдаче.
 homepage: https://startpage.com
 wikipedia: https://en.wikipedia.org/wiki/Startpage.com
 help: https://support.startpage.com/hc
 license: proprietary
 screenshots:
-  0-startpage-desktop-light.webp:
+  0-startpage-desktop-light.png:
     alt: Поиск в Startpage на компьютере (светлая тема)
     type: desktop
     color: light
-  1-startpage-mobile-light.webp:
+  1-startpage-mobile-light.png:
     alt: Поиск в Startpage на телефоне (светлая тема)
     type: mobile
     color: light
-  2-startpage-desktop-dark.webp:
+  2-startpage-desktop-dark.png:
     alt: Поиск в Startpage на компьютере (тёмная тема)
     type: desktop
     color: dark
-  3-startpage-mobile-dark.webp:
+  3-startpage-mobile-dark.png:
     alt: Поиск в Startpage на телефоне (тёмная тема)
     type: mobile
     color: dark

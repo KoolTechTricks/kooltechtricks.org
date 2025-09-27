@@ -8,19 +8,19 @@ help: https://duckduckgo.com/duckduckgo-help-pages
 repository: https://github.com/duckduckgo
 license: proprietary
 screenshots:
-  0-duckduckgo-desktop-light.webp:
+  0-duckduckgo-desktop-light.png:
     alt: Поиск в DuckDuckGo на компьютере (светлая тема)
     type: desktop
     color: light
-  1-duckduckgo-mobile-light.webp:
+  1-duckduckgo-mobile-light.png:
     alt: Поиск в DuckDuckGo на телефоне (светлая тема)
     type: mobile
     color: light
-  2-duckduckgo-desktop-dark.webp:
+  2-duckduckgo-desktop-dark.png:
     alt: Поиск в DuckDuckGo на компьютере (тёмная тема)
     type: desktop
     color: dark
-  3-duckduckgo-mobile-dark.webp:
+  3-duckduckgo-mobile-dark.png:
     alt: Поиск в DuckDuckGo на телефоне (тёмная тема)
     type: mobile
     color: dark

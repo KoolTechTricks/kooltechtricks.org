@@ -1,25 +1,25 @@
 title: Brave Search
 description: >
-  Новейшая независимая поисковая система от создателей популярного
-  конфиденциального браузера Brave.
+  Независимая поисковая система от создателей браузера Brave. Ориентируется на
+  конфиденциальность пользователей.
 homepage: https://search.brave.com
 wikipedia: https://en.wikipedia.org/wiki/Brave_Search
 help: https://search.brave.com/help
 license: proprietary
 screenshots:
-  0-brave_search-desktop-light.webp:
+  0-brave_search-desktop-light.png:
     alt: Brave Search на компьютере (светлая тема)
     type: desktop
     color: light
-  1-brave_search-mobile-light.webp:
+  1-brave_search-mobile-light.png:
     alt: Brave Search на телефоне (светлая тема)
     type: mobile
     color: light
-  2-brave_search-desktop-dark.webp:
+  2-brave_search-desktop-dark.png:
     alt: Brave Search на компьютере (тёмная тема)
     type: desktop
     color: dark
-  3-brave_search-mobile-dark.webp:
+  3-brave_search-mobile-dark.png:
     alt: Brave Search на телефоне (тёмная тема)
     type: mobile
     color: dark
