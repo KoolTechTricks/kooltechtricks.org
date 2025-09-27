@@ -158,8 +158,8 @@ Microsoft или Google.
 
 Но если вы дорожите своей конфиденциальностью, то Ecosia ни в коем случае нельзя
 пользоваться. Ваши
-[IP-адрес, поисковый запрос](https://ecosia.helpscoutdocs.com/article/377-ip-addresses),
-[идентификатор](https://ecosia.helpscoutdocs.com/article/48-what-are-personalized-search-results),
+[IP-адрес, поисковый запрос](https://support.ecosia.org/article/377-ip-addresses),
+[идентификатор](https://support.ecosia.org/article/349-ecosia-settings#Personalized-search-results-E4a0n),
 [файлы cookie](https://www.ecosia.org/privacy) будут отправляться в Bing или
 Google для показа рекламы.
 
