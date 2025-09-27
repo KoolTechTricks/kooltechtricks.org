@@ -4,10 +4,9 @@ fancyTitle: Рекомендованные альтернативные поис
 publishDate: 2023-12-16T17:01:34Z
 lastmod: 2025-09-27T17:29:00Z
 contributors: [kttrickster]
-image: /assets/hero/search-engines.webp
+image: /assets/hero/search-engines.png
 imageAlt: >
-  Строки поиска DuckDuckGo, Startpage, Brave Search, SearXNG, Ecosia, Kagi,
-  Mojeek
+  Строки поиска DuckDuckGo, Startpage, Brave Search, SearXNG, Ecosia, Kagi
 ---
 
 Альтернативные поисковые системы, которые уважают конфиденциальность
