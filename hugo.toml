@@ -85,9 +85,10 @@ domain = "kooltechtricks.org"
 ###############
 
 [params.fediverse]
-handle = '@KoolTechTricks@cr8r.gg'
+handle = '@KoolTechTricks@posts.kooltechtricks.org'
 urls = [
     'https://cr8r.gg/@KoolTechTricks',
+    'https://posts.kooltechtricks.org/@KoolTechTricks',
     'https://mastodon.ml/@KoolTechLord',
     'https://infosec.exchange/@kttrickster',
 ]
@@ -104,7 +105,7 @@ url = 'https://t.me/KoolTechTricks'
 [[params.socials]]
 id = 'mastodon'
 title = 'Mastodon (Fediverse)'
-url = 'https://cr8r.gg/@KoolTechTricks'
+url = 'https://posts.kooltechtricks.org/@KoolTechTricks'
 
 [[params.socials]]
 id = 'bluesky'
