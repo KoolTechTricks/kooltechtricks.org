@@ -1,0 +1,42 @@
+title: uBlock Origin
+description: >
+  Браузерное расширение для фильтрации (блокировки) содержимого веб-страниц,
+  включая раздражающие элементы, скрипты отслеживания и рекламу.
+kttpage: /software/ublock-origin
+wikipedia: https://en.wikipedia.org/wiki/UBlock_Origin
+docs: https://github.com/gorhill/uBlock/wiki
+issues: https://github.com/uBlockOrigin/uBlock-issues/issues
+repository: https://github.com/gorhill/uBlock
+license: gnu-gpl-3.0
+screenshots:
+  0-ublock-origin-light.png:
+    alt: >
+      Меню uBlock Origin (светлая тема). Кнопка активации, счётчик
+      заблокированного содержимого, подключённые домены.
+    color: light
+  1-ublock-origin-lite-light.png:
+    alt: >
+      Меню uBlock Origin Lite (тёмная тема). Переключатель режима фильтрации,
+      инструменты для удаления элемента и создания своего фильтра.
+    color: light
+  2-ublock-origin-dark.png:
+    alt: >
+      Меню uBlock Origin (светлая тема). Кнопка активации, счётчик
+      заблокированного содержимого, подключённые домены.
+    color: dark
+  3-ublock-origin-lite-dark.png:
+    alt: >
+      Меню uBlock Origin Lite (тёмная тема). Переключатель режима фильтрации,
+      инструменты для удаления элемента и создания своего фильтра.
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 uBlock Origin (Manifest V2):
+      1 Firefox: https://addons.mozilla.org/addon/ublock-origin
+      2 Chromium (Chrome Web Store): https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm
+      3 Chromium (Edge Add-ons): https://microsoftedge.microsoft.com/addons/detail/odfafepnkmbhccpbejgmiehpchacaeak
+    2 uBlock Origin Lite (Manifest V3):
+      1 Chromium: https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh
+      2 Safari: https://apps.apple.com/app/id6745342698
+      3 Firefox (GitHub): https://github.com/uBlockOrigin/uBOL-home/releases/latest

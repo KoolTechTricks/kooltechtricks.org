@@ -166,7 +166,7 @@ LibreWolf разрабатывается командой энтузиастов
 {{< card brave >}}
 
 Встроен хороший блокировщик трекеров и рекламы, ничем не уступающий
-uBlock Origin. Однако вы можете
+[uBlock Origin](/software/ublock-origin). Однако вы можете
 [переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
 
 Есть анонимная синхронизация со сквозным шифрованием. Перевод страниц
