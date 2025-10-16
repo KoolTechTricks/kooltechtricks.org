@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2025-08-23T16:39:00Z
+lastmod: 2025-10-16T18:34:00Z
 #categories: [linux]
 contributors: [kttrickster]
 ---
@@ -151,7 +151,7 @@ sudo btrfs subvolume list /  # /home
 |`pacman -Qqe`|Вывести установленные пользователем пакеты
 
 Сохранить список установленных пакетов: `pacman -Qqe > packages-1.txt`.
-Сравнить с текущим: `diff packages-1.txt packages-2.txt`.
+Сравнить с текущим: `diff packages-old.txt packages-new.txt`.
 
 ### Графический интерфейс
 
@@ -173,7 +173,7 @@ sudo btrfs subvolume list /  # /home
 
 |Название пакета|Описание|
 |:-------------:|--------|
-|`ntfs-3g`, `exfat-utils`, `btrfs-progs`|Управление дополнительными файловыми системами
+|`ntfs-3g`, `exfat-utils`, `btrfs-progs`|Поддержка файловых систем
 |`unrar` / `unrar-free`|Разархивация RAR
 |`cups`|Служба печати [CUPS] (`systemctl enable cups.service && systemctl start cups.service`)
 |`power-profiles-daemon`|Профили энергопотребления для ноутбука
