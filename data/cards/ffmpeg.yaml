@@ -1,0 +1,33 @@
+title: FFmpeg
+description: >
+  Мощная кроссплатформенная библиотека и консольная программа для обработки и
+  конвертации мультимедиа.
+homepage: https://ffmpeg.org
+kttpage: /software/ffmpeg
+wikipedia: https://en.wikipedia.org/wiki/FFmpeg
+docs: https://ffmpeg.org/documentation.html
+issues: https://ffmpeg.org/bugreports.html
+repository: https://git.ffmpeg.org/ffmpeg.git
+license: gnu-lgpl-2.1-or-later
+donate: https://ffmpeg.org/donations.html
+get:
+  title: Скачать
+  links:
+    1 Windows:
+      1 Winget: >
+        `winget install Gyan.FFmpeg`
+      2 Готовые сборки (gyan.dev): https://www.gyan.dev/ffmpeg/builds
+      3 Готовые сборки (BtbN): https://github.com/BtbN/FFmpeg-Builds/releases/latest
+    2 Linux:
+      1 Debian и все производные (Ubuntu, Mint): >
+        `sudo apt install ffmpeg`
+      2 Fedora: >
+        `sudo dnf install ffmpeg`
+      3 Arch и все производные (EndeavourOS, Manjaro): >
+        `sudo pacman -S ffmpeg`
+    3 macOS:
+      1 Homebrew: >
+        `brew install ffmpeg`
+      2 Готовые сборки: https://evermeet.cx/ffmpeg
+    4 Android (Termux): >
+      `pkg install ffmpeg`

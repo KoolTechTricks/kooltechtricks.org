@@ -29,7 +29,7 @@ imageAlt: >
 
 Примеры консольных программ:
 - [yt-dlp](/wiki/yt-dlp): Скачивание видео из интернета.
-- [FFmpeg](/wiki/ffmpeg): Конвертация видео и аудио.
+- [FFmpeg](/software/ffmpeg): Конвертация видео и аудио.
 - [WinGet](/wiki/winget): Установка программ для Windows.
 - [scrcpy](/wiki/scrcpy): Отображение экрана Android-устройства на компьютере.
 - [mat2](https://t.me/KoolTechTricks/292): Очистка метаданных.

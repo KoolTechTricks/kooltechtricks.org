@@ -1,0 +1,12 @@
+articles:
+  - title: Документация
+    link: https://ffmpeg.org/ffmpeg.html
+  - title: ArchWiki
+    link: https://wiki.archlinux.org/title/FFmpeg
+  - title: Шпаргалка FFmpeg
+    link: https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
+  - title: FFmpeg by Example
+    link: https://ffmpegbyexample.com
+community:
+  - type: xitter
+    data: https://x.com/ffmpeg
