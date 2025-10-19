@@ -24,7 +24,7 @@ community: # Сообщество / Социальные сети
   - type: reddit
     data: pics
   - type: xitter
-    data: https://x.com/x
+    data: x
 videos: # Видео
   - title: Название видео, которое скопировано из видеохостинга
     by: Канал автора видео

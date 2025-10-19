@@ -1,0 +1,33 @@
+title: yt-dlp
+description: >
+  Универсальный загрузчик видео и аудио из YouTube, TikTok, X/Twitter, Reddit и
+  сотни других сайтов.
+kttpage: /software/yt-dlp
+wikipedia: https://en.wikipedia.org/wiki/Youtube-dl#yt-dlp_fork
+help: https://github.com/yt-dlp/yt-dlp/wiki
+docs: https://github.com/yt-dlp/yt-dlp#usage-and-options
+issues: https://github.com/yt-dlp/yt-dlp/issues
+repository: https://github.com/yt-dlp/yt-dlp
+license: unlicense
+donate: https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
+get:
+  title: Скачать
+  links:
+    1 Windows:
+      1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
+      2 WinGet: >
+        `winget install yt-dlp.yt-dlp`
+    2 Linux:
+      1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
+      2 Arch Linux: >
+        `sudo pacman -S yt-dlp`
+    3 macOS:
+      1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos
+      2 Homebrew: >
+        `brew install yt-dlp`
+    4 Android:
+      1 Termux: >
+        `pkg install python-yt-dlp`
+screenshots:
+  yt-dlp.png:
+    alt: Скачивание видео с помощью yt-dlp в терминале
