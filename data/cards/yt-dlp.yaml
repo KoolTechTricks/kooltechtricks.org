@@ -1,7 +1,8 @@
 title: yt-dlp
 description: >
-  Универсальный загрузчик видео и аудио из YouTube, TikTok, X/Twitter, Reddit и
-  сотни других сайтов.
+  Универсальный загрузчик видео, аудио и прямых трансляций из YouTube, TikTok,
+  X/Twitter, Reddit, Twitch и сотни других сайтов. Только с консольным
+  интерфейсом. Является основой для многих загрузчиков.
 kttpage: /software/yt-dlp
 wikipedia: https://en.wikipedia.org/wiki/Youtube-dl#yt-dlp_fork
 help: https://github.com/yt-dlp/yt-dlp/wiki

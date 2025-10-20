@@ -14,35 +14,10 @@ contributors: [kttrickster]
 <!--more-->
 
 > [!note]
-> Эта страница будет перемещена. Прошлое содержимое находится
-[здесь](/software/yt-dlp).
+> Эта страница будет перемещена. Прошлое и обновлённое содержимое находится
+[здесь](/software/yt-dlp) и [здесь](/collections/media-downloaders).
 
-## Сторонние приложения
-
-> **Смотрите также:**
-[Список графических интерфейсов для yt-dlp](https://old.reddit.com/r/youtubedl/wiki/info-guis)
-(англ.)
-
-### Parabolic
-
-![Parabolic](/media/yt-dlp_parabolic.webp)
-
-- **Платформа:** Windows, Linux
-- **Технологии:** WinUI (Windows), GTK (Linux),
-[Открытый исходный код](https://github.com/NickvisionApps/Parabolic)
-- **Скачать:**
-    - Windows:
-        - [GitHub](https://github.com/NickvisionApps/Parabolic/releases/latest)
-        (`NickvisionTubeConverterSetup.exe`)
-    - Linux:
-        - [Flathub](https://flathub.org/apps/org.nickvision.tubeconverter)
-        - [Snap Store](https://snapcraft.io/tube-converter)
-        - [AUR](https://aur.archlinux.org/packages/parabolic)
-
-Простое и функциональное приложение для скачивания видео. Является нативным
-графическим интерфейсом yt-dlp.
-
-### yt-dlg
+## yt-dlg
 
 ![yt-dlg](/media/yt-dlp_yt-dlg.webp)
 
@@ -61,7 +36,7 @@ contributors: [kttrickster]
 Кросс-платформенный графический интерфейс yt-dlp. Является продолжением
 youtube-dl-gui, который перестал разрабатываться.
 
-### Tartube
+## Tartube
 
 ![Tartube](/media/yt-dlp_tartube.webp)
 
@@ -81,7 +56,7 @@ youtube-dl-gui, который перестал разрабатываться.
 использования. Классический режим эмулирует интерфейс оригинального
 youtube-dl-gui.
 
-### Open Video Downloader
+## Open Video Downloader
 
 ![Open Video Downloader](/media/yt-dlp_open_video_downloader.webp)
 
@@ -94,7 +69,7 @@ youtube-dl-gui.
 Кросс-платформенный графический интерфейс для yt-dlp, построенный на
 веб-технологиях Electron (Chromium).
 
-### ytDownloader
+## ytDownloader
 
 ![ytDownloader](/media/yt-dlp_ytdownloader.webp)
 
@@ -121,20 +96,7 @@ youtube-dl-gui.
 построенный на веб-технологиях [Electron](/wiki/browsers#electron). Доступно
 множество вариантов скачивания.
 
-### Seal
-
-![Seal](/media/yt-dlp_seal.webp)
-
-- **Платформа:** Android
-- **Технологии:** Kotlin,
-[Открытый исходный код](https://github.com/JunkFood02/Seal)
-- **Скачать:**
-    - [GitHub](https://github.com/JunkFood02/Seal/releases/latest)
-    - [F-Droid](https://f-droid.org/packages/com.junkfood.seal)
-
-Загрузчик видео и аудио файлов на Android. Использует yt-dlp для скачивания.
-
-### mpv
+## mpv
 
 ![mpv](/media/yt-dlp_mpv.webp)
 

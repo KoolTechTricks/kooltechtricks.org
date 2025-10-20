@@ -1,0 +1,8 @@
+features:
+  - cobalt
+  - seal
+  - parabolic
+  - yt-dlp
+articles:
+  - title: Приложения, основанные на yt-dlp
+    link: https://old.reddit.com/r/youtubedl/wiki/info-guis

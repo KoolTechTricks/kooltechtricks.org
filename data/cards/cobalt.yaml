@@ -1,0 +1,34 @@
+title: cobalt
+icon: cobalt.png
+description: >
+  Загрузчик медиа онлайн, который не раздражает. Без рекламы, подписок и прочего
+  мусора. С открытым исходным кодом, можно запустить на своём сервере.
+homepage: https://cobalt.tools
+docs: https://github.com/imputnet/cobalt/tree/main/docs
+issues: https://github.com/imputnet/cobalt/issues
+repository: https://github.com/imputnet/cobalt/issues
+license: gnu-agpl-3.0
+donate: https://cobalt.tools/donate
+screenshots:
+  0-cobalt-desktop-light.png:
+    alt: Скачивание видео с помощью cobalt (компьютер, светлая тема)
+    type: desktop
+    color: light
+  1-cobalt-mobile-light.png:
+    alt: Скачивание видео с помощью cobalt (телефон, светлая тема)
+    type: mobile
+    color: light
+  2-cobalt-desktop-dark.png:
+    alt: Скачивание видео с помощью cobalt (компьютер, тёмная тема)
+    type: desktop
+    color: dark
+  3-cobalt-mobile-dark.png:
+    alt: Скачивание видео с помощью cobalt (телефон, тёмная тема)
+    type: mobile
+    color: dark
+get:
+  title: Открыть
+  links:
+    1 Официальный сервер: https://cobalt.tools
+    2 Сторонние серверы: https://instances.cobalt.best
+    3 Запустить свой сервер: https://github.com/imputnet/cobalt/blob/main/docs/run-an-instance.md

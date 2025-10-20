@@ -1,0 +1,42 @@
+title: Parabolic
+description: >
+  Простой загрузчик медиа с открытым исходным кодом для Windows и Linux с родным
+  дизайном системы. Использует yt-dlp.
+issues: https://github.com/NickvisionApps/Parabolic/issues
+repository: https://github.com/NickvisionApps/Parabolic
+license: gnu-gpl-3.0
+donate: https://github.com/sponsors/nlogozzo
+screenshots:
+  0-parabolic-downloading-windows-light.png:
+    alt: Очередь загрузки Parabolic для Windows (светлая тема)
+    color: light
+  1-parabolic-parameters-windows-light.png:
+    alt: Параметры загрузки Parabolic для Windows (светлая тема)
+    color: light
+  2-parabolic-downloading-linux-light.png:
+    alt: Очередь загрузки Parabolic для Linux (светлая тема)
+    color: light
+  3-parabolic-parameters-linux-light.png:
+    alt: Параметры загрузки Parabolic для Linux (светлая тема)
+    color: light
+  4-parabolic-downloading-windows-dark.png:
+    alt: Очередь загрузки Parabolic для Windows (тёмная тема)
+    color: dark
+  5-parabolic-parameters-windows-dark.png:
+    alt: Параметры загрузки Parabolic для Windows (тёмная тема)
+    color: dark
+  6-parabolic-downloading-linux-dark.png:
+    alt: Очередь загрузки Parabolic для Linux (тёмная тема)
+    color: dark
+  7-parabolic-parameters-linux-dark.png:
+    alt: Параметры загрузки Parabolic для Linux (тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 Windows:
+      1 Установщик: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicSetup.exe
+      2 Портативно: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicPortable.zip
+    2 Linux:
+      1 Flathub: https://flathub.org/apps/details/org.nickvision.tubeconverter
+      2 Snap Store: https://snapcraft.io/tube-converter

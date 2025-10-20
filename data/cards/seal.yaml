@@ -1,0 +1,57 @@
+title: Seal
+icon: seal.png
+description: >
+  Загрузчик медиа с открытым исходным кодом для Android с дизайном Material 3.
+  Использует yt-dlp, поддерживаются многие его функции.
+issues: https://github.com/JunkFood02/Seal/issues
+repository: https://github.com/JunkFood02/Seal
+license: gnu-gpl-3.0
+donate: https://github.com/sponsors/JunkFood02
+screenshots:
+  0-seal-before-download-light.png:
+    alt: >
+      Seal перед загрузкой предлагает выбрать тип, начальные параметры
+      и дополнительные загрузки (светлая тема)
+    color: light
+  1-seal-select-format-light.png:
+    alt: >
+      Seal предлагает выбрать качество и формат загружаемого файла
+      (светлая тема)
+    color: light
+  2-seal-downloading-light.png:
+    alt: >
+      Seal загружает видео. Видна шкала прогресса, размер, длительность,
+      название и автор. Можно вставить ссылку. (Светлая тема)
+    color: light
+  3-seal-downloads-light.png:
+    alt: >
+      Список загруженных файлов в Seal. Показывается размер, можно поделиться
+      ссылкой или файлом. Можно отфильтровать только видео или аудио.
+      (Светлая тема)
+    color: light
+  4-seal-before-download-dark.png:
+    alt: >
+      Seal перед загрузкой предлагает выбрать тип, начальные параметры
+      и дополнительные загрузки (Тёмная тема)
+    color: dark
+  5-seal-select-format-dark.png:
+    alt: >
+      Seal предлагает выбрать качество и формат загружаемого файла
+      (Тёмная тема)
+    color: dark
+  6-seal-downloading-dark.png:
+    alt: >
+      Seal загружает видео. Видна шкала прогресса, размер, длительность,
+      название и автор. Можно вставить ссылку. (Тёмная тема)
+    color: dark
+  7-seal-downloads-dark.png:
+    alt: >
+      Список загруженных файлов в Seal. Показывается размер, можно поделиться
+      ссылкой или файлом. Можно отфильтровать только видео или аудио.
+      (Тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 GitHub: https://github.com/JunkFood02/Seal/releases/latest
+    2 F-Droid: https://f-droid.org/packages/com.junkfood.seal
