@@ -1,0 +1,40 @@
+title: YTDLnis
+icon: ytdlnis.png
+description: >
+  Загрузчик медиа с открытым исходным кодом для Android с дизайном Material You.
+  Использует yt-dlp, поддерживаются многие его функции. Можно использовать
+  консольный интерфейс yt-dlp и задавать свои шаблоны команд.
+homepage: https://ytdlnis.org
+help: https://ytdlnis.org/docs/faq/general
+docs: https://ytdlnis.org/docs/guides/getting-started
+issues: https://github.com/deniscerri/ytdlnis/issues
+repository: https://github.com/deniscerri/ytdlnis
+license: gnu-gpl-3.0
+screenshots:
+  0-ytdlnis-download-light.png:
+    alt: >
+      Скачивание медиа в YTDLnis (светлая тема). Нужно вставить ссылку, затем
+      появится окно выбора параметров: заголовок, автор, качество, миниатюра,
+      главы, субтитры, путь сохранения.
+    color: light
+  1-ytdlnis-downloads-light.png:
+    alt: >
+      Список загруженных медиа в YTDLnis (светлая тема). Отображаются обложки,
+      длительность, дата скачивания. Можно посмотреть подробную информацию.
+    color: light
+  2-ytdlnis-download-dark.png:
+    alt: >
+      Скачивание медиа в YTDLnis (тёмная тема). Нужно вставить ссылку, затем
+      появится окно выбора параметров: заголовок, автор, качество, миниатюра,
+      главы, субтитры, путь сохранения.
+    color: dark
+  3-ytdlnis-downloads-dark.png:
+    alt: >
+      Список загруженных медиа в YTDLnis (тёмная тема). Отображаются обложки,
+      длительность, дата скачивания. Можно посмотреть подробную информацию.
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 GitHub: https://github.com/deniscerri/ytdlnis/releases/latest
+    2 F-Droid (IzzyOnDroid): https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl

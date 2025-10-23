@@ -1,6 +1,7 @@
 features:
   - cobalt
   - seal
+  - ytdlnis
   - parabolic
   - yt-dlp
 articles:
