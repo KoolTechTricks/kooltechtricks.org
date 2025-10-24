@@ -1,0 +1,22 @@
+title: Stacher
+icon: stacher.png
+description: >
+  Загрузчик медиа для Windows, macOS и Linux с простым интерфейсом и современным
+  дизайном. С закрытым исходным кодом, некоторые функции требуют оплаты.
+  Использует yt-dlp для скачивания.
+homepage: https://stacher.io
+docs: https://old.reddit.com/r/StacherIO/wiki/index
+issues: https://old.reddit.com/r/StacherIO
+license: proprietary
+donate: https://www.patreon.com/stacher
+screenshots:
+  0-stacher-light.png:
+    alt: Stacher (светлая тема)
+    color: light
+  1-stacher-dark.png:
+    alt: Stacher (тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://stacher.io

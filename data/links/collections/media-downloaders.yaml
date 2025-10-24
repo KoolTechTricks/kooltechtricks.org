@@ -3,6 +3,7 @@ features:
   - seal
   - ytdlnis
   - parabolic
+  - stacher
   - yt-dlp
 articles:
   - title: Приложения, основанные на yt-dlp
