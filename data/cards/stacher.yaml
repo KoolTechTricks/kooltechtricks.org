@@ -10,11 +10,23 @@ issues: https://old.reddit.com/r/StacherIO
 license: proprietary
 donate: https://www.patreon.com/stacher
 screenshots:
-  0-stacher-light.png:
-    alt: Stacher (светлая тема)
+  0-stacher-downloading-light.png:
+    alt: Скачивание медиа в Stacher (светлая тема)
     color: light
-  1-stacher-dark.png:
-    alt: Stacher (тёмная тема)
+  1-stacher-subscriptions-light.png:
+    alt: Подписки в Stacher (светлая тема)
+    color: light
+  2-stacher-library-light.png:
+    alt: Библиотека в Stacher (светлая тема)
+    color: light
+  3-stacher-downloading-dark.png:
+    alt: Скачивание медиа в Stacher (тёмная тема)
+    color: dark
+  4-stacher-subscriptions-dark.png:
+    alt: Подписки в Stacher (тёмная тема)
+    color: dark
+  5-stacher-library-dark.png:
+    alt: Библиотека в Stacher (тёмная тема)
     color: dark
 get:
   title: Скачать
