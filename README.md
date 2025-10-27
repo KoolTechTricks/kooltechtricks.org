@@ -43,35 +43,42 @@ npx -y pagefind --site public  # собрать индекс страниц Page
 
 ## Лицензия
 
-Всё содержимое сайта и его публичные исходные файлы доступны по лицензии
-[Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0)
-([Creative Commons «С указанием авторства — С сохранением условий»](https://creativecommons.org/licenses/by-sa/4.0/deed.ru)).
+### Оригинальное содержимое
+
+Всё оригинальное содержимое сайта и его публичные исходные файлы доступны по
+лицензии [Creative Commons Attribution Share Alike 4.0 International]
+([Creative Commons «С указанием авторства — С сохранением условий»]),
+если не указано иное.
 
 [Брендинг Kool Tech Tricks] доступен по лицензии [CC BY-NC-SA 4.0].
 
-Все права на логотипы в директории `/content/assets/logos` принадлежат их
-владельцам. Они используются в образовательных целях при упоминании
-соответствующих сервисов или приложений.
+### Сторонние ресурсы
 
-Поиск по сайту основан на [Pagefind](https://github.com/Pagefind/pagefind).
-Лицензия: MIT.
+Все сторонние ресурсы используются в демонстрационных целях, их права
+принадлежат соответствующим владельцам. Некоторые ресурсы могли быть слегка
+модифицированы, чтобы соответствовать формату публикации на сайте.
 
-[Material Icons] от Google, лицензия [Apache v2.0]
+Директория `/content/assets/logos` содержит значки и логотипы.
 
+Снимки экрана содержатся в директории `/content/assets/screenshots`, а также в
+папках страниц. Они приводятся в демонстрационных целях.
+
+Изображения из директории `/content/assets/hero` могут собраны из снимков
+экрана.
+
+Директория `/content/assets/avatars` содержит аватары людей, внёсших вклад в
+сайт.
+
+### Технологии
+
+Поиск по сайту основан на [Pagefind]. Лицензия: MIT.
+
+[Material Icons] от Google, лицензия [Apache v2.0].
+
+[Creative Commons Attribution Share Alike 4.0 International]: https://creativecommons.org/licenses/by-sa/4.0
+[Creative Commons «С указанием авторства — С сохранением условий»]: https://creativecommons.org/licenses/by-sa/4.0/deed.ru
+[Pagefind]: https://github.com/Pagefind/pagefind
 [Брендинг Kool Tech Tricks]: https://docs.kooltechtricks.org/about/branding
 [CC BY-NC-SA 4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
 [Material Icons]: https://fonts.google.com/icons
 [Apache v2.0]: https://www.apache.org/licenses/LICENSE-2.0.html
-
-Некоторые изображения в этом репозитории были взяты из сторонних источников. К
-ним не применяется лицензия этого репозитория:
-
-- [rss_nextcloud.jpg](/content/media/rss_nextcloud.jpg) — взято из
-[источника](https://github.com/nextcloud/news/blob/master/screenshots/1.png)
-- [scrcpy.jpg](/content/media/scrcpy.jpg) — взято из
-[источника](https://github.com/Genymobile/scrcpy)
-- [syncthing.jpg](/content/media/syncthing.jpg) — взято из
-[источника](https://syncthing.net)
-
-Этот список может не содержать все файлы, взятые из сторонних источников. Не
-гарантировано, что ссылки рабочие и актуальные.
