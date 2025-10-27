@@ -1,0 +1,27 @@
+title: File Converter
+description: >
+  Конвертер файлов с открытым исходным кодом для Windows. Операции производятся
+  через контекстное меню Проводника. Доступно множество пресетов, и можно
+  создавать свои.
+homepage: https://file-converter.io
+docs: https://github.com/Tichau/FileConverter/wiki
+issues: https://github.com/Tichau/FileConverter/issues
+repository: https://github.com/Tichau/FileConverter
+license: gnu-gpl-3.0
+donate: https://file-converter.io/#donate
+screenshots:
+  0-file-converter-explorer-light.png:
+    alt: Опции конвертации файлов в проводнике (светлая тема)
+    color: light
+  1-file-converter-explorer-dark.png:
+    alt: Опции конвертации файлов в проводнике (тёмная тема)
+    color: dark
+  2-file-converter-queue.png:
+    alt: Очередь
+  3-file-converter-presets.png:
+    alt: Пресеты
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://file-converter.io/download.html
+    2 GitHub: https://github.com/Tichau/FileConverter/releases/latest

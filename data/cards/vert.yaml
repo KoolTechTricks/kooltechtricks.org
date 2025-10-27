@@ -1,0 +1,28 @@
+title: VERT
+description: >
+  Конвертер файлов в вашем браузере без рекламы и ограничений. Все файлы кроме
+  видео обрабатываются на вашем устройстве и не отправляются на сторонние
+  серверы.
+homepage: https://vert.sh
+help: https://github.com/VERT-sh/VERT/blob/main/docs/FAQ.md
+issues: https://github.com/VERT-sh/VERT/issues
+repository: https://github.com/VERT-sh/VERT
+license: gnu-agpl-3.0
+donate: https://vert.sh/about
+screenshots:
+  0-vert-desktop-light.png:
+    alt: Конвертирование файлов в VERT (компьютер, светлая тема)
+    color: light
+  1-vert-mobile-light.png:
+    alt: Конвертирование файлов в VERT (телефон, светлая тема)
+    color: light
+  2-vert-desktop-dark.png:
+    alt: Конвертирование файлов в VERT (компьютер, тёмная тема)
+    color: dark
+  3-vert-mobile-dark.png:
+    alt: Конвертирование файлов в VERT (телефон, тёмная тема)
+    color: dark
+get:
+  title: Открыть
+  links:
+    1 Официальный сайт: https://vert.sh

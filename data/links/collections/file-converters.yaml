@@ -1,0 +1,4 @@
+features:
+  - vert
+  - file-converter
+  - ffmpeg
