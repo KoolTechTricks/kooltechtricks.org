@@ -1,16 +1,28 @@
 icon: mastodon
 features:
-  - elk
-  - fedilab
-  - mastodon-android
-  - mastodon-web
-  - moshidon
-  - phanpy
-  - pl-fe
-  - tokodon
-  - toot
-  - tuba
-  - tusky
+  - id: elk
+  - title: Fedilab
+    link: https://fedilab.app
+    icon: fedilab.svg
+  - title: Mastodon для Android
+    link: https://github.com/mastodon/mastodon-android#readme
+    icon: mastodon.svg
+  - title: Веб-интерфейс Mastodon
+    link: https://github.com/mastodon/mastodon#readme
+    icon: mastodon.svg
+  - id: moshidon
+  - id: phanpy
+  - title: pl-fe
+    link: https://pl.mkljczk.pl
+    icon: pl-fe.png
+  - title: Tokodon
+    link: https://apps.kde.org/tokodon
+    icon: tokodon.svg
+  - title: toot
+    link: https://toot.bezdomni.net
+    icon: toot.png
+  - id: tuba
+  - id: tusky
 seeAlso:
   - title: Подборка приложений для Mastodon
     link: /collections/mastodon-apps

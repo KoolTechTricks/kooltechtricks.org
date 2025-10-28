@@ -1,20 +1,38 @@
 icon: searxng
 features:
-  - 4get
-  - bing
-  - brave-search
-  - duckduckgo
-  - ecosia
-  - google
-  - kagi
-  - mojeek
-  - mullvad-leta
-  - qwant
-  - searxng
-  - startpage
-  - swisscows
-  - waterfox-private-search
-  - yandex
+  - title: 4get
+    link: https://4get.ca
+    icon: 4get.png
+  - title: Bing
+    link: https://bing.com
+    icon: bing.svg
+  - id: brave-search
+  - id: duckduckgo
+  - id: ecosia
+  - title: Google
+    link: https://google.com
+    icon: google.svg
+  - id: kagi
+  - title: Mojeek
+    link: https://mojeek.com
+    icon: mojeek.svg
+  - title: Mullvad Leta
+    link: https://leta.mullvad.net
+    icon: mullvad-leta.svg
+  - title: Qwant
+    link: https://qwant.com
+    icon: qwant.svg
+  - id: searxng
+  - id: startpage
+  - title: Swisscows
+    link: https://swisscows.com
+    icon: swisscows.svg
+  - title: Waterfox Private Search
+    link: https://search.waterfox.net
+    icon: waterfox-private-search.svg
+  - title: Яндекс
+    link: https://ya.ru
+    icon: yandex.svg
 seeAlso:
   - title: Подборка поисковых систем
     link: /collections/search-engines
