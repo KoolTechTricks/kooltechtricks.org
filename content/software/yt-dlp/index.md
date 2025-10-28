@@ -1,7 +1,7 @@
 ---
 title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
-lastmod: 2025-10-19T16:41:00Z
+lastmod: 2025-10-28T08:21:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 image: /assets/screenshots/yt-dlp/yt-dlp.png
@@ -259,6 +259,17 @@ mpv служит основой для многих медиапроигрыва
 [IINA]: https://iina.io
 [mpv-android]: https://github.com/mpv-android/mpv-android
 [Outplayer]: https://apps.apple.com/app/id1449923287
+
+### ytdlp.online
+
+Сайт [ytdlp.online](https://ytdlp.online) предоставляет консольный интерфейс
+yt-dlp в браузере. Скачивание производится на сервере.
+
+> [!caution]
+> Все загруженные файлы попадают в публичную директорию, содержимое которой
+доступно любому желающему, в том числе для архивации. Содержимое директории
+удаляется каждый час. Настоятельно не рекомендуется скачивать
+приватные/чувствительные файлы через этот сайт.
 
 ## Исправление проблем
 
