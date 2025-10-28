@@ -1,11 +1,11 @@
 title: FFmpeg
 description: >
-  Мощная кроссплатформенная библиотека и консольная программа для обработки и
+  Мощная кроссплатформенная консольная программа и библиотека для обработки и
   конвертации мультимедиа.
 homepage: https://ffmpeg.org
 kttpage: /software/ffmpeg
 wikipedia: https://en.wikipedia.org/wiki/FFmpeg
-docs: https://ffmpeg.org/documentation.html
+docs: https://ffmpeg.org/ffmpeg.html
 issues: https://ffmpeg.org/bugreports.html
 repository: https://git.ffmpeg.org/ffmpeg.git
 license: gnu-lgpl-2.1-or-later
@@ -31,3 +31,4 @@ get:
       2 Готовые сборки: https://evermeet.cx/ffmpeg
     4 Android (Termux): >
       `pkg install ffmpeg`
+    5 Браузер (ffmpeg.wasm): https://ffmpegwasm.netlify.app/playground

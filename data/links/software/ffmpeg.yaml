@@ -1,3 +1,7 @@
+seeAlso:
+  - title: Конвертеры файлов
+    link: /collections/file-converters
+    description: Более простые программы, использующие FFmpeg в качестве основы.
 articles:
   - title: Документация
     link: https://ffmpeg.org/ffmpeg.html
