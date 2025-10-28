@@ -11,6 +11,9 @@ issues: https://github.com/yt-dlp/yt-dlp/issues
 repository: https://github.com/yt-dlp/yt-dlp
 license: unlicense
 donate: https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
+screenshots:
+  yt-dlp.png:
+    alt: Скачивание видео с помощью yt-dlp в терминале
 get:
   title: Скачать
   links:
@@ -29,6 +32,3 @@ get:
     4 Android:
       1 Termux: >
         `pkg install python-yt-dlp`
-screenshots:
-  yt-dlp.png:
-    alt: Скачивание видео с помощью yt-dlp в терминале
