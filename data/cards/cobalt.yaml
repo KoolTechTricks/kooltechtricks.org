@@ -1,8 +1,8 @@
 title: cobalt
 icon: cobalt.png
 description: >
-  Загрузчик медиа онлайн, который не раздражает. Без рекламы, подписок и прочего
-  мусора. С открытым исходным кодом, можно запустить на своём сервере.
+  Загрузчик медиа онлайн, который не раздражает. Без рекламы, платных подписок
+  и прочего мусора. С открытым исходным кодом, можно запустить на своём сервере.
 homepage: https://cobalt.tools
 docs: https://github.com/imputnet/cobalt/tree/main/docs
 issues: https://github.com/imputnet/cobalt/issues
