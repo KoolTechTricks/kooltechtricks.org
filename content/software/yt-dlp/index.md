@@ -1,7 +1,7 @@
 ---
 title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
-lastmod: 2025-10-28T15:29:00Z
+lastmod: 2025-11-11T19:24:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 image: /assets/screenshots/yt-dlp/yt-dlp.png
@@ -142,6 +142,9 @@ yt-dlp --skip-download --write-thumbnail ССЫЛКИ
 
 # Сохранить метаданные в JSON (может содержать личную информацию)
 yt-dlp --write-info-json ССЫЛКИ
+
+# Сохранить комментарии в JSON-файл метаданных
+yt-dlp --write-comments ССЫЛКИ
 
 # Разбить видео по эпизодам
 yt-dlp --split-chapters ССЫЛКИ
