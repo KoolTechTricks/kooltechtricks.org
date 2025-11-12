@@ -1,7 +1,7 @@
 ---
 title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
-lastmod: 2025-11-11T19:24:00Z
+lastmod: 2025-11-12T18:03:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 image: /assets/screenshots/yt-dlp/yt-dlp.png
@@ -31,6 +31,11 @@ imageAlt: Скачивание видео с помощью yt-dlp в терми
 
 ## Установка
 
+> [!tip]
+> Если у вас возникнут трудности с установкой и использованием консольных
+программ, лучше попробуйте
+[любые сторонние графические программы](/collections/media-downloaders).
+
 yt-dlp официально распространяется через [GitHub]. Скачайте исполняемый файл
 для [Windows], [Linux] или [macOS]. Обновляется командой `yt-dlp -U`.
 Для Linux потребуется установить Python.
@@ -46,19 +51,37 @@ yt-dlp официально распространяется через [GitHub]
 - **macOS (Homebrew):** `brew install yt-dlp`
 - **Android (Termux):** `pkg install python-yt-dlp`
 
-Смотрите также
-[подробные инструкции](https://github.com/yt-dlp/yt-dlp/wiki/Installation).
+[Подробная инструкция](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
 
-Дополнительно для постобработки может потребоваться [FFmpeg](/software/ffmpeg).
-Путь к исполняемому файлу можно указать параметром `--ffmpeg-location`.
+### Среда исполнения JavaScript
 
-Если вам неудобно пользоваться консольным интерфейсом, установите любое
-[стороннее приложение](/collections/media-downloaders).
+Чтобы скачивать видео из YouTube, [потребуется](https://opennet.ru/64232)
+установить одну из сред исполнения JavaScript: [Deno] (рекомендовано),
+[Node.js], [Bun], [QuickJS] / [QuickJS-ng].
 
-> [!note]
-> [Скоро](https://github.com/yt-dlp/yt-dlp/issues/14404) для скачивания видео из
-YouTube потребуется установить [Deno](https://deno.com) или другую совместимую
-среду исполнения JavaScript.
+Deno используется по умолчанию. Чтобы переопределить путь к исполняемому файлу,
+добавьте параметр `--js-runtimes deno:/путь/к/deno`. Если вы используете другую
+среду JavaScript (например, Node.js), то активируйте её параметром
+`--js-runtimes node` (для Node.js) или укажите путь к файлу (аналогично примеру
+с Deno).
+
+Если вы устанавливали yt-dlp через сторонний пакетный менеджер, то может
+потребоваться компонент [yt-dlp-ejs].
+
+[Подробная инструкция](https://github.com/yt-dlp/yt-dlp/wiki/EJS)
+
+[Deno]: https://docs.deno.com/runtime/getting_started/installation
+[Node.js]: https://nodejs.org/en/download
+[Bun]: https://bun.com/docs/installation
+[QuickJS]: https://bellard.org/quickjs
+[QuickJS-ng]: https://quickjs-ng.github.io/quickjs/installation
+[yt-dlp-ejs]: https://github.com/yt-dlp/ejs
+
+### FFmpeg
+
+Дополнительно для постобработки скачиваемого файла может потребоваться
+установить [FFmpeg](/software/ffmpeg). Путь к исполняемому файлу можно указать
+параметром `--ffmpeg-location`.
 
 ## Использование
 
