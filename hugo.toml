@@ -78,7 +78,7 @@ contributing = 'https://docs.kooltechtricks.org/contributing'
 
 [params.plausible]
 instance = "plausible-analytics.kooltechtricks.org"
-domain = "kooltechtricks.org"
+siteId = "2YBG6YCuy2ZAIeUbxd1d2"
 
 ###############
 ## Fediverse ##
