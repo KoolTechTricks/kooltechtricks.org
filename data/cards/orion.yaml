@@ -1,25 +1,29 @@
 title: Orion
 icon: orion.png
 description: >
-  Браузер, ориентированный на пользователя, со встроенной блокировкой
-  отслеживания и нулевой телеметрией. Основан на WebKit, но поддерживает
-  расширения для Chromium и Firefox. Разработка финансируется пользователями.
-homepage: https://kagi.com/orion
+  Браузер на основе WebKit с расширениями Chromium и Firefox. Ориентирован на
+  пользователя, со встроенной блокировкой отслеживания и нулевой телеметрией.
+  Разработка финансируется пользователями.
+homepage: https://orionbrowser.com
 wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)#Orion_Browser
 help: https://help.kagi.com/orion
 issues: https://orionfeedback.org
 repository: https://github.com/OrionBrowser
 license: proprietary
-donate: https://kagi.com/orion/orionplus.html
+donate: https://kagi.com/onboarding?p=orion_plan
 screenshots:
   0-orion-macos-light.png:
-    alt: Orion для macOS (светлая тема) (взято из официального пресс-кита)
+    alt: Orion для macOS (светлая тема)
     type: desktop
-    #color: light
+    color: light
   1-orion-ios-light.png:
     alt: Orion для iOS (светлая тема) (взято из официального пресс-кита)
     type: mobile
     #color: light
+  2-orion-macos-dark.png:
+    alt: Orion для macOS (тёмная тема)
+    type: desktop
+    color: dark
 get:
   title: Скачать
   links:
