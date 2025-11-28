@@ -16,9 +16,6 @@ features:
   - title: Mojeek
     link: https://mojeek.com
     icon: mojeek.svg
-  - title: Mullvad Leta
-    link: https://leta.mullvad.net
-    icon: mullvad-leta.svg
   - title: Qwant
     link: https://qwant.com
     icon: qwant.svg
