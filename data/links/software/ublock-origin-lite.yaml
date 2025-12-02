@@ -1,0 +1,9 @@
+seeAlso:
+  - title: Документация
+    link: https://github.com/uBlockOrigin/uBOL-home/wiki
+  - title: uBlock Origin
+    link: /software/ublock-origin
+    description: Полная версия для браузеров, совместимых с Manifest V2
+community:
+  - type: reddit
+    data: uBlockOrigin

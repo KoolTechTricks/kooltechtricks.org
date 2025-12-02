@@ -1,6 +1,9 @@
 seeAlso:
-  - title: Документация uBlock Origin
+  - title: Документация
     link: https://github.com/gorhill/uBlock/wiki
+  - title: uBlock Origin Lite
+    link: /software/ublock-origin-lite
+    description: Облегчённая версия, основанная на Manifest V3
 community:
   - type: reddit
     data: uBlockOrigin

@@ -1,0 +1,28 @@
+title: uBlock Origin Lite
+description: >
+  Облегчённая версия, основанная на Manifest V3, лучшего браузерного расширения
+  для фильтрации (блокировки) содержимого веб-страниц, включая раздражающие
+  элементы, скрипты отслеживания и рекламу.
+kttpage: /software/ublock-origin-lite
+wikipedia: https://en.wikipedia.org/wiki/UBlock_Origin#uBlock_Origin_Lite
+docs: https://github.com/uBlockOrigin/uBOL-home/wiki
+issues: https://github.com/uBlockOrigin/uBOL-home/issues
+repository: https://github.com/uBlockOrigin/uBOL-home
+license: gnu-gpl-3.0
+screenshots:
+  0-ublock-origin-lite-light.png:
+    alt: >
+      Меню uBlock Origin Lite (светлая тема). Переключатель режима фильтрации,
+      инструменты для удаления элемента и создания своего фильтра.
+    color: light
+  1-ublock-origin-lite-dark.png:
+    alt: >
+      Меню uBlock Origin Lite (тёмная тема). Переключатель режима фильтрации,
+      инструменты для удаления элемента и создания своего фильтра.
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 Chromium: https://chromewebstore.google.com/detail/ddkjiahejlhfcafbddmgiahcphecmpfh
+    2 Safari: https://apps.apple.com/app/id6745342698
+    3 Firefox: https://github.com/uBlockOrigin/uBOL-home/releases/latest
