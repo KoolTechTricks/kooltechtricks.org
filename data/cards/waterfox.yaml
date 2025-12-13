@@ -2,9 +2,9 @@ title: Waterfox
 description: >
   Браузер, ориентированный на пользователя.
   Основан на Firefox ESR (старая, но поддерживаемая версия).
-homepage: https://waterfox.net
+homepage: https://waterfox.com
 wikipedia: https://en.wikipedia.org/wiki/Waterfox
-docs: https://waterfox.net/docs
+help: https://www.waterfox.com/support/waterfox-help
 issues: https://github.com/BrowserWorks/Waterfox/issues
 repository: https://github.com/BrowserWorks/Waterfox
 license: mpl-2.0
@@ -29,6 +29,6 @@ screenshots:
 get:
   title: Скачать
   links:
-    1 Официальный сайт: https://waterfox.net/download
+    1 Официальный сайт: https://waterfox.com/download
     2 Flathub (Linux): https://flathub.org/apps/net.waterfox.waterfox
     3 Google Play (Android): https://play.google.com/store/apps/details?id=net.waterfox.android.release
