@@ -58,7 +58,7 @@ iOS.
 2. Скачайте пакет с [официального сайта] и распакуйте архив.
 
 [Java]: https://java.com/ru/download/help/download_options.xml
-[официального сайта]: https://languagetool.org/download/LanguageTool-stable.zip
+[официального сайта]: https://internal1.languagetool.org/snapshots/LanguageTool-latest-snapshot.zip
 
 ## fastText
 
