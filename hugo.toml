@@ -168,10 +168,10 @@ url = 'https://docs.kooltechtricks.org'
 ## Badges in footer ##
 ######################
 
-[[params.badges]]
-id = 'codeberg'
-url = 'https://codeberg.page'
-title = 'Hosted by Codeberg Pages'
+# [[params.badges]]
+# id = 'codeberg'
+# url = 'https://codeberg.page'
+# title = 'Hosted by Codeberg Pages'
 
 [[params.badges]]
 id = 'creativecommons'
