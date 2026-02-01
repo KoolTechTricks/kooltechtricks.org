@@ -1,7 +1,7 @@
 ---
 title: Браузерные движки
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2026-01-29T15:18:00Z
+lastmod: 2026-02-01T11:48:00Z
 contributors: [kttrickster]
 ---
 
@@ -139,8 +139,8 @@ AppStore. Это вынуждает пользоваться только одо
 забирает комиссию в 30% у разработчиков.
 
 Единственный способ избежать ограничений AppStore — пользоваться
-веб-приложениями. Однако все браузеры для iOS основаны на WebKit. WebKit
-развивается недостаточно быстро, и поддерживает не все современные функции.
+веб-приложениями. Однако все браузеры для iOS основаны на WebKit.
+[WebKit развивается недостаточно быстро и поддерживает не все современные функции](https://webventures.rejh.nl/blog/2024/history-of-safari-show-stoppers).
 Предполагается, что Apple намеренно не развивает WebKit, чтобы больше людей
 пользовались приложениями из AppStore, соблюдающими правила и дающими комиссию.
 
@@ -150,10 +150,6 @@ AppStore. Это вынуждает пользоваться только одо
 [жёсткими требованиями](https://developer.apple.com/support/alternative-browser-engines)
 — разработчикам пришлось бы поддерживать две версии браузера: WebKit для всего
 мира, и не WebKit для Евросоюза.
-
-Новые законы в [Японии](https://www.macrumors.com/2025/08/07/japan-non-webkit-browsers-on-iphone)
-и, возможно, Великобритании, могут заставить Apple разрешить публиковать
-браузеры не на основе WebKit в AppStore с декабря 2025 года.
 
 Apple также [получает](https://arstechnica.com/tech-policy/2025/03/apple-barred-from-google-antitrust-trial-putting-20-billion-search-deal-on-the-line)
 прибыль от Google за поисковую систему по умолчанию в Safari.
