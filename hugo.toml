@@ -168,10 +168,11 @@ url = 'https://docs.kooltechtricks.org'
 ## Badges in footer ##
 ######################
 
-# [[params.badges]]
-# id = 'codeberg'
-# url = 'https://codeberg.page'
-# title = 'Hosted by Codeberg Pages'
+[[params.badges]]
+id = 'codeberg'
+url = 'https://codeberg.page'
+title = 'Hosted by Codeberg Pages'
+mirror = 'codeberg'
 
 [[params.badges]]
 id = 'creativecommons'
@@ -182,3 +183,10 @@ title = 'CC BY-SA 4.0'
 id = 'hugo'
 url = 'https://gohugo.io'
 title = 'Made with Hugo'
+
+#############
+## Mirrors ##
+#############
+
+[params.mirrors.codeberg]
+message = 'Это зеркало сайта <a href="https://kooltechtricks.org" target=_blank>kooltechtricks.org</a>, размещённое на <a href="https://codeberg.page" target=_blank>Codeberg Pages</a>.'
