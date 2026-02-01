@@ -169,18 +169,24 @@ url = 'https://docs.kooltechtricks.org'
 ######################
 
 [[params.badges]]
-id = 'codeberg'
+image = 'codeberg.svg'
 url = 'https://codeberg.page'
 title = 'Hosted by Codeberg Pages'
 mirror = 'codeberg'
 
 [[params.badges]]
-id = 'creativecommons'
+image = 'neocities.png'
+url = 'https://neocities.org'
+title = 'Hosted by Neocities'
+mirror = 'neocities'
+
+[[params.badges]]
+image = 'creativecommons.svg'
 url = 'https://creativecommons.org/licenses/by-sa/4.0/deed.ru'
 title = 'CC BY-SA 4.0'
 
 [[params.badges]]
-id = 'hugo'
+image = 'hugo.svg'
 url = 'https://gohugo.io'
 title = 'Made with Hugo'
 
@@ -190,3 +196,6 @@ title = 'Made with Hugo'
 
 [params.mirrors.codeberg]
 message = 'Это зеркало сайта <a href="https://kooltechtricks.org" target=_blank>kooltechtricks.org</a>, размещённое на <a href="https://codeberg.page" target=_blank>Codeberg Pages</a>.'
+
+[params.mirrors.neocities]
+message = 'Это зеркало сайта <a href="https://kooltechtricks.org" target=_blank>kooltechtricks.org</a>, размещённое на <a href="https://neocities.org" target=_blank>Neocities</a>.'
