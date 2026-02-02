@@ -1,8 +1,8 @@
 ## Уникальный идентификатор. Новое объявление - прибавить на 1
-id: 0
+id: 1
 
-## Дата публикации (необязательно)
-date: 2025-08-27
+## Дата публикации (ГГГГ-ММ-ДД) (необязательно)
+date: 2026-02-02
 
 ## Цвет (необязательно)
 ## caution (красный), important (фиолетовый), note (синий), tip (зелёный), warning (оранжевый)
@@ -13,4 +13,4 @@ hide: false
 
 ## Текст объявления (можно использовать Markdown)
 content: >
-  [Два года сайта Kool Tech Tricks и новая структура](https://blog.kooltechtricks.org/2025/08/two-years-anniversary-and-restructure)
+  [Зеркала сайта](https://docs.kooltechtricks.org/faq/mirrors)

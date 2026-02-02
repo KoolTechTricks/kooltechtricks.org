@@ -194,8 +194,13 @@ title = 'Made with Hugo'
 ## Mirrors ##
 #############
 
+[params.mirrors]
+learnMore = "https://docs.kooltechtricks.org/faq/mirrors"
+
 [params.mirrors.codeberg]
-message = 'Это зеркало сайта <a href="https://kooltechtricks.org" target=_blank>kooltechtricks.org</a>, размещённое на <a href="https://codeberg.page" target=_blank>Codeberg Pages</a>.'
+title = "Codeberg Pages"
+url = "https://codeberg.page"
 
 [params.mirrors.neocities]
-message = 'Это зеркало сайта <a href="https://kooltechtricks.org" target=_blank>kooltechtricks.org</a>, размещённое на <a href="https://neocities.org" target=_blank>Neocities</a>.'
+title = "Neocities"
+url = "https://neocities.org"
