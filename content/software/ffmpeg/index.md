@@ -1,7 +1,7 @@
 ---
 title: FFmpeg
 publishDate: 2023-09-11T17:33:00Z
-lastmod: 2025-10-28T15:29:00Z
+lastmod: 2026-02-03T18:28:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 ---
@@ -215,3 +215,19 @@ ffmpeg -i ввод.mp4 -vf "fps=15,scale=512:-1:flags=lanczos,split[s0][s1];[s0]
 дополнительно воспользоваться инструментом [Gifsicle].
 
 [Gifsicle]: https://www.lcdf.org/gifsicle
+
+## Сторонние интеграции
+
+### LosslessCut
+
+[LosslessCut] выполняет простые операции редактирования видео и аудио без
+перекодирования быстро и не теряя качество. За основу взят FFmpeg, и можно
+посмотреть список применённых команд. Также поддерживается интерфейс через
+[консоль](https://github.com/mifi/lossless-cut/blob/master/docs/cli.md) и
+[HTTP](https://github.com/mifi/lossless-cut/blob/master/docs/api.md).
+
+[Подробнее](https://posts.kooltechtricks.org/@kooltechtricks/statuses/01KGJB17001XMKZREWYMM7HA7Z)
+
+[LosslessCut]: https://mifi.no/losslesscut
+
+![LosslessCut](losslesscut.webp)
