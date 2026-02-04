@@ -16,6 +16,9 @@ features:
   - title: Mojeek
     link: https://mojeek.com
     icon: mojeek.svg
+  - title: nilch
+    link: https://nilch.org
+    icon: nilch.png
   - title: Qwant
     link: https://qwant.com
     icon: qwant.svg
