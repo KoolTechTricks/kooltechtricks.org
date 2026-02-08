@@ -2,7 +2,7 @@
 title: Загрузчики видео и аудио
 fancyTitle: Программы для скачивания видео и аудио из интернета
 publishDate: 2025-10-19T21:17:00Z
-lastmod: 2025-10-25T16:25:00Z
+lastmod: 2026-02-08T10:25:00Z
 contributors: [kttrickster]
 image: /assets/hero/media-downloaders.webp
 imageAlt: Скриншоты разных приложений для скачивания видео и аудио
@@ -57,6 +57,11 @@ Plausible, уважающая вашу конфиденциальность, н�
 ## Parabolic
 
 {{< card parabolic >}}
+
+Доступно
+[расширение](https://github.com/NickvisionApps/Parabolic/tree/main/extension#installation)
+для [Firefox](https://addons.mozilla.org/firefox/addon/parabolic) и Chromium
+(локально), которое позволяет быстро открывать ссылки в Parabolic.
 
 ## Stacher
 
