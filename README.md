@@ -28,18 +28,28 @@
 **Зависимости:**
 - [Git](https://git-scm.com/downloads)
 - [Hugo](https://gohugo.io/installation) v0.146.0 или выше
-- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm),
-чтобы собрать индекс страниц [Pagefind](https://pagefind.app)
+- [Pagefind](https://pagefind.app) / [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+(опционально, для индексации страниц)
+
+*Для пользователей Nix: используйте `nix-shell` для включения всех зависимостей.*
 
 ```sh
-git clone --recursive https://github.com/KoolTechTricks/kooltechtricks.org # --recursive чтобы клонировать темы
+# Клонировать содержимое и шаблоны (themes):
+git clone --recursive https://github.com/KoolTechTricks/kooltechtricks.org
+# Если нет доступа к шаблонам:
+git clone https://github.com/KoolTechTricks/kooltechtricks.org
+
 cd kooltechtricks.org
 hugo server -D -O  # -O чтобы открыть в браузере
-npx -y pagefind --site public  # собрать индекс страниц Pagefind (необязательно)
+
+# Индекс страниц (опционально)
+npx -y pagefind --site public
+# Если не через NPM:
+pagefind --site public
 ```
 
-В репозитории хранится скрипт сборки: [build.sh](/build.sh). При запуске он
-собирает сайт Hugo и индекс Pagefind, делает коммит и публикует сайт.
+Сайт собирается на сервере и публикуется автоматически, когда в этом репозитории
+появляются новые коммиты.
 
 ## Лицензия
 
