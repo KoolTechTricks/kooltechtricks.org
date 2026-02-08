@@ -18,6 +18,9 @@ features:
   - title: Tokodon
     link: https://apps.kde.org/tokodon
     icon: tokodon.svg
+  - title: tooi
+    link: https://codeberg.org/ihabunek/tooi
+    icon: tooi.png
   - title: toot
     link: https://toot.bezdomni.net
     icon: toot.png

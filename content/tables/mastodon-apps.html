@@ -1,7 +1,7 @@
 ---
 title: Таблица сравнения приложений для Mastodon
 publishDate: 2025-05-17T15:10:00Z
-lastmod: 2025-11-28T16:43:00Z
+lastmod: 2026-02-08T15:13:00Z
 contributors: [kttrickster]
 summary: Сравнение функциональности приложений для Mastodon
 ---
@@ -17,6 +17,7 @@ summary: Сравнение функциональности приложени�
             <th><a href="https://phanpy.social" target="_blank"><img src="/assets/logos/phanpy.svg" alt="Phanpy" width="64" height="64"><br>Phanpy</a></th>
             <th><a href="https://pl.mkljczk.pl" target="_blank"><img src="/assets/logos/pl-fe.png" alt="pl-fe" width="64" height="64"><br>pl-fe</a></th>
             <th><a href="https://apps.kde.org/tokodon" target="_blank"><img src="/assets/logos/tokodon.svg" alt="Tokodon" width="64" height="64"><br>Tokodon</a></th>
+            <th><a href="https://codeberg.org/ihabunek/tooi" target="_blank"><img src="/assets/logos/tooi.png" alt="tooi" width="64" height="64"><br>tooi</a></th>
             <th><a href="https://toot.bezdomni.net" target="_blank"><img src="/assets/logos/toot.png" alt="toot" width="64" height="64"><br>toot</a></th>
             <th><a href="https://tuba.geopjr.dev" target="_blank"><img src="/assets/logos/tuba.svg" alt="Tuba" width="64" height="64"><br>Tuba</a></th>
             <th><a href="https://tusky.app" target="_blank"><img src="/assets/logos/tusky.png" alt="Tusky" width="64" height="64"><br>Tusky</a></th>
@@ -36,7 +37,8 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>Веб</td>
             <!--pl-fe-->           <td>Веб</td>
             <!--Tokodon-->         <td>Linux</td>
-            <!--toot-->            <td>Терминал</td>
+            <!--tooi-->            <td>Терминал (TUI)</td>
+            <!--toot-->            <td>Терминал (CLI, TUI)</td>
             <!--Tuba-->            <td>Linux, Windows (тестовые сборки)</td>
             <!--Tusky-->           <td>Android</td>
         </tr>
@@ -50,7 +52,8 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>JavaScript</td>
             <!--pl-fe-->           <td>TypeScript</td>
             <!--Tokodon-->         <td>C++ (Qt / Kirigami)</td>
-            <!--toot-->            <td>Python</td>
+            <!--tooi-->            <td>Python, <a href="https://textual.textualize.io" target="_blank">Textual</a></td>
+            <!--toot-->            <td>Python, <a href="https://urwid.org/index.html" target="_blank">Urwid</a></td>
             <!--Tuba-->            <td>Vala (GTK)</td>
             <!--Tusky-->           <td>Kotlin</td>
         </tr>
@@ -64,6 +67,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>Стороннее</td>
             <!--pl-fe-->           <td>Сторонее. Форк <a href="https://gitlab.com/soapbox-pub/soapbox">Soapbox</a></td>
             <!--Tokodon-->         <td>Стороннее. Входит в <a href="https://apps.kde.org">KDE Gear</a></td>
+            <!--tooi-->            <td>Стороннее</td>
             <!--toot-->            <td>Стороннее</td>
             <!--Tuba-->            <td>Стороннее. Продолжение <a href="https://github.com/bleakgrey/tootle">Tootle</a></td>
             <!--Tusky-->           <td>Стороннее</td>
@@ -78,6 +82,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good"><a href="https://github.com/cheeaun/phanpy">Открытый</a>, MIT</td>
             <!--pl-fe-->           <td class="good"><a href="https://github.com/mkljczk/pl-fe">Открытый</a>, GNU AGPL-3.0</td>
             <!--Tokodon-->         <td class="good"><a href="https://invent.kde.org/network/tokodon">Открытый</a>, GNU GPL-3.0</td>
+            <!--tooi-->            <td class="good"><a href="https://codeberg.org/ihabunek/tooi">Открытый</a>, MIT</td>
             <!--toot-->            <td class="good"><a href="https://github.com/ihabunek/toot">Открытый</a>, GNU GPL-3.0</td>
             <!--Tuba-->            <td class="good"><a href="https://github.com/GeopJr/Tuba">Открытый</a>, GNU GPL-3.0</td>
             <!--Tusky-->           <td class="good"><a href="https://codeberg.org/tusky/Tusky">Открытый</a>, GNU GPL-3.0</td>
@@ -92,6 +97,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>2022</td>
             <!--pl-fe-->           <td>2024</td>
             <!--Tokodon-->         <td>2021</td>
+            <!--tooi-->            <td>2023</td>
             <!--toot-->            <td>2017</td>
             <!--Tuba-->            <td>2023</td>
             <!--Tusky-->           <td>2017</td>
@@ -106,7 +112,8 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>2025.10.09.1897f38</td>
             <!--pl-fe-->           <td>—</td>
             <!--Tokodon-->         <td>25.04</td>
-            <!--toot-->            <td>0.48.0</td>
+            <!--tooi-->            <td>0.20.0</td>
+            <!--toot-->            <td>0.51.1</td>
             <!--Tuba-->            <td>0.10.3</td>
             <!--Tusky-->           <td>29.0</td>
         </tr>
@@ -120,6 +127,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Активный</td>
             <!--pl-fe-->           <td class="warn">В разработке</td>
             <!--Tokodon-->         <td class="good">Активный</td>
+            <!--tooi-->            <td class="good">Активный</td>
             <!--toot-->            <td class="good">Активный</td>
             <!--Tuba-->            <td class="good">Активный</td>
             <!--Tusky-->           <td class="good">Активный</td>
@@ -137,6 +145,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>—</td>
             <!--pl-fe-->           <td>—</td>
             <!--Tokodon-->         <td>Breeze (KDE)</td>
+            <!--tooi-->            <td>—</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td>Adwaita (GNOME)</td>
             <!--Tusky-->           <td>Material Design</td>
@@ -151,6 +160,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="good">Есть</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -165,6 +175,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>Есть</td>
             <!--pl-fe-->           <td>Нет</td>
             <!--Tokodon-->         <td>Нет</td>
+            <!--tooi-->            <td>Нет</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td>Нет</td>
             <!--Tusky-->           <td>—</td>
@@ -182,6 +193,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Да</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -196,6 +208,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td>—</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -210,6 +223,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -224,6 +238,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -238,6 +253,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет (исчезают)</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -252,6 +268,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -266,6 +283,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="good">Есть</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -280,6 +298,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -294,6 +313,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -308,6 +328,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -325,6 +346,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Древо</td>
             <!--pl-fe-->           <td class="bad">Лента</td>
             <!--Tokodon-->         <td class="warn">Древо (максимум 2 уровня)</td>
+            <!--tooi-->            <td class="bad">Лента</td>
             <!--toot-->            <td class="bad">Лента</td>
             <!--Tuba-->            <td class="bad">Лента</td>
             <!--Tusky-->           <td class="bad">Лента</td>
@@ -339,6 +361,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="warn">Прошлые версии</td>
             <!--pl-fe-->           <td class="warn">Прошлые версии</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="warn">Прошлые версии</td>
             <!--Tusky-->           <td class="good">Разница</td>
@@ -353,6 +376,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="good">Есть</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -367,6 +391,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="warn">Имитация</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="warn">Имитация</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -384,6 +409,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="warn">Только при нажатии на аватар</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td>—</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td class="warn">Только при нажатии на аватар</td>
             <!--Tusky-->           <td>—</td>
@@ -398,6 +424,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -412,6 +439,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -426,6 +454,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -440,6 +469,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -457,6 +487,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -471,6 +502,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть + имитация</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -485,6 +517,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -499,6 +532,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Локально</td>
             <!--Tokodon-->         <td class="good">На сервере</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">На сервере</td>
             <!--Tusky-->           <td class="good">Локально</td>
@@ -516,6 +550,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad"><a href="https://bugs.kde.org/show_bug.cgi?id=487100">Нет</a></td>
+            <!--tooi-->            <td class="good">Есть</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -530,6 +565,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть (<a href="https://github.com/cheeaun/translang-api#readme">TransLang API</a>)</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -544,6 +580,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="warn">Только при открытии коротких постов</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td>—</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -561,6 +598,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -575,6 +613,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Push-уведомления в браузере</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Push-уведомления (<a href="https://invent.kde.org/libraries/kunifiedpush">KUnifiedPush</a>)</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Фоновая работа</td>
             <!--Tusky-->           <td class="good">Push-уведомления (Google Mobile Services, UnifiedPush)</td>
@@ -592,6 +631,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="good">Есть</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -606,6 +646,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="warn">Частично</td>
@@ -620,6 +661,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="warn">Есть, не настраивается</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="warn">Есть, не настраивается</td>
             <!--toot-->            <td>—</td>
             <!--Tuba-->            <td class="warn">Есть, не настраивается</td>
             <!--Tusky-->           <td>—</td>
@@ -634,6 +676,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="good">Есть</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="good">Есть</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="good">Есть</td>
@@ -648,6 +691,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -662,6 +706,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td>—</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -679,6 +724,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Есть</td>
             <!--pl-fe-->           <td class="good">Нет</td>
             <!--Tokodon-->         <td class="good">Нет</td>
+            <!--tooi-->            <td class="good">Нет</td>
             <!--toot-->            <td class="good">Нет</td>
             <!--Tuba-->            <td class="good">Нет</td>
             <!--Tusky-->           <td class="good">Нет</td>
@@ -693,6 +739,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="bad">Нет</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="bad">Нет</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -707,6 +754,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>—</td>
             <!--pl-fe-->           <td>—</td>
             <!--Tokodon-->         <td class="good">HTTP, SOCKS5</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="warn"><a href="https://toot.bezdomni.net/advanced.html#using-proxies">HTTP</a></td>
             <!--Tuba-->            <td class="good">HTTP, SOCKS5</td>
             <!--Tusky-->           <td class="warn">HTTP</td>
@@ -724,6 +772,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td>—</td>
             <!--pl-fe-->           <td>GoToSocial, Pleroma</td>
             <!--Tokodon-->         <td>Akkoma, GoToSocial, Misskey, Pixelfed, Pleroma</td>
+            <!--tooi-->            <td>Pleroma</td>
             <!--toot-->            <td>GoToSocial</td>
             <!--Tuba-->            <td>Akkoma, GoToSocial, Iceshrimp</td>
             <!--Tusky-->           <td>GoToSocial</td>
@@ -738,6 +787,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="good">Есть</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -752,6 +802,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="bad">Нет</td>
             <!--pl-fe-->           <td class="good">Есть</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td class="bad">Нет</td>
             <!--toot-->            <td class="bad">Нет</td>
             <!--Tuba-->            <td class="good">Есть</td>
             <!--Tusky-->           <td class="bad">Нет</td>
@@ -766,6 +817,7 @@ summary: Сравнение функциональности приложени�
             <!--Phanpy-->          <td class="warn">Некорректно</td>
             <!--pl-fe-->           <td class="warn">Некорректно</td>
             <!--Tokodon-->         <td class="bad">Нет</td>
+            <!--tooi-->            <td>???</td>
             <!--toot-->            <td class="warn">Некорректно</td>
             <!--Tuba-->            <td class="warn">Некорректно</td>
             <!--Tusky-->           <td class="warn">Некорректно</td>
