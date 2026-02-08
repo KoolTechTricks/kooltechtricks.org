@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2025-11-11T19:16:00Z
+lastmod: 2026-02-08T13:31:00Z
 #categories: [linux]
 contributors: [kttrickster]
 ---
@@ -174,7 +174,7 @@ sudo btrfs subvolume list /  # /home
 |Название пакета|Описание|
 |:-------------:|--------|
 |`ntfs-3g`, `exfat-utils`, `btrfs-progs`|Поддержка файловых систем
-|`unrar` / `unrar-free`|Разархивация RAR
+|`unrar`|Разархивация RAR
 |`cups`|Служба печати [CUPS] (`systemctl enable cups.service && systemctl start cups.service`)
 |`power-profiles-daemon`|Профили энергопотребления для ноутбука
 |`aspell-en`, `aspell-ru`|Проверка орфографии
