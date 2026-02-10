@@ -4,9 +4,15 @@ features:
   - title: Fedilab
     link: https://fedilab.app
     icon: fedilab.svg
+  - title: Flare
+    link: https://flareapp.moe
+    icon: flare.svg
   - title: Mastodon для Android
-    link: https://github.com/mastodon/mastodon-android#readme
+    link: https://play.google.com/store/apps/details?id=org.joinmastodon.android
     icon: mastodon.svg
+  - title: Mastodon для iOS
+    link: https://apps.apple.com/app/mastodon/id1571998974
+    icon: mastodon-ios.webp
   - title: Веб-интерфейс Mastodon
     link: https://github.com/mastodon/mastodon#readme
     icon: mastodon.svg
