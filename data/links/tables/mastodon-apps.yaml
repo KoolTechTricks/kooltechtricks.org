@@ -7,6 +7,9 @@ features:
   - title: Flare
     link: https://flareapp.moe
     icon: flare.svg
+  - title: Ice Cubes
+    link: https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884
+    icon: ice-cubes.webp
   - title: Mastodon для Android
     link: https://play.google.com/store/apps/details?id=org.joinmastodon.android
     icon: mastodon.svg
