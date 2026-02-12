@@ -1,7 +1,16 @@
-icon: example # Иконка в списке всех таблиц. В формате идентификатора
-features: # О чём рассказано на странице? В формате идентификаторов
-  - thing-1
-  - thing-2
+unit: Приложение # Общее название сравниваемых объектов в единственном числе
+icon: example.svg # Файл иконки
+features: # О чём рассказано на странице?
+  # Существует карточка в /data/cards
+  - id: example
+
+  # Не существует карточки
+  - title: Lorem Ipsum # Заголовок
+    icon: lorem-ipsum.svg # Файл иконки
+    # Одна из ссылок
+    kttpage: /software/lorem-ipsum # Страница на сайте
+    homepage: https://example.net # Сайт
+    repository: https://github.com # Репозиторий исходного кода
 seeAlso: # Смотрите также (другие страницы на этом сайте)
   - title: Подборка
     link: /collections/example

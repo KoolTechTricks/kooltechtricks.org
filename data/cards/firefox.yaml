@@ -1,4 +1,5 @@
 title: Firefox
+icon: firefox.svg
 description: >
   Браузер с открытым исходным кодом, разрабатываемый Mozilla. Основан на
   собственном движке Gecko.

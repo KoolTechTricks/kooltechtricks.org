@@ -1,38 +1,39 @@
-icon: mastodon
+unit: Приложение для Mastodon
+icon: mastodon.svg
 features:
   - id: elk
   - title: Fedilab
-    link: https://fedilab.app
     icon: fedilab.svg
+    homepage: https://fedilab.app
   - title: Flare
-    link: https://flareapp.moe
     icon: flare.svg
+    homepage: https://flareapp.moe
   - title: Ice Cubes
-    link: https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884
     icon: ice-cubes.webp
+    homepage: https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884
   - title: Mastodon для Android
-    link: https://play.google.com/store/apps/details?id=org.joinmastodon.android
     icon: mastodon.svg
+    homepage: https://play.google.com/store/apps/details?id=org.joinmastodon.android
   - title: Mastodon для iOS
-    link: https://apps.apple.com/app/mastodon/id1571998974
     icon: mastodon-ios.webp
+    homepage: https://apps.apple.com/app/mastodon/id1571998974
   - title: Веб-интерфейс Mastodon
-    link: https://github.com/mastodon/mastodon#readme
     icon: mastodon.svg
+    repository: https://github.com/mastodon/mastodon
   - id: moshidon
   - id: phanpy
   - title: pl-fe
-    link: https://pl.mkljczk.pl
+    homepage: https://pl.mkljczk.pl
     icon: pl-fe.png
   - title: Tokodon
-    link: https://apps.kde.org/tokodon
     icon: tokodon.svg
+    homepage: https://apps.kde.org/tokodon
   - title: tooi
-    link: https://codeberg.org/ihabunek/tooi
     icon: tooi.png
+    homepage: https://codeberg.org/ihabunek/tooi
   - title: toot
-    link: https://toot.bezdomni.net
     icon: toot.png
+    homepage: https://toot.bezdomni.net
   - id: tuba
   - id: tusky
 seeAlso:

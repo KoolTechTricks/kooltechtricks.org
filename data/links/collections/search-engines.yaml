@@ -4,7 +4,7 @@ features:
   - brave-search
   - searxng
   - ecosia
-  - kagi
+  - kagi-search
 seeAlso:
   - title: Таблица сравнения поисковых систем
     link: /tables/search-engines

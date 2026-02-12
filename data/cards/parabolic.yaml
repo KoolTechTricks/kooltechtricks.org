@@ -1,4 +1,5 @@
 title: Parabolic
+icon: parabolic.svg
 description: >
   Простой загрузчик медиа с открытым исходным кодом для Windows и Linux с родным
   дизайном системы. Использует yt-dlp.

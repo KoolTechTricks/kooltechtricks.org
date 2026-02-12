@@ -1,4 +1,5 @@
 title: URLCheck
+icon: urlcheck.svg
 description: >
   Приложение для Android, которое позволяет анализировать ссылки и изменять их
   перед открытием в браузере.

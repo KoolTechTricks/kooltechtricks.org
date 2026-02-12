@@ -1,38 +1,39 @@
-icon: searxng
+unit: Поисковая система
+icon: searxng.svg
 features:
   - title: 4get
-    link: https://4get.ca
     icon: 4get.png
+    homepage: https://4get.ca
   - title: Bing
-    link: https://bing.com
     icon: bing.svg
+    homepage: https://bing.com
   - id: brave-search
   - id: duckduckgo
   - id: ecosia
-  - title: Google
-    link: https://google.com
+  - title: Google Search
     icon: google.svg
-  - id: kagi
+    homepage: https://google.com
+  - id: kagi-search
   - title: Mojeek
-    link: https://mojeek.com
     icon: mojeek.svg
+    homepage: https://mojeek.com
   - title: nilch
-    link: https://nilch.org
     icon: nilch.png
+    homepage: https://nilch.org
   - title: Qwant
-    link: https://qwant.com
     icon: qwant.svg
+    homepage: https://qwant.com
   - id: searxng
   - id: startpage
   - title: Swisscows
-    link: https://swisscows.com
     icon: swisscows.svg
+    homepage: https://swisscows.com
   - title: Waterfox Private Search
-    link: https://search.waterfox.net
     icon: waterfox-private-search.svg
-  - title: Яндекс
-    link: https://ya.ru
+    homepage: https://search.waterfox.net
+  - title: Яндекс Поиск
     icon: yandex.svg
+    homepage: https://ya.ru
 seeAlso:
   - title: Подборка поисковых систем
     link: /collections/search-engines

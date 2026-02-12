@@ -1,4 +1,5 @@
 title: Waterfox
+icon: waterfox.svg
 description: >
   Браузер, ориентированный на пользователя.
   Основан на Firefox ESR (старая, но поддерживаемая версия).

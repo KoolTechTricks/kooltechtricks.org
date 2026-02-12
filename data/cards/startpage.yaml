@@ -1,4 +1,5 @@
 title: Startpage
+icon: startpage.svg
 description: >
   Поисковая система, уважающая конфиденциальность пользователей.
   Использует Google в своей поисковой выдаче.

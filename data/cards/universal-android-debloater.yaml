@@ -1,4 +1,5 @@
 title: Universal Android Debloater
+icon: universal-android-debloater.svg
 description: >
   Настольная программа для удаления предустановленных приложений Android с
   использованием ADB без root-прав. Для каждого приложения обозначено описание и

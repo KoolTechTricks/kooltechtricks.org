@@ -1,4 +1,5 @@
 title: Ungoogled Chromium
+icon: ungoogled-chromium.svg
 description: >
   Браузер Chromium, из которого вырезаны все службы Google.
 homepage: https://ungoogled-software.github.io
