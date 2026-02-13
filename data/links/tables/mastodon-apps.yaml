@@ -21,10 +21,10 @@ features:
     icon: mastodon.svg
     repository: https://github.com/mastodon/mastodon
   - id: moshidon
-  - id: phanpy
-  - title: pl-fe
+  - title: Nicolium
     homepage: https://pl.mkljczk.pl
-    icon: pl-fe.png
+    icon: nicolium.png
+  - id: phanpy
   - title: Tokodon
     icon: tokodon.svg
     homepage: https://apps.kde.org/tokodon
