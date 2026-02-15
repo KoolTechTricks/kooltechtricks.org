@@ -36,6 +36,9 @@ features:
     homepage: https://toot.bezdomni.net
   - id: tuba
   - id: tusky
+  - title: Woolly
+    icon: woolly.webp
+    homepage: https://apps.apple.com/app/woolly-for-mastodon/id6444360628
 seeAlso:
   - title: Подборка приложений для Mastodon
     link: /collections/mastodon-apps
