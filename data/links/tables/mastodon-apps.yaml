@@ -23,6 +23,9 @@ features:
   - title: Веб-интерфейс Mastodon
     icon: mastodon.svg
     repository: https://github.com/mastodon/mastodon
+  - title: Mona
+    icon: mona.webp
+    homepage: https://apps.apple.com/app/mona-7-for-mastodon/id6755672518
   - id: moshidon
   - title: Nicolium
     homepage: https://pl.mkljczk.pl
