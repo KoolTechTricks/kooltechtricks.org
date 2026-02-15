@@ -30,7 +30,7 @@ features:
     homepage: https://apps.kde.org/tokodon
   - title: tooi
     icon: tooi.png
-    homepage: https://codeberg.org/ihabunek/tooi
+    repository: https://codeberg.org/ihabunek/tooi
   - title: toot
     icon: toot.png
     homepage: https://toot.bezdomni.net

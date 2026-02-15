@@ -1,7 +1,7 @@
 ---
 title: Таблица сравнения приложений для Mastodon
 publishDate: 2025-05-17T15:10:00Z
-lastmod: 2026-02-13T21:16:00Z
+lastmod: 2026-02-15T13:04:00Z
 contributors: [kttrickster]
 summary: >
   Сравнение функциональности приложений для Mastodon и других сервисов Fediverse
@@ -86,20 +86,20 @@ summary: >
         </details>
     </th>
     <!--Elk-->             <td>0.17.3</td>
-    <!--Fedilab-->         <td>3.35.0</td>
+    <!--Fedilab-->         <td>3.36.1</td>
     <!--Flare-->           <td>1.2.0</td>
     <!--Ice Cubes-->       <td>2.1.3</td>
-    <!--Mastodon Android--><td>2.11.0</td>
+    <!--Mastodon Android--><td>2.11.9</td>
     <!--Mastodon iOS-->    <td>2026.01</td>
     <!--Mastodon Web-->    <td>4.5.6</td>
-    <!--Moshidon-->        <td>2.3.0+fork.109.moshinda</td>
+    <!--Moshidon-->        <td>2.3.0+fork.110.moshinda</td>
     <!--Nicolium-->        <td>v0.0.1-34469f3</td>
     <!--Phanpy-->          <td>2026.01.31.8b98d5a</td>
-    <!--Tokodon-->         <td>25.04</td>
-    <!--tooi-->            <td>0.20.0</td>
+    <!--Tokodon-->         <td>25.12.2</td>
+    <!--tooi-->            <td>0.21.1</td>
     <!--toot-->            <td>0.51.1</td>
     <!--Tuba-->            <td>0.10.3</td>
-    <!--Tusky-->           <td>29.0</td>
+    <!--Tusky-->           <td>32.1</td>
 </tr>
 <tr>
     <th>Технологии</th>
@@ -123,6 +123,24 @@ summary: >
     <!--Tusky-->           <td class="good"><a href="https://codeberg.org/tusky/Tusky" target="_blank">Открытый</a> (GNU GPL-3.0)</td>
 </tr>
 <tr>
+    <th>Является ответвлением/продолжением</th>
+    <!--Elk-->             <td>—</td>
+    <!--Fedilab-->         <td>—</td>
+    <!--Flare-->           <td>—</td>
+    <!--Ice Cubes-->       <td>—</td>
+    <!--Mastodon Android--><td>—</td>
+    <!--Mastodon iOS-->    <td>—</td>
+    <!--Mastodon Web-->    <td>—</td>
+    <!--Moshidon-->        <td><a href="https://github.com/sk22/megalodon" target="_blank">Megalodon</a> → Mastodon для Android</td>
+    <!--Nicolium-->        <td><a href="https://gitlab.com/soapbox-pub/soapbox" target="_blank">Soapbox</a></td>
+    <!--Phanpy-->          <td>—</td>
+    <!--Tokodon-->         <td>—</td>
+    <!--tooi-->            <td>—</td>
+    <!--toot-->            <td>—</td>
+    <!--Tuba-->            <td><a href="https://github.com/bleakgrey/tootle" target="_blank">Tootle</a></td>
+    <!--Tusky-->           <td>—</td>
+</tr>
+<tr>
     <th>Языки программирования</th>
     <!--Elk-->             <td>TypeScript</td>
     <!--Fedilab-->         <td>Java</td>
@@ -134,12 +152,13 @@ summary: >
     <!--Moshidon-->        <td>Java</td>
     <!--Nicolium-->        <td>TypeScript</td>
     <!--Phanpy-->          <td>JavaScript</td>
-    <!--Tokodon-->         <td>C++</td>
+    <!--Tokodon-->         <td>C++, C</td>
     <!--tooi-->            <td>Python</td>
     <!--toot-->            <td>Python</td>
     <!--Tuba-->            <td>Vala</td>
     <!--Tusky-->           <td>Kotlin</td>
 </tr>
+
 <tr>
     <th>Фреймворки</th>
     <!--Elk-->             <td>Vue.js</td>
@@ -156,7 +175,7 @@ summary: >
     <!--tooi-->            <td>Textual</td>
     <!--toot-->            <td>Urwid</td>
     <!--Tuba-->            <td>GTK, LibAdwaita</td>
-    <!--Tusky-->           <td>???</td>
+    <!--Tusky-->           <td>Jetpack Compose</td>
 </tr>
 <tr>
     <th>Внешний вид</th>
@@ -183,15 +202,15 @@ summary: >
     <th>Настройка цветовой схемы</th>
     <!--Elk-->             <td class="warn">Только основной цвет</td>
     <!--Fedilab-->         <td class="good">Есть</td>
-    <!--Flare-->           <td class="warn">Частично</td>
+    <!--Flare-->           <td class="warn">Только основной цвет</td>
     <!--Ice Cubes-->       <td class="good">Есть</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
     <!--Mastodon iOS-->    <td class="bad">Нет</td>
     <!--Mastodon Web-->    <td class="warn">Зависит от сервера</td>
-    <!--Moshidon-->        <td class="warn">Частично</td>
+    <!--Moshidon-->        <td class="warn">Только основной цвет</td>
     <!--Nicolium-->        <td class="warn">Только основной цвет</td>
     <!--Phanpy-->          <td class="bad">Нет</td>
-    <!--Tokodon-->         <td class="bad">Нет</td>
+    <!--Tokodon-->         <td class="good">Внешними инструментами</td>
     <!--tooi-->            <td class="good">Есть</td>
     <!--toot-->            <td class="good">Есть</td>
     <!--Tuba-->            <td class="bad">Нет</td>
@@ -256,10 +275,10 @@ summary: >
 </tr>
 <tr>
     <th>Настройка фильтров по ключевым словам</th>
-    <!--Elk-->             <td class="bad"><a href="https://github.com/elk-zone/elk/pull/1802">Нет</a></td>
+    <!--Elk-->             <td class="bad"><a href="https://github.com/elk-zone/elk/pull/1802" target="_blank">Нет</a></td>
     <!--Fedilab-->         <td class="good">Есть</td>
     <!--Flare-->           <td class="warn">Только локально</td>
-    <!--Ice Cubes-->       <td class="bad">Нет</td>
+    <!--Ice Cubes-->       <td class="warn">Сломано</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
     <!--Mastodon iOS-->    <td class="bad">Нет</td>
     <!--Mastodon Web-->    <td class="good">Есть</td>
@@ -278,10 +297,10 @@ summary: >
     <!--Fedilab-->         <td class="good">Есть</td>
     <!--Flare-->           <td class="bad">Нет</td>
     <!--Ice Cubes-->       <td class="good">Есть</td>
-    <!--Mastodon Android--><td class="warn">Частично</td>
+    <!--Mastodon Android--><td class="warn">Последнее обновление ленты</td>
     <!--Mastodon iOS-->    <td class="bad">Нет</td>
     <!--Mastodon Web-->    <td class="bad">Нет</td>
-    <!--Moshidon-->        <td class="warn">Частично</td>
+    <!--Moshidon-->        <td class="warn">Последнее обновление ленты</td>
     <!--Nicolium-->        <td class="bad">Нет</td>
     <!--Phanpy-->          <td class="bad">Нет</td>
     <!--Tokodon-->         <td class="good">Есть</td>
@@ -360,8 +379,8 @@ summary: >
     <!--Nicolium-->        <td class="good">Есть</td>
     <!--Phanpy-->          <td class="good">Есть</td>
     <!--Tokodon-->         <td class="good">Есть</td>
-    <!--tooi-->            <td class="good">Есть</td>
-    <!--toot-->            <td class="good">Есть</td>
+    <!--tooi-->            <td class="warn">Всегда показывается</td>
+    <!--toot-->            <td class="warn">Всегда показывается</td>
     <!--Tuba-->            <td class="good">Есть</td>
     <!--Tusky-->           <td class="good">Есть</td>
 </tr>
@@ -369,7 +388,7 @@ summary: >
     <th>
         <details>
             <summary>Нативное отображение цитат</summary>
-            Цитаты согласно спецификации Mastodon 4.5.
+            Согласно спецификации <a href="https://codeberg.org/fediverse/fep/src/branch/main/fep/044f/fep-044f.md" target="_blank">FEP-044f</a> (Mastodon 4.5+).
         </details>
     </th>
     <!--Elk-->             <td class="good">Есть (Canary)</td>
@@ -396,9 +415,9 @@ summary: >
         </details>
     </th>
     <!--Elk-->             <td class="bad">Нет</td>
-    <!--Fedilab-->         <td class="good">Есть</td>
-    <!--Flare-->           <td class=""></td>
-    <!--Ice Cubes-->       <td class=""></td>
+    <!--Fedilab-->         <td class="bad">Нет</td>
+    <!--Flare-->           <td class="bad">Нет</td>
+    <!--Ice Cubes-->       <td class="good">Есть</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
     <!--Mastodon iOS-->    <td class="bad">Нет</td>
     <!--Mastodon Web-->    <td class="bad">Нет</td>
@@ -407,7 +426,7 @@ summary: >
     <!--Phanpy-->          <td class="good">Есть</td>
     <!--Tokodon-->         <td class="good">Есть</td>
     <!--tooi-->            <td class="bad">Нет</td>
-    <!--toot-->            <td class="good">Есть</td>
+    <!--toot-->            <td class="bad">Нет</td>
     <!--Tuba-->            <td class="good">Есть</td>
     <!--Tusky-->           <td class="bad">Нет</td>
 </tr>
@@ -430,7 +449,7 @@ summary: >
     <!--tooi-->            <td class="bad">Нет</td>
     <!--toot-->            <td class="good">Есть</td>
     <!--Tuba-->            <td class="good">Есть</td>
-    <!--Tusky-->           <td class="good">Есть</td>
+    <!--Tusky-->           <td class="bad">Нет</td>
 </tr>
 <tr>
     <th>Избранные профили</th>
@@ -444,7 +463,7 @@ summary: >
     <!--Moshidon-->        <td class="bad">Нет</td>
     <!--Nicolium-->        <td class="good">Есть</td>
     <!--Phanpy-->          <td class="good">Есть</td>
-    <!--Tokodon-->         <td class="bad">Нет</td>
+    <!--Tokodon-->         <td class="good">Есть</td>
     <!--tooi-->            <td class="bad">Нет</td>
     <!--toot-->            <td class="bad">Нет</td>
     <!--Tuba-->            <td class="good">Есть</td>
@@ -511,7 +530,8 @@ summary: >
     <th>
         <details>
             <summary>Нативное цитирование</summary>
-            Цитирование согласно спецификации Mastodon 4.5. Требуется поддержка со стороны сервера и разрешение автора.
+            Согласно спецификации <a href="https://codeberg.org/fediverse/fep/src/branch/main/fep/044f/fep-044f.md" target="_blank">FEP-044f</a> (Mastodon 4.5+).
+            Требуется поддержка со стороны сервера и разрешение автора.
         </details>
     </th>
     <!--Elk-->             <td class="good">Есть (Canary)</td>
@@ -538,9 +558,9 @@ summary: >
         </details>
     </th>
     <!--Elk-->             <td class="bad">Нет</td>
-    <!--Fedilab-->         <td class=""></td>
-    <!--Flare-->           <td class=""></td>
-    <!--Ice Cubes-->       <td class=""></td>
+    <!--Fedilab-->         <td class="bad">Нет</td>
+    <!--Flare-->           <td class="bad">Нет</td>
+    <!--Ice Cubes-->       <td class="good">Есть</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
     <!--Mastodon iOS-->    <td class="bad">Нет</td>
     <!--Mastodon Web-->    <td class="bad">Нет</td>
@@ -551,10 +571,10 @@ summary: >
     <!--tooi-->            <td class="bad">Нет</td>
     <!--toot-->            <td class="bad">Нет</td>
     <!--Tuba-->            <td class="good">Есть</td>
-    <!--Tusky-->           <td class=""></td>
+    <!--Tusky-->           <td class="bad">Нет</td>
 </tr>
 <tr>
-    <th>Создание веток (тредов)</th>
+    <th>Создание веток</th>
     <!--Elk-->             <td class="good">Есть</td>
     <!--Fedilab-->         <td class="good">Есть</td>
     <!--Flare-->           <td class="bad">Нет</td>
@@ -613,7 +633,7 @@ summary: >
 <tr>
     <th>Переводчик приложения</th>
     <!--Elk-->             <td class="good">Есть (LibreTranslate)</td>
-    <!--Fedilab-->         <td class="good">Есть (Fedilab, Lingva, DeepL, Mint)</td>
+    <!--Fedilab-->         <td class="good">Есть (LibreTranslate, Lingva, DeepL, Mint)</td>
     <!--Flare-->           <td class="good">Есть (Собственный сервис)</td>
     <!--Ice Cubes-->       <td class="good">Есть (DeepL, Apple)</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
@@ -669,27 +689,27 @@ summary: >
 </tr>
 <tr>
     <th>Фоновые уведомления</th>
-    <!--Elk-->             <td class="good">Push-уведомления (Браузер)</td>
-    <!--Fedilab-->         <td class="good">Периодически, Push-уведомления (Google, UnifiedPush)</td>
-    <!--Flare-->           <td class="warn">Push-уведомления (Google)</td>
-    <!--Ice Cubes-->       <td class="good">Push-уведомления (Apple)</td>
-    <!--Mastodon Android--><td class="good">Push-уведомления (Google, UnifiedPush)</td>
-    <!--Mastodon iOS-->    <td class="good">Push-уведомления (Apple)</td>
-    <!--Mastodon Web-->    <td class="good">Push-уведомления (Браузер)</td>
-    <!--Moshidon-->        <td class="good">Push-уведомления (Google Mobile Services, UnifiedPush)</td>
-    <!--Nicolium-->        <td class="good">Push-уведомления (Браузер)</td>
-    <!--Phanpy-->          <td class="warn">Push-уведомления (Браузер) только для одного аккаунта</td>
-    <!--Tokodon-->         <td class="good">Push-уведомления (UnifiedPush)</td>
+    <!--Elk-->             <td class="good">Push (Браузер)</td>
+    <!--Fedilab-->         <td class="good">Периодически, Push (Google, UnifiedPush)</td>
+    <!--Flare-->           <td class="warn">Push (Google/Apple)</td>
+    <!--Ice Cubes-->       <td class="good">Push (Apple)</td>
+    <!--Mastodon Android--><td class="warn">Push (Google)</td>
+    <!--Mastodon iOS-->    <td class="good">Push (Apple)</td>
+    <!--Mastodon Web-->    <td class="good">Push (Браузер)</td>
+    <!--Moshidon-->        <td class="good">Push (Google, UnifiedPush)</td>
+    <!--Nicolium-->        <td class="good">Push (Браузер)</td>
+    <!--Phanpy-->          <td class="warn">Push (Браузер) только для одного аккаунта</td>
+    <!--Tokodon-->         <td class="good">Push (UnifiedPush)</td>
     <!--tooi-->            <td class="bad">Нет</td>
     <!--toot-->            <td class="bad">Нет</td>
     <!--Tuba-->            <td class="good">Фоновая работа</td>
-    <!--Tusky-->           <td class="good">Push-уведомления (Google, UnifiedPush)</td>
+    <!--Tusky-->           <td class="good">Push (Google, UnifiedPush)</td>
 </tr>
 <tr>
     <th>Аккаунт</th>
 </tr>
 <tr>
-    <th>Несколько аккаунтов</th>
+    <th>Поддержка нескольких аккаунтов</th>
     <!--Elk-->             <td class="good">Есть</td>
     <!--Fedilab-->         <td class="good">Есть</td>
     <!--Flare-->           <td class="good">Есть</td>
@@ -795,7 +815,7 @@ summary: >
     <!--Phanpy-->          <td>—</td>
     <!--Tokodon-->         <td class="good">HTTP, SOCKS5</td>
     <!--tooi-->            <td class="bad">Нет</td>
-    <!--toot-->            <td class="warn"><a href="https://toot.bezdomni.net/advanced.html#using-proxies">HTTP</a></td>
+    <!--toot-->            <td class="warn">HTTP</td>
     <!--Tuba-->            <td class="good">HTTP, SOCKS5</td>
     <!--Tusky-->           <td class="warn">HTTP</td>
 </tr>
@@ -808,7 +828,11 @@ summary: >
     </th>
 </tr>
 <tr>
-    <th>Сервисы Fediverse</th>
+    <th>
+        <details>
+            <summary>Поддерживаемые сервисы Fediverse</summary>
+        </details>
+    </th>
     <!--Elk-->             <td>—</td>
     <!--Fedilab-->         <td>Friendica, GNU Social, Misskey, Peertube, Pixelfed, Pleroma</td>
     <!--Flare-->           <td>Misskey</td>
@@ -821,7 +845,7 @@ summary: >
     <!--Phanpy-->          <td>—</td>
     <!--Tokodon-->         <td>Akkoma, GoToSocial, Misskey, Pixelfed, Pleroma</td>
     <!--tooi-->            <td>Pleroma</td>
-    <!--toot-->            <td>GoToSocial</td>
+    <!--toot-->            <td>—</td>
     <!--Tuba-->            <td>Akkoma, GoToSocial, Iceshrimp</td>
     <!--Tusky-->           <td>GoToSocial</td>
 </tr>
@@ -870,17 +894,17 @@ summary: >
     </th>
     <!--Elk-->             <td class="warn">Некорректно</td>
     <!--Fedilab-->         <td class="warn">Некорректно</td>
-    <!--Flare-->           <td>???</td>
-    <!--Ice Cubes-->       <td>???</td>
+    <!--Flare-->           <td class="warn">Некорректно</td>
+    <!--Ice Cubes-->       <td class="warn">Некорректно</td>
     <!--Mastodon Android--><td class="bad">Нет</td>
-    <!--Mastodon iOS-->    <td class="bad">Нет</td>
-    <!--Mastodon Web-->    <td class="warn">Некорректно</td>
+    <!--Mastodon iOS-->    <td class="warn">Некорректно</td>
+    <!--Mastodon Web-->    <td class="good">Есть</td>
     <!--Moshidon-->        <td class="good">Есть</td>
     <!--Nicolium-->        <td class="warn">Некорректно</td>
     <!--Phanpy-->          <td class="warn">Некорректно</td>
     <!--Tokodon-->         <td class="bad">Нет</td>
-    <!--tooi-->            <td>???</td>
+    <!--tooi-->            <td class="warn">Некорректно</td>
     <!--toot-->            <td class="warn">Некорректно</td>
     <!--Tuba-->            <td class="warn">Некорректно</td>
-    <!--Tusky-->           <td class="warn">Некорректно</td>
+    <!--Tusky-->           <td class="good">Есть</td>
 </tr>
