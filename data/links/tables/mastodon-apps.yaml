@@ -11,6 +11,9 @@ features:
   - title: Ice Cubes
     icon: ice-cubes.webp
     homepage: https://apps.apple.com/app/ice-cubes-for-mastodon/id6444915884
+  - title: Ivory
+    icon: ivory.webp
+    homepage: https://tapbots.com/ivory
   - title: Mastodon для Android
     icon: mastodon.svg
     homepage: https://play.google.com/store/apps/details?id=org.joinmastodon.android
