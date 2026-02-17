@@ -1,8 +1,10 @@
 features:
   - elk
   - phanpy
-  - moshidon
   - tusky
+  - moshidon
+  - ice-cubes
+  - ivory
   - tuba
 seeAlso:
   - title: Таблица сравнения приложений для Mastodon
