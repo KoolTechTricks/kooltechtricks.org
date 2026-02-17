@@ -2,7 +2,7 @@
 title: Приложения для Mastodon
 fancyTitle: Рекомендованные сторонние приложения для Mastodon и Fediverse
 publishDate: 2024-06-20T13:16:18Z
-lastmod: 2026-02-17T19:57:00Z
+lastmod: 2026-02-17T21:43:00Z
 contributors: [kttrickster]
 image: /assets/hero/mastodon-apps.webp
 imageAlt: Скриншоты разных приложений для Mastodon
@@ -33,6 +33,7 @@ Mastodon является открытой децентрализованной 
     - Вы можете пользоваться ими в браузере как на компьютере, так и на
     телефоне, а также установить как веб-приложение для быстрого доступа.
 - **Android:** [Tusky](#tusky), [Moshidon](#moshidon)
+- **iOS и macOS:** [Ice Cubes](#ice-cubes), [Ivory](#ivory)
 - **Linux и Windows:** [Tuba](#tuba)
 
 ## Elk
@@ -81,6 +82,14 @@ Phanpy является полностью статичным приложени
 По умолчанию загружает информацию с внешних серверов, благодаря чему счётчики
 отображаются более точно. Но это раскрывает ваш IP-адрес внешним серверам и
 вашу активность интернет-провайдеру.
+
+## Ice Cubes
+
+{{< card ice-cubes >}}
+
+## Ivory
+
+{{< card ivory >}}
 
 ## Tuba
 

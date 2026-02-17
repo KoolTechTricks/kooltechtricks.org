@@ -1,8 +1,9 @@
 title: Tusky
 icon: tusky.png
 description: >
-  Легковесное приложение для Mastodon. Одно из первых сторонних приложений,
-  которое активно развивается и по сей день, но получает обновления нечасто.
+  Легковесное приложение Mastodon для Android. Одно из первых сторонних
+  приложений, которое активно развивается и по сей день, но получает обновления
+  нечасто.
 homepage: https://tusky.app
 issues: https://codeberg.org/tusky/Tusky/issues
 repository: https://codeberg.org/tusky/Tusky
