@@ -3,6 +3,10 @@ icon: file.svg # Файл иконки в /content/assets/logos
 description: >
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
+alert: # Опциональный цветной блок с информацией
+  type: warning # caution/important/note/tip/warning
+  content: > # Содержимое
+    **Lorem** Ipsum ist [dolor](https://example.com)
 homepage: https://example.com
 kttpage: /wiki/example
 wikipedia: https://en.wikipedia.org/

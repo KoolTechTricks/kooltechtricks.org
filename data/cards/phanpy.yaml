@@ -2,7 +2,8 @@ title: Phanpy
 icon: phanpy.svg
 description: >
   Необычное минималистичное веб-приложение для Mastodon. Содержит уникальные
-  функции и решения по дизайну.
+  функции и решения по дизайну. Хорошо поддерживается и реализует многие
+  функции Mastodon.
 homepage: https://phanpy.social
 issues: https://github.com/cheeaun/phanpy/issues
 repository: https://github.com/cheeaun/phanpy
@@ -13,39 +14,31 @@ screenshots:
     alt: Домашняя лента в Phanpy на широком экране (светлая тема)
     type: desktop
     color: light
-  1-phanpy-profile-desktop-light.webp:
+  1-phanpy-profile-desktop-light.png:
     alt: Просмотр профиля в Phanpy на широком экране (светлая тема)
     type: desktop
     color: light
-  2-phanpy-catchup-light.webp:
-    alt: Функция Catch-up (Наверстать упущенное) показывает активность за последние несколько часов (светлая тема)
-    type: desktop
-    color: light
-  3-phanpy-home-mobile-light.webp:
+  2-phanpy-home-mobile-light.webp:
     alt: Домашняя лента в Phanpy на узком экране (светлая тема)
     type: mobile
     color: light
-  4-phanpy-profile-mobile-light.webp:
+  3-phanpy-profile-mobile-light.webp:
     alt: Просмотр профиля в Phanpy на узком экране (светлая тема)
     type: mobile
     color: light
-  5-phanpy-home-desktop-dark.webp:
+  4-phanpy-home-desktop-dark.webp:
     alt: Домашняя лента в Phanpy на широком экране (тёмная тема)
     type: desktop
     color: dark
-  6-phanpy-profile-desktop-dark.webp:
+  5-phanpy-profile-desktop-dark.png:
     alt: Просмотр профиля в Phanpy на широком экране (тёмная тема)
     type: desktop
     color: dark
-  7-phanpy-catchup-dark.webp:
-    alt: Функция Catch-up (Наверстать упущенное) показывает активность за последние несколько часов (тёмная тема)
-    type: desktop
-    color: dark
-  8-phanpy-home-mobile-dark.webp:
+  6-phanpy-home-mobile-dark.webp:
     alt: Домашняя лента в Phanpy на узком экране (тёмная тема)
     type: mobile
     color: dark
-  9-phanpy-profile-mobile-dark.webp:
+  7-phanpy-profile-mobile-dark.webp:
     alt: Просмотр профиля в Phanpy на узком экране (тёмная тема)
     type: mobile
     color: dark
@@ -54,3 +47,4 @@ get:
   links:
     1 Стабильная версия: https://phanpy.social
     2 Новейшая версия: https://dev.phanpy.social
+    3 Неофициальное приложение для iOS: https://apps.apple.com/app/iphanpy-for-mastodon/id6755365082

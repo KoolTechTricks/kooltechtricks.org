@@ -3,6 +3,13 @@ icon: moshidon.svg
 description: >
   Модифицированная версия официального приложения Mastodon для Android.
   Добавляет важные отсутствующие функции.
+alert:
+  type: warning
+  content: >
+    Текущая стабильная версия Moshidon основана на старой версии Mastodon для
+    Android, которая не поддерживает современные функции. Ведётся работа над
+    обновлённой версией (Nightly), но на данный момент доступны не все
+    возможности текущей версии Moshidon.
 homepage: https://lucasggamerm.github.io/moshidon
 help: https://lucasggamerm.github.io/moshidon/FAQ.html
 issues: https://github.com/LucasGGamerM/moshidon/issues
@@ -32,3 +39,4 @@ get:
     1 Google Play: https://play.google.com/store/apps/details?id=org.joinmastodon.android.moshinda
     2 GitHub: https://github.com/LucasGGamerM/moshidon/releases/latest
     3 F-Droid: https://f-droid.org/packages/org.joinmastodon.android.moshinda
+    4 Нестабильная версия (Nightly): https://github.com/LucasGGamerM/moshidon-nightly/releases/latest
