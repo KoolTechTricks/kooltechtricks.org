@@ -1,7 +1,7 @@
 ---
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
-lastmod: 2026-02-08T13:31:00Z
+lastmod: 2026-02-25T21:22:00Z
 #categories: [linux]
 contributors: [kttrickster]
 ---
@@ -190,7 +190,7 @@ sudo btrfs subvolume list /  # /home
 |Название пакета|Описание|
 |:-------------:|--------|
 |`tldr` / `tealdeer`|Краткое руководство команд ([tldr pages])
-|`fastfetch` / `neofetch`|Информация о системе в терминале
+|`fastfetch`|Информация о системе в терминале
 |`btop` / `htop`|Системный монитор в терминале
 |`lshw`|Информация об оборудовании
 |`flatpak`|Пакетный менеджер [Flatpak] [^1]
