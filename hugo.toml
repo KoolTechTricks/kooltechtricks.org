@@ -145,6 +145,10 @@ title = 'Политика конфиденциальности'
 url = 'https://docs.kooltechtricks.org/faq/privacy-policy'
 
 [[params.learnMore]]
+title = 'Зеркала'
+url = 'https://docs.kooltechtricks.org/faq/mirrors'
+
+[[params.learnMore]]
 title = 'Связаться'
 url = 'https://docs.kooltechtricks.org/about/contact'
 

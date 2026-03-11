@@ -5,6 +5,7 @@ lastmod: 2023-12-25T14:03:33Z
 #categories: ['files']
 contributors: [kttrickster]
 image: /media/localsend.jpg
+legacy: true
 ---
 
 [LocalSend](https://localsend.org) — приложение для передачи файлов между

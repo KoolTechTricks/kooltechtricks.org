@@ -5,6 +5,7 @@ lastmod: 2024-07-23T17:01:00Z
 #categories: ['android']
 contributors: [kttrickster]
 image: /media/f-droid-clients-official.webp
+legacy: true
 ---
 
 [F-Droid] — каталог приложений для Android с открытым исходным кодом. Это

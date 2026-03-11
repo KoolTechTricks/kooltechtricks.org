@@ -5,6 +5,7 @@ lastmod: 2024-12-15T19:47:00Z
 #categories: ['files']
 contributors: [kttrickster]
 image: /media/syncthing.jpg
+legacy: true
 ---
 
 [Syncthing](https://syncthing.net) — программа для синхронизации файлов между

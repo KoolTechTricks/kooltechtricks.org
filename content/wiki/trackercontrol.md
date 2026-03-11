@@ -5,6 +5,7 @@ lastmod: 2024-01-27T17:22:42Z
 #categories: ['android', 'privacy']
 contributors: [kttrickster]
 image: /media/trackercontrol.jpg
+legacy: true
 ---
 
 [TrackerControl](https://trackercontrol.org) — приложение для Android, которое

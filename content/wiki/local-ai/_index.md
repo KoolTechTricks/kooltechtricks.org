@@ -5,8 +5,8 @@ lastmod: 2024-11-23T19:11:00Z
 #categories: ['ai', 'privacy', 'selfhost']
 contributors: [kttrickster]
 layout: single
-kind: page
 sidebar: default
+legacy: true
 ---
 
 Генеративный искусственный интеллект (ИИ) и нейросети, которые можно запускать

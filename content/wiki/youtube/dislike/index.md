@@ -5,6 +5,7 @@ lastmod: 2024-08-27T17:25:00Z
 #categories: ['browser-extensions']
 contributors: [kttrickster]
 image: image.webp
+legacy: true
 ---
 
 [Return YouTube Dislike](https://returnyoutubedislike.com) — расширение и API

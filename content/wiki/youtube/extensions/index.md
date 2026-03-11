@@ -4,6 +4,7 @@ publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-08-27T17:25:00Z
 #categories: ['browser-extensions', 'software-collections']
 contributors: [kttrickster]
+legacy: true
 ---
 
 Более удобный просмотр видео в браузере.

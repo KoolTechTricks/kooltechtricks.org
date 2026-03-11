@@ -1,8 +1,8 @@
 ## Уникальный идентификатор. Новое объявление - прибавить на 1
-id: 1
+id: 2
 
 ## Дата публикации (ГГГГ-ММ-ДД) (необязательно)
-date: 2026-02-02
+date: 2026-03-12
 
 ## Цвет (необязательно)
 ## caution (красный), important (фиолетовый), note (синий), tip (зелёный), warning (оранжевый)
@@ -13,4 +13,4 @@ hide: false
 
 ## Текст объявления (можно использовать Markdown)
 content: >
-  [Зеркала сайта](https://docs.kooltechtricks.org/faq/mirrors)
+  [Где старые страницы?](https://docs.kooltechtricks.org/faq/legacy-pages)

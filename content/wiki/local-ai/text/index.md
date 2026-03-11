@@ -5,6 +5,7 @@ lastmod: 2025-02-01T12:40:00Z
 #categories: ['ai', 'software-collections']
 contributors: [kttrickster]
 image: gpt4all.webp
+legacy: true
 ---
 
 Генеративный искусственный интеллект для создания осмысленного текста локально

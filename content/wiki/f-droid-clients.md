@@ -5,6 +5,7 @@ lastmod: 2024-06-25T18:48:42Z
 #categories: ['android', 'software-collections']
 contributors: [kttrickster]
 image: /media/f-droid-clients-droid-ify.webp
+legacy: true
 ---
 
 Подборка приложений для [F-Droid](/wiki/f-droid) — свободного каталога

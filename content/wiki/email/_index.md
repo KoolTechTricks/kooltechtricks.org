@@ -5,8 +5,8 @@ lastmod: 2024-11-01T17:59:00Z
 #categories: ['internet']
 contributors: [kttrickster]
 layout: single
-kind: page
 sidebar: default
+legacy: true
 ---
 
 Один из старейших способов коммуникации в Интернете.

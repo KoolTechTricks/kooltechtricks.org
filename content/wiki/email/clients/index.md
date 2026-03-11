@@ -5,6 +5,7 @@ lastmod: 2024-10-30T19:21:00Z
 #categories: ['internet', 'privacy', 'productivity', 'software-collections']
 contributors: [kttrickster]
 image: thunderbird.webp
+legacy: true
 ---
 
 Почтовые клиенты — это специальные программы, которые позволяют получать и

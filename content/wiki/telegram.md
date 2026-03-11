@@ -5,6 +5,7 @@ lastmod: 2024-03-02T14:28:23Z
 #categories: ['compilations', 'internet']
 contributors: [kttrickster]
 image: /media/telegram.webp
+legacy: true
 ---
 
 [Telegram](https://telegram.org) — удобный и свободный мессенджер с опциональным

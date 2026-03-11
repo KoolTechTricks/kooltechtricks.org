@@ -6,8 +6,8 @@ lastmod: 2024-11-02T16:33:00Z
 contributors: [kttrickster]
 image: plugins/browser.webp
 layout: single
-kind: page
 sidebar: default
+legacy: true
 ---
 
 [LanguageTool] — программа для проверки грамматики с

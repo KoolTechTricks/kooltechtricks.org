@@ -5,6 +5,7 @@ lastmod: 2024-08-18T14:14:00Z
 #categories: ['browser-extensions']
 contributors: [kttrickster]
 image: image.webp
+legacy: true
 ---
 
 [SponsorBlock] — расширение и API для пропуска раздражающих сегментов в видео на

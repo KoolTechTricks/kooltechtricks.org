@@ -5,6 +5,7 @@ lastmod: 2024-11-06T11:46:00Z
 #categories: ['security']
 contributors: [kttrickster]
 image: keepassxc.webp
+legacy: true
 ---
 
 [KeePassXC] — кроссплатформенный менеджер паролей с [открытым исходным кодом].

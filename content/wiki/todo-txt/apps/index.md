@@ -4,6 +4,7 @@ publishDate: 2024-09-05T17:45:00Z
 lastmod: 2024-09-05T17:45:00Z
 #categories: ['productivity', 'software-collections']
 contributors: [kttrickster]
+legacy: true
 ---
 
 Приложения для ведения списка задач, использующие открытый текстовый формат

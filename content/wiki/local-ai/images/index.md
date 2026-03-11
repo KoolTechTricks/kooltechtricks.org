@@ -5,6 +5,7 @@ lastmod: 2024-10-06T11:40:00Z
 #categories: ['ai', 'software-collections']
 contributors: [kttrickster]
 image: stable-diffusion-web-ui.webp
+legacy: true
 ---
 
 Генеративный искусственный интеллект для создания, дополнения, увеличения и

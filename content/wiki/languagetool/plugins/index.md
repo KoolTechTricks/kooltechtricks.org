@@ -5,6 +5,7 @@ lastmod: 2024-11-02T16:33:00Z
 #categories: ['software-collections']
 contributors: [kttrickster]
 image: obsidian.webp
+legacy: true
 ---
 
 Плагины и дополнения для текстовых редакторов, которые добавляют поддержку

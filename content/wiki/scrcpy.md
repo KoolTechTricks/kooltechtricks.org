@@ -5,6 +5,7 @@ lastmod: 2023-12-24T13:10:53Z
 #categories: ['android']
 contributors: [kttrickster]
 image: /media/scrcpy.jpg
+legacy: true
 ---
 
 [scrcpy](https://github.com/Genymobile/scrcpy) — консольная программа для

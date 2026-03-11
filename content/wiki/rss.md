@@ -5,6 +5,7 @@ lastmod: 2024-11-01T17:37:00Z
 #categories: ['compilations', 'internet']
 contributors: [kttrickster]
 image: /media/rss_guard.jpg
+legacy: true
 ---
 
 RSS — это веб-лента, которая содержит информацию об обновлениях и новых статьях
