@@ -1,0 +1,10 @@
+features: delta-chat
+seeAlso:
+  - title: Подробнее про Delta Chat
+    link: /software/delta-chat
+  - title: Использование Delta Chat с классической электронной почтой
+    link: /guides/delta-chat-email
+    description: Более продвинутый способ использовать Delta Chat.
+articles:
+  - title: Часто задаваемые вопросы по Delta Chat
+    link: https://delta.chat/ru/help

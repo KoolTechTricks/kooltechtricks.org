@@ -1,0 +1,26 @@
+seeAlso:
+  - title: Руководство по использованию Delta Chat
+    link: /guides/delta-chat
+    description: Простое руководство без лишних технических деталей.
+  - title: Использование Delta Chat с классической электронной почтой
+    link: /guides/delta-chat-email
+    description: Более продвинутый способ использовать Delta Chat.
+articles:
+  - title: Часто задаваемые вопросы по Delta Chat
+    link: https://delta.chat/ru/help
+  - title: Everything You Think You Know About DeltaChat Is Wrong
+    link: https://blog.feld.me/posts/2025/03/deltachat-is-actually-good-though/
+    description: >
+      Этот блог пост хорошо объясняет популярные мифы о Delta Chat, логику его
+      работы и почему он на самом деле хорош.
+community:
+  - type: bluesky
+    data: delta.chat
+  - type: forum
+    data: https://support.delta.chat
+  - type: lemmy
+    data: https://lemmy.zip/c/delta_chat
+  - type: mastodon
+    data: https://chaos.social/@delta
+  - type: reddit
+    data: DeltaChat
