@@ -28,8 +28,8 @@ features:
     homepage: https://apps.apple.com/app/mona-7-for-mastodon/id6755672518
   - id: moshidon
   - title: Nicolium
-    homepage: https://pl.mkljczk.pl
-    icon: nicolium.png
+    homepage: https://nicolium.app
+    icon: nicolium.svg
   - id: phanpy
   - title: Tokodon
     icon: tokodon.svg
