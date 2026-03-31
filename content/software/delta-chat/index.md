@@ -1,7 +1,7 @@
 ---
 title: Delta Chat
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-03-24T21:24:00Z
+lastmod: 2026-03-31T21:16:00Z
 #categories: [messenger]
 contributors: [kttrickster]
 image: hero.webp
@@ -75,6 +75,7 @@ Delta Chat достаточно удобный и функциональный, 
 - Собственные эмодзи.
 - Реакции и комментарии в каналах.
 - Группы с темами/ветками.
+- Истории.
 
 ## Приватность
 
