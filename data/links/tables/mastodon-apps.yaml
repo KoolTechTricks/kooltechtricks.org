@@ -29,9 +29,7 @@ features:
   - title: Moshidon
     icon: moshidon.svg
     homepage: https://lucasggamerm.github.io/moshidon
-  - title: Nicolium
-    homepage: https://nicolium.app
-    icon: nicolium.svg
+  - id: nicolium
   - id: phanpy
   - title: Tokodon
     icon: tokodon.svg

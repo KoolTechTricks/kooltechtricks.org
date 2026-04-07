@@ -1,8 +1,8 @@
 title: Ivory
 icon: ivory.webp
 description: >
-  Приложение Mastodon для iOS и macOS от создателей Tweetbot. Для доступа к
-  некоторым функция (публикация, мультиаккаунт) требуется подписка.
+  Проприетарное приложение Mastodon для iOS и macOS от создателей Tweetbot. Для
+  доступа к некоторым функциям (публикация, мультиаккаунт) требуется подписка.
 homepage: https://tapbots.com/ivory
 license: proprietary
 screenshots:
