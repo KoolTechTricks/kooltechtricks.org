@@ -26,7 +26,9 @@ features:
   - title: Mona
     icon: mona.webp
     homepage: https://apps.apple.com/app/mona-7-for-mastodon/id6755672518
-  - id: moshidon
+  - title: Moshidon
+    icon: moshidon.svg
+    homepage: https://lucasggamerm.github.io/moshidon
   - title: Nicolium
     homepage: https://nicolium.app
     icon: nicolium.svg
