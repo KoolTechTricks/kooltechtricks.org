@@ -2,7 +2,7 @@
 title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
-lastmod: 2025-11-26T21:05:00Z
+lastmod: 2026-04-09T15:18:00Z
 contributors: [kttrickster]
 cards: mobile
 ---
@@ -60,7 +60,7 @@ Android-версия использует движок Gecko,
 конфиденциальности рекомендуется переключить некоторые настройки или
 использовать другой браузер на основе Firefox.
 
-Существует облегчённая версия Firefox Focus
+Есть облегчённая версия Firefox Focus
 ([Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) /
 [iOS](https://apps.apple.com/app/id1055677337)). Она не сохраняет историю и
 данные сайтов. По умолчанию лучше защищена от отслеживания.

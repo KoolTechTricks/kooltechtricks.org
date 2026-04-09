@@ -11,20 +11,28 @@ repository: https://github.com/mozilla-firefox/firefox
 license: mpl-2.0
 donate: https://www.mozillafoundation.org/donate
 screenshots:
-  0-firefox-desktop-light.png:
+  1-firefox-desktop-light.webp:
     alt: Firefox для компьютера (светлая тема)
     type: desktop
     color: light
-  1-firefox-android-light.png:
+  2-firefox-android-light.webp:
     alt: Firefox для Android (светлая тема)
     type: mobile
     color: light
-  2-firefox-desktop-dark.png:
+  3-firefox-ios-light.webp:
+    alt: Firefox для iOS (светлая тема)
+    type: mobile
+    color: light
+  4-firefox-desktop-dark.webp:
     alt: Firefox для компьютера (тёмная тема)
     type: desktop
     color: dark
-  3-firefox-android-dark.png:
+  5-firefox-android-dark.webp:
     alt: Firefox для Android (тёмная тема)
+    type: mobile
+    color: dark
+  6-firefox-ios-dark.webp:
+    alt: Firefox для iOS (тёмная тема)
     type: mobile
     color: dark
 get:
