@@ -2,7 +2,8 @@ title: uBlock Origin
 icon: ublock-origin.svg
 description: >
   Браузерное расширение для фильтрации (блокировки) содержимого веб-страниц,
-  включая раздражающие элементы, скрипты отслеживания и рекламу.
+  включая раздражающие элементы, скрипты отслеживания и рекламу. Предотвращает
+  загрузку страниц с вредоносным содержимым.
 kttpage: /software/ublock-origin
 wikipedia: https://en.wikipedia.org/wiki/UBlock_Origin
 docs: https://github.com/gorhill/uBlock/wiki
@@ -10,15 +11,25 @@ issues: https://github.com/uBlockOrigin/uBlock-issues/issues
 repository: https://github.com/gorhill/uBlock
 license: gnu-gpl-3.0
 screenshots:
-  0-ublock-origin-light.png:
+  1-ublock-origin-menu-light.webp:
     alt: >
       Меню uBlock Origin (светлая тема). Кнопка активации, счётчик
       заблокированного содержимого, подключённые домены.
     color: light
-  1-ublock-origin-dark.png:
+  2-ublock-origin-caution-light.webp:
+    alt: >
+      uBlock Origin предотвращает загрузку страницы с вредоносным содержимым
+      (светлая тема).
+    color: light
+  3-ublock-origin-menu-dark.webp:
     alt: >
       Меню uBlock Origin (тёмная тема). Кнопка активации, счётчик
       заблокированного содержимого, подключённые домены.
+    color: dark
+  4-ublock-origin-caution-dark.webp:
+    alt: >
+      uBlock Origin предотвращает загрузку страницы с вредоносным содержимым
+      (тёмная тема).
     color: dark
 get:
   title: Скачать

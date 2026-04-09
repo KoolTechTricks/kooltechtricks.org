@@ -4,7 +4,7 @@ publishDate: 2025-12-02T16:35:00Z
 lastmod: 2025-12-02T16:35:00Z
 #categories: [browser-extensions, content-blockers, privacy]
 contributors: [kttrickster]
-image: /assets/screenshots/ublock-origin-lite/0-ublock-origin-lite-light.png
+image: /assets/screenshots/ublock-origin-lite/1-ublock-origin-lite-menu-light.webp
 imageAlt: >
   Меню uBlock Origin Lite. Переключатель режима фильтрации, инструменты для
   удаления элемента и создания своего фильтра.
