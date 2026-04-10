@@ -8,7 +8,7 @@ homepage: https://nicolium.app
 docs: https://nicolium.app/docs
 issues: https://codeberg.org/nicolium/nicolium/issues
 repository: https://codeberg.org/nicolium/nicolium
-license: gnu-gpl-3.0
+license: gnu-agpl-3.0
 screenshots:
   1-nicolium-home-desktop-light.webp:
     alt: Домашняя лента в Nicolium на широком экране (светлая тема)
