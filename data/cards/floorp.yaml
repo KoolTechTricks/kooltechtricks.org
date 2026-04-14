@@ -1,9 +1,8 @@
 title: Floorp
 icon: floorp.svg
 description: >
-  Браузер с большим количеством настроек и функций. Ранее основывался на Firefox
-  ESR (старая, но поддерживаемая версия). С версии 12 основывается на
-  последней стабильной версии Firefox.
+  Браузер с большим количеством настроек и функций. Основан на последней
+  стабильной версии Firefox.
 homepage: https://floorp.app
 wikipedia: https://en.wikipedia.org/wiki/Floorp
 docs: https://docs.floorp.app
@@ -12,11 +11,11 @@ repository: https://github.com/Floorp-Projects/Floorp
 license: mpl-2.0
 donate: https://github.com/sponsors/surapunoyousei
 screenshots:
-  0-floorp-light.webp:
+  1-floorp-light.webp:
     alt: Floorp (светлая тема)
     type: desktop
     color: light
-  1-floorp-dark.webp:
+  2-floorp-dark.webp:
     alt: Floorp (тёмная тема)
     type: desktop
     color: dark
@@ -25,6 +24,6 @@ get:
   links:
     1 Официальный сайт: https://floorp.app/download
     2 GitHub: https://github.com/Floorp-Projects/Floorp/releases/latest
-    3 Winget (Windows): https://winstall.app/apps/Ablaze.Floorp
-    4 Flathub (Linux): https://flathub.org/apps/one.ablaze.floorp
-    5 Brew (macOS): https://formulae.brew.sh/cask/floorp
+    3 Windows (Winget): https://winstall.app/apps/Ablaze.Floorp
+    4 Linux (Flathub): https://flathub.org/apps/one.ablaze.floorp
+    5 macOS (Homebrew): https://formulae.brew.sh/cask/floorp
