@@ -12,11 +12,11 @@ issues: https://codeberg.org/librewolf/issues
 repository: https://codeberg.org/librewolf
 license: mpl-2.0
 screenshots:
-  0-librewolf-light.png:
+  1-librewolf-light.webp:
     alt: LibreWolf (светлая тема)
     type: desktop
     color: light
-  1-librewolf-dark.png:
+  2-librewolf-dark.webp:
     alt: LibreWolf (тёмная тема)
     type: desktop
     color: dark
