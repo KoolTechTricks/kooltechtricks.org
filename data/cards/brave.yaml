@@ -3,7 +3,7 @@ icon: brave.svg
 description: >
   Браузер с хорошей защитой от отслеживания по умолчанию без ущерба для удобства
   использования. С открытым исходным кодом, основан на модифицированной версии
-  Chromium. Имеет тесную интеграцию с криптовалютами.
+  Chromium. Имеет интеграции с криптовалютами, ИИ и собственными сервисами.
 homepage: https://brave.com
 wikipedia: https://en.wikipedia.org/wiki/Brave_(web_browser)
 help: https://support.brave.com/hc
@@ -11,20 +11,28 @@ issues: https://github.com/brave/brave-browser/issues
 repository: https://github.com/brave/brave-browser
 license: mpl-2.0
 screenshots:
-  0-brave-desktop-light.webp:
+  1-brave-desktop-light.webp:
     alt: Brave для компьютера (светлая тема)
     type: desktop
     color: light
-  1-brave-android-light.webp:
+  2-brave-android-light.webp:
     alt: Brave для Android (светлая тема)
     type: mobile
     color: light
-  2-brave-desktop-dark.webp:
+  3-brave-ios-light.webp:
+    alt: Brave для iOS (светлая тема)
+    type: mobile
+    color: light
+  4-brave-desktop-dark.webp:
     alt: Brave для компьютера (тёмная тема)
     type: desktop
     color: dark
-  3-brave-android-dark.webp:
+  5-brave-android-dark.webp:
     alt: Brave для Android (тёмная тема)
+    type: mobile
+    color: dark
+  6-brave-ios-dark.webp:
+    alt: Brave для iOS (тёмная тема)
     type: mobile
     color: dark
 get:

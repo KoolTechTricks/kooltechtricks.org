@@ -2,7 +2,7 @@
 title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
-lastmod: 2026-04-17T19:03:00Z
+lastmod: 2026-04-17T20:04:00Z
 contributors: [kttrickster]
 cards: mobile
 ---
@@ -125,23 +125,24 @@ Android-версия использует движок Gecko,
 
 {{< card brave >}}
 
-Встроен хороший блокировщик трекеров и рекламы, ничем не уступающий
-[uBlock Origin]. Однако вы можете
-[переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration). Можно очищать данные сайтов не в белом
-списке, что есть в Firefox/LibreWolf на компьютере, но нет в мобильной версии
-Firefox.
+Встроен хороший
+[блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
+ничем не уступающий [uBlock Origin]. Для улучшенной конфиденциальности вы можете
+[переключить дополнительные настройки](https://www.privacyguides.org/en/mobile-browsers/#recommended-brave-configuration).
+Можно очищать данные сайтов не в белом списке, что есть в Firefox на компьютере,
+но нет в мобильной версии Firefox.
 
 Основа Chromium обеспечивает наилучшую производительность и совместимость.
 
-Есть анонимная синхронизация со сквозным шифрованием.
+Синхронизация со сквозным шифрованием не требует создания аккаунта. Перевод
+страниц осуществляется через свои серверы. Есть собственная приватная поисковая
+система [Brave Search](/collections/search-engines#brave-search), но она
+используется по умолчанию не во всех регионах.
 
-Некоторые пользователи
-[недолюбливают](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
-компанию Brave. Не только из-за интеграции с криптовалютами, но также из-за
-[теневых практик](https://thelibre.news/no-really-dont-use-brave/#2016-%E2%80%94-brave-browser-promises-to-replace-webpage-ads)
-и серьёзных ошибок в прошлом: инъекция реферальных ссылок при посещении
-криптокошельков, реклама на домашней странице браузера, утечка доменов при
-использовании режима Инкогнито с Tor.
+Пользователи [критикуют](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
+компанию Brave за навязывание собственных сомнительных сервисов (криптовалюты),
+[теневые практики](https://thelibre.news/no-really-dont-use-brave/#2016-%E2%80%94-brave-browser-promises-to-replace-webpage-ads)
+и серьёзные ошибки в прошлом.
 
 ## DuckDuckGo Browser
 

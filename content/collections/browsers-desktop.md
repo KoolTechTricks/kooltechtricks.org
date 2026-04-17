@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-04-14T21:07:00Z
+lastmod: 2026-04-17T20:04:00Z
 contributors: [kttrickster]
 cards: desktop
 ---
@@ -189,20 +189,27 @@ LibreWolf разрабатывается командой энтузиастов
 
 {{< card brave >}}
 
-Встроен хороший блокировщик трекеров и рекламы, ничем не уступающий
-[uBlock Origin](/software/ublock-origin). Однако вы можете
-[переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
+Встроен хороший
+[блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
+ничем не уступающий [uBlock Origin](/software/ublock-origin). Для улучшенной
+конфиденциальности вы можете [переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
 
-Есть анонимная синхронизация со сквозным шифрованием. Перевод страниц
-осуществляется через серверы Brave и не зависит от сторонних компаний.
+Синхронизация со сквозным шифрованием не требует создания аккаунта. Перевод
+страниц осуществляется через свои серверы. Есть собственная приватная поисковая
+система [Brave Search](/collections/search-engines#brave-search), но она
+используется по умолчанию не во всех регионах.
 
-Некоторые пользователи
-[недолюбливают](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
-компанию Brave. Не только из-за интеграции с криптовалютами, но также из-за
-[теневых практик](https://thelibre.news/no-really-dont-use-brave/#2016-%E2%80%94-brave-browser-promises-to-replace-webpage-ads)
-и серьёзных ошибок в прошлом: инъекция реферальных ссылок при посещении
-криптокошельков, реклама на домашней странице браузера, утечка доменов при
-использовании режима Инкогнито с Tor.
+Пользователи [критикуют](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
+компанию Brave за навязывание собственных сомнительных сервисов (криптовалюты),
+[теневые практики](https://thelibre.news/no-really-dont-use-brave/#2016-%E2%80%94-brave-browser-promises-to-replace-webpage-ads)
+и серьёзные ошибки в прошлом.
+
+Для пользователей, которые хотят получать улучшения конфиденциальности и
+безопасности от Brave, но не желают взаимодействовать с их сервисами, есть
+отдельная очищенная версия браузера [Brave Origin]. Она бесплатная для Linux и
+платная для всех остальных платформ.
+
+[Brave Origin]: https://brave.com/origin/download-nightly
 
 ## Vivaldi
 
