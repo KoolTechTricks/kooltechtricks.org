@@ -10,20 +10,12 @@ repository: https://github.com/uazo/cromite
 license: gnu-gpl-3.0
 donate: https://www.paypal.com/pools/c/9e5lO2OIzb
 screenshots:
-  0-cromite-desktop-light.png:
-    alt: Cromite для компьютера (светлая тема)
-    type: desktop
-    color: light
-  1-cromite-mobile-light.png:
-    alt: Cromite для телефона (светлая тема)
+  1-cromite-android-light.webp:
+    alt: Cromite для Android (светлая тема)
     type: mobile
     color: light
-  2-cromite-desktop-dark.png:
-    alt: Cromite для компьютера (тёмная тема)
-    type: desktop
-    color: dark
-  3-cromite-mobile-dark.png:
-    alt: Cromite для телефона (тёмная тема)
+  2-cromite-android-dark.webp:
+    alt: Cromite для Android (тёмная тема)
     type: mobile
     color: dark
 get:

@@ -2,7 +2,7 @@
 title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
-lastmod: 2026-04-18T19:14:00Z
+lastmod: 2026-04-18T20:01:00Z
 contributors: [kttrickster]
 cards: mobile
 ---
@@ -204,16 +204,14 @@ Vivaldi не продаёт личные данные пользователей
 - Избавлен от служб Google, подобно
 [Ungoogled Chromium](/collections/browsers-desktop#ungoogled-chromium).
 - Интегрирован модифицированный [Adblock Plus](https://github.com/uazo/cromite/blob/master/docs/ADBLOCKING.md).
+- Пользовательские скрипты Greasemonkey.
+- Экспериментальная поддержка расширений.
 - Расширенные настройки разрешений для сайтов: Cookie, JavaScript, JIT, WebGL,
 WebRTC и другие.
 - Настройка прокси (`chrome://proxy`).
-
-Для Android доступно больше возможностей:
-
-- Просмотр исходного кода страницы (`view-source:`) через меню.
 - Настройка User-Agent.
-- Пользовательские скрипты Greasemonkey.
-- Механизм [автоматических обновлений](https://github.com/uazo/cromite/blob/master/docs/AUTOMATIC_UPDATES.md).
+- Просмотр исходного кода страницы (`view-source:`) через меню.
+- Встроенные [автообновления](https://github.com/uazo/cromite/blob/master/docs/AUTOMATIC_UPDATES.md).
 
 ## Orion
 
