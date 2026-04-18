@@ -9,23 +9,32 @@ homepage: https://vivaldi.com
 wikipedia: https://ru.wikipedia.org/wiki/Vivaldi
 help: https://help.vivaldi.com
 issues: https://vivaldi.com/bugreport
+repository: https://vivaldi.com/source
 license: proprietary
 donate: https://vivaldi.com/donate
 screenshots:
-  0-vivaldi-desktop-light.png:
+  1-vivaldi-desktop-light.webp:
     alt: Vivaldi для компьютера (светлая тема)
     type: desktop
     color: light
-  1-vivaldi-android-light.png:
+  2-vivaldi-android-light.webp:
     alt: Vivaldi для Android (светлая тема)
     type: mobile
     color: light
-  2-vivaldi-desktop-dark.png:
+  3-vivaldi-ios-light.webp:
+    alt: Vivaldi для iOS (светлая тема)
+    type: mobile
+    color: light
+  4-vivaldi-desktop-dark.webp:
     alt: Vivaldi для компьютера (тёмная тема)
     type: desktop
     color: dark
-  3-vivaldi-android-dark.png:
+  5-vivaldi-android-dark.webp:
     alt: Vivaldi для Android (тёмная тема)
+    type: mobile
+    color: dark
+  6-vivaldi-ios-dark.webp:
+    alt: Vivaldi для iOS (тёмная тема)
     type: mobile
     color: dark
 get:
