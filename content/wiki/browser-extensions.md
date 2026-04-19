@@ -1,7 +1,7 @@
 ---
 title: Расширения для браузера
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2025-11-11T19:34:00Z
+lastmod: 2026-04-19T19:27:00Z
 contributors: [kttrickster]
 ---
 
@@ -22,22 +22,27 @@ contributors: [kttrickster]
 Рекомендуемые расширения с полезной функциональностью, наименее подверженные
 проблемам, вы найдёте на этом сайте.
 
+Наиболее важно использовать хороший блокировщик контента, если он не встроен
+в браузер, например [uBlock Origin](/software/ublock-origin). Он будет защищать
+вас от вредоносного содержимого в интернете.
+
 ## Chromium
 
 К браузерам на основе Chromium относятся **Google Chrome**, **Microsoft Edge**,
-**Opera**, **Яндекс Браузер**, **Vivaldi**, **Brave**.
+**Opera**, **Яндекс Браузер**, **Vivaldi**, **Brave**, **Helium**.
 
 Установка расширений осуществляется через каталоги [Интернет-магазин Chrome]
 или [Microsoft Edge Add-ons].
 
-Для Android расширения можно устанавливать только в [Microsoft Edge], но мы не
-рекомендуем пользоваться этим браузером.
+Для Android расширения можно устанавливать в [Microsoft Edge], но мы не
+рекомендуем пользоваться этим браузером. Экспериментальная поддержка расширений
+также есть в [Cromite] (Настройки → Developer options → Enable Extensions).
 
 Многие расширения, включая эффективные блокировщики трекеров и рекламы, могут
 быть недоступны. Google отказывается от поддержки Manifest V2 и переходит на
 Manifest V3 в Chromium. Браузеры на основе Chromium, сохраняющие поддержку
-Manifest V2: [Vivaldi], [Brave], [Ungoogled Chromium], [Cromite]. Узнайте больше
-про Manifest V3 и другие теневые стратегии Google на странице
+Manifest V2: [Vivaldi], [Brave], [Helium], [Ungoogled Chromium], [Cromite].
+Узнайте больше про Manifest V3 и другие теневые стратегии Google на странице
 [Браузерные движки].
 
 [Интернет-магазин Chrome]: https://chromewebstore.google.com
@@ -45,6 +50,7 @@ Manifest V2: [Vivaldi], [Brave], [Ungoogled Chromium], [Cromite]. Узнайте
 [Microsoft Edge]: https://play.google.com/store/apps/details?id=com.microsoft.emmx
 [Vivaldi]: /collections/browsers-desktop#vivaldi
 [Brave]: /collections/browsers-desktop#brave
+[Helium]: /collections/browsers-desktop#helium
 [Ungoogled Chromium]: /collections/browsers-desktop#ungoogled-chromium
 [Cromite]: /collections/browsers-mobile#cromite
 [Браузерные движки]: /wiki/browser-engines#chromium--blink
@@ -86,10 +92,13 @@ WebExtensions API, поэтому можно устанавливать расш
 вредоносную активность.
 
 Для их работы необходимо специальное расширение — менеджер пользовательских
-скриптов [Tampermonkey] или [Violentmonkey]. Для Safari: [Userscripts].
+скриптов [Tampermonkey], [Violentmonkey] или [GreaseMonkey].
+Для Safari: [Userscripts]. Некоторые браузеры могут иметь встроенную поддержку
+пользовательских скриптов.
 
 [Tampermonkey]: https://www.tampermonkey.net
 [Violentmonkey]: https://violentmonkey.github.io/get-it
+[GreaseMonkey]: https://addons.mozilla.org/firefox/addon/greasemonkey
 [Userscripts]: https://apps.apple.com/app/id1463298887
 
 Чтобы установить скрипт, нужно открыть страницу с исходным текстом. Она должна

@@ -1,0 +1,27 @@
+title: Helium
+icon: helium.svg
+description: >
+  Чистый и удобный браузер на основе Ungoogled Chromium, учитывающий
+  конфиденциальность пользователей. Разрабатывается некоммерческим сообществом
+  imput.
+homepage: https://helium.computer
+issues: https://github.com/imputnet/helium/issues
+repository: https://github.com/imputnet/helium
+license: gnu-gpl-3.0
+donate: https://helium.computer/sponsor
+screenshots:
+  1-helium-light.webp:
+    alt: Helium (светлая тема)
+    type: desktop
+    color: light
+  2-helium-dark.webp:
+    alt: Helium (тёмная тема)
+    type: desktop
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 Официальный сайт: https://helium.computer
+    2 GitHub (macOS): https://github.com/imputnet/helium-macos/releases/latest
+    3 GitHub (Linux): https://github.com/imputnet/helium-linux/releases/latest
+    4 GitHub (Windows): https://github.com/imputnet/helium-windows/releases/latest

@@ -1,7 +1,7 @@
 ---
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
-lastmod: 2026-04-09T15:49:00Z
+lastmod: 2026-04-19T19:27:00Z
 #categories: [browser-extensions, content-blockers, privacy]
 contributors: [kttrickster]
 image: /assets/screenshots/ublock-origin/1-ublock-origin-menu-light.webp
@@ -107,8 +107,9 @@ uBlock Origin.
 [LibreWolf] и [IronFox] основаны на Firefox, в uBlock Origin по умолчанию
 активированы дополнительные фильтры.
 
-[Helium] основан на Chromium, но сохраняет поддержку Manifest V2 и обеспечивает
-[собственную поставку uBlock Origin](https://github.com/imputnet/ublock-origin-crx).
+[Helium] основан на Chromium, но сохраняет поддержку Manifest V2 и поставляет
+[собственную модифицированную версию uBlock Origin](https://github.com/imputnet/ublock)
+с дополнительными фильтрами.
 
 В [Brave] (для компьютеров и мобильных устройств) встроен собственный
 блокировщик контента. Со своей задачей он справляется не хуже uBlock Origin,
@@ -116,7 +117,7 @@ uBlock Origin.
 
 [LibreWolf]: /software/librewolf
 [IronFox]: /collections/browsers-mobile#ironfox
-[Helium]: https://helium.computer
+[Helium]: /collections/browsers-desktop#helium
 [Brave]: /collections/browsers-desktop#brave
 
 ## Конфигурация
