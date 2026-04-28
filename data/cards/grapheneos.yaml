@@ -1,0 +1,26 @@
+title: GrapheneOS
+icon: grapheneos.svg
+description: >
+  Мобильная операционная система на основе Android Open Source Project,
+  сосредоточенная на улучшение безопасности и приватности без ущерба удобству
+  использования. По умолчанию предустановлен минимум необходимых приложений,
+  сервисы Google опциональны и устанавливаются в изолированном режиме.
+homepage: https://grapheneos.org
+kttpage: /software/grapheneos
+wikipedia: https://en.wikipedia.org/wiki/GrapheneOS
+help: https://grapheneos.org/faq
+docs: https://grapheneos.org/usage
+issues: https://grapheneos.org/contact#reporting-issues
+repository: https://github.com/GrapheneOS
+license: mit # apache-2.0
+donate: https://grapheneos.org/donate
+screenshots:
+  1-grapheneos-home.webp:
+    alt: Домашний экран GrapheneOS
+  2-grapheneos-apps.webp:
+    alt: Список предустановленных приложений GrapheneOS
+get:
+  title: Установить
+  links:
+    1 Установка через браузер (рекомендовано): https://grapheneos.org/install/web
+    2 Установка через терминал: https://grapheneos.org/install/cli

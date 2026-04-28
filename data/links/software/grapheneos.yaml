@@ -1,0 +1,17 @@
+community:
+  - type: bluesky
+    data: grapheneos.org
+  - type: discord
+    data: https://discord.com/invite/grapheneos
+  - type: forum
+    data: https://discuss.grapheneos.org
+  - type: mastodon
+    data: https://grapheneos.social/@GrapheneOS
+  - type: matrix
+    data: community:grapheneos.org
+  - type: reddit
+    data: GrapheneOS
+  - type: telegram
+    data: GrapheneOS
+  - type: xitter
+    data: GrapheneOS
