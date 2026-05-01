@@ -1,7 +1,7 @@
 ---
 title: Использование Delta Chat для удобного и безопасного общения
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-03-31T21:16:00Z
+lastmod: 2026-05-01T20:06:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: Использование Delta Chat для удобного и безопасного общения
@@ -181,7 +181,7 @@ Delta Chat. Также вы можете просто добавить `/new` к
 
 Примеры приложений:
 - [Poll](https://github.com/davidsm10/poll-webxdc/releases/latest/download/app.xdc): Опросы.
-- [To-do list](https://codeberg.org/durian/checklist/releases/download/latest/to-do%20list.xdc): Список задач.
+- [To-do list](https://codeberg.org/durian/checklist/releases/download/latest/to-do%20list.xdc), [BetterList](https://github.com/breisa/betterlist/releases/latest/download/betterlist.xdc): Список задач/покупок.
 - [TOTP](https://codeberg.org/rtn/totp/releases/download/latest/totp.xdc): Генератор кодов двухфакторной
 аутентификации.
 - [Realtime Editor](https://codeberg.org/durian/editor/releases/download/latest/editor.xdc): Текстовый редактор
@@ -189,6 +189,7 @@ Delta Chat. Также вы можете просто добавить `/new` к
 - [Chess](https://github.com/ArcaneCircle/chess/releases/latest/download/app.xdc): Шахматы.
 - [Quake III Arena](https://github.com/WofWca/quake3.xdc/releases/latest/download/quake3.xdc):
 Многопользовательский шутер от первого лица.
+- [Radio Station](https://github.com/Amzd/radio-station-webxdc/releases/latest/download/app.xdc): Музыкальный проигрыватель с peer-to-peer синхронизацией.
 
 Несмотря на отсутствие доступа к интернету, не рекомендуется пользоваться
 приложениями от недоверенных людей. Кто угодно может прислать поддельную
