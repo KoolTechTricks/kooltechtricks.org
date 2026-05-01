@@ -2,7 +2,7 @@
 title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
-lastmod: 2026-04-19T19:27:00Z
+lastmod: 2026-05-01T19:29:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-mobile.webp
 imageAlt: Различные браузеры
@@ -132,8 +132,8 @@ Android-версия использует движок Gecko,
 [блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
 ничем не уступающий [uBlock Origin]. Для улучшенной конфиденциальности вы можете
 [переключить дополнительные настройки](https://www.privacyguides.org/en/mobile-browsers/#recommended-brave-configuration).
-Можно очищать данные сайтов не в белом списке, что есть в Firefox на компьютере,
-но нет в мобильной версии Firefox.
+Можно [очищать данные отдельных сайтов](https://brave.com/privacy-updates/37-shred-button-android)
+вручную или автоматически при закрытии вкладки или приложения.
 
 Основа Chromium обеспечивает наилучшую производительность и совместимость.
 
