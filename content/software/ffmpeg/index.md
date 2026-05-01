@@ -1,7 +1,7 @@
 ---
 title: FFmpeg
 publishDate: 2023-09-11T17:33:00Z
-lastmod: 2026-02-03T18:28:00Z
+lastmod: 2026-02-03T20:59:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 ---
@@ -200,6 +200,16 @@ ffmpeg -i ввод.mp4 -c copy -an вывод.mp4
 
 Это удаляет аудиопоток в видео. Некоторые платформы (например, Telegram) будут
 воспринимать файл как Gif.
+
+### Добавить метаданные
+
+```sh
+# Обложка
+ffmpeg -i ввод.mp3 -i обложка.jpg -c copy -map 0 -map 1 вывод.mp3
+
+# title - заголовок, artist - исполнитель
+ffmpeg -i ввод.mp3 -metadata title="Без названия" -metadata artist="Неизвестен" -codec copy вывод.mp3
+```
 
 ### Видео в Gif
 
