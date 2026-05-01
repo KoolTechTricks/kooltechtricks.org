@@ -1,7 +1,7 @@
 ---
 title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
-lastmod: 2025-11-12T18:03:00Z
+lastmod: 2026-05-01T20:37:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 image: /assets/screenshots/yt-dlp/yt-dlp.png
@@ -132,6 +132,9 @@ yt-dlp --list-formats ССЫЛКИ
 
 # Указать формат файла (во второй колонке EXT)
 yt-dlp --format mp4 ССЫЛКИ
+
+# Игнорировать форматы, улучшенные с помощью ИИ («Сверхвысокое разрешение», «Super resolution»)
+yt-dlp -f "bv*[format_note!*=?AI-upscaled]+ba[format_note!*=?AI-upscaled]" ССЫЛКИ
 ```
 
 Если нужный вам формат отсутствует, то
