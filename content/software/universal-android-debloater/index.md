@@ -1,7 +1,7 @@
 ---
 title: Universal Android Debloater
 publishDate: 2024-08-08T14:57:00Z
-lastmod: 2025-05-04T15:03:00Z
+lastmod: 2026-05-01T20:45:00Z
 #categories: [android, privacy]
 contributors: [kttrickster]
 image: /assets/screenshots/universal-android-debloater/0-universal-android-debloater-light.png
@@ -122,7 +122,9 @@ Debloater (UAD). На телефоне должен появится запро�
 
 - **Recommended** (Рекомендованные) — бессмысленные или откровенно негативные
 пакеты, а также приложения, которые можно скачать из Google Play (Gmail,
-Google Maps, YouTube и др.[^1]).
+Google Maps, YouTube и др.). После повторного скачивания системных приложений из
+Google Play вы всё равно не сможете удалить их без специальных инструментов
+(ADB/Universal Android Debloater).
 
 - **Advanced** (Продвинутые) — нарушают неясные или незначительные части
 функциональности, или приложения, которые не так просто включить/установить
@@ -142,12 +144,11 @@ Google Maps, YouTube и др.[^1]).
 По умолчанию установлен фильтр **«Recommended»**. Следует начать с удаления этих
 приложений.
 
-Поиск осуществляется только по идентификаторам пакетов вида `com.example.app`.
-При нажатии на строку внизу появляется описание на английском языке.
-[Его нельзя скопировать, а также перейти по ссылкам]. По этим причинам удобнее
-смотреть список приложений в файле [uad_lists.json] в репозитории проекта.
+Поиск осуществляется по идентификаторам пакетов вида `com.example.app` и
+описаниям. При нажатии на строку внизу появляется описание на английском языке.
+Также можно смотреть список приложений в файле [uad_lists.json] в репозитории
+проекта.
 
-[Его нельзя скопировать, а также перейти по ссылкам]: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/49
 [uad_lists.json]: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/blob/main/resources/assets/uad_lists.json
 
 ### Резервная копия
@@ -224,8 +225,3 @@ Google Maps, YouTube и др.[^1]).
 2. Дождитесь вибрацию;
 3. Мгновенно (при вибрации), удерживайте клавишу увеличения громкости;
 4. Выполните «очистку данных» (clear data).
-
-
-[^1]: После повторного скачивания системных приложений из Google Play вы всё
-равно не сможете удалить их без специальных инструментов (ADB/Universal Android
-Debloater).
