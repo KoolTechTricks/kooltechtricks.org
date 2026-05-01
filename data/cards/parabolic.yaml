@@ -35,5 +35,8 @@ screenshots:
 get:
   title: Скачать
   links:
-    1 Windows: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicSetup.exe
+    1 Windows:
+      1 Установщик: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicSetup.exe
+      2 Портативно: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicPortable.zip
     2 Linux: https://flathub.org/apps/details/org.nickvision.tubeconverter
+    3 macOS: https://github.com/NickvisionApps/Parabolic/releases/latest/download/Parabolic-macOS-arm64.zip
