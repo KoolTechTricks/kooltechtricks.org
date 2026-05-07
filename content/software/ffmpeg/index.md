@@ -1,7 +1,7 @@
 ---
 title: FFmpeg
 publishDate: 2023-09-11T17:33:00Z
-lastmod: 2026-05-01T20:59:00Z
+lastmod: 2026-05-07T20:28:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 ---
@@ -240,4 +240,12 @@ ffmpeg -i ввод.mp4 -vf "fps=15,scale=512:-1:flags=lanczos,split[s0][s1];[s0]
 
 [LosslessCut]: https://mifi.no/losslesscut
 
-![LosslessCut](losslesscut.webp)
+### CompressO
+
+[CompressO] — простейшая программа для сжатия видео и изображений. Доступны
+дополнительные операции по обработке файлов. Интерфейс основан на Tauri, для
+обработки файлов используется FFmpeg и другие библиотеки.
+
+[Подробнее](https://posts.kooltechtricks.org/@kooltechtricks/statuses/01KR20R420K50RY5DXYY2VGPM9)
+
+[CompressO]: https://compresso.codeforreal.com
