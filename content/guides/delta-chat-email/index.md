@@ -1,7 +1,7 @@
 ---
 title: Использование Delta Chat с классической электронной почтой
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-05-11T20:34:00Z
+lastmod: 2026-05-15T14:46:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: Использование Delta Chat с классической электронной почтой
@@ -136,6 +136,8 @@ Delta Chat работает поверх протоколов электронн
 
 Вход в почтовые клиенты и Delta Chat с почтовым ящиком Mail.ru требует
 [привязки номера телефона к аккаунту](https://help.mail.ru/mail/settings/phone-mail).
+Также для небольшого числа аккаунтов может потребоваться
+[оплата подписки](https://habr.com/ru/news/1001172).
 
 1. Откройте страницу [Пароли для внешних приложений](https://account.mail.ru/user/2-step-auth/passwords)
 2. Нажмите **Создать**
