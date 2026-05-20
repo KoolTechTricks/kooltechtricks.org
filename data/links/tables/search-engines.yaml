@@ -8,6 +8,9 @@ features:
     icon: bing.svg
     homepage: https://bing.com
   - id: brave-search
+  - title: degoog
+    icon: degoog.png
+    repository: https://github.com/degoog-org/degoog
   - id: duckduckgo
   - id: ecosia
   - title: Google Search
