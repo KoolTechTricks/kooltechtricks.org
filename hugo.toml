@@ -3,7 +3,7 @@ baseURL = 'https://kooltechtricks.org/'
 
 theme = ['ktt-main-theme', 'ktt-base-theme']
 
-languageCode = 'ru-ru'
+locale = 'ru-ru'
 defaultContentLanguage = 'ru-ru' # Without this line, date format will be en_US
 
 copyright = 'Содержимое доступно по лицензии [Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.ru), если не указано иное.'
