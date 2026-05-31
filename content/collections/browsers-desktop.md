@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-05-31T13:22:00Z
+lastmod: 2026-05-31T13:26:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
@@ -204,7 +204,8 @@ LibreWolf разрабатывается командой энтузиастов
 используется по умолчанию не во всех регионах.
 
 Пользователи [критикуют](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
-компанию Brave за навязывание собственных сомнительных сервисов (криптовалюты),
+компанию Brave за [навязывание](https://x.com/uwukko/status/2059964727279689905)
+собственных сомнительных сервисов (криптовалюты),
 [теневые практики](https://thelibre.news/no-really-dont-use-brave/#2016-%E2%80%94-brave-browser-promises-to-replace-webpage-ads)
 и серьёзные ошибки в прошлом.
 
