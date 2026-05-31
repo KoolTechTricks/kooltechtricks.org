@@ -1,7 +1,7 @@
 ---
 title: yt-dlp
 publishDate: 2023-09-24T17:43:27Z
-lastmod: 2026-05-01T20:37:00Z
+lastmod: 2026-05-31T13:16:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
 image: /assets/screenshots/yt-dlp/yt-dlp.png
@@ -57,7 +57,7 @@ yt-dlp официально распространяется через [GitHub]
 
 Чтобы скачивать видео из YouTube, [потребуется](https://opennet.ru/64232)
 установить одну из сред исполнения JavaScript: [Deno] (рекомендовано),
-[Node.js], [Bun], [QuickJS] / [QuickJS-ng].
+[Node.js], [QuickJS] / [QuickJS-ng], [Bun] ([не рекомендовано](https://github.com/yt-dlp/yt-dlp/issues/16766)).
 
 Deno используется по умолчанию. Чтобы переопределить путь к исполняемому файлу,
 добавьте параметр `--js-runtimes deno:/путь/к/deno`. Если вы используете другую
