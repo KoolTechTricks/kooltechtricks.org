@@ -27,7 +27,7 @@
 
 **Зависимости:**
 - [Git](https://git-scm.com/downloads)
-- [Hugo](https://gohugo.io/installation) v0.158.0 или выше
+- [Hugo](https://gohugo.io/installation) v0.162.0 или выше
 - [Pagefind](https://pagefind.app) / [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 (опционально, для индексации страниц)
 

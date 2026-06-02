@@ -11,6 +11,9 @@ copyright = 'Содержимое доступно по лицензии [Creati
 #[taxonomies]
 #category = 'categories'
 
+[security]
+allowContent = ['.*']
+
 [markup]
 [markup.tableOfContents]
 ordered = true
