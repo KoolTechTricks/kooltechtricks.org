@@ -1,7 +1,7 @@
 ---
 title: Как использовать Obtainium для получения обновлений приложений не из Google Play?
 publishDate: 2025-04-27T10:10:00Z
-lastmod: 2025-09-29T15:58:00Z
+lastmod: 2026-06-02T18:04:00Z
 contributors: [kttrickster]
 image: hero.png
 imageAlt: >
@@ -38,10 +38,10 @@ Obtainium — удобное решение этой проблемы. Он мо
 Для начала вам нужно скопировать ссылку на источник приложения.
 
 Поддерживается множество источников: GitHub, GitLab, Forgejo (Codeberg),
-Официальный и сторонние F-Droid, IzzyOnDroid, SourceHut, APKPure,
-Aptoide, Uptodown, Huawei AppGallery, RuStore. Также Obtainium может получать
-обновления по прямым ссылкам на APK-файл и с любых сайтов, но для этого
-потребуется дополнительная настройка.
+Официальный и сторонние F-Droid, IzzyOnDroid, SourceHut, APKMirror (только
+отслеживание), Aptoide, Huawei AppGallery, RuStore и другие. Также Obtainium
+может получать обновления по прямым ссылкам на APK-файл и с любых сайтов, но
+для этого потребуется дополнительная настройка.
 
 В целях обучения можете попробовать следующие ссылки:
 
