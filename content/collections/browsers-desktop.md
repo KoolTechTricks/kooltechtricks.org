@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-05-31T13:50:00Z
+lastmod: 2026-06-03T14:30:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
@@ -108,7 +108,9 @@ arkenfox и конфигурации Firefox.
 
 Удалены лишние службы Mozilla, телеметрия и функции на основе искусственного
 интеллекта. DNS over HTTPS (DoH) включён на максимальный уровень. Встроен
-[блокировщик рекламы Brave].
+[блокировщик рекламы Brave]. Добавлен быстрый переключатель сохранения кук и
+данных сайта, если вы настроили их очистку при закрытии браузера (аналогично
+[LibreWolf](#librewolf)).
 
 [блокировщик рекламы Brave]: https://github.com/BrowserWorks/waterfox/issues/4182
 
