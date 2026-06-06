@@ -1,7 +1,7 @@
 ---
 title: Браузерные движки
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2026-02-26T21:37:00Z
+lastmod: 2026-06-06T19:30:00Z
 contributors: [kttrickster]
 ---
 
@@ -223,7 +223,8 @@ Firefox.
 [объявил](https://ladybird.org/posts/adopting-rust) о постепенном переписывании
 кода на Rust с помощью искусственного интеллекта. Утверждается, что процесс
 контролируется человеком, и код проходит все тесты. Также проект критикуют за
-лицензию BSD (как в Chromium).
+лицензию BSD (как в Chromium). С июня 2026 года
+[больше не принимается вклад в исходный код сторонними людьми](https://ladybird.org/posts/changing-how-we-develop-ladybird).
 
 [Ladybird]: https://ladybird.org
 [SerenityOS]: https://en.wikipedia.org/wiki/SerenityOS
