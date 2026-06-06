@@ -1,7 +1,7 @@
 ---
 title: Использование Delta Chat для удобного и безопасного общения
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-05-24T20:37:00Z
+lastmod: 2026-06-06T19:46:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: Использование Delta Chat для удобного и безопасного общения
@@ -188,6 +188,7 @@ Delta Chat. Также вы можете просто добавить `/new` к
 - [Chess](https://github.com/ArcaneCircle/chess/releases/latest/download/app.xdc): Шахматы.
 - [Quake III Arena](https://github.com/WofWca/quake3.xdc/releases/latest/download/quake3.xdc):
 Многопользовательский шутер от первого лица.
+- [webxdcfishing](https://codeberg.org/pea/webxdcfishing/releases/download/latest/webxdcfishing.xdc): Многопользовательский симулятор рыбалки.
 - [Radio Station](https://github.com/Amzd/radio-station-webxdc/releases/latest/download/app.xdc): Музыкальный проигрыватель с peer-to-peer синхронизацией.
 
 Несмотря на отсутствие доступа к интернету, не рекомендуется пользоваться
