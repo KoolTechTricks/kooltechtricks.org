@@ -2,7 +2,7 @@
 title: Поисковые системы
 fancyTitle: Рекомендованные альтернативные поисковые системы
 publishDate: 2023-12-16T17:01:34Z
-lastmod: 2026-06-18T16:08:00Z
+lastmod: 2026-06-18T17:29:00Z
 contributors: [kttrickster]
 image: /assets/hero/search-engines.png
 imageAlt: >
@@ -194,3 +194,14 @@ Kagi следуют [собственной философии интеграц�
 
 [собственной философии интеграции ИИ]: https://help.kagi.com/kagi/why-kagi/ai-philosophy.html
 [SlopStop]: https://help.kagi.com/kagi/features/slopstop.html
+
+## 4get
+
+{{< card 4get >}}
+
+Может послужить альтернативой SearXNG, которую не нужно долго настраивать.
+Однако вы можете искать только из одного источника в рамках одного запроса.
+
+[Список публичных серверов](https://4get.ca/instances) автоматически измеряет
+соединение до каждого сервера. Некоторые серверы имеют капчу, в ходе которой
+нужно выбирать правильные изображения.

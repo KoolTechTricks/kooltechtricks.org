@@ -1,9 +1,7 @@
 unit: Поисковая система
 icon: searxng.svg
 features:
-  - title: 4get
-    icon: 4get.png
-    homepage: https://4get.ca
+  - id: 4get
   - title: Bing
     icon: bing.svg
     homepage: https://bing.com

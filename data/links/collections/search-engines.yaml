@@ -5,6 +5,7 @@ features:
   - searxng
   - ecosia
   - kagi-search
+  - 4get
 seeAlso:
   - title: Таблица сравнения поисковых систем
     link: /tables/search-engines
