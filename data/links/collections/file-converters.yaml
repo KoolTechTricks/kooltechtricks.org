@@ -2,3 +2,4 @@ features:
   - vert
   - file-converter
   - ffmpeg
+  - pandoc

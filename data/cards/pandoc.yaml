@@ -1,0 +1,18 @@
+title: Pandoc
+icon: pandoc.svg
+description: >
+  Консольная программа и библиотека для конвертации формата разметки текстовых
+  файлов.
+homepage: https://pandoc.org
+wikipedia: https://ru.wikipedia.org/wiki/Pandoc
+help: https://pandoc.org/help.html
+docs: https://pandoc.org/MANUAL.html
+issues: https://github.com/jgm/pandoc/issues
+repository: https://github.com/jgm/pandoc
+license: gnu-gpl-2.0
+get:
+  title: Скачать
+  links:
+    1 GitHub: https://github.com/jgm/pandoc/releases/latest
+    2 Инструкции: https://pandoc.org/installing.html
+    3 Браузерная версия: https://pandoc.org/app
