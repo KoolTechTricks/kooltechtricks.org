@@ -2,7 +2,7 @@
 title: Конвертеры файлов
 fancyTitle: Программы для конвертации файлов в другие форматы
 publishDate: 2025-10-27T18:50:00Z
-lastmod: 2025-10-27T18:50:00Z
+lastmod: 2026-06-19T13:41:00Z
 contributors: [kttrickster]
 image: /assets/hero/file-converters.png
 imageAlt: Различные форматы файлов
@@ -30,6 +30,11 @@ imageAlt: Различные форматы файлов
 ## File Converter
 
 {{< card file-converter >}}
+
+На данный момент File Converter доступен только для Windows. Планируется
+мигрировать программу на кросс-платформенный фреймворк. Есть
+[сторонний порт на Linux](https://github.com/AlexDevFlow/Media-Converter#readme),
+выполненный ИИ Claude.
 
 ## FFmpeg
 
