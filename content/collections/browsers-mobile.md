@@ -2,7 +2,7 @@
 title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
-lastmod: 2026-05-31T13:48:00Z
+lastmod: 2026-06-20T12:43:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-mobile.webp
 imageAlt: Различные браузеры
@@ -128,19 +128,18 @@ Android-версия использует движок Gecko,
 
 {{< card brave >}}
 
-Встроен хороший
-[блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
-ничем не уступающий [uBlock Origin]. Для улучшенной конфиденциальности вы можете
-[переключить дополнительные настройки](https://www.privacyguides.org/en/mobile-browsers/#recommended-brave-configuration).
+Встроен хороший [блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
+не уступающий по эффективности [uBlock Origin]. Для улучшенной
+конфиденциальности вы можете [переключить дополнительные настройки](https://www.privacyguides.org/en/mobile-browsers/#recommended-brave-configuration).
 Можно [очищать данные отдельных сайтов](https://brave.com/privacy-updates/37-shred-button-android)
 вручную или автоматически при закрытии вкладки или приложения.
-
-Основа Chromium обеспечивает наилучшую производительность и совместимость.
 
 Синхронизация со сквозным шифрованием не требует создания аккаунта. Перевод
 страниц осуществляется через свои серверы. Есть собственная приватная поисковая
 система [Brave Search](/collections/search-engines#brave-search), но она
-используется по умолчанию не во всех регионах.
+используется по умолчанию не во всех регионах. Можно добавлять
+[свои поисковые системы](https://x.com/brave/status/2065125064433951226) подобно
+Firefox.
 
 Пользователи [критикуют](https://www.xda-developers.com/brave-most-overrated-browser-dont-recommend)
 компанию Brave за [навязывание](https://x.com/uwukko/status/2059964727279689905)
