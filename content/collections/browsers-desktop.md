@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-06-20T12:32:00Z
+lastmod: 2026-06-20T12:38:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
@@ -196,10 +196,9 @@ LibreWolf разрабатывается командой энтузиастов
 
 {{< card brave >}}
 
-Встроен хороший
-[блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
-ничем не уступающий [uBlock Origin]. Для улучшенной конфиденциальности вы можете
-[переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
+Встроен хороший [блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
+не уступающий по эффективности [uBlock Origin]. Для улучшенной
+конфиденциальности вы можете [переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
 
 Синхронизация со сквозным шифрованием не требует создания аккаунта. Перевод
 страниц осуществляется через свои серверы. Есть собственная приватная поисковая
@@ -218,7 +217,7 @@ LibreWolf разрабатывается командой энтузиастов
 платная для всех остальных платформ.
 
 [uBlock Origin]: /software/ublock-origin
-[Brave Origin]: https://brave.com/origin/download-nightly
+[Brave Origin]: https://brave.com/origin
 
 ## Helium
 
