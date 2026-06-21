@@ -31,6 +31,9 @@ features:
     homepage: https://lucasggamerm.github.io/moshidon
   - id: nicolium
   - id: phanpy
+  - title: Pipilo
+    icon: pipilo.webp
+    homepage: https://pipilo.thanel.me
   - title: Tokodon
     icon: tokodon.svg
     homepage: https://apps.kde.org/tokodon
