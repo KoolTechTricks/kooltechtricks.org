@@ -1,7 +1,7 @@
 ---
 title: Delta Chat
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-06-19T20:40:00Z
+lastmod: 2026-06-26T08:33:00Z
 #categories: [messenger]
 contributors: [kttrickster]
 image: hero.webp
@@ -40,7 +40,7 @@ Delta Chat достаточно удобный и функциональный, 
     мини-приложением [File Sync](https://github.com/ArcaneCircle/filesync/releases/latest/download/app.xdc).
 - Опросы (только в виде [мини-приложений](https://github.com/davidsm10/poll-webxdc/releases/latest/download/app.xdc)).
 - Поиск по чатам и сообщениям.
-- Закрепление чатов и архив.
+- Закрепление неограниченного количества чатов и архив.
 - Отключаемая отметка прочтения и имитация времени последнего посещения.
 - Сохранённые сообщения. Можно быстро сохранять сообщения в чатах и
 возвращаться к ним.
