@@ -1,0 +1,19 @@
+seeAlso:
+  - title: GrapheneOS
+    link: /software/grapheneos
+    description: >
+      Операционная система на базе Android Open Source Project, сосредоточенная
+      на улучшение безопасности и приватности без ущерба удобству использования.
+      Добавляет возможность отозвать разрешение на интернет, позволяет выдавать
+      приложениям доступ к индивидуальным файлам и контактам, расширяет
+      пользователей.
+articles:
+  - title: Android Security | Android Open Source Project
+    link: https://source.android.com/docs/security
+    description: Официальная документация по функциям безопасности.
+  - title: The Android Platform Security Model (2023) - arXiv
+    link: https://arxiv.org/html/1904.05572v3
+    description: Подробный технический разбор модели безопасности от сотрудников Google.
+  - title: Android Overview - Privacy Guides
+    link: https://www.privacyguides.org/en/os/android-overview
+    description: Краткий обзор функций безопасности.
