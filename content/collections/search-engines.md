@@ -22,7 +22,8 @@ imageAlt: >
 [является](https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site)
 [вредоносной](https://www.bleepingcomputer.com/news/security/hackers-use-google-search-ads-to-steal-google-ads-accounts).
 Сгенерированные искусственным интеллектом ответы могут дать вам
-[ложную информацию](https://arstechnica.com/information-technology/2024/05/googles-ai-overview-can-give-false-misleading-and-dangerous-answers).
+[ложную](https://arstechnica.com/information-technology/2024/05/googles-ai-overview-can-give-false-misleading-and-dangerous-answers)
+[информацию](https://futurism.com/artificial-intelligence/duckduckgo-ai-trump-rabies).
 
 Вместо того, чтобы дальше позволять корпорациям эксплуатировать ваше внимание,
 вы можете перейти на более чистые и менее отслеживающие поисковые системы,
