@@ -3,6 +3,13 @@ icon: cromite.svg
 description: >
   Браузер, ориентированный на конфиденциальность, со встроенным блокировщиком
   трекеров и рекламы. Основан на модифицированной версии Chromium.
+alert:
+  type: caution
+  content: >
+    Cromite не получает новые обновления с 21 мая 2026 г. Разработка не
+    заброшена, но требует пересмотра планов по сопровождению. Пока нет точного
+    плана по возобновлению выпусков, не рекомендуется использовать Cromite.
+    [Подробнее](https://github.com/uazo/cromite/issues/2976#issuecomment-4954877720)
 homepage: https://www.cromite.org
 docs: https://github.com/uazo/cromite/tree/master/docs
 issues: https://github.com/uazo/cromite/issues
