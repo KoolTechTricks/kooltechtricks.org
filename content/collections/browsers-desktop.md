@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-06-24T18:09:00Z
+lastmod: 2026-07-16T15:27:00Z
 contributors: [kttrickster]
 image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
@@ -197,7 +197,7 @@ LibreWolf разрабатывается командой энтузиастов
 {{< card brave >}}
 
 Встроен хороший [блокировщик трекеров и рекламы](https://github.com/brave/adblock-rust#readme),
-не уступающий по эффективности [uBlock Origin]. Для улучшенной
+не уступающий по эффективности [uBlock Origin]. Поддерживаются [контейнеры](https://support.brave.app/hc/articles/39077103885325-How-do-I-use-Containers-in-Brave) как в Firefox. Для улучшенной
 конфиденциальности вы можете [переключить дополнительные настройки](https://www.privacyguides.org/en/desktop-browsers/#recommended-brave-configuration).
 
 Синхронизация со сквозным шифрованием не требует создания аккаунта. Перевод
