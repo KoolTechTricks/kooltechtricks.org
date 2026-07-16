@@ -1,3 +1,6 @@
+articles:
+  - title: Сравнение операционных систем на базе Android Open Source Project
+    link: https://eylenburg.github.io/android_comparison.htm
 community:
   - type: bluesky
     data: grapheneos.org
