@@ -1,0 +1,39 @@
+title: Droid-ify
+icon: droid-ify.svg
+description: >
+  Простой и легковесный клиент F-Droid.
+homepage: https://droidify.app
+issues: https://github.com/Droid-ify/client/issues
+repository: https://github.com/Droid-ify/client
+license: gnu-gpl-3.0
+screenshots:
+  1-droid-ify-explore-light.webp:
+    alt: Просмотр приложений в Droid-ify (светлая тема)
+    color: light
+  2-droid-ify-app-light.webp:
+    alt: Страница приложения в Droid-ify (светлая тема)
+    color: light
+  3-droid-ify-installed-light.webp:
+    alt: Установленные приложения в Droid-ify (светлая тема)
+    color: light
+  4-droid-ify-repos-light.webp:
+    alt: Управление репозиториями в Droid-ify (светлая тема)
+    color: light
+  5-droid-ify-explore-dark.webp:
+    alt: Просмотр приложений в Droid-ify (тёмная тема)
+    color: dark
+  6-droid-ify-app-dark.webp:
+    alt: Страница приложения в Droid-ify (тёмная тема)
+    color: dark
+  7-droid-ify-installed-dark.webp:
+    alt: Установленные приложения в Droid-ify (тёмная тема)
+    color: dark
+  8-droid-ify-repos-dark.webp:
+    alt: Управление репозиториями в Droid-ify (тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 GitHub: https://github.com/Droid-ify/client/releases/latest/download/app-release.apk
+    2 F-Droid: https://f-droid.org/packages/com.looker.droidify
+    3 IzzyOnDroid: https://apt.izzysoft.de/fdroid/index/apk/com.looker.droidify

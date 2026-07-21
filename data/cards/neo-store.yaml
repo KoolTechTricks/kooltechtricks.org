@@ -1,0 +1,40 @@
+title: Neo Store
+icon: neo-store.webp
+description: >
+  Многофункциональный клиент F-Droid с перегруженным интерфейсом.
+homepage: https://neoapplications.gitlab.io/projects/neo-store
+issues: https://github.com/NeoApplications/Neo-Store/issues
+repository: https://github.com/NeoApplications/Neo-Store
+license: gnu-gpl-3.0
+screenshots:
+  1-neo-store-explore-light.webp:
+    alt: Просмотр приложений в Neo Store (светлая тема)
+    color: light
+  2-neo-store-app-light.webp:
+    alt: Страница приложения в Neo Store (светлая тема)
+    color: light
+  3-neo-store-installed-light.webp:
+    alt: Установленные приложения в Neo Store (светлая тема)
+    color: light
+  4-neo-store-repos-light.webp:
+    alt: Управление репозиториями в Neo Store (светлая тема)
+    color: light
+  5-neo-store-explore-dark.webp:
+    alt: Просмотр приложений в Neo Store (тёмная тема)
+    color: dark
+  6-neo-store-app-dark.webp:
+    alt: Страница приложения в Neo Store (тёмная тема)
+    color: dark
+  7-neo-store-installed-dark.webp:
+    alt: Установленные приложения в Neo Store (тёмная тема)
+    color: dark
+  8-neo-store-repos-dark.webp:
+    alt: Управление репозиториями в Neo Store (тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    1 Codeberg: https://codeberg.org/NeoApplications/Neo-Store/releases/latest
+    2 GitHub: https://github.com/NeoApplications/Neo-Store/releases/latest
+    3 F-Droid: https://f-droid.org/packages/com.machiav3lli.fdroid
+    4 IzzyOnDroid: https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid

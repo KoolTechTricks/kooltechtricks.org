@@ -1,0 +1,42 @@
+title: F-Droid
+icon: f-droid.svg
+description: >
+  Свободный и некоммерческий магазин приложений для Android.
+  Содержит сотни приложений с открытым исходным кодом.
+homepage: https://f-droid.org
+kttpage: /software/f-droid
+wikipedia: https://en.wikipedia.org/wiki/F-Droid
+docs: https://f-droid.org/docs
+issues: https://f-droid.org/issues
+repository: https://gitlab.com/fdroid
+license: gnu-agpl-3.0-or-later
+donate: https://f-droid.org/donate
+screenshots:
+  1-f-droid-explore-light.webp:
+    alt: Просмотр приложений в F-Droid (светлая тема)
+    color: light
+  2-f-droid-app-light.webp:
+    alt: Страница приложения в F-Droid (светлая тема)
+    color: light
+  3-f-droid-installed-light.webp:
+    alt: Установленные приложения в F-Droid (светлая тема)
+    color: light
+  4-f-droid-repos-light.webp:
+    alt: Управление репозиториями в F-Droid (светлая тема)
+    color: light
+  5-f-droid-explore-dark.webp:
+    alt: Просмотр приложений в F-Droid (тёмная тема)
+    color: dark
+  6-f-droid-app-dark.webp:
+    alt: Страница приложения в F-Droid (тёмная тема)
+    color: dark
+  7-f-droid-installed-dark.webp:
+    alt: Установленные приложения в F-Droid (тёмная тема)
+    color: dark
+  8-f-droid-repos-dark.webp:
+    alt: Управление репозиториями в F-Droid (тёмная тема)
+    color: dark
+get:
+  title: Скачать
+  links:
+    APK-файл: https://f-droid.org/F-Droid.apk

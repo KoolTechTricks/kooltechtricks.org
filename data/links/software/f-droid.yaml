@@ -1,0 +1,10 @@
+seeAlso:
+  - title: Альтернативные клиенты F-Droid
+    link: /collections/f-droid-clients
+community:
+  - type: forum
+    data: https://forum.f-droid.org
+  - type: mastodon
+    data: https://floss.social/@fdroidorg
+  - type: matrix
+    data: fdroid:f-droid.org
