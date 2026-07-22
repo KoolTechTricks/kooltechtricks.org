@@ -249,27 +249,6 @@ FreeTube — это настольное приложение YouTube, созд�
 **[DeArrow]:**
 [Не поддерживается](https://github.com/TeamNewPipe/NewPipe/issues/10288)
 
-### Tubular
-
-![Tubular с поддержкой SponsorBlock и Return YouTube Dislike](tubular.webp)
-
-- [GitHub](https://github.com/polymorphicshade/Tubular/releases/latest)
-
-Модификация NewPipe с добавлением поддержки SponsorBlock и Return YouTube
-Dislike.
-
-**[SponsorBlock]:** Включён по умолчанию
-|||
-|-|-|
-|**Категории сегментов**|✅ Все
-|**Настройка цвета сегментов**|✅ Есть
-|**Поведение сегментов**|✅ Все
-|**Белый список каналов**|✅ Есть
-|**Пропуск до важного момента**|✅ Есть
-|**Метки**|❌ Нет
-|**Эпизоды**|❌ Нет
-|**Внести свой вклад**|⚠️ Включено по умолчанию, нельзя указать ID пользователя
-
 ## Grayjay
 
 ![Grayjay на Android](grayjay.webp)
