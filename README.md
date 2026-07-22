@@ -28,8 +28,9 @@
 **Зависимости:**
 - [Git](https://git-scm.com/downloads)
 - [Hugo](https://gohugo.io/installation) v0.162.0 или выше
-- [Pagefind](https://pagefind.app) / [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Pagefind](https://pagefind.app) v1.4.0 / [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 (опционально, для индексации страниц)
+- [Codebook](https://github.com/blopker/codebook#readme) v0.3.42 или выше (опционально, для проверки орфографии)
 
 *Для пользователей Nix: используйте `nix-shell` для включения всех зависимостей.*
 
@@ -46,6 +47,10 @@ hugo server -D -O  # -O чтобы открыть в браузере
 npx -y pagefind --site public
 # Если не через NPM:
 pagefind --site public
+
+# Codebook (CLI)
+codebook-lsp lint --unique . # Проверка орфографии
+codebook-lsp add <WORDS>... # Добавить слова
 ```
 
 Сайт собирается на сервере и публикуется автоматически, когда в этом репозитории
