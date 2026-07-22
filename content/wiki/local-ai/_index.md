@@ -7,6 +7,7 @@ contributors: [kttrickster]
 layout: single
 sidebar: default
 legacy: true
+noindex: true
 ---
 
 Генеративный искусственный интеллект (ИИ) и нейросети, которые можно запускать

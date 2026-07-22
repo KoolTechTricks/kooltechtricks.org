@@ -6,6 +6,7 @@ lastmod: 2025-02-01T12:40:00Z
 contributors: [kttrickster]
 image: gpt4all.webp
 legacy: true
+noindex: true
 ---
 
 Генеративный искусственный интеллект для создания осмысленного текста локально

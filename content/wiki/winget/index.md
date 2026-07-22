@@ -6,6 +6,7 @@ lastmod: 2024-07-26T14:00:00Z
 contributors: [kttrickster]
 image: /media/winget.webp
 legacy: true
+noindex: true
 ---
 
 [WinGet](https://github.com/microsoft/winget-cli) — официальный пакетный

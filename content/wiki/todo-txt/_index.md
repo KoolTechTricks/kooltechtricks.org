@@ -8,6 +8,7 @@ image: image.webp
 layout: single
 sidebar: default
 legacy: true
+noindex: true
 ---
 
 [Todo.txt](http://todotxt.org) — открытый текстовый формат файла списка задач,

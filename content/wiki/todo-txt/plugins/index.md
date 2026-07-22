@@ -6,6 +6,7 @@ lastmod: 2024-11-01T17:43:00Z
 contributors: [kttrickster]
 image: obsidian-todotxt.webp
 legacy: true
+noindex: true
 ---
 
 Добавьте поддержку открытого формата [Todo.txt](/wiki/todo-txt) в удобные для

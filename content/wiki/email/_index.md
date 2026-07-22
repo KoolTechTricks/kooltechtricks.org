@@ -7,6 +7,7 @@ contributors: [kttrickster]
 layout: single
 sidebar: default
 legacy: true
+noindex: true
 ---
 
 Один из старейших способов коммуникации в Интернете.
