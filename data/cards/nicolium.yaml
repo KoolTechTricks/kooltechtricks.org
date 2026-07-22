@@ -10,38 +10,10 @@ issues: https://codeberg.org/nicolium/nicolium/issues
 repository: https://codeberg.org/nicolium/nicolium
 license: gnu-agpl-3.0
 screenshots:
-  1-nicolium-home-desktop-light.webp:
-    alt: Домашняя лента в Nicolium на широком экране (светлая тема)
-    type: desktop
-    color: light
-  2-nicolium-profile-desktop-light.webp:
-    alt: Просмотр профиля в Nicolium на широком экране (светлая тема)
-    type: desktop
-    color: light
-  3-nicolium-home-mobile-light.webp:
-    alt: Домашняя лента в Nicolium на узком экране (светлая тема)
-    type: mobile
-    color: light
-  4-nicolium-profile-mobile-light.webp:
-    alt: Просмотр профиля в Nicolium на узком экране (светлая тема)
-    type: mobile
-    color: light
-  5-nicolium-home-desktop-dark.webp:
-    alt: Домашняя лента в Nicolium на широком экране (тёмная тема)
-    type: desktop
-    color: dark
-  6-nicolium-profile-desktop-dark.webp:
-    alt: Просмотр профиля в Nicolium на широком экране (тёмная тема)
-    type: desktop
-    color: dark
-  7-nicolium-home-mobile-dark.webp:
-    alt: Домашняя лента в Nicolium на узком экране (тёмная тема)
-    type: mobile
-    color: dark
-  8-nicolium-profile-mobile-dark.webp:
-    alt: Просмотр профиля в Nicolium на узком экране (тёмная тема)
-    type: mobile
-    color: dark
+  1 home-desktop-@: Домашняя лента в Nicolium на широком экране
+  2 profile-desktop-@: Просмотр профиля в Nicolium на широком экране
+  3 home-mobile-@: Домашняя лента в Nicolium на узком экране
+  4 profile-mobile-@: Просмотр профиля в Nicolium на узком экране
 get:
   title: Открыть
   links:

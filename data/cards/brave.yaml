@@ -11,30 +11,9 @@ issues: https://github.com/brave/brave-browser/issues
 repository: https://github.com/brave/brave-browser
 license: mpl-2.0
 screenshots:
-  1-brave-desktop-light.webp:
-    alt: Brave для компьютера (светлая тема)
-    type: desktop
-    color: light
-  2-brave-android-light.webp:
-    alt: Brave для Android (светлая тема)
-    type: mobile
-    color: light
-  3-brave-ios-light.webp:
-    alt: Brave для iOS (светлая тема)
-    type: mobile
-    color: light
-  4-brave-desktop-dark.webp:
-    alt: Brave для компьютера (тёмная тема)
-    type: desktop
-    color: dark
-  5-brave-android-dark.webp:
-    alt: Brave для Android (тёмная тема)
-    type: mobile
-    color: dark
-  6-brave-ios-dark.webp:
-    alt: Brave для iOS (тёмная тема)
-    type: mobile
-    color: dark
+  1 desktop-@: Brave для компьютера
+  2 mobile-android-@: Brave для Android
+  3 mobile-ios-@: Brave для iOS
 get:
   title: Скачать
   links:

@@ -10,38 +10,10 @@ repository: https://github.com/cheeaun/phanpy
 license: mit
 donate: https://github.com/sponsors/cheeaun
 screenshots:
-  0-phanpy-home-desktop-light.webp:
-    alt: Домашняя лента в Phanpy на широком экране (светлая тема)
-    type: desktop
-    color: light
-  1-phanpy-profile-desktop-light.png:
-    alt: Просмотр профиля в Phanpy на широком экране (светлая тема)
-    type: desktop
-    color: light
-  2-phanpy-home-mobile-light.webp:
-    alt: Домашняя лента в Phanpy на узком экране (светлая тема)
-    type: mobile
-    color: light
-  3-phanpy-profile-mobile-light.webp:
-    alt: Просмотр профиля в Phanpy на узком экране (светлая тема)
-    type: mobile
-    color: light
-  4-phanpy-home-desktop-dark.webp:
-    alt: Домашняя лента в Phanpy на широком экране (тёмная тема)
-    type: desktop
-    color: dark
-  5-phanpy-profile-desktop-dark.png:
-    alt: Просмотр профиля в Phanpy на широком экране (тёмная тема)
-    type: desktop
-    color: dark
-  6-phanpy-home-mobile-dark.webp:
-    alt: Домашняя лента в Phanpy на узком экране (тёмная тема)
-    type: mobile
-    color: dark
-  7-phanpy-profile-mobile-dark.webp:
-    alt: Просмотр профиля в Phanpy на узком экране (тёмная тема)
-    type: mobile
-    color: dark
+  1 home-desktop-@: Домашняя лента в Phanpy на широком экране
+  2 profile-desktop-@: Просмотр профиля в Phanpy на широком экране
+  3 home-mobile-@: Домашняя лента в Phanpy на узком экране
+  4 profile-mobile-@: Просмотр профиля в Phanpy на узком экране
 get:
   title: Открыть
   links:

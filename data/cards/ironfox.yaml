@@ -10,14 +10,7 @@ issues: https://codeberg.org/ironfox-oss/bugs/issues
 repository: https://gitlab.com/ironfox-oss/IronFox
 license: gnu-agpl-3.0
 screenshots:
-  1-ironfox-light.webp:
-    alt: IronFox (светлая тема)
-    type: mobile
-    color: light
-  2-ironfox-dark.webp:
-    alt: IronFox (тёмная тема)
-    type: mobile
-    color: dark
+  mobile-@: IronFox
 get:
   title: Скачать
   links:

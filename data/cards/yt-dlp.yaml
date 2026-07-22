@@ -13,8 +13,7 @@ repository: https://github.com/yt-dlp/yt-dlp
 license: unlicense
 donate: https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
 screenshots:
-  yt-dlp.png:
-    alt: Скачивание видео с помощью yt-dlp в терминале
+  yt-dlp: Скачивание видео с помощью yt-dlp в терминале
 get:
   title: Скачать
   links:

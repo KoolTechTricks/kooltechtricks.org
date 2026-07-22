@@ -10,19 +10,5 @@ help: https://help.kagi.com
 repository: https://help.kagi.com/kagi/support-and-community/open-source.html
 license: proprietary
 screenshots:
-  0-kagi-search-desktop-light.png:
-    alt: Поиск в Kagi на компьютере (светлая тема)
-    type: desktop
-    color: light
-  1-kagi-search-mobile-light.png:
-    alt: Поиск в Kagi на телефоне (светлая тема)
-    type: mobile
-    color: light
-  2-kagi-search-desktop-dark.png:
-    alt: Поиск в Kagi на компьютере (тёмная тема)
-    type: desktop
-    color: dark
-  3-kagi-search-mobile-dark.png:
-    alt: Поиск в Kagi на телефоне (тёмная тема)
-    type: mobile
-    color: dark
+  1 desktop-@: Поиск в Kagi на компьютере
+  2 mobile-@: Поиск в Kagi на телефоне

@@ -12,22 +12,8 @@ repository: https://github.com/OrionBrowser
 license: proprietary
 donate: https://kagi.com/onboarding?p=orion_plan
 screenshots:
-  1-orion-macos-light.webp:
-    alt: Orion для macOS (светлая тема)
-    type: desktop
-    color: light
-  3-orion-ios-light.webp:
-    alt: Orion для iOS (светлая тема)
-    type: mobile
-    color: light
-  4-orion-macos-dark.webp:
-    alt: Orion для macOS (тёмная тема)
-    type: desktop
-    color: dark
-  6-orion-ios-dark.webp:
-    alt: Orion для iOS (тёмная тема)
-    type: mobile
-    color: dark
+  1 desktop-macos-@: Orion для macOS
+  2 mobile-ios-@: Orion для iOS
 get:
   title: Скачать
   links:

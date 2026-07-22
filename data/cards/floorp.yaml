@@ -11,14 +11,7 @@ repository: https://github.com/Floorp-Projects/Floorp
 license: mpl-2.0
 donate: https://github.com/sponsors/surapunoyousei
 screenshots:
-  1-floorp-light.webp:
-    alt: Floorp (светлая тема)
-    type: desktop
-    color: light
-  2-floorp-dark.webp:
-    alt: Floorp (тёмная тема)
-    type: desktop
-    color: dark
+  desktop-@: Floorp
 get:
   title: Скачать
   links:

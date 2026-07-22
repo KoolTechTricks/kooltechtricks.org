@@ -9,14 +9,7 @@ issues: https://github.com/ungoogled-software/ungoogled-chromium/issues
 repository: https://github.com/ungoogled-software/ungoogled-chromium
 license: bsd-3-clause
 screenshots:
-  1-ungoogled-chromium-light.webp:
-    alt: Ungoogled Chromium (светлая тема)
-    type: desktop
-    color: light
-  2-ungoogled-chromium-dark.webp:
-    alt: Ungoogled Chromium (тёмная тема)
-    type: desktop
-    color: dark
+  desktop-@: Ungoogled Chromium
 get:
   title: Скачать
   links:

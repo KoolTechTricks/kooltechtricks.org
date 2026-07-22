@@ -10,22 +10,8 @@ repository: https://github.com/GeopJr/Tuba
 license: gnu-gpl-3.0
 donate: https://geopjr.dev/donate
 screenshots:
-  0-tuba-home-linux-light.png:
-    alt: Домашняя лента в Tuba для Linux (светлая тема)
-    type: desktop
-    color: light
-  1-tuba-profile-linux-light.png:
-    alt: Просмотр профиля в Tuba для Linux (светлая тема)
-    type: desktop
-    color: light
-  2-tuba-home-linux-dark.png:
-    alt: Домашняя лента в Tuba для Linux (тёмная тема)
-    type: desktop
-    color: dark
-  3-tuba-profile-linux-dark.png:
-    alt: Просмотр профиля в Tuba для Linux (тёмная тема)
-    type: desktop
-    color: dark
+  1 home-linux-@: Домашняя лента в Tuba для Linux
+  2 profile-linux-@: Просмотр профиля в Tuba для Linux
 get:
   title: Скачать
   links:

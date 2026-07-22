@@ -12,30 +12,10 @@ repository: https://gitlab.com/fdroid
 license: gnu-agpl-3.0-or-later
 donate: https://f-droid.org/donate
 screenshots:
-  1-f-droid-explore-light.webp:
-    alt: Просмотр приложений в F-Droid (светлая тема)
-    color: light
-  2-f-droid-app-light.webp:
-    alt: Страница приложения в F-Droid (светлая тема)
-    color: light
-  3-f-droid-installed-light.webp:
-    alt: Установленные приложения в F-Droid (светлая тема)
-    color: light
-  4-f-droid-repos-light.webp:
-    alt: Управление репозиториями в F-Droid (светлая тема)
-    color: light
-  5-f-droid-explore-dark.webp:
-    alt: Просмотр приложений в F-Droid (тёмная тема)
-    color: dark
-  6-f-droid-app-dark.webp:
-    alt: Страница приложения в F-Droid (тёмная тема)
-    color: dark
-  7-f-droid-installed-dark.webp:
-    alt: Установленные приложения в F-Droid (тёмная тема)
-    color: dark
-  8-f-droid-repos-dark.webp:
-    alt: Управление репозиториями в F-Droid (тёмная тема)
-    color: dark
+  1 explore-@: Просмотр приложений в F-Droid
+  2 app-@: Страница приложения в F-Droid
+  3 installed-@: Установленные приложения в F-Droid
+  4 repos-@: Управление репозиториями в F-Droid
 get:
   title: Скачать
   links:

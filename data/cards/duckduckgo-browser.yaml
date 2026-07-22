@@ -11,22 +11,8 @@ help: https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/does-duckduckg
 repository: https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview
 license: apache-2.0
 screenshots:
-  1-duckduckgo-browser-android-light.webp:
-    alt: DuckDuckGo Browser для Android (светлая тема)
-    type: mobile
-    color: light
-  2-duckduckgo-browser-ios-light.webp:
-    alt: DuckDuckGo Browser для iOS (светлая тема)
-    type: mobile
-    color: light
-  3-duckduckgo-browser-android-dark.webp:
-    alt: DuckDuckGo Browser для Android (тёмная тема)
-    type: mobile
-    color: dark
-  4-duckduckgo-browser-ios-dark.webp:
-    alt: DuckDuckGo Browser для iOS (тёмная тема)
-    type: mobile
-    color: dark
+  1 mobile-android-@: DuckDuckGo Browser для Android
+  2 mobile-ios-@: DuckDuckGo Browser для iOS
 get:
   title: Скачать
   links:

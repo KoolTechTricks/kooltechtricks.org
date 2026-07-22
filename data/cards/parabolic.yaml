@@ -8,30 +8,10 @@ repository: https://github.com/NickvisionApps/Parabolic
 license: gnu-gpl-3.0
 donate: https://github.com/sponsors/nlogozzo
 screenshots:
-  1-parabolic-downloading-windows-light.webp:
-    alt: Очередь загрузки Parabolic для Windows (светлая тема)
-    color: light
-  2-parabolic-parameters-windows-light.webp:
-    alt: Параметры загрузки Parabolic для Windows (светлая тема)
-    color: light
-  3-parabolic-downloading-linux-light.png:
-    alt: Очередь загрузки Parabolic для Linux (светлая тема)
-    color: light
-  4-parabolic-parameters-linux-light.png:
-    alt: Параметры загрузки Parabolic для Linux (светлая тема)
-    color: light
-  5-parabolic-downloading-windows-dark.webp:
-    alt: Очередь загрузки Parabolic для Windows (тёмная тема)
-    color: dark
-  6-parabolic-parameters-windows-dark.webp:
-    alt: Параметры загрузки Parabolic для Windows (тёмная тема)
-    color: dark
-  7-parabolic-downloading-linux-dark.png:
-    alt: Очередь загрузки Parabolic для Linux (тёмная тема)
-    color: dark
-  8-parabolic-parameters-linux-dark.png:
-    alt: Параметры загрузки Parabolic для Linux (тёмная тема)
-    color: dark
+  1 downloading-windows-@: Очередь загрузки Parabolic для Windows
+  2 parameters-windows-@: Параметры загрузки Parabolic для Windows
+  3 downloading-linux-@: Очередь загрузки Parabolic для Linux
+  4 parameters-linux-@: Параметры загрузки Parabolic для Linux
 get:
   title: Скачать
   links:

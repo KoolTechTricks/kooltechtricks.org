@@ -7,30 +7,10 @@ issues: https://github.com/Droid-ify/client/issues
 repository: https://github.com/Droid-ify/client
 license: gnu-gpl-3.0
 screenshots:
-  1-droid-ify-explore-light.webp:
-    alt: Просмотр приложений в Droid-ify (светлая тема)
-    color: light
-  2-droid-ify-app-light.webp:
-    alt: Страница приложения в Droid-ify (светлая тема)
-    color: light
-  3-droid-ify-installed-light.webp:
-    alt: Установленные приложения в Droid-ify (светлая тема)
-    color: light
-  4-droid-ify-repos-light.webp:
-    alt: Управление репозиториями в Droid-ify (светлая тема)
-    color: light
-  5-droid-ify-explore-dark.webp:
-    alt: Просмотр приложений в Droid-ify (тёмная тема)
-    color: dark
-  6-droid-ify-app-dark.webp:
-    alt: Страница приложения в Droid-ify (тёмная тема)
-    color: dark
-  7-droid-ify-installed-dark.webp:
-    alt: Установленные приложения в Droid-ify (тёмная тема)
-    color: dark
-  8-droid-ify-repos-dark.webp:
-    alt: Управление репозиториями в Droid-ify (тёмная тема)
-    color: dark
+  1 explore-@: Просмотр приложений в Droid-ify
+  2 app-@: Страница приложения в Droid-ify
+  3 installed-@: Установленные приложения в Droid-ify
+  4 repos-@: Управление репозиториями в Droid-ify
 get:
   title: Скачать
   links:

@@ -6,18 +6,8 @@ description: >
 homepage: https://tapbots.com/ivory
 license: proprietary
 screenshots:
-  0-ivory-home-ios-light.webp:
-    alt: Домашняя лента в Ivory для iOS (светлая тема)
-    color: light
-  1-ivory-profile-ios-light.webp:
-    alt: Просмотр профиля в Ivory для iOS (светлая тема)
-    color: light
-  2-ivory-home-ios-dark.webp:
-    alt: Домашняя лента в Ivory для iOS (тёмная тема)
-    color: dark
-  3-ivory-profile-ios-dark.webp:
-    alt: Просмотр профиля в Ivory для iOS (тёмная тема)
-    color: dark
+  home-ios-@: Домашняя лента в Ivory для iOS
+  profile-ios-@: Просмотр профиля в Ivory для iOS
 get:
   title: Скачать
   links:

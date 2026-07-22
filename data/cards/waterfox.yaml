@@ -11,22 +11,8 @@ repository: https://github.com/BrowserWorks/Waterfox
 license: mpl-2.0
 donate: https://buymeacoffee.com/waterfox
 screenshots:
-  1-waterfox-desktop-light.webp:
-    alt: Waterfox для компьютера (светлая тема)
-    type: desktop
-    color: light
-  2-waterfox-android-light.webp:
-    alt: Waterfox для Android (светлая тема)
-    type: mobile
-    color: light
-  3-waterfox-desktop-dark.webp:
-    alt: Waterfox для компьютера (тёмная тема)
-    type: desktop
-    color: dark
-  4-waterfox-android-dark.webp:
-    alt: Waterfox для Android (тёмная тема)
-    type: mobile
-    color: dark
+  1 desktop-@: Waterfox для компьютера
+  2 mobile-android-@: Waterfox для Android
 get:
   title: Скачать
   links:

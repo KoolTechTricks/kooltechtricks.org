@@ -11,16 +11,9 @@ repository: https://github.com/Tichau/FileConverter
 license: gnu-gpl-3.0
 donate: https://file-converter.io/#donate
 screenshots:
-  0-file-converter-explorer-light.png:
-    alt: Опции конвертации файлов в проводнике (светлая тема)
-    color: light
-  1-file-converter-explorer-dark.png:
-    alt: Опции конвертации файлов в проводнике (тёмная тема)
-    color: dark
-  2-file-converter-queue.png:
-    alt: Очередь
-  3-file-converter-presets.png:
-    alt: Пресеты
+  1 explorer-@: Опции конвертации файлов в проводнике
+  2 queue: Очередь
+  3 presets: Пресеты
 get:
   title: Скачать
   links:

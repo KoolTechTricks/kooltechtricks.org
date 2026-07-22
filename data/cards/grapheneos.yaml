@@ -15,10 +15,8 @@ repository: https://github.com/GrapheneOS
 license: mit # apache-2.0
 donate: https://grapheneos.org/donate
 screenshots:
-  1-grapheneos-home.webp:
-    alt: Домашний экран GrapheneOS
-  2-grapheneos-apps.webp:
-    alt: Список предустановленных приложений GrapheneOS
+  1 home: Домашний экран GrapheneOS
+  2 apps: Список предустановленных приложений GrapheneOS
 get:
   title: Установить
   links:

@@ -8,18 +8,8 @@ repository: https://github.com/Dimillian/IceCubesApp
 license: gnu-agpl-3.0
 donate: https://github.com/sponsors/Dimillian
 screenshots:
-  0-ice-cubes-home-ios-light.webp:
-    alt: Домашняя лента в Ice Cubes для iOS (светлая тема)
-    color: light
-  1-ice-cubes-profile-ios-light.webp:
-    alt: Просмотр профиля в Ice Cubes для iOS (светлая тема)
-    color: light
-  2-ice-cubes-home-ios-dark.webp:
-    alt: Домашняя лента в Ice Cubes для iOS (тёмная тема)
-    color: dark
-  3-ice-cubes-profile-ios-dark.webp:
-    alt: Просмотр профиля в Ice Cubes для iOS (тёмная тема)
-    color: dark
+  1 home-ios-@: Домашняя лента в Ice Cubes для iOS
+  2 profile-ios-@: Просмотр профиля в Ice Cubes для iOS
 get:
   title: Скачать
   links:

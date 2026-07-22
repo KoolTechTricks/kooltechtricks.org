@@ -11,12 +11,7 @@ issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloa
 repository: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
 license: gnu-gpl-3.0
 screenshots:
-  0-universal-android-debloater-light.png:
-    alt: Universal Android Debloater (светлая тема)
-    color: light
-  1-universal-android-debloater-dark.png:
-    alt: Universal Android Debloater (тёмная тема)
-    color: dark
+  uad-@: Universal Android Debloater
 get:
   title: Установить
   links:

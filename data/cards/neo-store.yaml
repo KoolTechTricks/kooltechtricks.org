@@ -7,30 +7,10 @@ issues: https://github.com/NeoApplications/Neo-Store/issues
 repository: https://github.com/NeoApplications/Neo-Store
 license: gnu-gpl-3.0
 screenshots:
-  1-neo-store-explore-light.webp:
-    alt: Просмотр приложений в Neo Store (светлая тема)
-    color: light
-  2-neo-store-app-light.webp:
-    alt: Страница приложения в Neo Store (светлая тема)
-    color: light
-  3-neo-store-installed-light.webp:
-    alt: Установленные приложения в Neo Store (светлая тема)
-    color: light
-  4-neo-store-repos-light.webp:
-    alt: Управление репозиториями в Neo Store (светлая тема)
-    color: light
-  5-neo-store-explore-dark.webp:
-    alt: Просмотр приложений в Neo Store (тёмная тема)
-    color: dark
-  6-neo-store-app-dark.webp:
-    alt: Страница приложения в Neo Store (тёмная тема)
-    color: dark
-  7-neo-store-installed-dark.webp:
-    alt: Установленные приложения в Neo Store (тёмная тема)
-    color: dark
-  8-neo-store-repos-dark.webp:
-    alt: Управление репозиториями в Neo Store (тёмная тема)
-    color: dark
+  1 explore-@: Просмотр приложений в Neo Store
+  2 app-@: Страница приложения в Neo Store
+  3 installed-@: Установленные приложения в Neo Store
+  4 repos-@: Управление репозиториями в Neo Store
 get:
   title: Скачать
   links:

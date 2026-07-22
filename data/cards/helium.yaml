@@ -10,14 +10,7 @@ repository: https://github.com/imputnet/helium
 license: gnu-gpl-3.0
 donate: https://helium.computer/sponsor
 screenshots:
-  1-helium-light.webp:
-    alt: Helium (светлая тема)
-    type: desktop
-    color: light
-  2-helium-dark.webp:
-    alt: Helium (тёмная тема)
-    type: desktop
-    color: dark
+  desktop-@: Helium
 get:
   title: Скачать
   links:

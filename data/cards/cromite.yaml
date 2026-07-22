@@ -17,14 +17,7 @@ repository: https://github.com/uazo/cromite
 license: gnu-gpl-3.0
 donate: https://www.paypal.com/pools/c/9e5lO2OIzb
 screenshots:
-  1-cromite-android-light.webp:
-    alt: Cromite для Android (светлая тема)
-    type: mobile
-    color: light
-  2-cromite-android-dark.webp:
-    alt: Cromite для Android (тёмная тема)
-    type: mobile
-    color: dark
+  mobile-android-@: Cromite для Android
 get:
   title: Скачать
   links:

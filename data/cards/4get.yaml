@@ -9,35 +9,7 @@ repository: https://git.lolcat.ca/lolcat/4get
 license: gnu-agpl-3.0
 donate: https://4get.ca/donate
 screenshots:
-  1-4get-web-desktop-light.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: desktop
-    color: light
-  2-4get-images-desktop-light.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: desktop
-    color: light
-  3-4get-web-mobile-light.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: mobile
-    color: light
-  4-4get-images-mobile-light.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: mobile
-    color: light
-  5-4get-web-desktop-dark.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: desktop
-    color: dark
-  6-4get-images-desktop-dark.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: desktop
-    color: dark
-  7-4get-web-mobile-dark.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: mobile
-    color: dark
-  8-4get-images-mobile-dark.webp:
-    alt: Поиск в 4get на компьютере (светлая тема)
-    type: mobile
-    color: dark
+  1 web-desktop-@: Поиск ссылок в 4get на компьютере
+  2 images-desktop-@: Поиск изображений в 4get на компьютере
+  3 web-mobile-@: Поиск ссылок в 4get на телефоне
+  4 images-mobile-@: Поиск изображений в 4get на телефоне

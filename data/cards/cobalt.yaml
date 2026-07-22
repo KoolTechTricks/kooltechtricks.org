@@ -10,22 +10,8 @@ repository: https://github.com/imputnet/cobalt/issues
 license: gnu-agpl-3.0
 donate: https://cobalt.tools/donate
 screenshots:
-  0-cobalt-desktop-light.png:
-    alt: Скачивание видео с помощью cobalt (компьютер, светлая тема)
-    type: desktop
-    color: light
-  1-cobalt-mobile-light.png:
-    alt: Скачивание видео с помощью cobalt (телефон, светлая тема)
-    type: mobile
-    color: light
-  2-cobalt-desktop-dark.png:
-    alt: Скачивание видео с помощью cobalt (компьютер, тёмная тема)
-    type: desktop
-    color: dark
-  3-cobalt-mobile-dark.png:
-    alt: Скачивание видео с помощью cobalt (телефон, тёмная тема)
-    type: mobile
-    color: dark
+  1 desktop-@: Скачивание видео с помощью cobalt на компьютере
+  2 mobile-@: Скачивание видео с помощью cobalt на телефоне
 get:
   title: Открыть
   links:

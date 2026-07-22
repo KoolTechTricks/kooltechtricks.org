@@ -33,33 +33,8 @@ get:
         `pacman -S deltachat-desktop`
     6 Компьютер (другие варианты без автообновлений): https://github.com/deltachat/deltachat-desktop/releases/latest
 screenshots:
-  01-delta-chat-chats-android-light.webp:
-    alt: Список чатов в Delta Chat для Android (светлая тема)
-    color: light
-  02-delta-chat-conversation-android-light.webp:
-    alt: Диалог в Delta Chat для Android (светлая тема)
-    color: light
-  03-delta-chat-chats-ios-light.webp:
-    alt: Список чатов в Delta Chat для iOS (светлая тема)
-    color: light
-  04-delta-chat-conversation-ios-light.webp:
-    alt: Диалог в Delta Chat для iOS (светлая тема)
-    color: light
-  05-delta-chat-desktop-light.webp:
-    alt: Delta Chat для компьютера (светлая тема)
-    color: light
-  06-delta-chat-chats-android-dark.webp:
-    alt: Список чатов в Delta Chat для Android (тёмная тема)
-    color: dark
-  07-delta-chat-conversation-android-dark.webp:
-    alt: Диалог в Delta Chat для Android (тёмная тема)
-    color: dark
-  08-delta-chat-chats-ios-dark.webp:
-    alt: Список чатов в Delta Chat для iOS (тёмная тема)
-    color: dark
-  09-delta-chat-conversation-ios-dark.webp:
-    alt: Диалог в Delta Chat для iOS (тёмная тема)
-    color: dark
-  10-delta-chat-desktop-dark.webp:
-    alt: Delta Chat для компьютера (тёмная тема)
-    color: dark
+  1 chats-android-@: Список чатов в Delta Chat для Android
+  2 conversation-android-@: Диалог в Delta Chat для Android
+  3 chats-ios-@: Список чатов в Delta Chat для iOS
+  4 conversation-ios-@: Диалог в Delta Chat для iOS
+  5 desktop-@: Delta Chat для компьютера

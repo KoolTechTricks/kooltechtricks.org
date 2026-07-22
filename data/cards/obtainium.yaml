@@ -10,24 +10,9 @@ issues: https://github.com/ImranR98/Obtainium/issues
 repository: https://github.com/ImranR98/Obtainium
 license: gnu-gpl-3.0
 screenshots:
-  1-obtainium-list-light.webp:
-    alt: Список приложений в Obtainium (светлая тема)
-    color: light
-  2-obtainium-app-light.webp:
-    alt: Информация о приложении в Obtainium (светлая тема)
-    color: light
-  3-obtainium-tablet-light.webp:
-    alt: Obtainium на планшете (светлая тема)
-    color: light
-  4-obtainium-list-dark.webp:
-    alt: Список приложений в Obtainium (тёмная тема)
-    color: dark
-  5-obtainium-app-dark.webp:
-    alt: Информация о приложении в Obtainium (тёмная тема)
-    color: dark
-  6-obtainium-tablet-dark.webp:
-    alt: Obtainium на планшете (тёмная тема)
-    color: dark
+  1 list-@: Список приложений в Obtainium
+  2 app-@: Информация о приложении в Obtainium
+  3 tablet-@: Obtainium на планшете
 get:
   title: Скачать
   links:

@@ -8,19 +8,5 @@ wikipedia: https://en.wikipedia.org/wiki/Brave_Search
 help: https://search.brave.com/help
 license: proprietary
 screenshots:
-  0-brave_search-desktop-light.png:
-    alt: Brave Search на компьютере (светлая тема)
-    type: desktop
-    color: light
-  1-brave_search-mobile-light.png:
-    alt: Brave Search на телефоне (светлая тема)
-    type: mobile
-    color: light
-  2-brave_search-desktop-dark.png:
-    alt: Brave Search на компьютере (тёмная тема)
-    type: desktop
-    color: dark
-  3-brave_search-mobile-dark.png:
-    alt: Brave Search на телефоне (тёмная тема)
-    type: mobile
-    color: dark
+  desktop-@: Brave Search на компьютере
+  mobile-@: Brave Search на телефоне
