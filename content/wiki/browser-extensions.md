@@ -1,7 +1,7 @@
 ---
 title: Расширения для браузера
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2026-04-19T19:27:00Z
+lastmod: 2026-07-23T13:20:00Z
 contributors: [kttrickster]
 ---
 
@@ -36,23 +36,19 @@ contributors: [kttrickster]
 
 Для Android расширения можно устанавливать в [Microsoft Edge], но мы не
 рекомендуем пользоваться этим браузером. Экспериментальная поддержка расширений
-также есть в [Cromite] (Настройки → Developer options → Enable Extensions).
+также есть в [Cromite] (Настройки → Developer options → Enable Extensions) и
+[Titanium].
 
 Многие расширения, включая эффективные блокировщики трекеров и рекламы, могут
 быть недоступны. Google отказывается от поддержки Manifest V2 и переходит на
-Manifest V3 в Chromium. Браузеры на основе Chromium, сохраняющие поддержку
-Manifest V2: [Vivaldi], [Brave], [Helium], [Ungoogled Chromium], [Cromite].
-Узнайте больше про Manifest V3 и другие теневые стратегии Google на странице
-[Браузерные движки].
+Manifest V3 в Chromium. Узнайте больше про Manifest V3 и другие теневые
+стратегии Google на странице [Браузерные движки].
 
 [Интернет-магазин Chrome]: https://chromewebstore.google.com
 [Microsoft Edge Add-ons]: https://microsoftedge.microsoft.com
 [Microsoft Edge]: https://play.google.com/store/apps/details?id=com.microsoft.emmx
-[Vivaldi]: /collections/browsers-desktop#vivaldi
-[Brave]: /collections/browsers-desktop#brave
-[Helium]: /collections/browsers-desktop#helium
-[Ungoogled Chromium]: /collections/browsers-desktop#ungoogled-chromium
 [Cromite]: /collections/browsers-mobile#cromite
+[Titanium]: https://github.com/jqssun/android-titanium-browser#readme
 [Браузерные движки]: /wiki/browser-engines#chromium--blink
 
 ## Firefox
