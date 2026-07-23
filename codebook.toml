@@ -76,6 +76,7 @@ words = [
     "moshinda",
     "mullvad",
     "multilib",
+    "multiplatform",
     "nicolium",
     "nilch",
     "obtainium",
@@ -344,7 +345,7 @@ extra_ignore_patterns = ['contributors: \[.+\]']
 [[overrides]]
 paths = ["data/cards/*.yaml"]
 extra_words = ["kttpage"]
-extra_ignore_patterns = ['(obtainium|fdroidrepos)?://[^\s]+',]
+extra_ignore_patterns = ['(obtainium|fdroidrepos)?://[^\s]+']
 
 [[overrides]]
 paths = ["data/links/*/*.yaml"]

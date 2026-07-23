@@ -34,6 +34,9 @@ features:
   - title: Pipilo
     icon: pipilo.webp
     homepage: https://pipilo.thanel.me
+  - title: Raccoon
+    icon: raccoon.webp
+    homepage: https://livefasteattrashraccoon.github.io/RaccoonForFriendica
   - title: Tokodon
     icon: tokodon.svg
     homepage: https://apps.kde.org/tokodon
