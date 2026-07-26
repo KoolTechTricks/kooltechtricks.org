@@ -1,7 +1,7 @@
 ---
 title: Использование Delta Chat для удобного и безопасного общения
 publishDate: 2026-03-15T14:58:00Z
-lastmod: 2026-06-26T08:33:00Z
+lastmod: 2026-07-26T18:11:00Z
 contributors: [kttrickster]
 image: hero.webp
 imageAlt: Использование Delta Chat для удобного и безопасного общения
@@ -174,13 +174,11 @@ Delta Chat. Также вы можете просто добавить `/new` к
 Примеры приложений:
 - [Poll](https://github.com/davidsm10/poll-webxdc/releases/latest/download/app.xdc): Опросы.
 - [To-do list](https://codeberg.org/durian/checklist/releases/download/latest/to-do%20list.xdc), [BetterList](https://github.com/breisa/betterlist/releases/latest/download/betterlist.xdc): Список задач/покупок.
-- [TOTP](https://codeberg.org/rtn/totp/releases/download/latest/totp.xdc): Генератор кодов двухфакторной
-аутентификации.
-- [Realtime Editor](https://codeberg.org/durian/editor/releases/download/latest/editor.xdc): Текстовый редактор
-в режиме реального времени.
+- [TOTP](https://codeberg.org/rtn/totp/releases/download/latest/totp.xdc): Генератор кодов двухфакторной аутентификации.
+- [Realtime Editor](https://codeberg.org/durian/editor/releases/download/latest/editor.xdc), [MD-Docs](https://github.com/experintellia/md-docs/releases/latest/download/md-docs.xdc): Текстовые редакторы в режиме реального времени.
+- [Excalidraw](https://github.com/omidz4t/excalidraw-webxdc/releases/latest): Порт [одноимённой](https://excalidraw.com) коллаборативной доски.
 - [Chess](https://github.com/ArcaneCircle/chess/releases/latest/download/app.xdc): Шахматы.
-- [Quake III Arena](https://github.com/WofWca/quake3.xdc/releases/latest/download/quake3.xdc):
-Многопользовательский шутер от первого лица.
+- [Quake III Arena](https://github.com/WofWca/quake3.xdc/releases/latest/download/quake3.xdc): Многопользовательский шутер от первого лица.
 - [webxdcfishing](https://codeberg.org/pea/webxdcfishing/releases/download/latest/webxdcfishing.xdc): Многопользовательский симулятор рыбалки.
 - [Radio Station](https://github.com/Amzd/radio-station-webxdc/releases/latest/download/app.xdc): Музыкальный проигрыватель с peer-to-peer синхронизацией.
 
@@ -297,24 +295,27 @@ Delta Chat на другом устройстве. Оба устройства �
 Вы можете выбрать релей, который будет использоваться для отправки сообщений.
 Если подключиться к этому релею не удаётся, то вы не сможете отправлять
 сообщения. Другие релеи будут использоваться для получения сообщений даже когда
-основной релей недоступен. Переключение основного релея не повлияет на
-действующую ссылку-приглашение.
+основной релей недоступен.
 
 После добавления релея контакты не получат информацию о нём до тех пор, пока вы
 не отправите им какое-нибудь сообщение. Вместе с вашими сообщениями контакты
 получают список ваших актуальных релеев, через которые они смогут доставлять
 вам сообщения.
 
-Если вы хотите удалить релей, то должны быть уверены, что все контакты имеют
-список ваших актуальных релеев. Иначе кто-то всё ещё сможет отправлять сообщения
-на удалённый релей, и вы не получите их. Следует сначала скрыть релей, чтобы
-контакты перестали получать информацию о нём, но при этом продолжать получать
-сообщения через него. Читайте подсказки в интерфейсе приложения.
+Вы можете удалить релей, что скроет его из списка релеев у ваших контактов. Вы
+всё ещё будете получать сообщения от этого релея на случай, если старые/редкие
+контакты ещё не получили актуальный список ваших релеев. Если этот релей не
+будет получать сообщения в течении 90 дней, или суммарное количество релеев
+превысит 5 штук, то он будет автоматически полностью удалён, и вы перестанете
+получать сообщения оттуда.
+
+Смена релея для отправки сообщений или его удаление не повлияет на действующую
+ссылку приглашение. Однако при копировании в ссылке будет задействован
+актуальный релей, который лучше использовать вместо предыдущего.
 
 ![Вы можете добавить до пяти различных релеев, которые будут использоваться для
 получения сообщений. Вы можете переключать релей, который будет использоваться
-для отправки сообщений. Скройте релеей вместо удаления, чтобы продолжать
-получать сообщения через него.](relays.webp)
+для отправки сообщений.](relays.webp)
 
 ## Очистка
 
