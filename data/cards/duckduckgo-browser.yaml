@@ -1,3 +1,4 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: DuckDuckGo Browser
 icon: duckduckgo.svg
 description: >
@@ -6,20 +7,50 @@ description: >
   Использует системный браузерный движок. С открытым исходным кодом для Android,
   iOS и macOS; проприетарный для Windows.
 homepage: https://duckduckgo.com/app
-wikipedia: https://ru.wikipedia.org/wiki/DuckDuckGo_Private_Browser
-help: https://duckduckgo.com/duckduckgo-help-pages/get-duckduckgo/does-duckduckgo-make-a-browser
-repository: https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview
-license: apache-2.0
+extras:
+  owner: Duck Duck Go, Inc.
+  initialRelease: 2018-01-17
+  news: https://spreadprivacy.com
+  community:
+    xitter: DuckDuckGo
+  technicalInfo:
+    license:
+      - id: apache-2.0
+        note: Android, iOS, macOS
+      - id: proprietary
+        note: Windows
+    repository: https://duckduckgo.com/duckduckgo-help-pages/open-source/opensource-overview
+    tech: Blink (Android, Windows), WebKit (iOS, macOS)
+    llmAssistance: 'Есть, [разрешено](https://github.com/duckduckgo/Android/blob/develop/AGENTS.md)'
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/DuckDuckGo_Private_Browser
+    fourPda: https://4pda.to/forum/index.php?showtopic=462839
+get:
+  linkButtons:
+    - group: Android
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://add/https://github.com/duckduckgo/Android
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.duckduckgo.mobile.android
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/duckduckgo/Android/releases/latest
+    - group: iOS
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/id663592361
+    - group: Компьютер
+    - title: Windows
+      icon: windows
+      url: https://duckduckgo.com/windows
+    - title: macOS
+      icon: apple
+      url: https://duckduckgo.com/mac
 screenshots:
   1 mobile-android-@: DuckDuckGo Browser для Android
   2 mobile-ios-@: DuckDuckGo Browser для iOS
-get:
-  title: Скачать
-  links:
-    1 Android:
-      1 Google Play: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android
-      2 GitHub: https://github.com/duckduckgo/Android/releases/latest
-      3 F-Droid: https://f-droid.org/packages/com.duckduckgo.mobile.android
-    2 iOS: https://apps.apple.com/app/id663592361
-    3 Windows: https://duckduckgo.com/windows
-    4 macOS: https://duckduckgo.com/mac

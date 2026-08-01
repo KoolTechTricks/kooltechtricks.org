@@ -1,0 +1,61 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: Example
+#icon: example.svg
+description: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua.
+#alert:
+#  type: warning
+#  content: >
+#    **Lorem** Ipsum ist [dolor](https://example.com)
+homepage: https://example.com
+userDocs: https://docs.example.com
+extras:
+  owner: '[Horns and Hooves, Inc.](https://example.org/)'
+  initialRelease: 2023-08-27
+  news: https://example.com/blog
+  changelog: https://example.com/CHANGELOG.md
+  issues: https://example.com/issues
+  donate: https://example.com/donate
+  community:
+    rules: https://example.com/code-of-conduct
+    forum: https://forum.example.com
+    bluesky: example.com
+    discord: https://discord.gg/
+    lemmy: https://lemmy.example.com/c/community
+    mastodon: https://instance.example.com/@username
+    matrix: room:example.com
+    reddit: example
+    telegram: username
+    xitter: twitter
+  technicalInfo:
+    license: gnu-gpl-3.0
+    #  - id: gnu-agpl-3.0-or-later
+    #  - id: mit
+    #  - title: Custom License
+    #    url: https://example.com/license.txt
+    repository: https://git.example.com/repo
+    techDocs: https://dev.example.com
+    tech: Electron, Tauri (Rust)
+    llmAssistance: '[Запрещено](https://example.com/ai)'
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/
+    archWiki: https://wiki.archlinux.org/
+    fourPda: https://4pda.to/
+    isItReallyFoss: https://isitreallyfoss.com/
+get:
+  #title: Скачать
+  linkButtons:
+    - group: Группа
+    - title: Ссылка
+      icon: icon
+      url: https://example.com/download
+  #linkList:
+  #  1 Верхний уровень:
+  #    1 Нижний уровень: https://example.com
+  #note: Примечание
+screenshots:
+  1 example: Описание изображения
+  2 example-@: Описание изображения (@ = светлая + тёмная тема)
+  3 example.png: Изображение с другим разрешением (не .webp)
+  4 example-@.jpg: Комбинировано

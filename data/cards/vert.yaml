@@ -1,19 +1,31 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: VERT
-icon: vert.svg
 description: >
   Конвертер файлов в вашем браузере без рекламы и ограничений. Все файлы кроме
   видео обрабатываются на вашем устройстве и не отправляются на сторонние
   серверы.
 homepage: https://vert.sh
-help: https://github.com/VERT-sh/VERT/blob/main/docs/FAQ.md
-issues: https://github.com/VERT-sh/VERT/issues
-repository: https://github.com/VERT-sh/VERT
-license: gnu-agpl-3.0
-donate: https://vert.sh/about
+userDocs: https://github.com/VERT-sh/VERT/blob/main/docs/FAQ.md
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2024-11
+  changelog: https://github.com/VERT-sh/VERT/commits/main
+  issues: https://github.com/VERT-sh/VERT/issues
+  donate: https://vert.sh/about
+  community:
+    forum: https://github.com/orgs/VERT-sh/discussions
+    discord: https://discord.gg/kqevGxYPak
+    xitter: VERT_sh
+  technicalInfo:
+    license: gnu-agpl-3.0
+    repository: https://github.com/VERT-sh/VERT
+    techDocs: https://github.com/VERT-sh/VERT/blob/main/docs
+    tech: Svelte, TypeScript
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://vert.sh
 screenshots:
   1 desktop-@: Конвертирование файлов в VERT на компьютере
   2 mobile-@: Конвертирование файлов в VERT на телефоне
-get:
-  title: Открыть
-  links:
-    1 Официальный сайт: https://vert.sh

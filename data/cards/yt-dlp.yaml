@@ -1,34 +1,39 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: yt-dlp
-icon: yt-dlp.svg
 description: >
   Универсальный загрузчик видео, аудио и прямых трансляций из YouTube, TikTok,
   X/Twitter, Reddit, Twitch и сотни других сайтов. Только с консольным
   интерфейсом. Является основой для многих загрузчиков.
-kttpage: /software/yt-dlp
-wikipedia: https://en.wikipedia.org/wiki/Youtube-dl#yt-dlp_fork
-help: https://github.com/yt-dlp/yt-dlp/wiki
-docs: https://github.com/yt-dlp/yt-dlp#usage-and-options
-issues: https://github.com/yt-dlp/yt-dlp/issues
-repository: https://github.com/yt-dlp/yt-dlp
-license: unlicense
-donate: https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md#maintainers
-screenshots:
-  yt-dlp: Скачивание видео с помощью yt-dlp в терминале
+homepage: https://github.com/yt-dlp/yt-dlp#readme
+userDocs: https://github.com/yt-dlp/yt-dlp#usage-and-options
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2021-01-07
+  changelog: https://github.com/yt-dlp/yt-dlp/releases
+  issues: https://github.com/yt-dlp/yt-dlp/issues
+  donate: https://github.com/yt-dlp/yt-dlp/blob/master/Maintainers.md
+  community:
+    discord: https://discord.gg/H5MNcFW63r
+  technicalInfo:
+    license: unlicense
+    repository: https://github.com/yt-dlp/yt-dlp
+    tech: Python
+    llmAssistance: '[Запрещено](https://github.com/yt-dlp/yt-dlp/tree/master/.NO_AI)'
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Youtube-dl#yt-dlp_fork
+    archWiki: https://wiki.archlinux.org/title/Yt-dlp
 get:
-  title: Скачать
-  links:
+  linkList:
     1 Windows:
       1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
-      2 WinGet: >
-        `winget install yt-dlp.yt-dlp`
+      2 WinGet: '`winget install yt-dlp.yt-dlp`'
     2 Linux:
       1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp
-      2 Arch Linux: >
-        `sudo pacman -S yt-dlp`
+      2 Arch Linux: '`sudo pacman -S yt-dlp`'
     3 macOS:
       1 GitHub: https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos
-      2 Homebrew: >
-        `brew install yt-dlp`
+      2 Homebrew: '`brew install yt-dlp`'
     4 Android:
-      1 Termux: >
-        `pkg install python-yt-dlp`
+      1 Termux: '`pkg install python-yt-dlp`'
+screenshots:
+  yt-dlp: Скачивание видео с помощью yt-dlp в терминале

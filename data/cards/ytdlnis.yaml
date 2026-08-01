@@ -1,3 +1,4 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: YTDLnis
 icon: ytdlnis.png
 description: >
@@ -5,11 +6,36 @@ description: >
   Использует yt-dlp, поддерживаются многие его функции. Можно использовать
   консольный интерфейс yt-dlp и задавать свои шаблоны команд.
 homepage: https://ytdlnis.org
-help: https://ytdlnis.org/docs/faq/general
-docs: https://ytdlnis.org/docs/guides/getting-started
-issues: https://github.com/deniscerri/ytdlnis/issues
-repository: https://github.com/deniscerri/ytdlnis
-license: gnu-gpl-3.0
+userDocs: https://ytdlnis.org/docs/guides/getting-started
+extras:
+  owner: '[Denis Çerri](https://github.com/deniscerri)'
+  initialRelease: 2022-05-30
+  news: https://ytdlnis.org/news/
+  changelog: https://ytdlnis.org/changelogs/
+  issues: https://github.com/deniscerri/ytdlnis/issues
+  donate: https://www.buymeacoffee.com/deniscerri
+  community:
+    forum: https://github.com/deniscerri/ytdlnis/discussions
+    discord: https://discord.gg/WW3KYWxAPm
+    telegram: ytdlnis
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/deniscerri/ytdlnis
+    tech: Kotlin
+    llmAssistance: '[Разрешено](https://github.com/deniscerri/ytdlnis/blob/main/CONTRIBUTING.MD#ai-contribution-policy)'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1061055
+get:
+  linkButtons:
+    - title: GitHub
+      icon: github
+      url: https://github.com/deniscerri/ytdlnis/releases/latest
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/packages/com.deniscerri.ytdl
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.deniscerri.ytdl
 screenshots:
   download-@: >
     Скачивание медиа в YTDLnis. Нужно вставить ссылку, затем появится окно
@@ -18,8 +44,3 @@ screenshots:
   downloads-@: >
     Список загруженных медиа в YTDLnis. Отображаются обложки, длительность,
     дата скачивания. Можно посмотреть подробную информацию.
-get:
-  title: Скачать
-  links:
-    1 GitHub: https://github.com/deniscerri/ytdlnis/releases/latest
-    2 F-Droid (IzzyOnDroid): https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl

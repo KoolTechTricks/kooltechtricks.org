@@ -1,14 +1,23 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Ivory
 icon: ivory.webp
 description: >
   Проприетарное приложение Mastodon для iOS и macOS от создателей Tweetbot. Для
   доступа к некоторым функциям (публикация, мультиаккаунт) требуется подписка.
 homepage: https://tapbots.com/ivory
-license: proprietary
+userDocs: https://tapbots.com/support/ivory/
+extras:
+  owner: '[Tapbots](https://tapbots.com)'
+  initialRelease: 2023-01-24
+  community:
+    mastodon: https://tapbots.social/@ivory
+  technicalInfo:
+    license: proprietary
+get:
+  linkButtons:
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/ivory-for-mastodon-by-tapbots/id6444602274
 screenshots:
   home-ios-@: Домашняя лента в Ivory для iOS
   profile-ios-@: Просмотр профиля в Ivory для iOS
-get:
-  title: Скачать
-  links:
-    AppStore: https://apps.apple.com/app/ivory-for-mastodon-by-tapbots/id6444602274

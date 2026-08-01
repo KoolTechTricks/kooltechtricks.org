@@ -1,13 +1,21 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: DuckDuckGo
-icon: duckduckgo.svg
 description: >
   Самая известная и простая в использовании поисковая система, уважающая
   конфиденциальность пользователей. Использует Bing в своей поисковой выдаче.
 homepage: https://duckduckgo.com
-wikipedia: https://en.wikipedia.org/wiki/DuckDuckGo
-help: https://duckduckgo.com/duckduckgo-help-pages
-repository: https://github.com/duckduckgo
-license: proprietary
+userDocs: https://duckduckgo.com/duckduckgo-help-pages
+extras:
+  owner: Duck Duck Go, Inc.
+  initialRelease: 2008-09-25
+  news: https://spreadprivacy.com
+  community:
+    xitter: DuckDuckGo
+  technicalInfo:
+    license: proprietary
+    repository: https://github.com/duckduckgo
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/DuckDuckGo
 screenshots:
   1 desktop-@: Поиск в DuckDuckGo на компьютере
   2 mobile-@: Поиск в DuckDuckGo на телефоне

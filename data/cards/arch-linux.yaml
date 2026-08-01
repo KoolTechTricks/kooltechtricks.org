@@ -1,5 +1,5 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Arch Linux
-icon: arch-linux.svg
 description: >
   Простой, легковесный и гибкий дистрибутив GNU/Linux. Программы в нём
   обновляются постоянно — пользователи получают новейшие версии. Изначально в
@@ -7,14 +7,30 @@ description: >
   Система устанавливается в терминале вручную или при помощи автоматического
   установщика.
 homepage: https://archlinux.org
-kttpage: /software/arch-linux
-wikipedia: https://ru.wikipedia.org/wiki/Arch_Linux
-docs: https://wiki.archlinux.org
-issues: https://wiki.archlinux.org/title/Bug_reporting_guidelines
-repository: https://gitlab.archlinux.org/archlinux
-license: gnu-gpl
-donate: https://archlinux.org/donate
+userDocs: https://wiki.archlinux.org
+extras:
+  owner: '[Levente Polyák](https://archlinux.org/news/the-future-of-the-arch-linux-project-leader)'
+  initialRelease: 2002-03-11
+  news: https://archlinux.org/news
+  issues: https://wiki.archlinux.org/title/Bug_reporting_guidelines
+  donate: https://archlinux.org/donate
+  community:
+    rules: https://terms.archlinux.org/docs/code-of-conduct
+    forum: https://bbs.archlinux.org
+    mastodon: https://fosstodon.org/@archlinux
+    reddit: archlinux
+  technicalInfo:
+    license: gnu-gpl
+    repository: https://gitlab.archlinux.org
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Arch_Linux
+    archWiki: https://wiki.archlinux.org/title/Arch_Linux
 get:
-  title: Скачать
-  links:
-    Официальный сайт: https://archlinux.org/download
+  title: Установить
+  linkButtons:
+    - title: Официальный сайт
+      icon: computer
+      url: https://archlinux.org/download
+    - title: Инструкция
+      icon: developer-guide
+      url: https://wiki.archlinux.org/title/Installation_guide_(Русский)

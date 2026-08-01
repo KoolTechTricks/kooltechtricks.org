@@ -4,6 +4,3 @@ seeAlso:
   - title: uBlock Origin Lite
     link: /software/ublock-origin-lite
     description: Облегчённая версия, основанная на Manifest V3
-community:
-  - type: reddit
-    data: uBlockOrigin

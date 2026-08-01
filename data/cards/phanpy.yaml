@@ -1,23 +1,42 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Phanpy
-icon: phanpy.svg
 description: >
   Необычное минималистичное веб-приложение для Mastodon. Содержит уникальные
   функции и решения по дизайну. Хорошо поддерживается и реализует многие
   функции Mastodon.
 homepage: https://phanpy.social
-issues: https://github.com/cheeaun/phanpy/issues
-repository: https://github.com/cheeaun/phanpy
-license: mit
-donate: https://github.com/sponsors/cheeaun
+extras:
+  owner: '[Chee Aun](https://github.com/cheeaun)'
+  initialRelease: 2022-12-15
+  changelog: https://github.com/cheeaun/phanpy/blob/main/CHANGELOG.md
+  issues: https://github.com/cheeaun/phanpy/issues
+  donate: https://github.com/sponsors/cheeaun
+  community:
+    mastodon: https://hachyderm.io/@phanpy
+    matrix: phanpy:matrix.org
+  technicalInfo:
+    license: mit
+    repository: https://github.com/cheeaun/phanpy
+    tech: Статичное веб-приложение, Preact
+get:
+  title: Открыть
+  linkButtons:
+    - group: Веб
+    - title: Стабильная версия
+      icon: web
+      url: https://phanpy.social
+    - title: Новейшая версия
+      icon: experiment
+      url: https://dev.phanpy.social
+    - group: Неофициальные приложения
+    - title: iOS
+      icon: apple
+      url: https://apps.apple.com/app/iphanpy-for-mastodon/id6755365082
+    - title: Android
+      icon: android
+      url: https://code.umrath.dev/thoralf/Phandroid#readme
 screenshots:
   1 home-desktop-@: Домашняя лента в Phanpy на широком экране
   2 profile-desktop-@: Просмотр профиля в Phanpy на широком экране
   3 home-mobile-@: Домашняя лента в Phanpy на узком экране
   4 profile-mobile-@: Просмотр профиля в Phanpy на узком экране
-get:
-  title: Открыть
-  links:
-    1 Стабильная версия: https://phanpy.social
-    2 Новейшая версия: https://dev.phanpy.social
-    3 Неофициальное приложение для iOS: https://apps.apple.com/app/iphanpy-for-mastodon/id6755365082
-    4 Неофициальное приложение для Android: https://codeberg.org/umrath/Phandroid#readme

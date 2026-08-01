@@ -1,18 +1,35 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Pandoc
-icon: pandoc.svg
 description: >
   Консольная программа и библиотека для конвертации формата разметки текстовых
   файлов.
 homepage: https://pandoc.org
-wikipedia: https://ru.wikipedia.org/wiki/Pandoc
-help: https://pandoc.org/help.html
-docs: https://pandoc.org/MANUAL.html
-issues: https://github.com/jgm/pandoc/issues
-repository: https://github.com/jgm/pandoc
-license: gnu-gpl-2.0
+userDocs: https://pandoc.org/MANUAL.html
+extras:
+  owner: '[John MacFarlane](https://github.com/jgm)'
+  initialRelease: 2006-08-14
+  changelog: https://pandoc.org/releases.html#revision-history-for-pandoc
+  issues: https://github.com/jgm/pandoc/issues
+  community:
+    forum: https://github.com/jgm/pandoc/discussions
+  technicalInfo:
+    license: gnu-gpl-2.0
+    repository: https://github.com/jgm/pandoc
+    tech: Haskell
+    llmAssistance: Есть
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Pandoc
 get:
-  title: Скачать
-  links:
-    1 GitHub: https://github.com/jgm/pandoc/releases/latest
-    2 Инструкции: https://pandoc.org/installing.html
-    3 Веб-версия: https://pandoc.org/app
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://pandoc.org/installing.html
+    - title: Homebrew
+      icon: sports-bar
+      url: https://formulae.brew.sh/formula/pandoc#default
+    - title: GitHub
+      icon: github
+      url: https://github.com/jgm/pandoc/releases/latest
+    - title: Веб
+      icon: web
+      url: https://pandoc.org/app

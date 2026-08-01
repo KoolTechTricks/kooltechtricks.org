@@ -1,5 +1,5 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Delta Chat
-icon: delta-chat.svg
 description: >
   Простой в использовании приватный мессенджер со сквозным шифрованием. Не
   требует номер телефона и прочие персональные данные. Поддерживаются многие
@@ -9,29 +9,73 @@ description: >
   спама на архитектурном уровне. Некоммерческий проект, полностью бесплатный и
   без рекламы.
 homepage: https://delta.chat/ru
-kttpage: /software/delta-chat
-help: https://delta.chat/help
-repository: https://github.com/deltachat
-license: gnu-gpl-3.0
-donate: https://delta.chat/donate
+userDocs: https://delta.chat/ru/help
+extras:
+  owner: '[merlinux GmbH](https://merlinux.eu)'
+  initialRelease: 2016-09-08
+  news: https://delta.chat/blog
+  changelog:
+    - title: Android
+      url: https://github.com/deltachat/deltachat-android/blob/main/CHANGELOG.md
+    - title: iOS
+      url: https://github.com/deltachat/deltachat-ios/blob/main/CHANGELOG.md
+    - title: Компьютер
+      url: https://github.com/deltachat/deltachat-desktop/blob/main/CHANGELOG.md
+  donate: https://delta.chat/donate
+  community:
+    rules: https://delta.chat/ru/community-standards
+    forum: https://support.delta.chat
+    bluesky: delta.chat
+    lemmy: https://lemmy.zip/c/delta_chat
+    mastodon: https://chaos.social/@delta
+    reddit: DeltaChat
+  technicalInfo:
+    license:
+      - id: gnu-gpl-3.0
+        note: Delta Chat для Android и компьютера
+      - id: mpl-2.0
+        note: Ядро Chatmail и Delta Chat для iOS
+    repository: https://github.com/deltachat
+    tech: Ядро Chatmail (Rust), Electron (Delta Chat для компьютера)
+    llmAssistance: '[Не определено](https://support.delta.chat/t/any-official-position-on-the-use-of-ai/5039/13)'
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Delta_Chat
+    fourPda: https://4pda.to/forum/index.php?showtopic=895419
 get:
-  title: Скачать
-  links:
-    1 Android:
-      1 Google Play: https://play.google.com/store/apps/details?id=chat.delta
-      2 F-Droid: https://f-droid.org/app/com.b44t.messenger
-      3 Obtainium: obtainium://app/{%22id%22:%22chat.delta%22,%22url%22:%22https://github.com/deltachat/deltachat-android%22,%22author%22:%22Delta%20Chat%20Contributors%22,%22name%22:%22Delta%20Chat%22,%22additionalSettings%22:%22{\%22about\%22:\%22Decentralized%20private%20messenger%20with%20chat-shared%20tools%20and%20games.\%22}%22}
-    2 iOS: https://apps.apple.com/app/delta-chat/id1459523234
-    3 Windows: https://apps.microsoft.com/detail/9pjtxx7hn3pk
-    4 macOS:
-      1 AppStore: https://apps.apple.com/app/delta-chat-desktop/id1462750497
-      2 Homebrew: >
-        `brew install --cask deltachat`
-    5 Linux:
-      1 Flathub: https://flathub.org/apps/details/chat.delta.desktop
-      2 Arch Linux: >
-        `pacman -S deltachat-desktop`
-    6 Компьютер (другие варианты без автообновлений): https://github.com/deltachat/deltachat-desktop/releases/latest
+  linkButtons:
+    - group: Android
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=chat.delta
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://app/{%22id%22:%22chat.delta%22,%22url%22:%22https://github.com/deltachat/deltachat-android%22,%22author%22:%22Delta%20Chat%20Contributors%22,%22name%22:%22Delta%20Chat%22,%22additionalSettings%22:%22{\%22about\%22:\%22Decentralized%20private%20messenger%20with%20chat-shared%20tools%20and%20games.\%22}%22}
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/app/com.b44t.messenger
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/deltachat/deltachat-android/releases/latest
+    - group: iOS
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/delta-chat/id1459523234
+    - group: Компьютер
+    - title: Windows (Microsoft Store)
+      icon: windows
+      url: https://apps.microsoft.com/detail/9pjtxx7hn3pk
+    - title: macOS (App Store)
+      icon: app-store
+      url: https://apps.apple.com/app/delta-chat-desktop/id1462750497
+    - title: macOS (Homebrew)
+      icon: sports-bar
+      url: https://formulae.brew.sh/cask/deltachat#default
+    - title: Linux (Flathub)
+      icon: flathub
+      url: https://flathub.org/apps/details/chat.delta.desktop
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/deltachat/deltachat-desktop/releases/latest
 screenshots:
   1 chats-android-@: Список чатов в Delta Chat для Android
   2 conversation-android-@: Диалог в Delta Chat для Android

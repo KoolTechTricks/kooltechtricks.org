@@ -1,3 +1,4 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Tusky
 icon: tusky.png
 description: >
@@ -5,16 +6,36 @@ description: >
   приложений, которое активно развивается и по сей день, но получает обновления
   нечасто.
 homepage: https://tusky.app
-issues: https://codeberg.org/tusky/Tusky/issues
-repository: https://codeberg.org/tusky/Tusky
-license: gnu-gpl-3.0
-donate: https://opencollective.com/tusky
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2017-02-07
+  changelog: https://codeberg.org/tusky/Tusky/src/branch/develop/CHANGELOG.md
+  issues: https://codeberg.org/tusky/Tusky/issues
+  donate: https://opencollective.com/tusky
+  community:
+    mastodon: https://mastodon.social/@Tusky
+    matrix: Tusky:matrix.org
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://codeberg.org/tusky/Tusky
+    tech: Kotlin, Material Design
+    llmAssistance: '[Запрещено](https://codeberg.org/tusky/Tusky/src/branch/develop/CONTRIBUTING.md#ai-policy)'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1015498
+get:
+  linkButtons:
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.keylesspalace.tusky
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://add/https://codeberg.org/tusky/Tusky
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky
+    - title: Codeberg (без автообновлений)
+      icon: codeberg
+      url: https://codeberg.org/tusky/Tusky/releases/latest
 screenshots:
   1 home-@: Домашняя лента в Tusky
   2 profile-@: Просмотр профиля в Tusky
-get:
-  title: Скачать
-  links:
-    1 Google Play: https://play.google.com/store/apps/details?id=com.keylesspalace.tusky
-    2 Codeberg: https://codeberg.org/tusky/Tusky/releases/latest
-    3 F-Droid: https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky

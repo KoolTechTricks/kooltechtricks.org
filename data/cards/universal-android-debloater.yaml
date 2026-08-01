@@ -1,18 +1,29 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Universal Android Debloater
-icon: universal-android-debloater.svg
 description: >
   Настольная программа для удаления предустановленных приложений Android с
   использованием ADB без root-прав. Для каждого приложения обозначено описание и
   степень безопасности удаления.
-kttpage: /software/universal-android-debloater
-help: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/FAQ
-docs: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki
-issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues
-repository: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
-license: gnu-gpl-3.0
+homepage: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#readme
+userDocs: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2023-10-27
+  changelog: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/releases
+  issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues
+  community:
+    forum: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions
+    discord: https://discord.gg/CzwbMCPEZa
+    matrix: uad-ng:matrix.org
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation
+    tech: Rust
+    llmAssistance: Есть
+get:
+  linkButtons:
+    - title: Инструкции
+      icon: web
+      url: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/Getting-started
 screenshots:
   uad-@: Universal Android Debloater
-get:
-  title: Установить
-  links:
-    Инструкция: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/Getting-started

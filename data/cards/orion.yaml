@@ -1,21 +1,36 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Orion
-icon: orion.png
 description: >
   Браузер на основе WebKit с поддержкой расширений Chromium и Firefox.
   Ориентирован на пользователя, со встроенной блокировкой отслеживания и
   нулевой телеметрией. Разработка финансируется пользователями.
 homepage: https://orionbrowser.com
-wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)#Orion_Browser
-help: https://help.kagi.com/orion
-issues: https://orionfeedback.org
-repository: https://github.com/OrionBrowser
-license: proprietary
-donate: https://kagi.com/onboarding?p=orion_plan
+userDocs: https://help.kagi.com/orion
+extras:
+  owner: Kagi Inc.
+  initialRelease: 2022-06-01
+  changelog: https://orionbrowser.com/updates/versions
+  issues: https://orionfeedback.org
+  donate: https://kagi.com/onboarding?p=orion_plan
+  community:
+    xitter: OrionBrowser
+  technicalInfo:
+    license: proprietary
+    repository: https://github.com/OrionBrowser
+    tech: WebKit
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Kagi#Orion_Browser
+get:
+  linkButtons:
+    - title: macOS
+      icon: apple
+      url: https://orionbrowser.com/download/installer
+    - title: iOS / iPadOS
+      icon: apple
+      url: https://apps.apple.com/app/orion-browser-by-kagi/id1484498200
+    - title: Linux (бета)
+      icon: linux
+      url: https://orionbrowser.com/platforms/linux
 screenshots:
   1 desktop-macos-@: Orion для macOS
   2 mobile-ios-@: Orion для iOS
-get:
-  title: Скачать
-  links:
-    1 macOS: https://cdn.kagi.com/downloads/OrionInstaller.dmg
-    2 iOS: https://apps.apple.com/app/id1484498200

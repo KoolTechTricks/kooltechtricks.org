@@ -1,12 +1,23 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Brave Search
-icon: brave-search.svg
 description: >
   Независимая поисковая система от создателей браузера Brave. Ориентируется на
   конфиденциальность пользователей.
 homepage: https://search.brave.com
-wikipedia: https://en.wikipedia.org/wiki/Brave_Search
-help: https://search.brave.com/help
-license: proprietary
+userDocs: https://search.brave.com/help
+extras:
+  owner: Brave Software, Inc.
+  initialRelease: 2021-10-19
+  news: https://brave.com/blog
+  community:
+    forum: https://community.brave.app/c/brave-search/145
+    bluesky: brave.com
+    mastodon: https://mastodon.social/@brave
+    xitter: brave
+  technicalInfo:
+    license: proprietary
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Brave_Search
 screenshots:
   desktop-@: Brave Search на компьютере
   mobile-@: Brave Search на телефоне

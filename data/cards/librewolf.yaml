@@ -1,29 +1,40 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: LibreWolf
-icon: librewolf.svg
 description: >
   Браузер, нацеленный на конфиденциальность, безопасность и свободу без весомого
   ущерба для удобства использования. Основан на последней стабильной версии
   Firefox с опозданием в пару дней.
-homepage: https://librewolf.net
-kttpage: /software/librewolf
-wikipedia: https://ru.wikipedia.org/wiki/LibreWolf
-help: https://librewolf.net/docs/faq
-issues: https://codeberg.org/librewolf/issues
-repository: https://codeberg.org/librewolf
-license: mpl-2.0
+homepage: https://www.librewolf.net
+userDocs: https://www.librewolf.net/docs/faq
+extras:
+  owner: '[Сообщество энтузиастов](https://www.librewolf.net/#core-contributors)'
+  initialRelease: 2019-06-16
+  changelog: https://codeberg.org/librewolf/bsys6/releases
+  issues: https://codeberg.org/librewolf/issues
+  community:
+    lemmy: https://lemmy.ml/c/librewolf
+    mastodon: https://chaos.social/@librewolf
+    matrix: librewolf-community:matrix.org
+    reddit: LibreWolf
+  technicalInfo:
+    license: mpl-2.0
+    repository: https://codeberg.org/librewolf
+    tech: Firefox
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/LibreWolf
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://www.librewolf.net/installation
+    - title: Microsoft Store (Windows)
+      icon: windows
+      url: https://apps.microsoft.com/detail/9nvn9sz8kfd7
+    - title: Homebrew (macOS)
+      icon: sports-bar
+      url: https://formulae.brew.sh/cask/librewolf#default
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/io.gitlab.librewolf-community
 screenshots:
   desktop-@: LibreWolf
-get:
-  title: Скачать
-  links:
-    1 Все варианты: https://librewolf.net/installation
-    2 Windows:
-      1 Официальный сайт: https://librewolf.net/installation/windows
-      2 Microsoft Store: https://apps.microsoft.com/store/detail/9NVN9SZ8KFD7
-    3 Linux:
-      1 Flathub: https://flathub.org/apps/details/io.gitlab.librewolf-community
-      2 AppImage: https://librewolf.net/installation/linux/#appimage
-    4 macOS:
-      1 Homebrew: >
-        `brew install librewolf --no-quarantine`
-      2 Официальный сайт (без автообновлений): https://librewolf.net/installation/macos/#disk-image

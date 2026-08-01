@@ -1,21 +1,34 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Elk
-icon: elk.svg
 description: >
   Шустрое веб-приложение Mastodon, находящееся в активной разработке. Интерфейс
   похож на современную веб-версию X (Twitter).
 homepage: https://docs.elk.zone
-help: https://docs.elk.zone/guide
-issues: https://github.com/elk-zone/elk/issues
-repository: https://github.com/elk-zone/elk
-license: mit
-donate: https://docs.elk.zone/guide/sponsoring
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2023-01-10
+  changelog: https://github.com/elk-zone/elk/releases
+  issues: https://github.com/elk-zone/elk/issues
+  donate: https://docs.elk.zone/guide/sponsoring
+  community:
+    discord: https://chat.elk.zone
+    mastodon: https://m.webtoo.ls/@elk@webtoo.ls
+  technicalInfo:
+    license: mit
+    repository: https://github.com/elk-zone/elk
+    tech: Nuxt, Vue
+    llmAssistance: 'Есть, [разрешено](https://github.com/elk-zone/elk/blob/main/AGENTS.md)'
+get:
+  title: Открыть
+  linkButtons:
+    - title: Стабильная версия
+      icon: web
+      url: https://elk.zone
+    - title: Новейшая версия
+      icon: experiment
+      url: https://main.elk.zone
 screenshots:
   1 home-desktop-@: Домашняя лента в Elk на широком экране
   2 profile-desktop-@: Просмотр профиля в Elk на широком экране
   3 home-mobile-@: Домашняя лента в Elk на узком экране
   4 profile-mobile-@: Просмотр профиля в Elk на узком экране
-get:
-  title: Открыть
-  links:
-    1 Стабильная версия: https://elk.zone
-    2 Новейшая версия: https://main.elk.zone

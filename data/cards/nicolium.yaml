@@ -1,20 +1,33 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Nicolium
-icon: nicolium.svg
 description: >
   Веб-приложение для Mastodon и других совместимых сервисов Fediverse.
   Реализует многие основные и расширенные возможности, а также добавляет
   собственные мелкие полезные функции.
 homepage: https://nicolium.app
-docs: https://nicolium.app/docs
-issues: https://codeberg.org/nicolium/nicolium/issues
-repository: https://codeberg.org/nicolium/nicolium
-license: gnu-agpl-3.0
+userDocs: https://nicolium.app/docs
+extras:
+  owner: '[nicole mikołajczyk](https://codeberg.org/mkljczk)'
+  initialRelease: 2026-03-22
+  news: https://nicolium.app/blog
+  changelog: https://codeberg.org/nicolium/nicolium/releases
+  issues: https://codeberg.org/nicolium/nicolium/issues
+  donate: https://nicolium.app/docs/#sponsors
+  community:
+    rules: https://nicolium.app/docs/contributing/code-of-conduct
+    mastodon: https://pl.fediverse.pl/@Nicolium
+  technicalInfo:
+    license: gnu-agpl-3.0
+    repository: https://codeberg.org/nicolium/nicolium
+    tech: Одностраничное приложение (SPA), React
+    llmAssistance: '[Запрещено](https://codeberg.org/nicolium/nicolium/src/branch/develop/AGENTS.md)'
+get:
+  linkButtons:
+    - title: Стабильная версия
+      icon: web
+      url: https://web.nicolium.app
 screenshots:
   1 home-desktop-@: Домашняя лента в Nicolium на широком экране
   2 profile-desktop-@: Просмотр профиля в Nicolium на широком экране
   3 home-mobile-@: Домашняя лента в Nicolium на узком экране
   4 profile-mobile-@: Просмотр профиля в Nicolium на узком экране
-get:
-  title: Открыть
-  links:
-    1 Стабильная версия: https://web.nicolium.app

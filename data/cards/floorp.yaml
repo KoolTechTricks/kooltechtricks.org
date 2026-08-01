@@ -1,22 +1,50 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Floorp
-icon: floorp.svg
 description: >
   Браузер с большим количеством настроек и функций. Основан на последней
   стабильной версии Firefox.
 homepage: https://floorp.app
-wikipedia: https://en.wikipedia.org/wiki/Floorp
-docs: https://docs.floorp.app
-issues: https://github.com/Floorp-Projects/Floorp/issues
-repository: https://github.com/Floorp-Projects/Floorp
-license: mpl-2.0
-donate: https://github.com/sponsors/surapunoyousei
+userDocs: https://docs.floorp.app/docs
+extras:
+  owner: '[Ablaze](https://ablaze.one/en)'
+  initialRelease: 2021-08-22
+  news: https://blog.floorp.app/categories/notice
+  changelog: https://blog.floorp.app/categories/release
+  issues: https://github.com/Floorp-Projects/Floorp/issues
+  donate: https://docs.floorp.app/docs/contributing/floorp#support-the-project
+  community:
+    bluesky: floorp.app
+    discord: https://discord.floorp.app
+    mastodon: https://misskey.io/@floorp
+    reddit: Floorp
+    xitter: Floorp_Browser
+  technicalInfo:
+    license: mpl-2.0
+    repository: https://github.com/Floorp-Projects/Floorp
+    techDocs: https://docs.floorp.app/docs/building
+    tech: Firefox
+    llmAssistance: 'Есть, [разрешено](https://github.com/Floorp-Projects/Floorp/blob/main/CLAUDE.md)'
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Floorp
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://floorp.app/download
+    - title: GitHub
+      icon: github
+      url: https://github.com/Floorp-Projects/Floorp/releases/latest
+    - title: Winget (Windows)
+      icon: windows
+      url: https://winstall.app/apps/Ablaze.Floorp
+    - title: Homebrew (macOS)
+      icon: sports-bar
+      url: https://formulae.brew.sh/cask/floorp#default
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/one.ablaze.floorp
+    - title: Windows (Портативно)
+      icon: windows
+      url: https://github.com/Floorp-Projects/Floorp-Portable-v2/releases/latest/download/floorp-windows-x86_64.portable.7z
 screenshots:
   desktop-@: Floorp
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://floorp.app/download
-    2 GitHub: https://github.com/Floorp-Projects/Floorp/releases/latest
-    3 Windows (Winget): https://winstall.app/apps/Ablaze.Floorp
-    4 Linux (Flathub): https://flathub.org/apps/one.ablaze.floorp
-    5 macOS (Homebrew): https://formulae.brew.sh/cask/floorp

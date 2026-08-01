@@ -1,35 +1,43 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: FFmpeg
 icon: ffmpeg.svg
 description: >
   Мощная кросс-платформенная консольная программа и библиотека для обработки и
   конвертации мультимедиа.
 homepage: https://ffmpeg.org
-kttpage: /software/ffmpeg
-wikipedia: https://en.wikipedia.org/wiki/FFmpeg
-docs: https://ffmpeg.org/ffmpeg.html
-issues: https://ffmpeg.org/bugreports.html
-repository: https://git.ffmpeg.org/ffmpeg.git
-license: gnu-lgpl-2.1-or-later
-donate: https://ffmpeg.org/donations.html
+userDocs: https://ffmpeg.org/ffmpeg.html
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2000-12-20
+  news: https://ffmpeg.org/index.html#news
+  issues: https://ffmpeg.org/bugreports.html
+  donate: https://ffmpeg.org/donations.html
+  community:
+    rules: https://ffmpeg.org/community.html#Code-of-Conduct
+    xitter: FFmpeg
+  technicalInfo:
+    license:
+      - id: gnu-lgpl-2.1-or-later
+      - id: gnu-gpl-2.0-or-later
+    repository: https://git.ffmpeg.org/ffmpeg.git
+    techDocs: https://ffmpeg.org/developer.html
+    tech: C, Assembly
+    llmAssistance: Есть
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/FFmpeg
+    archWiki: https://wiki.archlinux.org/title/FFmpeg
 get:
-  title: Скачать
-  links:
+  linkList:
     1 Windows:
-      1 Winget: >
-        `winget install Gyan.FFmpeg`
+      1 Winget: '`winget install Gyan.FFmpeg`'
       2 Готовые сборки (gyan.dev): https://www.gyan.dev/ffmpeg/builds
       3 Готовые сборки (BtbN): https://github.com/BtbN/FFmpeg-Builds/releases/latest
     2 Linux:
-      1 Debian и все производные (Ubuntu, Mint): >
-        `sudo apt install ffmpeg`
-      2 Fedora: >
-        `sudo dnf install ffmpeg`
-      3 Arch и все производные (EndeavourOS, Manjaro): >
-        `sudo pacman -S ffmpeg`
+      1 Debian и все производные (Ubuntu, Mint): '`sudo apt install ffmpeg`'
+      2 Fedora: '`sudo dnf install ffmpeg`'
+      3 Arch и все производные (EndeavourOS, CachyOS, Manjaro): '`sudo pacman -S ffmpeg`'
     3 macOS:
-      1 Homebrew: >
-        `brew install ffmpeg`
+      1 Homebrew: '`brew install ffmpeg`'
       2 Готовые сборки: https://evermeet.cx/ffmpeg
-    4 Android (Termux): >
-      `pkg install ffmpeg`
+    4 Android (Termux): '`pkg install ffmpeg`'
     5 Браузер (ffmpeg.wasm): https://ffmpegwasm.netlify.app/playground

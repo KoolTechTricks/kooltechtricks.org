@@ -1,5 +1,5 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Cromite
-icon: cromite.svg
 description: >
   Браузер, ориентированный на конфиденциальность, со встроенным блокировщиком
   трекеров и рекламы. Основан на модифицированной версии Chromium.
@@ -11,18 +11,36 @@ alert:
     плана по возобновлению выпусков, не рекомендуется использовать Cromite.
     [Подробнее](https://github.com/uazo/cromite/issues/2976#issuecomment-4954877720)
 homepage: https://www.cromite.org
-docs: https://github.com/uazo/cromite/tree/master/docs
-issues: https://github.com/uazo/cromite/issues
-repository: https://github.com/uazo/cromite
-license: gnu-gpl-3.0
-donate: https://www.paypal.com/pools/c/9e5lO2OIzb
+userDocs: https://github.com/uazo/cromite/tree/master/docs
+extras:
+  owner: '[uazo](https://github.com/uazo)'
+  initialRelease: 2023-07-21
+  issues: https://github.com/uazo/cromite/issues
+  donate: https://www.paypal.com/pools/c/9e5lO2OIzb
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/uazo/cromite
+    tech: Chromium, продолжение Bromite
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1073137
+get:
+  linkButtons:
+    - group: Android
+    - title: APK-файл
+      icon: android
+      url: https://github.com/uazo/cromite/releases/latest/download/arm64_ChromePublic.apk
+    - title: F-Droid (репозиторий)
+      icon: f-droid
+      url: fdroidrepos://www.cromite.org/fdroid/repo
+    - title: GitHub
+      icon: github
+      url: https://github.com/uazo/cromite/releases/latest
+    - group: Компьютер (без автообновлений)
+    - title: Windows
+      icon: windows
+      url: https://github.com/uazo/cromite/releases/latest/download/chrome-win.zip
+    - title: Linux
+      icon: linux
+      url: https://github.com/uazo/cromite/releases/latest/download/chrome-lin64.tar.gz
 screenshots:
   mobile-android-@: Cromite для Android
-get:
-  title: Скачать
-  links:
-    1 Android:
-      1 GitHub: https://github.com/uazo/cromite/releases/latest/download/arm64_ChromePublic.apk
-      2 F-Droid: https://www.cromite.org/fdroid/repo
-    2 Linux: https://github.com/uazo/cromite/releases/latest/download/chrome-lin64.tar.gz
-    3 Windows: https://github.com/uazo/cromite/releases/latest/download/chrome-win.zip

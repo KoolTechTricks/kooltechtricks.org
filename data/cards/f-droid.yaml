@@ -1,22 +1,35 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: F-Droid
-icon: f-droid.svg
 description: >
   Свободный и некоммерческий магазин приложений для Android.
   Содержит сотни приложений с открытым исходным кодом.
 homepage: https://f-droid.org
-kttpage: /software/f-droid
-wikipedia: https://en.wikipedia.org/wiki/F-Droid
-docs: https://f-droid.org/docs
-issues: https://f-droid.org/issues
-repository: https://gitlab.com/fdroid
-license: gnu-agpl-3.0-or-later
-donate: https://f-droid.org/donate
+userDocs: https://f-droid.org/docs
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2010-09-29
+  news: https://f-droid.org/news
+  changelog: https://gitlab.com/fdroid/fdroidclient/-/blob/master/CHANGELOG.md
+  issues: https://f-droid.org/issues
+  donate: https://f-droid.org/donate
+  community:
+    rules: https://f-droid.org/ru/docs/Code_of_Conduct
+    forum: https://forum.f-droid.org
+    mastodon: https://floss.social/@fdroidorg
+    matrix: fdroid:f-droid.org
+  technicalInfo:
+    license: gnu-agpl-3.0-or-later
+    repository: https://gitlab.com/fdroid
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/F-Droid
+    fourPda: https://4pda.to/forum/index.php?showtopic=310378
+get:
+  linkButtons:
+    - title: APK-файл
+      icon: android
+      url: https://f-droid.org/F-Droid.apk
 screenshots:
   1 explore-@: Просмотр приложений в F-Droid
   2 app-@: Страница приложения в F-Droid
   3 installed-@: Установленные приложения в F-Droid
   4 repos-@: Управление репозиториями в F-Droid
-get:
-  title: Скачать
-  links:
-    APK-файл: https://f-droid.org/F-Droid.apk

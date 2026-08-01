@@ -1,20 +1,39 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Neo Store
 icon: neo-store.webp
 description: >
   Многофункциональный клиент F-Droid с перегруженным интерфейсом.
 homepage: https://neoapplications.gitlab.io/projects/neo-store
-issues: https://github.com/NeoApplications/Neo-Store/issues
-repository: https://github.com/NeoApplications/Neo-Store
-license: gnu-gpl-3.0
+extras:
+  owner: '[Neo Collective](https://neoapplications.gitlab.io)'
+  initialRelease: 2022-07-07
+  changelog: https://github.com/NeoApplications/Neo-Store/releases
+  issues: https://github.com/NeoApplications/Neo-Store/issues
+  community:
+    matrix: neo-store:matrix.org
+    telegram: neo_android_store
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/NeoApplications/Neo-Store
+    tech: Kotlin
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1051116
+get:
+  linkButtons:
+    - title: Codeberg
+      icon: codeberg
+      url: https://codeberg.org/NeoApplications/Neo-Store/releases/latest
+    - title: GitHub
+      icon: github
+      url: https://github.com/NeoApplications/Neo-Store/releases/latest
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.machiav3lli.fdroid
 screenshots:
   1 explore-@: Просмотр приложений в Neo Store
   2 app-@: Страница приложения в Neo Store
   3 installed-@: Установленные приложения в Neo Store
   4 repos-@: Управление репозиториями в Neo Store
-get:
-  title: Скачать
-  links:
-    1 Codeberg: https://codeberg.org/NeoApplications/Neo-Store/releases/latest
-    2 GitHub: https://github.com/NeoApplications/Neo-Store/releases/latest
-    3 F-Droid: https://f-droid.org/packages/com.machiav3lli.fdroid
-    4 IzzyOnDroid: https://apt.izzysoft.de/fdroid/index/apk/com.machiav3lli.fdroid

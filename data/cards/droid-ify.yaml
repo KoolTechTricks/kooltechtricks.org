@@ -1,19 +1,36 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Droid-ify
 icon: droid-ify.svg
 description: >
   Простой и легковесный клиент F-Droid.
 homepage: https://droidify.app
-issues: https://github.com/Droid-ify/client/issues
-repository: https://github.com/Droid-ify/client
-license: gnu-gpl-3.0
+extras:
+  owner: '[LooKeR](https://github.com/Iamlooker)'
+  initialRelease: 2021-03-07
+  changelog: https://github.com/Droid-ify/client/releases
+  issues: https://github.com/Droid-ify/client/issues
+  community:
+    mastodon: https://mastodon.social/@droidify
+    telegram: droidify
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/Droid-ify/client
+    tech: Kotlin
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1035213
+get:
+  linkButtons:
+    - title: APK-файл (GitHub)
+      icon: android
+      url: https://github.com/Droid-ify/client/releases/latest/download/app-release.apk
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/com.looker.droidify
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.looker.droidify
 screenshots:
   1 explore-@: Просмотр приложений в Droid-ify
   2 app-@: Страница приложения в Droid-ify
   3 installed-@: Установленные приложения в Droid-ify
   4 repos-@: Управление репозиториями в Droid-ify
-get:
-  title: Скачать
-  links:
-    1 GitHub: https://github.com/Droid-ify/client/releases/latest/download/app-release.apk
-    2 F-Droid: https://f-droid.org/packages/com.looker.droidify
-    3 IzzyOnDroid: https://apt.izzysoft.de/fdroid/index/apk/com.looker.droidify

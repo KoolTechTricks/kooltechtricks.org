@@ -1,20 +1,42 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: cobalt
 icon: cobalt.png
 description: >
   Загрузчик медиа онлайн, который не раздражает. Без рекламы, платных подписок
   и прочего мусора. С открытым исходным кодом, можно запустить на своём сервере.
 homepage: https://cobalt.tools
-docs: https://github.com/imputnet/cobalt/tree/main/docs
-issues: https://github.com/imputnet/cobalt/issues
-repository: https://github.com/imputnet/cobalt/issues
-license: gnu-agpl-3.0
-donate: https://cobalt.tools/donate
+userDocs: https://cobalt.tools/about/general
+extras:
+  owner: '[imput](https://imput.net)'
+  initialRelease: 2022
+  changelog: https://cobalt.tools/updates
+  issues: https://github.com/imputnet/cobalt/issues
+  donate: https://cobalt.tools/donate
+  community:
+    bluesky: cobalt.tools
+    discord: https://discord.gg/pQPt8HBUPu
+    telegram: justusecobalt_ru
+    xitter: justusecobalt
+  technicalInfo:
+    license:
+      - id: gnu-agpl-3.0
+      - id: cc-by-nc-sa-4.0
+        note: Веб-часть
+    repository: https://github.com/imputnet/cobalt
+    techDocs: https://github.com/imputnet/cobalt/tree/main/docs
+    tech: Svelte, JavaScript, TypeScript
+get:
+  title: Открыть
+  linkButtons:
+    - title: Официальный сервер
+      icon: web
+      url: https://cobalt.tools
+    - title: Сторонние серверы
+      icon: public
+      url: https://instances.cobalt.best
+    - title: Запустить свой сервер
+      icon: construction
+      url: https://github.com/imputnet/cobalt/blob/main/docs/run-an-instance.md
 screenshots:
   1 desktop-@: Скачивание видео с помощью cobalt на компьютере
   2 mobile-@: Скачивание видео с помощью cobalt на телефоне
-get:
-  title: Открыть
-  links:
-    1 Официальный сервер: https://cobalt.tools
-    2 Сторонние серверы: https://instances.cobalt.best
-    3 Запустить свой сервер: https://github.com/imputnet/cobalt/blob/main/docs/run-an-instance.md

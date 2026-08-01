@@ -1,21 +1,40 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Zen Browser
-icon: zen-browser.svg
 description: >
   Браузер на основе последней стабильной версии Firefox. Имеет нестандартный
   интерфейс и рабочий процесс. Считается духовным наследником Arc, но с
   открытым исходным кодом и уважает конфиденциальность пользователей.
 homepage: https://zen-browser.app
-wikipedia: https://en.wikipedia.org/wiki/Zen_Browser
-docs: https://docs.zen-browser.app
-issues: https://github.com/zen-browser/desktop/issues
-repository: https://github.com/zen-browser/desktop
-license: mpl-2.0
-donate: https://zen-browser.app/donate
+userDocs: https://docs.zen-browser.app
+extras:
+  owner: '[Сообщество энтузиастов](https://zen-browser.app/about/)'
+  initialRelease: 2024-07-11
+  changelog: https://zen-browser.app/release-notes/
+  issues: https://github.com/zen-browser/desktop/issues
+  donate: https://zen-browser.app/donate/
+  community:
+    forum: https://github.com/zen-browser/desktop/discussions
+    bluesky: zen-browser.app
+    discord: https://links.zen-browser.app/discord
+    mastodon: https://floss.social/@zenbrowser
+    reddit: zen_browser
+    xitter: zen_browser
+  technicalInfo:
+    license: mpl-2.0
+    repository: https://github.com/zen-browser/desktop
+    tech: Firefox (Gecko)
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Zen_Browser
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://zen-browser.app/download
+    - title: GitHub
+      icon: github
+      url: https://github.com/zen-browser/desktop/releases/latest
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/app.zen_browser.zen
 screenshots:
   desktop-@: Zen Browser
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://zen-browser.app/download
-    2 GitHub: https://github.com/zen-browser/desktop/releases/latest
-    3 Linux: https://flathub.org/apps/app.zen_browser.zen

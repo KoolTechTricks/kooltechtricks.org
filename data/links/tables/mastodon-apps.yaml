@@ -22,7 +22,7 @@ features:
     homepage: https://apps.apple.com/app/mastodon/id1571998974
   - title: Веб-интерфейс Mastodon
     icon: mastodon.svg
-    repository: https://github.com/mastodon/mastodon
+    homepage: https://github.com/mastodon/mastodon#readme
   - title: Mona
     icon: mona.webp
     homepage: https://apps.apple.com/app/mona-7-for-mastodon/id6755672518
@@ -42,7 +42,7 @@ features:
     homepage: https://apps.kde.org/tokodon
   - title: tooi
     icon: tooi.png
-    repository: https://codeberg.org/ihabunek/tooi
+    homepage: https://codeberg.org/ihabunek/tooi#readme
   - title: toot
     icon: toot.png
     homepage: https://toot.bezdomni.net

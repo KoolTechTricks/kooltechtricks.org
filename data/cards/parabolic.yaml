@@ -1,22 +1,42 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Parabolic
-icon: parabolic.svg
 description: >
   Простой загрузчик медиа с открытым исходным кодом для Windows, Linux и macOS
   с родным дизайном системы. Использует yt-dlp.
-issues: https://github.com/NickvisionApps/Parabolic/issues
-repository: https://github.com/NickvisionApps/Parabolic
-license: gnu-gpl-3.0
-donate: https://github.com/sponsors/nlogozzo
+homepage: https://nickvision.org/parabolic.html
+extras:
+  owner: '[Nickvision](https://nickvision.org)'
+  initialRelease: 2021-12-18
+  changelog: https://github.com/NickvisionApps/Parabolic/releases
+  issues: https://github.com/NickvisionApps/Parabolic/issues
+  donate: https://github.com/sponsors/nlogozzo
+  community:
+    matrix: nickvision:matrix.org
+  technicalInfo:
+    license: mit
+    repository: https://github.com/NickvisionApps/Parabolic
+    tech: >
+      Фреймворк: .NET; Интерфейс: GTK (Linux, macOS), WinUI (Windows);
+      Загрузчик: yt-dlp
+get:
+  linkButtons:
+    - title: Windows (установщик)
+      icon: windows
+      url: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicSetup.exe
+    - title: Windows (портативно)
+      icon: windows
+      url: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicPortable.zip
+    - title: Linux
+      icon: linux
+      url: https://flathub.org/apps/details/org.nickvision.tubeconverter
+    - title: macOS
+      icon: apple
+      url: https://github.com/NickvisionApps/Parabolic/releases/latest/download/Parabolic-macOS-arm64.zip
+    - title: GitHub
+      icon: github
+      url: https://github.com/NickvisionApps/Parabolic/releases/latest
 screenshots:
   1 downloading-windows-@: Очередь загрузки Parabolic для Windows
   2 parameters-windows-@: Параметры загрузки Parabolic для Windows
   3 downloading-linux-@: Очередь загрузки Parabolic для Linux
   4 parameters-linux-@: Параметры загрузки Parabolic для Linux
-get:
-  title: Скачать
-  links:
-    1 Windows:
-      1 Установщик: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicSetup.exe
-      2 Портативно: https://github.com/NickvisionApps/Parabolic/releases/latest/download/NickvisionParabolicPortable.zip
-    2 Linux: https://flathub.org/apps/details/org.nickvision.tubeconverter
-    3 macOS: https://github.com/NickvisionApps/Parabolic/releases/latest/download/Parabolic-macOS-arm64.zip

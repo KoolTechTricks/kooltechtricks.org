@@ -1,13 +1,21 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: 4get
 icon: 4get.png
 description: >
   Свободная метапоисковая система с открытым исходным кодом. Можно переключать
   источник поисковой выдачи.
-help: https://4get.ca/about
-issues: https://git.lolcat.ca/lolcat/4get/issues
-repository: https://git.lolcat.ca/lolcat/4get
-license: gnu-agpl-3.0
-donate: https://4get.ca/donate
+userDocs: https://4get.ca/about
+extras:
+  owner: '[lolcat](https://git.lolcat.ca/lolcat)'
+  initialRelease: 2023-07-22
+  changelog: https://git.lolcat.ca/lolcat/4get/commits/branch/master
+  issues: https://git.lolcat.ca/lolcat/4get/issues
+  donate: https://4get.ca/donate
+  technicalInfo:
+    license: gnu-agpl-3.0
+    repository: https://git.lolcat.ca/lolcat/4get
+    techDocs: https://git.lolcat.ca/lolcat/4get/src/branch/master/docs
+    tech: PHP
 screenshots:
   1 web-desktop-@: Поиск ссылок в 4get на компьютере
   2 images-desktop-@: Поиск изображений в 4get на компьютере

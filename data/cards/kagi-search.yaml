@@ -1,3 +1,4 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Kagi Search
 icon: kagi-search.svg
 description: >
@@ -5,10 +6,23 @@ description: >
   удобство использования. Смешивает результаты поиска из собственного индекса и
   разных источников.
 homepage: https://kagi.com
-wikipedia: https://en.wikipedia.org/wiki/Kagi_(search_engine)
-help: https://help.kagi.com
-repository: https://help.kagi.com/kagi/support-and-community/open-source.html
-license: proprietary
+userDocs: https://help.kagi.com
+extras:
+  owner: Kagi Inc.
+  initialRelease: 2022-06-01
+  news: https://blog.kagi.com
+  changelog: https://kagi.com/changelog
+  issues: https://kagifeedback.org
+  community:
+    bluesky: kagi.com
+    discord: https://kagi.com/discord
+    mastodon: https://mastodon.social/@KagiHQ
+    xitter: KagiHQ
+  technicalInfo:
+    license: proprietary
+    repository: https://help.kagi.com/kagi/support-and-community/open-source.html
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Kagi
 screenshots:
   1 desktop-@: Поиск в Kagi на компьютере
   2 mobile-@: Поиск в Kagi на телефоне

@@ -1,19 +1,33 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Obtainium
-icon: obtainium.svg
 description: >
   Получайте обновления приложений для Android напрямую из их источников: GitHub,
   F-Droid, RuStore, Huawei AppGallery и любые другие сайты.
 homepage: https://obtainium.imranr.dev
-kttpage: /software/obtainium
-help: https://wiki.obtainium.imranr.dev
-issues: https://github.com/ImranR98/Obtainium/issues
-repository: https://github.com/ImranR98/Obtainium
-license: gnu-gpl-3.0
+userDocs: https://wiki.obtainium.imranr.dev
+extras:
+  owner: '[Imran](https://github.com/ImranR98)'
+  initialRelease: 2022-08-24
+  changelog: https://github.com/ImranR98/Obtainium/releases
+  issues: https://github.com/ImranR98/Obtainium/issues
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/ImranR98/Obtainium
+    tech: Flutter
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1056449
+get:
+  linkButtons:
+    - title: APK-файл (GitHub)
+      icon: android
+      url: https://github.com/ImranR98/Obtainium/releases/latest/download/app-release.apk
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/dev.imranr.obtainium.fdroid
 screenshots:
   1 list-@: Список приложений в Obtainium
   2 app-@: Информация о приложении в Obtainium
   3 tablet-@: Obtainium на планшете
-get:
-  title: Скачать
-  links:
-    GitHub: https://github.com/ImranR98/Obtainium/releases/latest/download/app-release.apk

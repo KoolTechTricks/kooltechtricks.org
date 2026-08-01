@@ -1,24 +1,61 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Firefox
-icon: firefox.svg
 description: >
   Браузер с открытым исходным кодом, разрабатываемый Mozilla. Основан на
   собственном движке Gecko.
 homepage: https://www.firefox.com
-wikipedia: https://en.wikipedia.org/wiki/Firefox
-help: https://support.mozilla.org
-issues: https://bugzilla.mozilla.org
-repository: https://github.com/mozilla-firefox/firefox
-license: mpl-2.0
-donate: https://www.mozillafoundation.org/donate
+userDocs: https://support.mozilla.org
+extras:
+  owner: '[Mozilla](https://www.mozilla.org)'
+  initialRelease: 2002-09-23
+  news: https://blog.mozilla.org/category/firefox
+  changelog: https://www.firefox.com/firefox/notes
+  issues: https://bugzilla.mozilla.org
+  donate: https://www.mozillafoundation.org/donate
+  community:
+    rules: https://www.mozilla.org/about/governance/policies/participation
+    forum: https://discourse.mozilla.org
+    bluesky: firefox.com
+    mastodon: https://mastodon.social/@FirefoxOfficial
+    reddit: firefox
+    xitter: firefox
+  technicalInfo:
+    license: mpl-2.0
+    repository: https://github.com/mozilla-firefox/firefox
+    techDocs: https://firefox-source-docs.mozilla.org
+    tech: Gecko
+    llmAssistance: 'Есть, [разрешено](https://firefox-source-docs.mozilla.org/ai-agent-tools/index.html)'
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Mozilla_Firefox
+    archWiki: https://wiki.archlinux.org/title/Firefox
+    fourPda: https://4pda.to/forum/index.php?showtopic=163303
+get:
+  linkButtons:
+    - group: Компьютер
+    - title: Официальный сайт
+      icon: web
+      url: https://www.firefox.com/thanks
+    - title: Microsoft Store
+      icon: windows
+      url: https://apps.microsoft.com/detail/9nzvdkpmr9rd
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/org.mozilla.firefox
+    - group: Android
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=org.mozilla.firefox
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://app/%7B%22id%22%3A%22org.mozilla.firefox%22%2C%22url%22%3A%22https%3A%2F%2Fdownload.cdn.mozilla.net%2Fpub%2Ffenix%2Freleases%2F%22%2C%22author%22%3A%22Mozilla%22%2C%22name%22%3A%22Firefox%22%2C%22additionalSettings%22%3A%22%7B%5C%22intermediateLink%5C%22%3A%5B%7B%5C%22customLinkFilterRegex%5C%22%3A%5C%22(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.%5C%5C%5C%5Cd%2B)%2B%2F%24%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Atrue%7D%2C%7B%5C%22customLinkFilterRegex%5C%22%3A%5C%22android%2F%24%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Afalse%7D%2C%7B%5C%22customLinkFilterRegex%5C%22%3A%5C%22fenix-(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.%5C%5C%5C%5Cd%2B)%2B-android-arm64-v8a%2F%24%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Afalse%7D%5D%2C%5C%22customLinkFilterRegex%5C%22%3A%5C%22%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Afalse%2C%5C%22versionExtractWholePage%5C%22%3Afalse%2C%5C%22requestHeader%5C%22%3A%5B%7B%5C%22requestHeader%5C%22%3A%5C%22User-Agent%3A%20Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Mobile%20Safari%2F537.36%5C%22%7D%5D%2C%5C%22defaultPseudoVersioningMethod%5C%22%3A%5C%22APKLinkHash%5C%22%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.)%3F(%3F%3A(%5C%5C%5C%5Cd%2B)%5C%5C%5C%5C.%5C%5C%5C%5Cd%2B)%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Firefox%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22Firefox%20is%20a%20free%20web%20browser%20that%20protects%20your%20online%20privacy%20and%20blocks%20ad%20trackers%20by%20default.%5C%22%2C%5C%22supportFixedAPKURL%5C%22%3Afalse%2C%5C%22appAuthor%5C%22%3A%5C%22Mozilla%5C%22%7D%22%7D
+    - title: Официальный сайт (без автообновлений)
+      icon: web
+      url: https://download.cdn.mozilla.net/pub/fenix/releases/
+    - group: iOS
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/firefox-fast-private-browser/id989804926
 screenshots:
   1 desktop-@: Firefox для компьютера
   2 mobile-android-@: Firefox для Android
   3 mobile-ios-@: Firefox для iOS
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://www.firefox.com/thanks
-    2 Microsoft Store (Windows): https://apps.microsoft.com/detail/9nzvdkpmr9rd
-    3 Flathub (Linux): https://flathub.org/apps/org.mozilla.firefox
-    4 Google Play (Android): https://play.google.com/store/apps/details?id=org.mozilla.firefox
-    5 AppStore (iOS): https://apps.apple.com/app/id989804926

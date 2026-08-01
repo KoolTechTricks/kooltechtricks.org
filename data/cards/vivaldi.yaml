@@ -1,24 +1,49 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Vivaldi
-icon: vivaldi.svg
 description: >
   Браузер от независимых разработчиков, заботящихся о своих пользователях.
   С закрытым исходным кодом, основан на Chromium. Содержит огромное множество
   функций и настроек персонализации, а также лишён генеративного ИИ. Содержит
   спонсированные ярлыки, но не продаёт личные данные пользователей.
 homepage: https://vivaldi.com
-wikipedia: https://ru.wikipedia.org/wiki/Vivaldi
-help: https://help.vivaldi.com
-issues: https://vivaldi.com/bugreport
-repository: https://vivaldi.com/source
-license: proprietary
-donate: https://vivaldi.com/donate
+userDocs: https://help.vivaldi.com
+extras:
+  owner: '[Vivaldi Technologies AS](https://ru.wikipedia.org/wiki/Vivaldi_Technologies)'
+  initialRelease: 2015-01-27
+  news: https://vivaldi.com/blog/
+  issues: https://vivaldi.com/bugreport
+  donate: https://vivaldi.com/donate
+  community:
+    forum: https://forum.vivaldi.net
+    mastodon: https://social.vivaldi.net/@Vivaldi@vivaldi.net
+    reddit: vivaldibrowser
+    xitter: vivaldibrowser
+  technicalInfo:
+    license: proprietary
+    repository: https://vivaldi.com/source
+    tech: 'Основа: Chromium (Blink), Интерфейс: JavaScript'
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Vivaldi
+    archWiki: https://wiki.archlinux.org/title/Vivaldi
+    fourPda: https://4pda.to/forum/index.php?showtopic=657626
+get:
+  linkButtons:
+    - group: Компьютер
+    - title: Официальный сайт
+      icon: web
+      url: https://vivaldi.com/download
+    - group: Android
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.vivaldi.browser
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://app/%7B%22id%22%3A%22com.vivaldi.browser%22%2C%22url%22%3A%22https%3A%2F%2Fvivaldi.com%2Fdownload%2F%22%2C%22author%22%3A%22vivaldi.com%22%2C%22name%22%3A%22Vivaldi%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22intermediateLink%5C%22%3A%5B%5D%2C%5C%22customLinkFilterRegex%5C%22%3A%5C%22arm64-v8a%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Afalse%2C%5C%22versionExtractWholePage%5C%22%3Afalse%2C%5C%22requestHeader%5C%22%3A%5B%7B%5C%22requestHeader%5C%22%3A%5C%22User-Agent%3A%20Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Mobile%20Safari%2F537.36%5C%22%7D%5D%2C%5C%22defaultPseudoVersioningMethod%5C%22%3A%5C%22APKLinkHash%5C%22%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%5C%5C%5Cd%2B.%5C%5C%5C%5Cd%2B.%5C%5C%5C%5Cd%2B.%5C%5C%5C%5Cd%2B%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Vivaldi%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22Vivaldi%20is%20a%20feature-packed%2C%20customisable%20browser%20that%20respects%20your%20privacy%20and%20gives%20you%20full%20control.%20%5C%22%2C%5C%22supportFixedAPKURL%5C%22%3Afalse%2C%5C%22appAuthor%5C%22%3A%5C%22vivaldi.com%5C%22%7D%22%2C%22overrideSource%22%3Anull%7D
+    - group: iOS
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/vivaldi-powerful-web-browser/id1633234600
 screenshots:
   desktop-@: Vivaldi для компьютера
   mobile-android-@: Vivaldi для Android
   mobile-ios-@: Vivaldi для iOS
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://vivaldi.com/download
-    2 Google Play (Android): https://play.google.com/store/apps/details?id=com.vivaldi.browser
-    3 AppStore (iOS): https://apps.apple.com/app/id1633234600

@@ -73,6 +73,7 @@ disclaimers = [
 commits = 'https://github.com/KoolTechTricks/kooltechtricks.org/commits/main/content'
 report = 'https://github.com/KoolTechTricks/kooltechtricks.org/issues/new'
 source = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/content'
+data = 'https://github.com/KoolTechTricks/kooltechtricks.org/blob/main/data/cards'
 contributing = 'https://docs.kooltechtricks.org/contributing'
 
 ###############

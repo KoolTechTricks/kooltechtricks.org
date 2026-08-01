@@ -1,12 +1,18 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Startpage
-icon: startpage.svg
 description: >
   Поисковая система, уважающая конфиденциальность пользователей.
   Использует Google в своей поисковой выдаче.
 homepage: https://startpage.com
-wikipedia: https://en.wikipedia.org/wiki/Startpage.com
-help: https://support.startpage.com/hc
-license: proprietary
+userDocs: https://support.startpage.com
+extras:
+  owner: 'Surfboard Holding BV, [System1](https://system1.com)'
+  initialRelease: 1998-01-28
+  news: https://www.startpage.com/privacy-please/
+  technicalInfo:
+    license: proprietary
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Startpage
 screenshots:
   1 desktop-@: Поиск в Startpage на компьютере
   2 mobile-@: Поиск в Startpage на телефоне

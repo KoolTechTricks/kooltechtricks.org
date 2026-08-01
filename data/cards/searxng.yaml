@@ -1,14 +1,30 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: SearXNG
-icon: searxng.svg
 description: >
   Свободная метапоисковая система с открытым исходным кодом. Собирает результаты
   из разных источников, проксирует запросы к другим поисковым системам.
-homepage: https://searx.space
-wikipedia: https://en.wikipedia.org/wiki/SearXNG
-docs: https://docs.searxng.org
-issues: https://github.com/searxng/searxng/issues
-repository: https://github.com/searxng/searxng
-license: gnu-agpl-3.0
+userDocs: https://docs.searxng.org
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2021-03-27
+  changelog: https://github.com/searxng/searxng/commits/master
+  issues: https://github.com/searxng/searxng/issues
+  community:
+    forum: https://github.com/searxng/searxng/discussions
+    matrix: searxng:matrix.org
+  technicalInfo:
+    license: gnu-agpl-3.0
+    repository: https://github.com/searxng/searxng
+    tech: Python, продолжение SearX
+    llmAssistance: '[Ограничено](https://github.com/searxng/searxng/blob/master/AI_POLICY.rst)'
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/SearXNG
+get:
+  title: Открыть
+  linkButtons:
+    - title: Список публичных серверов
+      icon: web
+      url: https://searx.space
 screenshots:
   1 desktop-@: Поиск в SearXNG на компьютере
   2 mobile-@: Поиск в SearXNG на телефоне

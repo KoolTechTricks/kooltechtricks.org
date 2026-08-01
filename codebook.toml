@@ -3,6 +3,9 @@ dictionaries = [
     "ru",
 ]
 words = [
+    "Cachy",
+    "Hexotic",
+    "Libadwaita",
     "adblock",
     "adwaita",
     "akkoma",
@@ -15,6 +18,7 @@ words = [
     "betterfox",
     "bing",
     "bitwarden",
+    "bromite",
     "btrfs",
     "catodon",
     "centre",
@@ -79,6 +83,7 @@ words = [
     "multiplatform",
     "nicolium",
     "nilch",
+    "nuxt",
     "obtainium",
     "ookla",
     "openverse",
@@ -196,6 +201,7 @@ words = [
     "неочевидно",
     "неподдерживаемые",
     "одноразово",
+    "одностраничное",
     "окирпичить",
     "опциональны",
     "опциональные",
@@ -309,6 +315,7 @@ include_paths = [
     "data/**/*.yaml",
 ]
 ignore_paths = [
+    "**/!TEMPLATE.yaml",
     "**/_TEMPLATE.yaml",
     "data/contributors/*.yaml",
     "content/guides/how-to-use-console/**",
@@ -346,16 +353,12 @@ extra_ignore_patterns = ['contributors: \[.+\]']
 
 [[overrides]]
 paths = ["data/cards/*.yaml"]
-extra_words = ["kttpage"]
-extra_ignore_patterns = ['(obtainium|fdroidrepos)?://[^\s]+']
+extra_ignore_patterns = [
+    '(obtainium|fdroidrepos)?://[^\s]+',
+    '    (bluesky|matrix|reddit|telegram|xitter): [^\s]+',
+    '      icon: [^\s]+'
+]
 
 [[overrides]]
 paths = ["data/links/*/*.yaml"]
 extra_ignore_patterns = ['^    by: [^\s]+']
-
-[[overrides]]
-paths = ["data/links/software/*.yaml"]
-extra_ignore_patterns = [
-    '^  - type: [^\s]+',
-    '^    data: (([a-z0-9-]+:)?[a-z0-9-\.]+\.)?[a-z0-9-]+$',
-]

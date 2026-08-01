@@ -1,3 +1,4 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Stacher
 icon: stacher.png
 description: >
@@ -5,15 +6,23 @@ description: >
   дизайном. С закрытым исходным кодом, некоторые функции требуют оплаты.
   Использует yt-dlp для скачивания.
 homepage: https://stacher.io
-docs: https://old.reddit.com/r/StacherIO/wiki/index
-issues: https://old.reddit.com/r/StacherIO
-license: proprietary
-donate: https://www.patreon.com/stacher
+userDocs: https://old.reddit.com/r/StacherIO/wiki/index
+extras:
+  owner: Hexotic Software LLC
+  initialRelease: 2021
+  changelog: https://changelog.stacher.io
+  donate: https://www.patreon.com/stacher
+  community:
+    reddit: StacherIO
+  technicalInfo:
+    license: proprietary
+    tech: Electron
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://stacher.io
 screenshots:
   1 downloading-@: Скачивание медиа в Stacher
   2 subscriptions-@: Подписки в Stacher
   3 library-@: Библиотека в Stacher
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://stacher.io

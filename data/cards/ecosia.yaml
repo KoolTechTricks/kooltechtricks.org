@@ -1,5 +1,5 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Ecosia
-icon: ecosia.svg
 description: >
   Экологичная поисковая система. Использует Bing или Google в своей поисковой
   выдаче. Делится данными с Microsoft или Google для показа рекламы. Доход с
@@ -7,9 +7,15 @@ description: >
   всему миру. Ecosia уменьшает объём углекислого газа в атмосфере, а серверы
   питаются от солнечных панелей.
 homepage: https://www.ecosia.org
-wikipedia: https://en.wikipedia.org/wiki/Ecosia
-help: https://support.ecosia.org
-license: proprietary
+userDocs: https://support.ecosia.org
+extras:
+  owner: Ecosia GmbH
+  initialRelease: 2009-12-07
+  news: https://blog.ecosia.org
+  technicalInfo:
+    license: proprietary
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Ecosia
 screenshots:
   1 desktop-@: Поиск в Ecosia на компьютере
   2 mobile-@: Поиск в Ecosia на телефоне

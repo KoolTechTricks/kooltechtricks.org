@@ -1,31 +1,63 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Anki
-icon: anki.svg
 description: >
   Программа для заучивания карточек в виде текста, картинок или аудио. Упрощает
   процесс запоминания информации, благодаря алгоритмам постепенного обучения.
 homepage: https://apps.ankiweb.net
-kttpage: /software/anki
-wikipedia: https://ru.wikipedia.org/wiki/Anki
-docs: https://docs.ankiweb.net
-issues: https://github.com/ankitects/anki/issues
-repository: https://github.com/ankitects/anki
-license: gnu-agpl-3.0-or-later
-donate: https://apps.apple.com/app/ankimobile-flashcards/id373493387
+userDocs: https://andreykaiu.github.io/anki-manual-ru/
+extras:
+  owner: '[AnkiHub](https://forums.ankiweb.net/t/ankis-growing-up/68610)'
+  initialRelease: 2006-10-05
+  changelog: https://github.com/ankitects/anki/releases
+  issues: https://github.com/ankitects/anki/issues
+  community:
+    forum: https://forums.ankiweb.net
+  technicalInfo:
+    license:
+      - id: gnu-agpl-3.0-or-later
+      - id: gnu-gpl-3.0
+        note: AnkiDroid
+    repository: https://github.com/ankitects/anki
+    tech: Rust, Python, TypeScript, Svelte
+    llmAssistance: 'Есть, [разрешено](https://github.com/ankitects/anki/blob/main/CLAUDE.md)'
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/Anki
+    archWiki: https://wiki.archlinux.org/title/Anki
+    fourPda: https://4pda.to/forum/index.php?showtopic=252323
+get:
+  linkButtons:
+    - group: Компьютер
+    - title: Официальный сайт
+      icon: computer
+      url: https://apps.ankiweb.net/#downloads
+    - title: GitHub
+      icon: github
+      url: https://github.com/ankitects/anki/releases/latest
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/net.ankiweb.Anki
+    - group: Android (AnkiDroid)
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.ichi2.anki
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://add/https://github.com/ankidroid/Anki-Android
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.ichi2.anki
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/ankidroid/Anki-Android/releases/latest
+    - group: iOS (AnkiMobile)
+    - title: App Store
+      icon: app-store
+      url: https://apps.apple.com/app/id373493387
+    - group: Браузер
+    - title: Веб (AnkiWeb)
+      icon: web
+      url: https://ankiweb.net
 screenshots:
   1 decks-@: Список колод в Anki
   2 card-@: Процесс изучения карточек в Anki
   3 add-@: Добавление карточки в Anki
-get:
-  title: Скачать
-  links:
-    1 Компьютер:
-      1 Официальный сайт: https://apps.ankiweb.net/#downloads
-      2 GitHub: https://github.com/ankitects/anki/releases/latest
-      3 Flathub (Linux): https://flathub.org/apps/net.ankiweb.Anki
-    2 Android (AnkiDroid):
-      1 Google Play: https://play.google.com/store/apps/details?id=com.ichi2.anki
-      2 Obtainium: obtainium://add/https://github.com/ankidroid/Anki-Android
-      3 GitHub: https://github.com/ankidroid/Anki-Android/releases/latest
-      4 F-Droid: https://f-droid.org/packages/com.ichi2.anki
-    3 iOS (AnkiMobile): https://apps.apple.com/app/id373493387
-    4 Веб (AnkiWeb): https://ankiweb.net

@@ -1,20 +1,41 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: URLCheck
-icon: urlcheck.svg
 description: >
   Приложение для Android, которое позволяет анализировать ссылки и изменять их
   перед открытием в браузере.
-kttpage: /software/urlcheck
-issues: https://github.com/TrianguloY/URLCheck/issues
-repository: https://github.com/TrianguloY/URLCheck
-license: cc-by-4.0
-donate: https://triangularapps.blogspot.com/p/support.html
+homepage: https://github.com/TrianguloY/URLCheck#readme
+userDocs: https://github.com/TrianguloY/URLCheck/wiki
+extras:
+  owner: '[TrianguloY](https://github.com/TrianguloY)'
+  initialRelease: 2020-09-25
+  changelog: https://github.com/TrianguloY/URLCheck/releases
+  issues: https://github.com/TrianguloY/URLCheck/issues
+  donate: https://triangularapps.blogspot.com/p/support.html
+  community:
+    forum: https://github.com/TrianguloY/URLCheck/discussions
+  technicalInfo:
+    license: cc-by-4.0
+    repository: https://github.com/TrianguloY/URLCheck
+    tech: Java
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1102213
+get:
+  linkButtons:
+    - title: Google Play
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://app/%7B%22id%22%3A%22com.trianguloy.urlchecker%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FTrianguloY%2FURLCheck%22%2C%22author%22%3A%22TrianguloY%22%2C%22name%22%3A%22URLCheck%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%7D%22%2C%22overrideSource%22%3Anull%7D
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/com.trianguloy.urlchecker
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.trianguloy.urlchecker
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/TrianguloY/URLCheck/releases/latest
 screenshots:
   1 popup-@: Всплывающее окно URLCheck
   2 clean-@: Очистка ссылки в URLCheck
-get:
-  title: Скачать
-  links:
-    1 Google Play: https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker
-    2 Obtainium: obtainium://app/%7B%22id%22%3A%22com.trianguloy.urlchecker%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FTrianguloY%2FURLCheck%22%2C%22author%22%3A%22TrianguloY%22%2C%22name%22%3A%22URLCheck%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22dontSortReleasesList%5C%22%3Afalse%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22releaseDateAsVersion%5C%22%3Afalse%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%7D%22%2C%22overrideSource%22%3Anull%7D
-    3 GitHub: https://github.com/TrianguloY/URLCheck/releases/latest
-    4 F-Droid: https://f-droid.org/packages/com.trianguloy.urlchecker

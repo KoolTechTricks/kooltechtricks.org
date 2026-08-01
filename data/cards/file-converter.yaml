@@ -1,21 +1,32 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: File Converter
-icon: file-converter.svg
 description: >
   Конвертер файлов с открытым исходным кодом для Windows. Операции производятся
   через контекстное меню Проводника. Доступно множество пресетов, и можно
   создавать свои.
 homepage: https://file-converter.io
-docs: https://github.com/Tichau/FileConverter/wiki
-issues: https://github.com/Tichau/FileConverter/issues
-repository: https://github.com/Tichau/FileConverter
-license: gnu-gpl-3.0
-donate: https://file-converter.io/#donate
+userDocs: https://github.com/Tichau/FileConverter/wiki
+extras:
+  owner: '[Adrien Allard](https://github.com/Tichau)'
+  initialRelease: 2015-04-07
+  changelog: https://github.com/Tichau/FileConverter/blob/integration/CHANGELOG.md
+  issues: https://github.com/Tichau/FileConverter/issues
+  donate: https://file-converter.io/#donate
+  community:
+    forum: https://github.com/Tichau/FileConverter/discussions
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/Tichau/FileConverter
+    tech: C#
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://file-converter.io/download.html
+    - title: GitHub
+      icon: github
+      url: https://github.com/Tichau/FileConverter/releases/latest
 screenshots:
   1 explorer-@: Опции конвертации файлов в проводнике
   2 queue: Очередь
   3 presets: Пресеты
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://file-converter.io/download.html
-    2 GitHub: https://github.com/Tichau/FileConverter/releases/latest

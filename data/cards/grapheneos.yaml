@@ -1,24 +1,47 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: GrapheneOS
-icon: grapheneos.svg
 description: >
   Мобильная операционная система на основе Android Open Source Project,
   сосредоточенная на улучшение безопасности и приватности без ущерба удобству
   использования. Предустановлен минимум необходимых приложений, сервисы Google
   опциональны и устанавливаются в изолированном режиме.
 homepage: https://grapheneos.org
-kttpage: /software/grapheneos
-wikipedia: https://en.wikipedia.org/wiki/GrapheneOS
-help: https://grapheneos.org/faq
-docs: https://grapheneos.org/usage
-issues: https://grapheneos.org/contact#reporting-issues
-repository: https://github.com/GrapheneOS
-license: mit # apache-2.0
-donate: https://grapheneos.org/donate
+userDocs: https://grapheneos.org/articles
+extras:
+  owner: GrapheneOS Foundation
+  initialRelease: 2014
+  changelog: https://grapheneos.org/releases#changelog
+  issues: https://grapheneos.org/contact#reporting-issues
+  donate: https://grapheneos.org/donate
+  community:
+    rules: https://example.com/code-of-conduct
+    forum: https://discuss.grapheneos.org
+    bluesky: grapheneos.org
+    discord: https://discord.com/invite/grapheneos
+    lemmy: https://lemmy.example.com/c/community
+    mastodon: https://grapheneos.social/@GrapheneOS
+    matrix: community:grapheneos.org
+    reddit: GrapheneOS
+    telegram: GrapheneOS
+    xitter: GrapheneOS
+  technicalInfo:
+    license:
+      - id: mit
+      - id: apache-2.0
+    repository: https://github.com/GrapheneOS
+    tech: Android Open Source Project (AOSP)
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/GrapheneOS
+    fourPda: https://4pda.to/forum/index.php?showtopic=999653
+get:
+  title: Установить
+  linkButtons:
+    - title: Через браузер (рекомендуется)
+      icon: web
+      url: https://grapheneos.org/install/web
+    - title: Через терминал
+      icon: terminal
+      url: https://grapheneos.org/install/cli
 screenshots:
   1 home: Домашний экран GrapheneOS
   2 apps: Список предустановленных приложений GrapheneOS
-get:
-  title: Установить
-  links:
-    1 Установка через браузер (рекомендовано): https://grapheneos.org/install/web
-    2 Установка через терминал: https://grapheneos.org/install/cli

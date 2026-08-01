@@ -1,24 +1,38 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: uBlock Origin
-icon: ublock-origin.svg
 description: >
   Браузерное расширение для фильтрации (блокировки) содержимого веб-страниц,
   включая раздражающие элементы, скрипты отслеживания и рекламу. Предотвращает
   загрузку страниц с вредоносным содержимым.
-kttpage: /software/ublock-origin
-wikipedia: https://en.wikipedia.org/wiki/UBlock_Origin
-docs: https://github.com/gorhill/uBlock/wiki
-issues: https://github.com/uBlockOrigin/uBlock-issues/issues
-repository: https://github.com/gorhill/uBlock
-license: gnu-gpl-3.0
+homepage: https://github.com/gorhill/uBlock#readme
+userDocs: https://github.com/gorhill/uBlock/wiki
+extras:
+  owner: '[Raymond Hill](https://github.com/gorhill)'
+  initialRelease: 2014-06-23
+  changelog: https://github.com/gorhill/uBlock/blob/master/CHANGELOG.md
+  issues: https://github.com/uBlockOrigin/uBlock-issues/issues
+  community:
+    reddit: uBlockOrigin
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/gorhill/uBlock
+    tech: JavaScript, Расширение Manifest V2
+  externalLinks:
+    wikipedia: https://ru.wikipedia.org/wiki/UBlock_Origin
+get:
+  linkButtons:
+    - title: Firefox
+      icon: firefox
+      url: https://addons.mozilla.org/addon/ublock-origin
+    - title: Chromium (Chrome Web Store)
+      icon: chromium
+      url: https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+    - title: Chromium (Edge Add-ons)
+      icon: chromium
+      url: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 screenshots:
   1 menu-@: >
     Меню uBlock Origin. Кнопка активации, счётчик заблокированного содержимого,
     подключённые домены.
   2 caution-@: >
     uBlock Origin предотвращает загрузку страницы с вредоносным содержимым.
-get:
-  title: Скачать
-  links:
-    1 Firefox: https://addons.mozilla.org/addon/ublock-origin
-    2 Chromium (Chrome Web Store): https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm
-    3 Chromium (Edge Add-ons): https://microsoftedge.microsoft.com/addons/detail/odfafepnkmbhccpbejgmiehpchacaeak

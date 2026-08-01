@@ -1,20 +1,39 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Helium
-icon: helium.svg
 description: >
   Чистый и удобный браузер на основе Ungoogled Chromium, учитывающий
   конфиденциальность пользователей. Разрабатывается некоммерческим сообществом
   imput.
 homepage: https://helium.computer
-issues: https://github.com/imputnet/helium/issues
-repository: https://github.com/imputnet/helium
-license: gnu-gpl-3.0
-donate: https://helium.computer/sponsor
+extras:
+  owner: '[imput](https://imput.net)'
+  initialRelease: 2025-09-25
+  news: https://helium.computer/blog
+  changelog: https://github.com/imputnet/helium/releases
+  issues: https://github.com/imputnet/helium/issues
+  donate: https://helium.computer/sponsor
+  community:
+    xitter: heliumbrowser
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/imputnet/helium
+    tech: Ungoogled Chromium (Blink)
+    llmAssistance: '[Запрещено для контрибьюторов](https://github.com/imputnet/helium/blob/main/AGENTS.md)'
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://helium.computer/download
+    - group: GitHub
+    - title: Windows
+      icon: windows
+      url: https://github.com/imputnet/helium-windows/releases/latest
+    - title: macOS
+      icon: apple
+      url: https://github.com/imputnet/helium-macos/releases/latest
+    - title: Linux
+      icon: linux
+      url: https://github.com/imputnet/helium-linux/releases/latest
+  note: Версии для Linux, установленные не через пакетные менеджеры, не получают обновления автоматически.
 screenshots:
   desktop-@: Helium
-get:
-  title: Скачать
-  links:
-    1 Официальный сайт: https://helium.computer
-    2 GitHub (macOS): https://github.com/imputnet/helium-macos/releases/latest
-    3 GitHub (Linux): https://github.com/imputnet/helium-linux/releases/latest
-    4 GitHub (Windows): https://github.com/imputnet/helium-windows/releases/latest

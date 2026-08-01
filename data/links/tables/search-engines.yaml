@@ -8,7 +8,7 @@ features:
   - id: brave-search
   - title: degoog
     icon: degoog.png
-    repository: https://github.com/degoog-org/degoog
+    homepage: https://github.com/degoog-org/degoog#readme
   - id: duckduckgo
   - id: ecosia
   - title: Google Search

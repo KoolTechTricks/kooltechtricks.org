@@ -1,17 +1,40 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: DeArrow
-icon: dearrow.svg
 description: >
   Расширение для браузера, которое заменяет эмоциональные и вызывающие обложки
   и названия видео на YouTube на более нейтральные и правдоподобные.
   Пользователи предлагают свои названия, тем самым создавая базу данных,
   которой может пользоваться любой желающий.
 homepage: https://dearrow.ajay.app
-kttpage: /software/dearrow
-docs: https://wiki.sponsor.ajay.app/w/DeArrow/Guidelines
-issues: https://github.com/ajayyy/DeArrow/issues
-repository: https://github.com/ajayyy/DeArrow
-license: gnu-gpl-3.0
-donate: https://dearrow.ajay.app/donate
+userDocs: https://wiki.sponsor.ajay.app/w/DeArrow
+extras:
+  owner: '[Ajay Ramachandran](https://ajay.app)'
+  initialRelease: 2023-06-10
+  changelog: https://github.com/ajayyy/DeArrow/releases
+  issues: https://github.com/ajayyy/DeArrow/issues
+  donate: https://dearrow.ajay.app/donate
+  community:
+    bluesky: sponsor.ajay.app
+    discord: https://discord.gg/SponsorBlock
+    mastodon: https://fosstodon.org/@sponsorblock
+    matrix: sponsor:ajay.app
+    xitter: SponsorBlock
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/ajayyy/DeArrow
+get:
+  linkButtons:
+    - title: Chromium
+      icon: chromium
+      url: https://chromewebstore.google.com/detail/enamippconapkdmgfgjchkhakpfinmaj
+    - title: Firefox
+      icon: firefox
+      url: https://addons.mozilla.org/firefox/addon/dearrow
+    - title: Safari
+      icon: safari
+      url: https://apps.apple.com/app/id6451469297
+  linkList:
+    Бесплатно: https://dearrow.ajay.app/free
 screenshots:
   videos: >
     Примеры изменённых названий и обложек видео:
@@ -19,10 +42,3 @@ screenshots:
     2) «10 Minutes To Escape Or This Room Explodes!» → «Escape 5 Floors of Obstacles in 10 Minutes for $250,000»;
     3) «Китайская электрофура — КОСМОС!» → «Обзор и тест-драйв китайского электротягача DeepWay»;
     4) «NFT не нужны» → «Почему NFT является скамом».
-get:
-  title: Скачать
-  links:
-    1 Chromium: https://chromewebstore.google.com/detail/enamippconapkdmgfgjchkhakpfinmaj
-    2 Firefox: https://addons.mozilla.org/firefox/addon/dearrow
-    3 Safari: https://apps.apple.com/app/id6451469297
-    4 Бесплатно: https://dearrow.ajay.app/free

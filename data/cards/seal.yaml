@@ -1,12 +1,41 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Seal
 icon: seal.png
+alert:
+  type: warning
+  content: >
+    Приложение не получало обновлений с 2024 года. Оно автоматически получает
+    новые версии yt-dlp, что в большинстве случаев должно позволять скачивать
+    медиа без проблем, однако приложение не поддерживает среду исполнения
+    JavaScript, которая часто необходима для загрузки медиа из YouTube.
 description: >
   Загрузчик медиа с открытым исходным кодом для Android с дизайном Material 3.
   Использует yt-dlp, поддерживаются многие его функции.
-issues: https://github.com/JunkFood02/Seal/issues
-repository: https://github.com/JunkFood02/Seal
-license: gnu-gpl-3.0
-donate: https://github.com/sponsors/JunkFood02
+homepage: https://github.com/JunkFood02/Seal#readme
+extras:
+  owner: '[junkfood](https://github.com/JunkFood02)'
+  initialRelease: 2022-04-22
+  changelog: https://github.com/JunkFood02/Seal/blob/main/CHANGELOG.md
+  issues: https://github.com/JunkFood02/Seal/issues
+  donate: https://github.com/sponsors/JunkFood02
+  community:
+    forum: https://github.com/JunkFood02/Seal/discussions
+    matrix: seal-space:matrix.org
+    telegram: seal_app
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/JunkFood02/Seal
+    tech: Material Design 3, Kotlin
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php
+get:
+  linkButtons:
+    - title: GitHub
+      icon: github
+      url: https://github.com/JunkFood02/Seal/releases/latest
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.junkfood.seal
 screenshots:
   1 before-download-@: >
     Seal перед загрузкой предлагает выбрать тип, начальные параметры
@@ -19,8 +48,3 @@ screenshots:
   4 downloads-@: >
     Список загруженных файлов в Seal. Показывается размер, можно поделиться
     ссылкой или файлом. Можно отфильтровать только видео или аудио.
-get:
-  title: Скачать
-  links:
-    1 GitHub: https://github.com/JunkFood02/Seal/releases/latest
-    2 F-Droid: https://f-droid.org/packages/com.junkfood.seal

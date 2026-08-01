@@ -1,17 +1,29 @@
+# https://docs.kooltechtricks.org/contributing/cards/
 title: Ungoogled Chromium
-icon: ungoogled-chromium.svg
 description: >
   Браузер Chromium, из которого вырезаны все службы Google.
 homepage: https://ungoogled-software.github.io
-wikipedia: https://en.wikipedia.org/wiki/Ungoogled_chromium
-help: https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq
-issues: https://github.com/ungoogled-software/ungoogled-chromium/issues
-repository: https://github.com/ungoogled-software/ungoogled-chromium
-license: bsd-3-clause
+userDocs: https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2015-12-14
+  changelog: https://github.com/ungoogled-software/ungoogled-chromium/releases
+  issues: https://github.com/ungoogled-software/ungoogled-chromium/issues
+  community:
+    matrix: ungoogled-chromium:matrix.org
+  technicalInfo:
+    license: bsd-3-clause
+    repository: https://github.com/ungoogled-software/ungoogled-chromium
+    tech: Chromium (Blink)
+  externalLinks:
+    wikipedia: https://en.wikipedia.org/wiki/Ungoogled_Chromium
+get:
+  linkButtons:
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/details/io.github.ungoogled_software.ungoogled_chromium
+    - title: Сторонние сборки (без автообновлений)
+      icon: package-2
+      url: https://ungoogled-software.github.io/ungoogled-chromium-binaries
 screenshots:
   desktop-@: Ungoogled Chromium
-get:
-  title: Скачать
-  links:
-    1 Сторонние сборки: https://ungoogled-software.github.io/ungoogled-chromium-binaries
-    2 Flathub (Linux): https://flathub.org/apps/details/io.github.ungoogled_software.ungoogled_chromium
