@@ -1,7 +1,7 @@
 ---
 title: Universal Android Debloater
 publishDate: 2024-08-08T14:57:00Z
-lastmod: 2026-05-01T20:45:00Z
+lastmod: 2026-08-02T09:01:00Z
 #categories: [android, privacy]
 contributors: [kttrickster]
 image: /assets/screenshots/universal-android-debloater/0-universal-android-debloater-light.png
@@ -32,6 +32,11 @@ Universal Android Debloater позволяет легко удалить люб�
 приложения без root-прав, что улучшит приватность, безопасность и срок службы
 батареи. Внутри программы содержатся описания каждого приложения и степень
 безопасности их удаления.
+
+> [!important]
+> Начиная с Android 17, [стало невозможно удалять системные приложения](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions/1440).
+Вы больше не сможете избавиться от предустановленных приложений привычным
+образом, но их всё ещё можно [отключить](#отключение).
 
 ## Устройство
 
