@@ -1,7 +1,7 @@
 ---
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
-lastmod: 2026-04-19T19:27:00Z
+lastmod: 2026-08-02T13:09:00Z
 #categories: [browser-extensions, content-blockers, privacy]
 contributors: [kttrickster]
 image: /assets/screenshots/ublock-origin/1-ublock-origin-menu-light.webp
@@ -110,14 +110,14 @@ uBlock Origin.
 [собственную модифицированную версию uBlock Origin](https://github.com/imputnet/ublock)
 с дополнительными фильтрами.
 
-В [Brave] (для компьютеров и мобильных устройств) встроен собственный
-блокировщик контента. Со своей задачей он справляется не хуже uBlock Origin,
-поэтому устанавливать его не нужно.
+Другие браузеры могут иметь встроенный блокировщик рекламы с возможностью
+конфигурации, в качестве альтернативы uBlock Origin. Например, [Brave] и [Vivaldi].
 
 [LibreWolf]: /software/librewolf
 [IronFox]: /collections/browsers-mobile#ironfox
 [Helium]: /collections/browsers-desktop#helium
 [Brave]: /collections/browsers-desktop#brave
+[Vivaldi]: /collections/browsers-desktop#vivaldi
 
 ## Конфигурация
 
@@ -130,7 +130,7 @@ uBlock Origin по умолчанию достаточно хорошо защи
 uBlock Origin блокирует элементы согласно [спискам фильтров], которые
 поддерживаются волонтёрами. Обновления списков производятся автоматически в
 фоне. При запуске браузера это создаёт множество сетевых запросов на сайты, где
-расположены списки.
+размещены списки.
 
 [спискам фильтров]: https://github.com/gorhill/uBlock/wiki/Dashboard:-Filter-lists
 
@@ -177,7 +177,7 @@ uBlock Origin имеет [поддержку облачного хранилищ
 
 ### Меню
 
-[Меню uBlock Origin] (по нажатии на значок расширения) содержит информацию о
+[Меню uBlock Origin] (значок расширения) содержит информацию о
 заблокированных элементах и быстрые действия. Отсюда можно использовать почти
 любую функцию расширения. Меню можно раскрыть, чтобы показать больше
 инструментов и информации.
@@ -224,7 +224,7 @@ uBlock Origin имеет [поддержку облачного хранилищ
 нужно перезагрузить страницу.
 
 Логгер больше предназначен для продвинутых пользователей. Отсюда можно
-отлаживать работу фильтров и создавать свои.
+отлаживать работу фильтров и создавать собственные.
 
 [Логгер]: https://github.com/gorhill/uBlock/wiki/The-logger
 
