@@ -1,8 +1,8 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Firefox
 description: >
-  Браузер с открытым исходным кодом, разрабатываемый Mozilla. Основан на
-  собственном движке Gecko.
+  Старейший свободный браузер от Mozilla на собственном движке Gecko. Содержит
+  основные необходимые функции, по простоте сопоставим с Google Chrome.
 homepage: https://www.firefox.com
 userDocs: https://support.mozilla.org
 extras:

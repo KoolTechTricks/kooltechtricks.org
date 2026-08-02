@@ -2,8 +2,7 @@
 title: Helium
 description: >
   Чистый и удобный браузер на основе Ungoogled Chromium, учитывающий
-  конфиденциальность пользователей. Разрабатывается некоммерческим сообществом
-  imput.
+  конфиденциальность пользователей.
 homepage: https://helium.computer
 extras:
   owner: '[imput](https://imput.net)'

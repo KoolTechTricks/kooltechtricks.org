@@ -1,8 +1,9 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Waterfox
 description: >
-  Браузер, ориентированный на пользователя.
-  Одна из старейших модификаций Firefox.
+  Один из старейших браузеров, основанных на Firefox. Удаляет лишние службы
+  Mozilla, функции искусственного интеллекта. Добавляет больше персонализации
+  и улучшений конфиденциальности.
 homepage: https://waterfox.com
 userDocs: https://www.waterfox.com/support/waterfox-help
 extras:

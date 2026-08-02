@@ -1,7 +1,8 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Ungoogled Chromium
 description: >
-  Браузер Chromium, из которого вырезаны все службы Google.
+  Браузер Chromium, из которого вырезаны все службы Google. Не пытается
+  предоставить удобный пользовательский опыт.
 homepage: https://ungoogled-software.github.io
 userDocs: https://ungoogled-software.github.io/ungoogled-chromium-wiki/faq
 extras:
