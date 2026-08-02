@@ -1,5 +1,6 @@
 ---
 title: Использование Obtainium для получения обновлений приложений Android из разных источников
+fancyTitle: Как использовать Obtainium для обновления приложений Android из GitHub, RuStore и других источников?
 publishDate: 2025-04-27T10:10:00Z
 lastmod: 2026-07-23T15:04:00Z
 contributors: [kttrickster]
