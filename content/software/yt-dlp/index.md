@@ -4,7 +4,7 @@ publishDate: 2023-09-24T17:43:27Z
 lastmod: 2026-05-31T13:16:00Z
 #categories: [multimedia]
 contributors: [kttrickster]
-image: /assets/screenshots/yt-dlp/yt-dlp.png
+image: /assets/screenshots/yt-dlp/yt-dlp.webp
 imageAlt: Скачивание видео с помощью yt-dlp в терминале
 ---
 

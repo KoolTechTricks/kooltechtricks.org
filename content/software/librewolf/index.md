@@ -4,7 +4,7 @@ publishDate: 2025-03-10T17:42:00Z
 lastmod: 2026-04-14T21:07:00Z
 # categories: [browsers, privacy]
 contributors: [kttrickster]
-image: /assets/screenshots/librewolf/1-librewolf-light.webp
+image: /assets/screenshots/librewolf/desktop-light.webp
 imageAlt: Окно браузера LibreWolf
 ---
 

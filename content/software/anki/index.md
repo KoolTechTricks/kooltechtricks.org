@@ -4,7 +4,7 @@ publishDate: 2023-08-30T14:48:00Z
 lastmod: 2025-08-18T14:13:00Z
 #categories: [education]
 contributors: [kttrickster]
-image: /assets/screenshots/anki/1-anki-card-light.png
+image: /assets/screenshots/anki/card-light.webp
 imageAlt: Процесс изучения карточек в Anki
 ---
 

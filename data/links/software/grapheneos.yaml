@@ -1,3 +1,6 @@
+seeAlso:
+  - title: Изоляция приложений и пользовательских данных в Android
+    link: /wiki/android-isolation
 articles:
   - title: Сравнение операционных систем на базе Android Open Source Project
     link: https://eylenburg.github.io/android_comparison.htm

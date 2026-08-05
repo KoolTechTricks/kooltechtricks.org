@@ -4,7 +4,7 @@ publishDate: 2023-08-25T17:48:00Z
 lastmod: 2025-05-11T15:57:00Z
 #categories: [webextensions, wellbeing]
 contributors: [kttrickster]
-image: /assets/screenshots/dearrow/0-dearrow-videos-light.webp
+image: /assets/screenshots/dearrow/videos.webp
 imageAlt: >
   Примеры изменённых названий и обложек видео:
   1) Вся правда об Apple Vision Pro — «Чёрное зеркало» → Краткие итоги WWDC2023;
