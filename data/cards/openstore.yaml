@@ -1,0 +1,32 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: OpenStore
+icon: openstore.png
+description: >
+  Альтернативный клиент RuStore с чистым интерфейсом и открытым исходным кодом.
+homepage: https://codeberg.org/mi6e4ka/openstore#readme
+extras:
+  owner: '[mi6e4ka](https://codeberg.org/mi6e4ka)'
+  initialRelease: 2025-04-28
+  changelog: https://codeberg.org/mi6e4ka/openstore/releases
+  issues: https://codeberg.org/mi6e4ka/openstore/issues
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://codeberg.org/mi6e4ka/openstore
+    tech: Kotlin
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1109418
+get:
+  linkButtons:
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://add/https://codeberg.org/mi6e4ka/openstore
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/dev.mi6e4ka.openstore
+    - title: APK-файл (без автообновлений)
+      icon: android
+      url: https://codeberg.org/mi6e4ka/openstore/releases/download/latest/app-release.apk
+screenshots:
+  1 main-@: Главный экран со строкой поиска в OpenStore
+  2 app-@: Страница приложения в OpenStore
+  3 search-@: Поиск приложений в OpenStore

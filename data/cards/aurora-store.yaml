@@ -1,0 +1,47 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: Aurora Store
+icon: aurora-store.png
+description: >
+  Альтернативный клиент Google Play Store с привычным и чистым интерфейсом.
+  Не требует сервисов Google и с открытым исходным кодом. Можно войти в свой
+  аккаунт Google или получать анонимные сессии.
+homepage: https://auroraoss.com/aurora-store
+userDocs: https://auroraoss.com/wiki
+extras:
+  owner: '[Aurora OSS](https://auroraoss.com/team)'
+  initialRelease: 2018-01-24
+  changelog: https://gitlab.com/AuroraOSS/AuroraStore/-/blob/master/CHANGELOG
+  issues: https://gitlab.com/AuroraOSS/AuroraStore/-/work_items
+  donate: https://auroraoss.com/community
+  community:
+    forum: https://xdaforums.com/t/app-6-0-aurora-store-open-source-google-play-client.3739733/
+    telegram: AuroraOfficial
+  technicalInfo:
+    license: gnu-gpl-3.0-or-later
+    repository: https://gitlab.com/AuroraOSS/AuroraStore
+    tech: Kotlin, Jetpack Compose
+    llmAssistance: '[Есть](https://github.com/whyorean/AuroraStore)'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=887569
+get:
+  linkButtons:
+    - title: Obtainium
+      icon: obtainium
+      url: obtainium://app/%7B%22id%22%3A%22com.aurora.store%22%2C%22url%22%3A%22https%3A%2F%2Fauroraoss.com%2Fapi%2Ffiles%22%2C%22author%22%3A%22auroraoss.com%22%2C%22name%22%3A%22Aurora%20Store%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22intermediateLink%5C%22%3A%5B%5D%2C%5C%22customLinkFilterRegex%5C%22%3A%5C%22%2Fdownloads%2FAuroraStore%2FRelease%2FAuroraStore-%5C%5C%5C%5Cd%5C%5C%5C%5C.%5C%5C%5C%5Cd%5C%5C%5C%5C.%5C%5C%5C%5Cd%5C%5C%5C%5C.apk%5C%22%2C%5C%22filterByLinkText%5C%22%3Afalse%2C%5C%22skipSort%5C%22%3Afalse%2C%5C%22reverseSort%5C%22%3Afalse%2C%5C%22sortByLastLinkSegment%5C%22%3Afalse%2C%5C%22versionExtractWholePage%5C%22%3Afalse%2C%5C%22requestHeader%5C%22%3A%5B%7B%5C%22requestHeader%5C%22%3A%5C%22User-Agent%3A%20Mozilla%2F5.0%20(Linux%3B%20Android%2010%3B%20K)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F114.0.0.0%20Mobile%20Safari%2F537.36%5C%22%7D%5D%2C%5C%22defaultPseudoVersioningMethod%5C%22%3A%5C%22partialAPKHash%5C%22%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%5C%5C%5Cd%5C%5C%5C%5C.%5C%5C%5C%5Cd%5C%5C%5C%5C.%5C%5C%5C%5Cd%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C%22versionDetection%5C%22%3Atrue%2C%5C%22useVersionCodeAsOSVersion%5C%22%3Afalse%2C%5C%22apkFilterRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22invertAPKFilter%5C%22%3Afalse%2C%5C%22autoApkFilterByArch%5C%22%3Atrue%2C%5C%22appName%5C%22%3A%5C%22Aurora%20Store%5C%22%2C%5C%22appAuthor%5C%22%3A%5C%22auroraoss.com%5C%22%2C%5C%22shizukuPretendToBeGooglePlay%5C%22%3Afalse%2C%5C%22allowInsecure%5C%22%3Afalse%2C%5C%22exemptFromBackgroundUpdates%5C%22%3Afalse%2C%5C%22skipUpdateNotifications%5C%22%3Afalse%2C%5C%22about%5C%22%3A%5C%22Aurora%20Store%20is%20an%20unofficial%20FOSS%20client%20for%20Google%20Play%20with%20bare%20minimum%20features.%20Aurora%20Store%20allows%20users%20to%20download%2C%20update%2C%20and%20search%20for%20apps%20like%20the%20Play%20Store.%20It%20works%20perfectly%20fine%20with%20or%20without%20Google%20Play%20Services%20or%20microG.%5C%22%2C%5C%22refreshBeforeDownload%5C%22%3Afalse%7D%22%2C%22overrideSource%22%3Anull%7D
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/com.aurora.store
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.aurora.store/
+    - group: APK-файлы (без автообновлений)
+    - title: Официальный сайт
+      icon: web
+      url: https://auroraoss.com/files/AuroraStore/Release
+    - title: GitLab
+      icon: gitlab
+      url: https://gitlab.com/AuroraOSS/AuroraStore/-/releases
+screenshots:
+  1 main-@: Главный экран с популярными приложениями в Aurora Store
+  2 app-@: Страница приложения в Aurora Store
+  3 search-@: Поиск приложений в Aurora Store
