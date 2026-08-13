@@ -1,7 +1,7 @@
 ---
 title: Верификация разработчиков Android
 publishDate: 2026-08-13T15:43:00Z
-lastmod: 2026-08-13T15:43:00Z
+lastmod: 2026-08-13T16:04:00Z
 contributors: [kttrickster]
 image: image.webp
 imageAlt: >
@@ -63,7 +63,7 @@ Android, которая с внедрением верификации разр�
 приложений, будут обязаны подчиняться Google. Это возможно с сервисами Google,
 которые внедрены в сертифицированные системы, имеют повышенные привилегии и
 могут автоматически получать обновления и устанавливать другие приложения без
-ведома пользователя. Это затронет даже старые устройств с Android 7 и выше.
+ведома пользователя. Это затронет даже старые устройства с Android 7 и выше.
 
 ## Вредоносные приложения
 
@@ -74,7 +74,7 @@ Google [уверяет](https://android-developers.googleblog.com/2025/11/androi
 в 50 раз чаще встречаются вирусы.
 
 Однако вредоносное ПО в большом объёме находят и в [Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/),
-а иногда даже в [App Store](https://www.yahoo.com/news/us/articles/apple-faces-lawsuit-fake-sparrow-154125362.html).
+а иногда даже в [Apple App Store](https://www.yahoo.com/news/us/articles/apple-faces-lawsuit-fake-sparrow-154125362.html).
 Давать пользователям ложное ощущение безопасности из-за того, что личность всех
 разработчиков верифицируется, приносит вред. Это не гарантирует полной
 безопасности, но неосведомлённые пользователи будут думать об обратном, и с
