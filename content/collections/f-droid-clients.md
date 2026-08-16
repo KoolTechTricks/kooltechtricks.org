@@ -2,7 +2,7 @@
 title: Клиенты F-Droid
 fancyTitle: Альтернативные клиенты для получения приложений из F-Droid
 publishDate: 2024-06-25T18:34:37Z
-lastmod: 2026-07-21T17:03:00Z
+lastmod: 2026-08-16T15:19:00Z
 contributors: [kttrickster]
 image: /assets/hero/f-droid-clients.webp
 imageAlt: Droid-ify, Официальный клиент F-Droid, Neo Store
@@ -34,6 +34,16 @@ imageAlt: Droid-ify, Официальный клиент F-Droid, Neo Store
 - Экспорт/Импорт настроек, избранных приложений и списка репозиториев.
 
 [IzzyOnDroid]: /software/f-droid#izzyondroid
+
+## Aurora Droid
+
+{{< card aurora-droid >}}
+
+Aurora Droid был заброшен долгое время, но в августе 2026 года получил крупное
+обновление с переработанной архитектурой и современным дизайном. Пока что не
+поддерживаются локализации. Имеются проблемы с поиском (например, запрос
+"firefox" не показывает результатов). Добавлен репозиторий [IzzyOnDroid], но он
+отключён по умолчанию.
 
 ## Neo Store
 

@@ -1,0 +1,34 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: Aurora Droid
+icon: aurora-droid.webp
+description: >
+  Простой и красивый клиент F-Droid от создателей Aurora Store.
+homepage: https://gitlab.com/AuroraOSS/auroradroid
+extras:
+  owner: '[Aurora OSS](https://auroraoss.com/team)'
+  initialRelease: 2019-05-23
+  changelog: https://gitlab.com/AuroraOSS/auroradroid/-/blob/master/CHANGELOG
+  issues: https://gitlab.com/AuroraOSS/auroradroid/-/work_items
+  donate: https://auroraoss.com/community
+  community:
+    telegram: AuroraOfficial
+  technicalInfo:
+    license: gnu-gpl-3.0-or-later
+    repository: https://gitlab.com/AuroraOSS/auroradroid
+    tech: Jetpack Compose
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=949744
+get:
+  linkButtons:
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.aurora.adroid/
+    - title: GitLab (без автообновлений)
+      icon: gitlab
+      url: https://gitlab.com/AuroraOSS/auroradroid/-/releases
+screenshots:
+  1 main-@: Просмотр приложений в Aurora Droid
+  2 app-@: Страница приложения в Aurora Droid
+  3 installed-@: Установленные приложения в Aurora Droid
+  4 search-@: Поиск приложений в Aurora Droid
+  5 repos-@: Управление репозиториями в Aurora Droid
