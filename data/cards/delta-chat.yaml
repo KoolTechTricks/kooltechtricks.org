@@ -16,9 +16,9 @@ extras:
   news: https://delta.chat/blog
   changelog:
     - title: Android
-      url: https://github.com/deltachat/deltachat-android/blob/main/CHANGELOG.md
+      url: https://deltachat.github.io/deltachat-android/CHANGELOG
     - title: iOS
-      url: https://github.com/deltachat/deltachat-ios/blob/main/CHANGELOG.md
+      url: https://deltachat.github.io/deltachat-ios/CHANGELOG
     - title: Компьютер
       url: https://github.com/deltachat/deltachat-desktop/blob/main/CHANGELOG.md
   donate: https://delta.chat/donate

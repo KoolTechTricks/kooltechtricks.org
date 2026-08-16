@@ -7,7 +7,7 @@ homepage: https://pandoc.org
 userDocs: https://pandoc.org/MANUAL.html
 extras:
   owner: '[John MacFarlane](https://github.com/jgm)'
-  initialRelease: 2006-08-14
+  initialRelease: 2006-08-03
   changelog: https://pandoc.org/releases.html#revision-history-for-pandoc
   issues: https://github.com/jgm/pandoc/issues
   community:

@@ -20,6 +20,7 @@ extras:
   technicalInfo:
     license: mpl-2.0
     repository: https://github.com/brave
+    techDocs: https://github.com/brave/brave-browser/wiki
     tech: Chromium
     llmAssistance: 'Есть, [разрешено](https://github.com/brave/brave-core/blob/master/.claude/CLAUDE.md)'
   externalLinks:
