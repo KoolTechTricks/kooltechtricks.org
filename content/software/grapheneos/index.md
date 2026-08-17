@@ -1,7 +1,7 @@
 ---
 title: GrapheneOS
 publishDate: 2026-04-28T15:04:00Z
-lastmod: 2026-08-06T12:57:00Z
+lastmod: 2026-08-17T08:15:00Z
 #categories: [android, operating-systems]
 contributors: [kttrickster]
 image: grapheneos.webp
@@ -362,12 +362,9 @@ WebView. Не требует никаких разрешений, содержи
 
 Более удобные приложения для просмотра PDF:
 
-- [PDF](https://f-droid.org/packages/com.vayunmathur.pdf) (меньше
-функциональности, частые обновления).
-- [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
-(больше функциональности, нет обновлений с 2024 года).
-- [Librera Reader](https://github.com/foobnix/LibreraReader#librera-reader)
-(много функций и поддерживаемых форматов, больше подходит для чтения книг).
+- [MA PDF](https://ma.vayunmathur.com/apps/pdf) (проще и менее функционально).
+- [MJ PDF](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader) (больше функциональности).
+- [Librera Reader](https://github.com/foobnix/LibreraReader#librera-reader) (много функций и поддерживаемых форматов, больше подходит для чтения книг).
 
 ### Телефон
 
