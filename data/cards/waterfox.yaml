@@ -1,9 +1,9 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Waterfox
 description: >
-  Один из старейших браузеров, основанных на Firefox. Удаляет лишние службы
-  Mozilla, функции искусственного интеллекта. Добавляет больше персонализации
-  и улучшений конфиденциальности.
+  Один из старейших браузеров, основанных на Firefox ESR (старая, но
+  поддерживаемая версия). Удаляет лишние службы Mozilla, функции искусственного
+  интеллекта. Добавляет больше персонализации и улучшений конфиденциальности.
 homepage: https://waterfox.com
 userDocs: https://www.waterfox.com/support/waterfox-help
 extras:
