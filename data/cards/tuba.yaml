@@ -4,22 +4,22 @@ description: >
   Приложение для Mastodon, заточенное под рабочий стол GNOME на Linux.
   Поддерживается большинство функций Mastodon и других сервисов Fediverse.
 homepage: https://tuba.geopjr.dev
-userDocs: https://github.com/GeopJr/Tuba/wiki
+userDocs: https://codeberg.org/GeopJr/Tuba/wiki
 extras:
-  owner: '[Evangelos "GeopJr" Paterakis](https://github.com/GeopJr)'
+  owner: '[Evangelos "GeopJr" Paterakis](https://codeberg.org/GeopJr)'
   initialRelease: 2023-03-23
-  changelog: https://github.com/GeopJr/Tuba/releases
-  issues: https://github.com/GeopJr/Tuba/issues
+  changelog: https://codeberg.org/GeopJr/Tuba/releases
+  issues: https://codeberg.org/GeopJr/Tuba/issues
   donate: https://geopjr.dev/donate
   community:
-    rules: https://github.com/GeopJr/Tuba/blob/main/CODE_OF_CONDUCT.md
+    rules: https://codeberg.org/GeopJr/Tuba/src/branch/main/CODE_OF_CONDUCT.md
     mastodon: https://floss.social/@Tuba
     matrix: tuba:gnome.org
   technicalInfo:
     license: gnu-gpl-3.0
-    repository: https://github.com/GeopJr/Tuba
+    repository: https://codeberg.org/GeopJr/Tuba
     tech: GTK 4 (Libadwaita), продолжение Tootle
-    llmAssistance: '[Запрещено](https://github.com/GeopJr/Tuba#use-of-generative-ai)'
+    llmAssistance: '[Запрещено](https://codeberg.org/GeopJr/Tuba#use-of-generative-ai)'
 get:
   linkButtons:
     - title: Linux
@@ -27,7 +27,7 @@ get:
       url: https://flathub.org/apps/details/dev.geopjr.Tuba
     - title: Windows
       icon: windows
-      url: https://github.com/GeopJr/Tuba/releases/latest/download/Tuba.Setup.exe
+      url: https://codeberg.org/GeopJr/Tuba/releases/download/latest/Tuba%20Setup.exe
 screenshots:
   1 home-linux-@: Домашняя лента в Tuba для Linux
   2 profile-linux-@: Просмотр профиля в Tuba для Linux
