@@ -29,7 +29,8 @@ get:
       icon: android
       url: https://f-droid.org/F-Droid.apk
 screenshots:
-  1 explore-@: Просмотр приложений в F-Droid
+  1 main-@: Просмотр приложений в F-Droid
   2 app-@: Страница приложения в F-Droid
   3 installed-@: Установленные приложения в F-Droid
-  4 repos-@: Управление репозиториями в F-Droid
+  4 search-@: Поиск приложений в F-Droid
+  5 repos-@: Управление репозиториями в F-Droid

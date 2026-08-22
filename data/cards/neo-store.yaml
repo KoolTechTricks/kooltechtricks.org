@@ -33,7 +33,8 @@ get:
       icon: f-droid
       url: https://f-droid.org/packages/com.machiav3lli.fdroid
 screenshots:
-  1 explore-@: Просмотр приложений в Neo Store
+  1 main-@: Просмотр приложений в Neo Store
   2 app-@: Страница приложения в Neo Store
   3 installed-@: Установленные приложения в Neo Store
-  4 repos-@: Управление репозиториями в Neo Store
+  4 search-@: Поиск приложений в Neo Store
+  5 repos-@: Управление репозиториями в Neo Store

@@ -30,7 +30,8 @@ get:
       icon: f-droid
       url: https://f-droid.org/packages/com.looker.droidify
 screenshots:
-  1 explore-@: Просмотр приложений в Droid-ify
+  1 main-@: Просмотр приложений в Droid-ify
   2 app-@: Страница приложения в Droid-ify
   3 installed-@: Установленные приложения в Droid-ify
-  4 repos-@: Управление репозиториями в Droid-ify
+  4 search-@: Поиск приложений в Droid-ify
+  5 repos-@: Управление репозиториями в Droid-ify
