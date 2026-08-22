@@ -9,8 +9,8 @@ userDocs: https://www.librewolf.net/docs/faq
 extras:
   owner: '[Сообщество энтузиастов](https://www.librewolf.net/#core-contributors)'
   initialRelease: 2019-06-16
-  changelog: https://codeberg.org/librewolf/bsys6/releases
-  issues: https://codeberg.org/librewolf/issues
+  changelog: https://librewolf.dev/librewolf/bsys6/releases
+  issues: https://librewolf.dev/librewolf/issues
   community:
     lemmy: https://lemmy.ml/c/librewolf
     mastodon: https://chaos.social/@librewolf
@@ -18,7 +18,7 @@ extras:
     reddit: LibreWolf
   technicalInfo:
     license: mpl-2.0
-    repository: https://codeberg.org/librewolf
+    repository: https://librewolf.dev/librewolf
     tech: Firefox
   externalLinks:
     wikipedia: https://ru.wikipedia.org/wiki/LibreWolf
