@@ -4,6 +4,8 @@ fancyTitle: Как использовать Obtainium для обновлени�
 publishDate: 2025-04-27T10:10:00Z
 lastmod: 2026-08-16T11:24:00Z
 contributors: [kttrickster]
+features: obtainium
+difficulty: moderate
 image: image.webp
 imageAlt: >
   Схема, на которой изображены значки источников приложений: GitHub, F-Droid, RuStore и глобус (означает любой сайт).

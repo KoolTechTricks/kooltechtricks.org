@@ -3,6 +3,8 @@ title: Использование Delta Chat с классической эле�
 publishDate: 2026-03-15T14:58:00Z
 lastmod: 2026-08-17T12:53:00Z
 contributors: [kttrickster]
+features: delta-chat
+difficulty: moderate
 image: hero.webp
 imageAlt: Использование Delta Chat с классической электронной почтой
 ---
