@@ -118,7 +118,7 @@ url = 'https://bsky.app/profile/kooltechtricks.org'
 
 [[params.socials]]
 id = 'xitter'
-title = 'X/Twitter'
+title = 'X'
 url = 'https://x.com/KoolTechTricks'
 
 [[params.socials]]
