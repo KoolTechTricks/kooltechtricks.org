@@ -3,7 +3,6 @@ title: Использование Obtainium для получения обнов
 fancyTitle: Как использовать Obtainium для обновления приложений Android из GitHub, RuStore и других источников?
 publishDate: 2025-04-27T10:10:00Z
 lastmod: 2026-08-16T11:24:00Z
-contributors: [kttrickster]
 features: obtainium
 difficulty: moderate
 image: image.webp

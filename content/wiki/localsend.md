@@ -2,8 +2,6 @@
 title: LocalSend
 publishDate: 2023-12-25T14:00:51Z
 lastmod: 2023-12-25T14:03:33Z
-#categories: ['files']
-contributors: [kttrickster]
 image: /media/localsend.jpg
 legacy: true
 ---

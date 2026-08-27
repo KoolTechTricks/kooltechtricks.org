@@ -2,8 +2,6 @@
 title: LanguageTool
 publishDate: 2024-11-02T16:33:00Z
 lastmod: 2024-11-02T16:33:00Z
-#categories: []
-contributors: [kttrickster]
 image: plugins/browser.webp
 layout: single
 sidebar: default

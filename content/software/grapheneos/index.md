@@ -2,8 +2,6 @@
 title: GrapheneOS
 publishDate: 2026-04-28T15:04:00Z
 lastmod: 2026-08-17T08:15:00Z
-#categories: [android, operating-systems]
-contributors: [kttrickster]
 image: grapheneos.webp
 imageAlt: GrapheneOS после первоначальной настройки
 ---

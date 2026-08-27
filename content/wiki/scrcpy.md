@@ -2,8 +2,6 @@
 title: scrcpy
 publishDate: 2023-11-17T17:37:47Z
 lastmod: 2023-12-24T13:10:53Z
-#categories: ['android']
-contributors: [kttrickster]
 image: /media/scrcpy.jpg
 legacy: true
 ---

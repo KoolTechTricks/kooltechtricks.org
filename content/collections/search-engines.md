@@ -3,7 +3,6 @@ title: Поисковые системы
 fancyTitle: Рекомендованные альтернативные поисковые системы
 publishDate: 2023-12-16T17:01:34Z
 lastmod: 2026-06-18T17:29:00Z
-contributors: [kttrickster]
 image: /assets/hero/search-engines.png
 imageAlt: >
   Строки поиска DuckDuckGo, Startpage, Brave Search, SearXNG, Ecosia, Kagi

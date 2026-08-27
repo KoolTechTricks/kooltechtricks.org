@@ -2,8 +2,6 @@
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
 lastmod: 2026-08-02T13:09:00Z
-#categories: [browser-extensions, content-blockers, privacy]
-contributors: [kttrickster]
 image: /assets/screenshots/ublock-origin/menu-light.webp
 imageAlt: >
   Меню uBlock Origin. Кнопка активации, счётчик заблокированного содержимого,

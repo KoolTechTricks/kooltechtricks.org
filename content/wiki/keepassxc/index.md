@@ -2,8 +2,6 @@
 title: KeePassXC
 publishDate: 2024-06-30T13:59:34Z
 lastmod: 2024-11-06T11:46:00Z
-#categories: ['security']
-contributors: [kttrickster]
 image: keepassxc.webp
 legacy: true
 ---

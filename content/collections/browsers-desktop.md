@@ -3,7 +3,6 @@ title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
 lastmod: 2026-08-22T17:37:00Z
-contributors: [kttrickster]
 image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
 cards: desktop

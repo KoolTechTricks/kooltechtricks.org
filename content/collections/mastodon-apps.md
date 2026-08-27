@@ -3,7 +3,6 @@ title: Приложения для Mastodon
 fancyTitle: Рекомендованные приложения для Mastodon и Fediverse
 publishDate: 2024-06-20T13:16:18Z
 lastmod: 2026-06-21T11:13:00Z
-contributors: [kttrickster]
 image: /assets/hero/mastodon-apps.webp
 imageAlt: Скриншоты разных приложений для Mastodon
 ---

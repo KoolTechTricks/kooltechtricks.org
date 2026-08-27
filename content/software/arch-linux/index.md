@@ -2,8 +2,6 @@
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
 lastmod: 2026-08-02T08:48:00Z
-#categories: [linux]
-contributors: [kttrickster]
 ---
 
 В основе Arch Linux лежит принцип «сделай сам» (Do It Yourself). Если вы

@@ -3,7 +3,6 @@ title: Магазины приложений для Android
 fancyTitle: 'Магазины приложений для Android: откуда лучше всего скачивать приложения?'
 publishDate: 2026-08-06T12:57:00Z
 lastmod: 2026-08-16T10:40:00Z
-contributors: [kttrickster]
 image: /assets/hero/android-app-stores.webp
 imageAlt: Различные магазины приложений для Android
 ---

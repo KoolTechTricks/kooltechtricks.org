@@ -2,8 +2,6 @@
 title: Delta Chat
 publishDate: 2026-03-15T14:58:00Z
 lastmod: 2026-08-17T14:43:00Z
-#categories: [messenger]
-contributors: [kttrickster]
 image: hero.webp
 imageAlt: Delta Chat на телефоне и компьютере
 ---

@@ -2,7 +2,6 @@
 title: Использование Delta Chat для удобного и безопасного общения
 publishDate: 2026-03-15T14:58:00Z
 lastmod: 2026-08-17T14:01:00Z
-contributors: [kttrickster]
 features: delta-chat
 difficulty: simple
 image: hero.webp

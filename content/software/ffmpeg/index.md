@@ -2,8 +2,6 @@
 title: FFmpeg
 publishDate: 2023-09-11T17:33:00Z
 lastmod: 2026-05-07T20:28:00Z
-#categories: [multimedia]
-contributors: [kttrickster]
 ---
 
 ## Применение

@@ -2,7 +2,6 @@
 title: Установка и настройка Arch Linux
 publishDate: 2025-05-02T13:36:09Z
 lastmod: 2025-10-19T11:31:00Z
-contributors: [kttrickster]
 features: arch-linux
 difficulty: advanced
 image: hero.webp

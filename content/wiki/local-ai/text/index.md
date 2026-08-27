@@ -2,8 +2,6 @@
 title: Генерация текста при помощи локального искусственного интеллекта
 publishDate: 2024-10-06T11:40:00Z
 lastmod: 2025-02-01T12:40:00Z
-#categories: ['ai', 'software-collections']
-contributors: [kttrickster]
 image: gpt4all.webp
 legacy: true
 noindex: true

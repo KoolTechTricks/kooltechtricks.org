@@ -341,7 +341,6 @@ include_paths = [
 ignore_paths = [
     "**/!TEMPLATE.yaml",
     "**/_TEMPLATE.yaml",
-    "data/contributors/*.yaml",
     "content/guides/how-to-use-console/**",
     "content/wiki/youtube/**",
     "content/wiki/winget/**",
@@ -373,7 +372,6 @@ min_word_length = 4
 [[overrides]]
 paths = ["content/tables/*.html"]
 extra_words = ["lastmod"]
-extra_ignore_patterns = ['contributors: \[.+\]']
 
 [[overrides]]
 paths = ["data/cards/*.yaml"]

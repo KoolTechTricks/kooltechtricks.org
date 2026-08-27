@@ -2,8 +2,6 @@
 title: Приложения YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-02-01T11:51:00Z
-#categories: ['software-collections', 'privacy']
-contributors: [kttrickster]
 image: image.webp
 legacy: true
 ---

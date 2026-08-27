@@ -2,8 +2,6 @@
 title: WinGet
 publishDate: 2023-09-21T16:39:58Z
 lastmod: 2024-07-26T14:00:00Z
-#categories: ['windows']
-contributors: [kttrickster]
 image: /media/winget.webp
 legacy: true
 noindex: true

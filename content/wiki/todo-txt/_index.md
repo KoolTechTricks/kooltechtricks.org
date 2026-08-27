@@ -2,8 +2,6 @@
 title: Todo.txt
 publishDate: 2024-04-26T14:36:31Z
 lastmod: 2024-09-06T19:11:00Z
-#categories: ['productivity']
-contributors: [kttrickster]
 image: image.webp
 layout: single
 sidebar: default

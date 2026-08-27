@@ -2,8 +2,6 @@
 title: Функции и возможности YouTube
 publishDate: 2024-08-27T17:25:00Z
 lastmod: 2024-08-27T17:25:00Z
-#categories: []
-contributors: [kttrickster]
 legacy: true
 ---
 

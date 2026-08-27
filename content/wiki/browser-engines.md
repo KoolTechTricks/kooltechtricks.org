@@ -2,7 +2,6 @@
 title: Браузерные движки
 publishDate: 2025-08-11T20:52:00Z
 lastmod: 2026-06-06T19:30:00Z
-contributors: [kttrickster]
 ---
 
 Что за Chromium (Blink), Firefox (Gecko) и WebKit? Почему многие рекомендуют

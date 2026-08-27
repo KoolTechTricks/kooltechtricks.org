@@ -2,7 +2,6 @@
 title: Изоляция приложений и пользовательских данных в Android
 publishDate: 2026-06-29T17:44:00Z
 lastmod: 2026-08-17T15:29:00Z
-contributors: [kttrickster]
 image: image.webp
 imageAlt: Разделение приложений в профилях
 ---

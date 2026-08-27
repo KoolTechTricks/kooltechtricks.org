@@ -2,8 +2,6 @@
 title: VeraCrypt
 publishDate: 2023-11-24T17:43:45Z
 lastmod: 2024-09-19T19:28:00Z
-#categories: ['files', 'security']
-contributors: [kttrickster]
 image: veracrypt.webp
 legacy: true
 ---

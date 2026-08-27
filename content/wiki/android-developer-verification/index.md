@@ -2,7 +2,6 @@
 title: Верификация разработчиков Android
 publishDate: 2026-08-13T15:43:00Z
 lastmod: 2026-08-19T18:35:00Z
-contributors: [kttrickster]
 image: image.webp
 imageAlt: >
   Android в стиле Дарта Вейдера на фоне зачёркнутых значков Aurora Store,

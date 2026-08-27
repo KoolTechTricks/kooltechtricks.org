@@ -3,7 +3,6 @@ title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
 lastmod: 2026-06-20T12:43:00Z
-contributors: [kttrickster]
 image: /assets/hero/browsers-mobile.webp
 imageAlt: Различные браузеры
 cards: mobile

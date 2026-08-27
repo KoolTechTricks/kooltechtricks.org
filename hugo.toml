@@ -13,9 +13,6 @@ enableGitInfo = true
 [frontmatter]
 lastmod = ['lastmod', ':default']
 
-#[taxonomies]
-#category = 'categories'
-
 [security]
 allowContent = ['.*']
 
@@ -96,10 +93,9 @@ siteId = "2YBG6YCuy2ZAIeUbxd1d2"
 [params.fediverse]
 handle = '@KoolTechTricks@posts.kooltechtricks.org'
 urls = [
-    'https://cr8r.gg/@KoolTechTricks',
     'https://posts.kooltechtricks.org/@KoolTechTricks',
-    'https://mastodon.ml/@KoolTechLord',
     'https://infosec.exchange/@kttrickster',
+    'https://mastodon.ml/@KoolTechLord',
 ]
 
 #############
@@ -160,10 +156,6 @@ url = 'https://docs.kooltechtricks.org/faq/mirrors'
 [[params.learnMore]]
 title = 'Связаться'
 url = 'https://docs.kooltechtricks.org/about/contact'
-
-[[params.learnMore]]
-title = 'Участники'
-url = '/contributors'
 
 #################
 ## Other sites ##

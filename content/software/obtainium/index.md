@@ -2,8 +2,6 @@
 title: Obtainium
 publishDate: 2024-02-15T18:09:55Z
 lastmod: 2026-07-21T17:03:00Z
-# categories: [android]
-contributors: [kttrickster]
 image: /assets/screenshots/obtainium/tablet-light.webp
 imageAlt: Список приложений Obtainium и подробная информация о приложения
 ---

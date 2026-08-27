@@ -2,8 +2,6 @@
 title: F-Droid
 publishDate: 2023-11-07T15:46:39Z
 lastmod: 2026-07-21T17:03:00Z
-#categories: [android]
-contributors: [kttrickster]
 image: image.webp
 imageAlt: F-Droid
 ---

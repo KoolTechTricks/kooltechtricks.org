@@ -2,7 +2,6 @@
 title: Bangs
 publishDate: 2026-06-21T13:29:37Z
 lastmod: 2026-06-21T19:01:00Z
-contributors: [kttrickster]
 image: image.webp
 imageAlt: "Демонстрация Bangs: восклицательный знак и сокращения названий сайтов"
 ---

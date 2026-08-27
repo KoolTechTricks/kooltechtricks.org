@@ -3,7 +3,6 @@ title: Конвертеры файлов
 fancyTitle: Программы для конвертации файлов в другие форматы
 publishDate: 2025-10-27T18:50:00Z
 lastmod: 2026-06-19T15:05:00Z
-contributors: [kttrickster]
 image: /assets/hero/file-converters.png
 imageAlt: Различные форматы файлов
 ---
