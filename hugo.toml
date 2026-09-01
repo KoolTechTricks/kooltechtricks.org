@@ -157,6 +157,10 @@ url = 'https://docs.kooltechtricks.org/faq/mirrors'
 title = 'Связаться'
 url = 'https://docs.kooltechtricks.org/about/contact'
 
+[[params.learnMore]]
+title = 'Участники'
+url = 'https://github.com/KoolTechTricks/kooltechtricks.org/graphs/contributors?all=1'
+
 #################
 ## Other sites ##
 #################
