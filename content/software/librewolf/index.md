@@ -1,7 +1,7 @@
 ---
 title: LibreWolf
 publishDate: 2025-03-10T17:42:00Z
-lastmod: 2026-08-22T17:57:00Z
+lastmod: 2026-09-01T18:12:00Z
 image: /assets/screenshots/librewolf/desktop-light.webp
 imageAlt: Окно браузера LibreWolf
 ---
@@ -73,7 +73,7 @@ LibreWolf можно описать как более чистую версию 
 эта версия будет получать обновления автоматически:
 
 ```sh
-brew install librewolf --no-quarantine
+brew install --cask librewolf
 ```
 
 Иначе можно скачать файл `.dmg` с [сайта](https://librewolf.net/installation/macos),
