@@ -1,7 +1,7 @@
 ---
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
-lastmod: 2026-08-02T13:09:00Z
+lastmod: 2026-09-01T18:06:00Z
 image: /assets/screenshots/ublock-origin/menu-light.webp
 imageAlt: >
   Меню uBlock Origin. Кнопка активации, счётчик заблокированного содержимого,
@@ -71,8 +71,8 @@ uBlock Origin работает [лучше] в браузерах на осно�
 расширение из [каталога Mozilla] для компьютера и Android.
 
 В большинстве браузеров на основе [Chromium] работа uBlock Origin может
-[ограничиваться] в связи с переходом платформы расширений на Manifest V3. Тем не
-менее расширение всё ещё доступно для скачивания из каталогов [Chrome] и [Edge].
+[ограничиваться] в связи с переходом платформы расширений на Manifest V3.
+Расширение удалено из каталога Chrome, но пока остаётся доступным в [каталоге Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak).
 Некоторые браузеры основаны на модифицированном Chromium, и поддержка
 Manifest V2 в них сохраняется.
 
@@ -93,8 +93,6 @@ uBlock Origin.
 [каталога Mozilla]: https://addons.mozilla.org/addon/ublock-origin
 [Chromium]: /wiki/browser-engines/#chromium--blink
 [ограничиваться]: https://github.com/uBlockOrigin/uBlock-issues/wiki/About-Google-Chrome's-%22This-extension-may-soon-no-longer-be-supported%22
-[Chrome]: https://chromewebstore.google.com/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm
-[Edge]: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 [uBlock Origin Lite]: /software/ublock-origin-lite
 
 ### Браузеры

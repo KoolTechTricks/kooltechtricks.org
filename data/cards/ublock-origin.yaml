@@ -24,9 +24,6 @@ get:
     - title: Firefox
       icon: firefox
       url: https://addons.mozilla.org/addon/ublock-origin
-    - title: Chromium (Chrome Web Store)
-      icon: chromium
-      url: https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
     - title: Chromium (Edge Add-ons)
       icon: chromium
       url: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
