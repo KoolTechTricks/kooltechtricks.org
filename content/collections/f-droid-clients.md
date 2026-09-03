@@ -3,8 +3,8 @@ title: Клиенты F-Droid
 fancyTitle: Альтернативные клиенты для получения приложений из F-Droid
 publishDate: 2024-06-25T18:34:37Z
 lastmod: 2026-08-16T15:19:00Z
-image: /assets/hero/f-droid-clients.webp
 imageAlt: Droid-ify, Официальный клиент F-Droid, Neo Store
+features: [droid-ify, aurora-droid, neo-store, obtainium]
 ---
 
 [F-Droid](/software/f-droid) — свободный каталог приложений с открытым исходным

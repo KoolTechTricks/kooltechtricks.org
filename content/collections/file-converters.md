@@ -3,8 +3,8 @@ title: Конвертеры файлов
 fancyTitle: Программы для конвертации файлов в другие форматы
 publishDate: 2025-10-27T18:50:00Z
 lastmod: 2026-06-19T15:05:00Z
-image: /assets/hero/file-converters.png
 imageAlt: Различные форматы файлов
+features: [vert, file-converter, ffmpeg, pandoc]
 ---
 
 Лучшие программы и сервисы для конвертации картинок, видео, аудио и документов

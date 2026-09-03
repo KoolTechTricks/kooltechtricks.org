@@ -1,11 +1,3 @@
-features:
-  - elk
-  - phanpy
-  - nicolium
-  - tusky
-  - ice-cubes
-  - ivory
-  - tuba
 seeAlso:
   - title: Таблица сравнения приложений для Mastodon
     link: /tables/mastodon-apps

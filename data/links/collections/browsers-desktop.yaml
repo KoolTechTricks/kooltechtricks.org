@@ -1,14 +1,3 @@
-features:
-  - firefox
-  - waterfox
-  - zen-browser
-  - floorp
-  - librewolf
-  - brave
-  - helium
-  - vivaldi
-  - ungoogled-chromium
-  - orion
 seeAlso:
   - title: Браузеры для телефона
     link: /collections/browsers-mobile

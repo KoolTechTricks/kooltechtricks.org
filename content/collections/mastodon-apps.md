@@ -3,8 +3,8 @@ title: Приложения для Mastodon
 fancyTitle: Рекомендованные приложения для Mastodon и Fediverse
 publishDate: 2024-06-20T13:16:18Z
 lastmod: 2026-06-21T11:13:00Z
-image: /assets/hero/mastodon-apps.webp
 imageAlt: Скриншоты разных приложений для Mastodon
+features: [elk, phanpy, nicolium, tusky, ice-cubes, ivory, tuba]
 ---
 
 Приложения для доступа к децентрализованной сети Mastodon и Fediverse.

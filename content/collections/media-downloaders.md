@@ -3,8 +3,8 @@ title: Загрузчики видео и аудио
 fancyTitle: Программы для скачивания видео и аудио из интернета
 publishDate: 2025-10-19T21:17:00Z
 lastmod: 2026-02-08T10:25:00Z
-image: /assets/hero/media-downloaders.webp
 imageAlt: Скриншоты разных приложений для скачивания видео и аудио
+features: [cobalt, seal, ytdlnis, parabolic, stacher, yt-dlp]
 ---
 
 Лучшие программы и сервисы для скачивания видео и аудио из YouTube, TikTok,

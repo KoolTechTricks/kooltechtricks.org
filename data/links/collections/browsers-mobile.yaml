@@ -1,12 +1,3 @@
-features:
-  - firefox
-  - waterfox
-  - ironfox
-  - brave
-  - duckduckgo-browser
-  - vivaldi
-  - cromite
-  - orion
 seeAlso:
   - title: Браузеры для компьютера
     link: /collections/browsers-desktop

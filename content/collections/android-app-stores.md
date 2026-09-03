@@ -3,8 +3,8 @@ title: Магазины приложений для Android
 fancyTitle: 'Магазины приложений для Android: откуда лучше всего скачивать приложения?'
 publishDate: 2026-08-06T12:57:00Z
 lastmod: 2026-08-16T10:40:00Z
-image: /assets/hero/android-app-stores.webp
 imageAlt: Различные магазины приложений для Android
+features: [aurora-store, f-droid, obtainium, openstore]
 ---
 
 Подборка магазинов приложений, каталогов и их клиентов для Android.

@@ -3,9 +3,10 @@ title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
 lastmod: 2026-09-01T17:58:00Z
-image: /assets/hero/browsers-desktop.webp
 imageAlt: Различные браузеры
 cards: desktop
+features: [firefox, waterfox, zen-browser, floorp, librewolf,
+  brave, helium, vivaldi, ungoogled-chromium, orion]
 ---
 
 Браузеры для повседневного использования на вашем компьютере, которые

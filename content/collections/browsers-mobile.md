@@ -3,9 +3,10 @@ title: Браузеры для телефона
 fancyTitle: Рекомендованные браузеры для телефона
 publishDate: 2025-08-05T15:25:00Z
 lastmod: 2026-06-20T12:43:00Z
-image: /assets/hero/browsers-mobile.webp
 imageAlt: Различные браузеры
 cards: mobile
+features: [firefox, waterfox, ironfox,
+  brave, duckduckgo-browser, vivaldi, cromite, orion]
 ---
 
 Браузеры для повседневного использования на вашем телефоне, которые
