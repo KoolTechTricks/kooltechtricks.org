@@ -7,6 +7,21 @@ imageAlt: Различные браузеры
 cards: desktop
 features: [firefox, waterfox, zen-browser, floorp, librewolf,
   brave, helium, vivaldi, ungoogled-chromium, orion]
+links:
+  - title: Браузеры для компьютера — Privacy Guides
+    url: https://www.privacyguides.org/en/desktop-browsers
+    description: >
+      Это подборка браузеров для компьютера со строгим упором на
+      конфиденциальность. Также здесь есть рекомендованные настройки.
+  - title: Which browser should you use right now?
+    by: Theo - t3․gg
+    year: 2025
+    duration: 1:07:13
+    url: https://youtu.be/m1QrNF9wZao
+seeAlso:
+  - /collections/browsers-mobile
+  - /wiki/browser-engines
+  - /wiki/browser-extensions
 ---
 
 Браузеры для повседневного использования на вашем компьютере, которые

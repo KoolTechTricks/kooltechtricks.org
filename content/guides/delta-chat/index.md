@@ -6,6 +6,12 @@ features: delta-chat
 difficulty: simple
 image: hero.webp
 imageAlt: Использование Delta Chat для удобного и безопасного общения
+links:
+  - title: Часто задаваемые вопросы по Delta Chat
+    url: https://delta.chat/ru/help
+seeAlso:
+  - /software/delta-chat
+  - /guides/delta-chat-email
 ---
 
 Узнайте, как использовать этот простой мессенджер для общения с друзьями,

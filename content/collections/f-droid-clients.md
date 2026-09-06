@@ -5,6 +5,9 @@ publishDate: 2024-06-25T18:34:37Z
 lastmod: 2026-08-16T15:19:00Z
 imageAlt: Droid-ify, Официальный клиент F-Droid, Neo Store
 features: [droid-ify, aurora-droid, neo-store, obtainium]
+seeAlso:
+  - /software/f-droid
+  - /collections/android-app-stores
 ---
 
 [F-Droid](/software/f-droid) — свободный каталог приложений с открытым исходным

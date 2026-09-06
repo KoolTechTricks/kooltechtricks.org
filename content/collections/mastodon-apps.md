@@ -5,6 +5,11 @@ publishDate: 2024-06-20T13:16:18Z
 lastmod: 2026-06-21T11:13:00Z
 imageAlt: Скриншоты разных приложений для Mastodon
 features: [elk, phanpy, nicolium, tusky, ice-cubes, ivory, tuba]
+links:
+  - title: Полный список приложений
+    url: https://joinmastodon.org/ru/apps
+seeAlso:
+  - /tables/mastodon-apps
 ---
 
 Приложения для доступа к децентрализованной сети Mastodon и Fediverse.

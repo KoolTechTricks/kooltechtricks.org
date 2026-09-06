@@ -9,6 +9,18 @@ image: image.webp
 imageAlt: >
   Схема, на которой изображены значки источников приложений: GitHub, F-Droid, RuStore и глобус (означает любой сайт).
   По центру размещён Obtainium, от которого идут стрелки к иконкам источников приложений.
+links:
+  - title: Obtainium Wiki
+    url: https://wiki.obtainium.imranr.dev
+    description: Документация Obtainium
+  - title: Obtainium 101 - How to get Android app Updates Straight from the Source
+    by: Imran
+    year: 2025
+    duration: 29:28
+    url: https://youtu.be/0MF_v2OBncw
+seeAlso:
+  - /software/obtainium
+  - /collections/android-app-stores
 ---
 
 Не все приложения можно найти в Google Play: есть другие магазины приложений и

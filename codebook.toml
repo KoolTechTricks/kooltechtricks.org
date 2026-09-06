@@ -341,7 +341,6 @@ include_paths = [
 ]
 ignore_paths = [
     "**/!TEMPLATE.yaml",
-    "**/_TEMPLATE.yaml",
     "content/guides/how-to-use-console/**",
     "content/wiki/youtube/**",
     "content/wiki/winget/**",

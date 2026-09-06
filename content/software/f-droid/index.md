@@ -4,6 +4,9 @@ publishDate: 2023-11-07T15:46:39Z
 lastmod: 2026-07-21T17:03:00Z
 image: image.webp
 imageAlt: F-Droid
+seeAlso:
+  - /collections/f-droid-clients
+  - /collections/android-app-stores
 ---
 
 ## Официальный репозиторий

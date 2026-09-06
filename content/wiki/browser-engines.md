@@ -2,6 +2,10 @@
 title: Браузерные движки
 publishDate: 2025-08-11T20:52:00Z
 lastmod: 2026-06-06T19:30:00Z
+seeAlso:
+  - /wiki/browser-extensions
+  - /collections/browsers-desktop
+  - /collections/browsers-mobile
 ---
 
 Что за Chromium (Blink), Firefox (Gecko) и WebKit? Почему многие рекомендуют

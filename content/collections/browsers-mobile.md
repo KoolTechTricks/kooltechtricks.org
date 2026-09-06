@@ -7,6 +7,16 @@ imageAlt: Различные браузеры
 cards: mobile
 features: [firefox, waterfox, ironfox,
   brave, duckduckgo-browser, vivaldi, cromite, orion]
+links:
+  - title: Мобильные браузеры — Privacy Guides
+    url: https://www.privacyguides.org/en/mobile-browsers
+    description: >
+      Это подборка браузеров для телефона со строгим упором на
+      конфиденциальность. Также здесь есть рекомендованные настройки.
+seeAlso:
+  - /collections/browsers-desktop
+  - /wiki/browser-engines
+  - /wiki/browser-extensions
 ---
 
 Браузеры для повседневного использования на вашем телефоне, которые

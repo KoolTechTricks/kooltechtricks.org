@@ -4,6 +4,11 @@ publishDate: 2023-09-24T17:43:27Z
 lastmod: 2026-05-31T13:16:00Z
 image: /assets/screenshots/yt-dlp/yt-dlp.webp
 imageAlt: Скачивание видео с помощью yt-dlp в терминале
+links:
+  - title: Приложения, основанные на yt-dlp
+    url: https://old.reddit.com/r/youtubedl/wiki/info-guis
+seeAlso:
+  - /collections/media-downloaders
 ---
 
 ## Применение

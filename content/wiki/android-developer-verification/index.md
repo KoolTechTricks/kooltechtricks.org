@@ -6,6 +6,19 @@ image: image.webp
 imageAlt: >
   Android в стиле Дарта Вейдера на фоне зачёркнутых значков Aurora Store,
   F-Droid, NewPipe, ReVanced
+links:
+  - title: Официальные ответы на часто задаваемые вопросы
+    url: https://developer.android.com/developer-verification/guides/faq
+  - title: Кампания Keep Android Open
+    url: https://keepandroidopen.org/ru/
+  - title: Ссылки Keep Android Open
+    url: https://keepandroidopen.org/ru/cta/#references
+  - title: Википедия
+    url: https://en.wikipedia.org/wiki/Keep_Android_Open
+  - title: Consumer Rights Wiki
+    url: https://consumerrights.wiki/w/Android_Developer_Verification
+seeAlso:
+  - /collections/android-app-stores
 ---
 
 Google изменяет процесс распространения и установки приложений для Android.

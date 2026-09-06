@@ -6,6 +6,8 @@ image: /assets/screenshots/ublock-origin-lite/menu-light.webp
 imageAlt: >
   Меню uBlock Origin Lite. Переключатель режима фильтрации, инструменты для
   удаления элемента и создания своего фильтра.
+seeAlso:
+  - /software/ublock-origin
 ---
 
 ## Применение

@@ -4,6 +4,11 @@ publishDate: 2026-04-28T15:04:00Z
 lastmod: 2026-08-17T08:15:00Z
 image: grapheneos.webp
 imageAlt: GrapheneOS после первоначальной настройки
+links:
+  - title: Сравнение операционных систем на базе Android Open Source Project
+    url: https://eylenburg.github.io/android_comparison.htm
+seeAlso:
+  - /wiki/android-isolation
 ---
 
 ## Применение

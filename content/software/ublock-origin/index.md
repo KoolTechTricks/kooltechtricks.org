@@ -6,6 +6,8 @@ image: /assets/screenshots/ublock-origin/menu-light.webp
 imageAlt: >
   Меню uBlock Origin. Кнопка активации, счётчик заблокированного содержимого,
   подключённые домены.
+seeAlso:
+  - /software/ublock-origin-lite
 ---
 
 ## Применение

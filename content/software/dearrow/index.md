@@ -9,6 +9,9 @@ imageAlt: >
   2) 10 Minutes To Escape Or This Room Explodes! → Escape 5 Floors of Obstacles in 10 Minutes for $250,000;
   3) Китайская электрофура — КОСМОС! → Обзор и тест-драйв китайского электротягача DeepWay;
   4) NFT не нужны → Почему NFT является скамом.
+links:
+  - title: Состояние сервера
+    url: https://status.sponsor.ajay.app
 ---
 
 [Демонстрационное видео](https://youtu.be/QjjpDhHh_QI)

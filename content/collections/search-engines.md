@@ -6,6 +6,24 @@ lastmod: 2026-06-18T17:29:00Z
 imageAlt: >
   Строки поиска DuckDuckGo, Startpage, Brave Search, SearXNG, Ecosia, Kagi
 features: [duckduckgo, startpage, brave-search, searxng, ecosia, kagi-search, 4get]
+links:
+  - title: "Google Search sucks, AI is everywhere: what should you use?"
+    by: The Linux Experiment
+    year: 2025
+    duration: 18:51
+    url: https://tilvids.com/w/3nfn5RgLU6b5J13rBS71HG
+  - title: The ULTIMATE Search Engine Tier List (Based Tier to Surveillance Tier)
+    by: Eric Murphy
+    year: 2023
+    duration: 33:55
+    url: https://odysee.com/@ericnmurphy:9/the-ultimate-search-engine-tier-list:b
+  - title: BYE DUCK DUCK GO, here's my new search engine! Private Alternatives to Google
+    by: The Linux Experiment
+    year: 2022
+    duration: 17:40
+    url: https://youtu.be/x9q3qPxrTqg
+seeAlso:
+  - /tables/search-engines
 ---
 
 Альтернативные поисковые системы для повседневного использования без

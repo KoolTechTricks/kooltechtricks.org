@@ -4,6 +4,16 @@ publishDate: 2026-06-29T17:44:00Z
 lastmod: 2026-08-17T15:29:00Z
 image: image.webp
 imageAlt: Разделение приложений в профилях
+links:
+  - title: Android Security | Android Open Source Project
+    url: https://source.android.com/docs/security
+    description: Официальная документация по функциям безопасности.
+  - title: The Android Platform Security Model (2023) - arXiv
+    url: https://arxiv.org/html/1904.05572v3
+    description: Подробный технический разбор модели безопасности от сотрудников Google.
+  - title: Android Overview - Privacy Guides
+    url: https://www.privacyguides.org/en/os/android-overview
+    description: Краткий обзор функций безопасности.
 ---
 
 Как песочница приложений и система разрешений защищает ваши данные? Что такое

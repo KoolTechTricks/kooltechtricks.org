@@ -8,6 +8,24 @@ image: hero.webp
 imageAlt: >
   Терминал при первой загрузке Arch Linux с установочного образа переливается в
   систему с рабочим столом KDE Plasma.
+links:
+  - title: I Installed The Hardest System Known To Man...
+    by: SomeOrdinaryGamers
+    year: 2023
+    duration: 45:05
+    url: https://youtu.be/_JYIAaLrwcY
+  - title: The Foundation
+    by: EF - Linux Made Simple
+    year: 2023
+    duration: 1:14:43
+    url: https://youtu.be/hdJX27g0z14
+  - title: 10 Things You MUST DO After Installing Arch Linux
+    by: Ksk Royal
+    year: 2023
+    duration: 13:00
+    url: https://youtu.be/odgD_RdJjCU
+seeAlso:
+  - /software/arch-linux
 ---
 
 Советы, рекомендации и напутствия при установке и настройке Arch Linux.

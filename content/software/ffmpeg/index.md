@@ -2,6 +2,13 @@
 title: FFmpeg
 publishDate: 2023-09-11T17:33:00Z
 lastmod: 2026-05-07T20:28:00Z
+links:
+  - title: Шпаргалка FFmpeg
+    url: https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
+  - title: FFmpeg by Example
+    url: https://ffmpegbyexample.com
+seeAlso:
+  - /collections/file-converters
 ---
 
 ## Применение

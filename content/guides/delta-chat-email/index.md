@@ -6,6 +6,12 @@ features: delta-chat
 difficulty: moderate
 image: hero.webp
 imageAlt: Использование Delta Chat с классической электронной почтой
+links:
+  - title: Часто задаваемые вопросы по Delta Chat
+    url: https://delta.chat/ru/help
+seeAlso:
+  - /software/delta-chat
+  - /guides/delta-chat
 ---
 
 Delta Chat работает поверх протоколов электронной почты, а значит можно

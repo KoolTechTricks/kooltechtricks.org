@@ -2,6 +2,15 @@
 title: Arch Linux
 publishDate: 2024-03-28T16:43:56Z
 lastmod: 2026-08-02T08:48:00Z
+links:
+  - title: ARU — Руководство по оптимизации Arch Linux
+    url: https://ventureo.codeberg.page
+  - title: Англоязычные сообщества Arch Linux
+    url: https://wiki.archlinux.org/title/Getting_involved#Groups
+  - title: Русскоязычные сообщества Arch Linux
+    url: https://wiki.archlinux.org/title/International_communities#Russian
+seeAlso:
+  - /guides/arch-linux-setup
 ---
 
 В основе Arch Linux лежит принцип «сделай сам» (Do It Yourself). Если вы

@@ -2,6 +2,10 @@
 title: Расширения для браузера
 publishDate: 2025-08-11T20:52:00Z
 lastmod: 2026-07-23T13:20:00Z
+seeAlso:
+  - /wiki/browser-engines
+  - /collections/browsers-desktop
+  - /collections/browsers-mobile
 ---
 
 Какие расширения для браузера нужно устанавливать? Как это сделать в разных

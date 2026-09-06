@@ -4,6 +4,17 @@ publishDate: 2026-03-15T14:58:00Z
 lastmod: 2026-08-17T14:43:00Z
 image: hero.webp
 imageAlt: Delta Chat на телефоне и компьютере
+links:
+  - title: Часто задаваемые вопросы по Delta Chat
+    url: https://delta.chat/ru/help
+  - title: Everything You Think You Know About DeltaChat Is Wrong
+    url: https://blog.feld.me/posts/2025/03/deltachat-is-actually-good-though/
+    description: >
+      Этот блог пост хорошо объясняет популярные мифы о Delta Chat, логику его
+      работы и почему он на самом деле хорош.
+seeAlso:
+  - /guides/delta-chat
+  - /guides/delta-chat-email
 ---
 
 Delta Chat ориентирован на безопасное общение в частных кругах людей: семья,

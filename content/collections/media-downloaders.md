@@ -5,6 +5,9 @@ publishDate: 2025-10-19T21:17:00Z
 lastmod: 2026-02-08T10:25:00Z
 imageAlt: Скриншоты разных приложений для скачивания видео и аудио
 features: [cobalt, seal, ytdlnis, parabolic, stacher, yt-dlp]
+links:
+  - title: Приложения, основанные на yt-dlp
+    url: https://old.reddit.com/r/youtubedl/wiki/info-guis
 ---
 
 Лучшие программы и сервисы для скачивания видео и аудио из YouTube, TikTok,
