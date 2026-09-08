@@ -7,7 +7,7 @@ imageAlt: Скриншоты разных приложений для скачи
 features: [cobalt, seal, ytdlnis, parabolic, stacher, yt-dlp]
 links:
   - title: Приложения, основанные на yt-dlp
-    url: https://old.reddit.com/r/youtubedl/wiki/info-guis
+    url: https://www.reddit.com/r/youtubedl/wiki/info-guis
 ---
 
 Лучшие программы и сервисы для скачивания видео и аудио из YouTube, TikTok,

@@ -152,7 +152,7 @@ Android-приложений. Разработчики не будут силь�
 только если вы знаете о существовании "продвинутого процесса" ([Advanced flow])
 и сможете проделать следующие шаги:
 
-[Advanced flow]: https://old.reddit.com/r/Android/comments/1vrx9qt/were_rolling_out_the_advanced_flow_for_installing/
+[Advanced flow]: https://www.reddit.com/r/Android/comments/1vrx9qt/were_rolling_out_the_advanced_flow_for_installing/
 
 1. Включить режим разработчика (быстро нажать 7 раз на номер сборки в информации об устройстве).
 2. Подтвердить, что вас никто не просит это сделать.

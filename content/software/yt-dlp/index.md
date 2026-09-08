@@ -6,7 +6,7 @@ image: /assets/screenshots/yt-dlp/yt-dlp.webp
 imageAlt: Скачивание видео с помощью yt-dlp в терминале
 links:
   - title: Приложения, основанные на yt-dlp
-    url: https://old.reddit.com/r/youtubedl/wiki/info-guis
+    url: https://www.reddit.com/r/youtubedl/wiki/info-guis
 seeAlso:
   - /collections/media-downloaders
 ---
