@@ -2,7 +2,7 @@
 title: Использование Obtainium для получения обновлений приложений Android из разных источников
 fancyTitle: Как использовать Obtainium для обновления приложений Android из GitHub, RuStore и других источников?
 publishDate: 2025-04-27T10:10:00Z
-lastmod: 2026-08-16T11:24:00Z
+lastmod: 2026-09-08T18:40:00Z
 features: obtainium
 difficulty: moderate
 image: image.webp
@@ -11,7 +11,7 @@ imageAlt: >
   По центру размещён Obtainium, от которого идут стрелки к иконкам источников приложений.
 links:
   - title: Obtainium Wiki
-    url: https://wiki.obtainium.imranr.dev
+    url: https://wiki.obtainium.imranr.dev/ru/
     description: Документация Obtainium
   - title: Obtainium 101 - How to get Android app Updates Straight from the Source
     by: Imran
@@ -60,11 +60,12 @@ Obtainium не является каталогом приложений. Это 
 - [Aptoide](https://aptoide.com)
 - [itch.io](https://itch.io/games/platform-android)
 - [Huawei AppGallery](https://appgallery.huawei.com)
+- [Samsung Galaxy Store](https://galaxystore.samsung.com)
 - [RuStore](https://www.rustore.ru)
 - [APKMirror](https://www.apkmirror.com) (только отслеживание)
 - Прямые ссылки на APK-файлы
 - Любые страницы со ссылками на APK-файлы (HTML)
-- [Другие](https://wiki.obtainium.imranr.dev/sources/#currently-supported-app-sources)
+- [Другие](https://wiki.obtainium.imranr.dev/ru/sources/#currently-supported-app-sources)
 
 [GitHub]: https://github.com/search
 [Codeberg]: https://codeberg.org/explore/repos
@@ -94,7 +95,7 @@ Obtainium попытается определить источник по ссы
 извлекаются метаданные и APK-файлы. Чаще всего Obtainium удаётся сделать это без
 дополнительных параметров, но иногда потребуется настроить [фильтры](#фильтры)
 для нахождения нужных APK-файлов. Ниже на этой странице предоставлена краткая
-информация о некоторых источниках, подробнее описано в [документации](https://wiki.obtainium.imranr.dev/sources).
+информация о некоторых источниках, подробнее описано в [документации](https://wiki.obtainium.imranr.dev/ru/sources).
 
 Если текущие параметры извлечения вас устраивают, то нажмите **«+»**.
 Obtainium извлечёт APK-файл (или попросит [выбрать один из доступных](#варианты-приложения))
@@ -119,7 +120,7 @@ Obtainium. Это возможно только если приложение п
 свои приложения на [GitHub]. Если вы хотите получать версии, отмеченные как
 нестабильные/ранние/бета/альфа, то отметьте параметр **«Включать предварительные
 выпуски»**. Также доступны другие параметры для фильтрации и сортировки релизов:
-смотрите [документацию](https://wiki.obtainium.imranr.dev/sources/#github).
+смотрите [документацию](https://wiki.obtainium.imranr.dev/ru/sources/#github).
 
 GitHub имеет ограничение на количество запросов к API в определённый период
 времени с одного IP-адреса (60 запросов за 1 час). Если вы добавите слишком
@@ -127,7 +128,7 @@ GitHub имеет ограничение на количество запрос�
 столкнётесь с ограничением, и временно не сможете получать обновления. Чтобы
 обойти это, можно сделать следующее:
 
-- Задать [токен доступа](https://wiki.obtainium.imranr.dev/sources/#creating-a-github-personal-access-token)
+- Задать [токен доступа](https://wiki.obtainium.imranr.dev/ru/sources/#creating-a-github-personal-access-token)
 в настройках Obtainium (требуется аккаунт GitHub), чтобы увеличить лимит запросов до 5000.
 - Уменьшить количество приложений из GitHub. Возможно, некоторые приложения публикуются в других источниках.
 
@@ -174,16 +175,9 @@ Forgejo/Gitea, следует переопределить источник на
 
 Приложения из F-Droid не поддерживают отображение списков изменений.
 
-### RuStore
-
-Obtainium поддерживает RuStore, однако из-за недоверенных сертификатов загрузка
-может не удаваться. В параметрах приложения можно разрешить небезопасные HTTP-запросы.
-Это должно быть безопасно только если приложение уже было установлено, и вы
-уверены, что оно подлинно.
-
 ### Другие источники
 
-- **GitLab**: Может потребоваться задать [токен доступа](https://wiki.obtainium.imranr.dev/sources/#gitlab) в настройках Obtainium.
+- **GitLab**: Может потребоваться задать [токен доступа](https://wiki.obtainium.imranr.dev/ru/sources/#gitlab) в настройках Obtainium.
 - **APKMirror**: Поддерживает обнаружение новых версий, но устанавливать их требуется самостоятельно.
 - **APKPure**: Поддерживает установку, но он [неоднократно распространял](https://x.com/EricParker/status/2058411298195661221) [вредоносное ПО](https://www.kaspersky.com/blog/infected-apkpure/39273).
 
@@ -209,7 +203,7 @@ Obtainium может скачивать приложения с сайтов, к
 версию. Если до нужного файла можно добраться только через другие HTML-ссылки,
 то необходимо добавить промежуточную ссылку.
 
-Подробнее про источник HTML в [документации](https://wiki.obtainium.imranr.dev/sources/#html).
+Подробнее про источник HTML в [документации](https://wiki.obtainium.imranr.dev/ru/sources/#html).
 
 ### Готовые конфигурации
 

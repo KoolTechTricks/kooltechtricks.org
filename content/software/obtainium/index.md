@@ -50,7 +50,7 @@ Obtainium позволяет объединить все источники пр
 
 ## Устройство
 
-Смотрите [документацию](https://wiki.obtainium.imranr.dev/app_tracking), чтобы
+Смотрите [документацию](https://wiki.obtainium.imranr.dev/ru/app_tracking/), чтобы
 узнать, как Obtainium отслеживает приложения на наличие обновлений.
 
 ## Безопасность

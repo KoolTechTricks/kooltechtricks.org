@@ -4,7 +4,7 @@ description: >
   Получайте обновления приложений для Android напрямую из их источников: GitHub,
   F-Droid, RuStore, Huawei AppGallery и любые другие сайты.
 homepage: https://obtainium.imranr.dev
-userDocs: https://wiki.obtainium.imranr.dev
+userDocs: https://wiki.obtainium.imranr.dev/ru/
 extras:
   owner: '[Imran](https://github.com/ImranR98)'
   initialRelease: 2022-08-24
