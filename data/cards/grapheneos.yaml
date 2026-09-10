@@ -14,11 +14,9 @@ extras:
   issues: https://grapheneos.org/contact#reporting-issues
   donate: https://grapheneos.org/donate
   community:
-    rules: https://example.com/code-of-conduct
     forum: https://discuss.grapheneos.org
     bluesky: grapheneos.org
     discord: https://discord.com/invite/grapheneos
-    lemmy: https://lemmy.example.com/c/community
     mastodon: https://grapheneos.social/@GrapheneOS
     matrix: community:grapheneos.org
     reddit: GrapheneOS
@@ -30,6 +28,7 @@ extras:
       - id: apache-2.0
     repository: https://github.com/GrapheneOS
     tech: Android Open Source Project (AOSP)
+    llmAssistance: '[Не запрещено](https://grapheneos.social/@GrapheneOS/117236529351603001)'
   externalLinks:
     wikipedia: https://en.wikipedia.org/wiki/GrapheneOS
     fourPda: https://4pda.to/forum/index.php?showtopic=999653
