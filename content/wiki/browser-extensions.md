@@ -1,7 +1,7 @@
 ---
 title: Расширения для браузера
 publishDate: 2025-08-11T20:52:00Z
-lastmod: 2026-07-23T13:20:00Z
+lastmod: 2026-09-10T18:46:00Z
 seeAlso:
   - /wiki/browser-engines
   - /collections/browsers-desktop
@@ -37,10 +37,11 @@ seeAlso:
 Установка расширений осуществляется через каталоги [Интернет-магазин Chrome]
 или [Microsoft Edge Add-ons].
 
-Для Android расширения можно устанавливать в [Microsoft Edge], но мы не
-рекомендуем пользоваться этим браузером. Экспериментальная поддержка расширений
-также есть в [Cromite] (Настройки → Developer options → Enable Extensions) и
-[Titanium].
+Для Android поддержка расширений доступна только в следующих браузерах:
+- [Vivaldi] поддерживает расширения без дополнительных действий.
+- В [Titanium] требуется включить версию для ПК на сайте Интернет-магазина Chrome.
+- В [Cromite] поддержка расширений экспериментальная, и её необходимо включить
+в настройках: Developer options → Enable Extensions.
 
 Многие расширения, включая эффективные блокировщики трекеров и рекламы, могут
 быть недоступны. Google отказывается от поддержки Manifest V2 и переходит на
@@ -49,10 +50,10 @@ Manifest V3 в Chromium. Узнайте больше про Manifest V3 и др�
 
 [Интернет-магазин Chrome]: https://chromewebstore.google.com
 [Microsoft Edge Add-ons]: https://microsoftedge.microsoft.com
-[Microsoft Edge]: https://play.google.com/store/apps/details?id=com.microsoft.emmx
-[Cromite]: /collections/browsers-mobile#cromite
+[Vivaldi]: /collections/browsers-mobile/#vivaldi
 [Titanium]: https://github.com/jqssun/android-titanium-browser#readme
-[Браузерные движки]: /wiki/browser-engines#chromium--blink
+[Cromite]: /collections/browsers-mobile/#cromite
+[Браузерные движки]: /wiki/browser-engines/#chromium--blink
 
 ## Firefox
 
@@ -77,11 +78,12 @@ Manifest V2, и Manifest V3 — никакие эффективные блоки
 WebKit не поддерживает WebExtensions API в полной мере как в Chromium и Firefox.
 Поэтому доступность расширений ограничена:
 
-- **Safari:** Расширения могут быть доступны в AppStore.
-- **Orion:** В [этом браузере](/collections/browsers-desktop#orion) портирован
-WebExtensions API, поэтому можно устанавливать расширения для
-[Chromium](#chromium) или [Firefox](#firefox).
-- **Остальные браузеры:** Расширения могут быть недоступны.
+- **Safari**: Расширения могут быть доступны в AppStore.
+- **[Orion]**: В этом браузере портирован WebExtensions API, поэтому можно
+устанавливать расширения для [Chromium](#chromium) или [Firefox](#firefox).
+- **Остальные браузеры**: Расширения могут быть недоступны.
+
+[Orion]: /collections/browsers-desktop/#orion
 
 ## Пользовательские скрипты
 
