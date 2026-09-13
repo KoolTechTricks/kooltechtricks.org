@@ -21,8 +21,11 @@ extras:
 get:
   linkButtons:
     - title: APK-файл (GitHub)
-      icon: android
+      icon: github
       url: https://github.com/Droid-ify/client/releases/latest/download/app-release.apk
+    - title: APK-файл (Codeberg)
+      icon: codeberg
+      url: https://codeberg.org/droidify/client/releases/download/latest/app-release.apk
     - title: IzzyOnDroid
       icon: izzyondroid
       url: https://apt.izzysoft.de/fdroid/index/apk/com.looker.droidify
