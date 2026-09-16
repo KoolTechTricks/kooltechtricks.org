@@ -14,6 +14,7 @@ extras:
     license: gnu-gpl-3.0
     repository: https://github.com/ImranR98/Obtainium
     tech: Flutter
+    llmAssistance: '[Не запрещено](https://github.com/ImranR98/Obtainium/blob/main/docs/CONTRIBUTING.md#ai-policy)'
   externalLinks:
     fourPda: https://4pda.to/forum/index.php?showtopic=1056449
 get:
