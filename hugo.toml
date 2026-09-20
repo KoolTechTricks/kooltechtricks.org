@@ -26,6 +26,7 @@ block = true
 [outputs]
 home = ['html', 'rss']
 section = ['html', 'rss']
+page = ['html', 'json']
 taxonomy = []
 term = []
 

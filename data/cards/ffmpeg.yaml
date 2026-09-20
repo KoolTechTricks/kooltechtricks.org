@@ -1,6 +1,5 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: FFmpeg
-icon: ffmpeg.svg
 description: >
   Мощная кросс-платформенная консольная программа и библиотека для обработки и
   конвертации мультимедиа.

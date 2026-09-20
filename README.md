@@ -51,6 +51,11 @@ pagefind --site public
 # Codebook (CLI)
 codebook-lsp lint --unique . # Проверка орфографии
 codebook-lsp add <WORDS>... # Добавить слова
+
+# Преобразование SVG-значков в WebP (для предпросмотра ссылок)
+for file in public/assets/logos/*.svg; do
+    magick -size 256x256 -background none "$file" -define webp:lossless=true "${file%.svg}.webp"
+done
 ```
 
 Сайт собирается на сервере и публикуется автоматически, когда в этом репозитории
