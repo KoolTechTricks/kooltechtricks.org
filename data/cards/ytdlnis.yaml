@@ -1,6 +1,5 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: YTDLnis
-icon: ytdlnis.png
 description: >
   Загрузчик медиа с открытым исходным кодом для Android с дизайном Material You.
   Использует yt-dlp, поддерживаются многие его функции. Можно использовать

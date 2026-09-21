@@ -1,6 +1,5 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: OpenStore
-icon: openstore.png
 description: >
   Альтернативный клиент RuStore с чистым интерфейсом и открытым исходным кодом.
 homepage: https://codeberg.org/mi6e4ka/openstore#readme

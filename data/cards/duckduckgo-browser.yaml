@@ -1,6 +1,6 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: DuckDuckGo Browser
-icon: duckduckgo.svg
+icon: duckduckgo
 description: >
   Браузер, защищающий от отслеживания и обучающий конфиденциальности в
   интернете. История не сохраняется, данные сайтов очищаются одной кнопкой.

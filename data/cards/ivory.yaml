@@ -1,6 +1,6 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Ivory
-icon: ivory.webp
+icon: ivory
 description: >
   Проприетарное приложение Mastodon для iOS и macOS от создателей Tweetbot. Для
   доступа к некоторым функциям (публикация, мультиаккаунт) требуется подписка.

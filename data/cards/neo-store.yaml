@@ -1,6 +1,6 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Neo Store
-icon: neo-store.webp
+icon: neo-store
 description: >
   Многофункциональный клиент F-Droid с перегруженным интерфейсом.
 homepage: https://neoapplications.gitlab.io/projects/neo-store

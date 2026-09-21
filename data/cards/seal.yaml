@@ -1,6 +1,5 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Seal
-icon: seal.png
 alert:
   type: warning
   content: >
