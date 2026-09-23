@@ -2,10 +2,6 @@
 title: uBlock Origin
 publishDate: 2023-12-19T16:54:56Z
 lastmod: 2026-09-08T19:44:00Z
-image: /assets/screenshots/ublock-origin/menu-light.webp
-imageAlt: >
-  Меню uBlock Origin. Кнопка активации, счётчик заблокированного содержимого,
-  подключённые домены.
 seeAlso:
   - /software/ublock-origin-lite
 ---

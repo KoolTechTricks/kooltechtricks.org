@@ -2,10 +2,6 @@
 title: uBlock Origin Lite
 publishDate: 2025-12-02T16:35:00Z
 lastmod: 2026-08-02T13:09:00Z
-image: /assets/screenshots/ublock-origin-lite/menu-light.webp
-imageAlt: >
-  Меню uBlock Origin Lite. Переключатель режима фильтрации, инструменты для
-  удаления элемента и создания своего фильтра.
 seeAlso:
   - /software/ublock-origin
 ---

@@ -2,8 +2,6 @@
 title: Anki
 publishDate: 2023-08-30T14:48:00Z
 lastmod: 2025-08-18T14:13:00Z
-image: /assets/screenshots/anki/card-light.webp
-imageAlt: Процесс изучения карточек в Anki
 ---
 
 ## Применение

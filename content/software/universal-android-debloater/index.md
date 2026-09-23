@@ -2,10 +2,6 @@
 title: Universal Android Debloater
 publishDate: 2024-08-08T14:57:00Z
 lastmod: 2026-08-02T09:01:00Z
-image: /assets/screenshots/universal-android-debloater/uad-light.webp
-imageAlt: >
-  Окно программы Universal Android Debloater, которое показывает список
-  приложений для удаления или восстановления
 ---
 
 На этой странице говорится про [Universal Android Debloater Next Generation]

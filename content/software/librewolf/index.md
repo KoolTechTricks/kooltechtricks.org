@@ -2,8 +2,6 @@
 title: LibreWolf
 publishDate: 2025-03-10T17:42:00Z
 lastmod: 2026-09-01T18:12:00Z
-image: /assets/screenshots/librewolf/desktop-light.webp
-imageAlt: Окно браузера LibreWolf
 ---
 
 ## Применение
