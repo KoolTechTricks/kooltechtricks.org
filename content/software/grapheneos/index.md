@@ -1,7 +1,7 @@
 ---
 title: GrapheneOS
 publishDate: 2026-04-28T15:04:00Z
-lastmod: 2026-09-16T20:29:00Z
+lastmod: 2026-09-28T17:33:00Z
 image: grapheneos.webp
 imageAlt: GrapheneOS после первоначальной настройки
 links:
@@ -395,18 +395,16 @@ WebView. Не требует никаких разрешений, содержи
 
 ### Сообщения (SMS/MMS)
 
-Устаревшее приложение для SMS из AOSP. Рекомендуется заменить приложением от
-[Fossify](https://github.com/FossifyOrg/Messages#readme). У него более
-современный интерфейс, и поддерживается фильтрация по ключевым словам.
+[Приложение](https://github.com/grapheneOS/messaging) для SMS от GrapheneOS с
+современным дизайном.
 
-Новое приложение для сообщений с современным интерфейсом в данный момент
-находится в альфе. Его можно установить в стандартном магазине приложений:
-App Store → Messaging → ⋮ → Release Channel → Alpha → Update.
+Можно заменить приложением от [Fossify](https://github.com/FossifyOrg/Messages#readme),
+так как оно поддерживает фильтрацию по ключевым словам.
 
 Для общения по протоколам RCS нужно приложение
 [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging)
 и сервисы Google. Оно работает только в профиле Владельца. В будущем планируется
-добавить поддержку RCS в новое стандартное приложение для сообщений.
+добавить поддержку RCS в стандартное приложение для сообщений.
 
 ### Галерея
 
