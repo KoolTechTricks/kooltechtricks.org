@@ -53,7 +53,7 @@ get:
     - title: F-Droid
       icon: f-droid
       url: https://f-droid.org/app/com.b44t.messenger
-    - title: GitHub (без автообновлений)
+    - title: GitHub
       icon: github
       url: https://github.com/deltachat/deltachat-android/releases/latest
     - group: iOS
