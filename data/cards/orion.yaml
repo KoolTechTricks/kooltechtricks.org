@@ -28,9 +28,6 @@ get:
     - title: iOS / iPadOS
       icon: apple
       url: https://apps.apple.com/app/orion-browser-by-kagi/id1484498200
-    - title: Linux (бета)
-      icon: linux
-      url: https://orionbrowser.com/platforms/linux
 screenshots:
   1 desktop-macos-@: Orion для macOS
   2 mobile-ios-@: Orion для iOS

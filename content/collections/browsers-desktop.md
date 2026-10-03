@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-09-13T18:24:00Z
+lastmod: 2026-10-03T13:18:00Z
 imageAlt: Различные браузеры
 cards: desktop
 features: [firefox, waterfox, zen-browser, floorp, librewolf,
@@ -322,9 +322,8 @@ Ungoogled Chromium поддерживается командой энтузиа�
 
 {{< card orion >}}
 
-Доступен пока только для macOS и iOS; версии для Linux и Windows находятся в
-разработке, и их выпуск планируется в 2026 году. Исходный код пока
-[открыт не полностью](https://help.kagi.com/orion/faq/faq.html#oss).
+Доступен только для macOS и iOS; разработка версий для Linux и Windows [отменена](https://blog.kagi.com/update-orion-linux-windows).
+Исходный код пока [открыт не полностью](https://help.kagi.com/orion/faq/faq.html#oss).
 
 Браузер от разработчиков платной поисковой системы [Kagi], но при первом запуске
 можно выбрать любую. Встроены (несвободные) сервисы:
