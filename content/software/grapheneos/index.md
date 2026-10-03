@@ -1,7 +1,7 @@
 ---
 title: GrapheneOS
 publishDate: 2026-04-28T15:04:00Z
-lastmod: 2026-09-28T17:33:00Z
+lastmod: 2026-10-03T13:51:00Z
 image: grapheneos.webp
 imageAlt: GrapheneOS после первоначальной настройки
 links:
@@ -174,6 +174,8 @@ Pixel OS — стоковая ОС на Google Pixel, но она имеет н�
 выпуски QPR1 и QPR3 эксклюзивны для Pixel OS, поэтому они не доходят до GrapheneOS.
 Тем не менее патчи безопасности, находящиеся под эмбарго, не задерживаются и по
 умолчанию доступны для установки вместе с обычными обновлениями системы.
+Разработчики GrapheneOS также стараются [исправлять баги и зависания](https://grapheneos.social/@GrapheneOS/117372129125340408),
+которые остаются в Pixel OS долгое время.
 
 [Circle to Search]: https://posts.kooltechtricks.org/@kooltechtricks/statuses/01KSDB4R10072CKX0MA52A4FF9
 [Tap, Tap]: https://posts.kooltechtricks.org/@kooltechtricks/statuses/01KTHNGSF6X4C0QY3C4DCVV677
