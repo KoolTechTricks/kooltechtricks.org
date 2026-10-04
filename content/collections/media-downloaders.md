@@ -4,7 +4,7 @@ fancyTitle: Программы для скачивания видео и ауд�
 publishDate: 2025-10-19T21:17:00Z
 lastmod: 2026-02-08T10:25:00Z
 imageAlt: Скриншоты разных приложений для скачивания видео и аудио
-features: [cobalt, seal, ytdlnis, parabolic, stacher, yt-dlp]
+features: [cobalt, ytdlnis, parabolic, stacher, yt-dlp]
 links:
   - title: Приложения, основанные на yt-dlp
     url: https://www.reddit.com/r/youtubedl/wiki/info-guis
@@ -47,10 +47,6 @@ Plausible, уважающая вашу конфиденциальность, н�
 ограничения, политику конфиденциальности, нежелательные модификации. Используйте
 только те серверы, которым доверяете. Альтернативный адрес API можно задать в
 настройках cobalt.
-
-## Seal
-
-{{< card seal >}}
 
 ## YTDLnis
 
