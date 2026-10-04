@@ -2,7 +2,7 @@
 title: Загрузчики видео и аудио
 fancyTitle: Программы для скачивания видео и аудио из интернета
 publishDate: 2025-10-19T21:17:00Z
-lastmod: 2026-02-08T10:25:00Z
+lastmod: 2026-10-04T14:10:00Z
 imageAlt: Скриншоты разных приложений для скачивания видео и аудио
 features: [cobalt, ytdlnis, parabolic, stacher, yt-dlp]
 links:
@@ -51,6 +51,14 @@ Plausible, уважающая вашу конфиденциальность, н�
 ## YTDLnis
 
 {{< card ytdlnis >}}
+
+Продвинутые функции:
+
+- [Шаблоны команд](https://ytdlnis.org/docs/guides/command-templates).
+- [Управление куки](https://ytdlnis.org/docs/guides/cookies).
+- [Отслеживание источников](https://ytdlnis.org/docs/guides/observe-sources).
+- [Консольный интерфейс](https://ytdlnis.org/docs/guides/terminal) как в Termux, в котором можно запускать yt-dlp, FFmpeg, Python.
+- Обновление пакетов (зависимостей) независимо от приложения.
 
 ## Parabolic
 
