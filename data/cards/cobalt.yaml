@@ -20,22 +20,10 @@ extras:
     license:
       - id: gnu-agpl-3.0
       - id: cc-by-nc-sa-4.0
-        note: Веб-часть
+        note: Веб-интерфейс
     repository: https://github.com/imputnet/cobalt
     techDocs: https://github.com/imputnet/cobalt/tree/main/docs
     tech: Svelte, JavaScript, TypeScript
-get:
-  title: Открыть
-  linkButtons:
-    - title: Официальный сервер
-      icon: web
-      url: https://cobalt.tools
-    - title: Сторонние серверы
-      icon: public
-      url: https://instances.cobalt.best
-    - title: Запустить свой сервер
-      icon: construction
-      url: https://github.com/imputnet/cobalt/blob/main/docs/run-an-instance.md
 screenshots:
   1 desktop-@: Скачивание видео с помощью cobalt на компьютере
   2 mobile-@: Скачивание видео с помощью cobalt на телефоне
