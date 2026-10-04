@@ -1,7 +1,7 @@
 ---
 title: Bangs
 publishDate: 2026-06-21T13:29:37Z
-lastmod: 2026-06-21T19:01:00Z
+lastmod: 2026-10-04T14:17:00Z
 image: image.webp
 imageAlt: "Демонстрация Bangs: восклицательный знак и сокращения названий сайтов"
 ---
@@ -87,7 +87,7 @@ Bangs. Предложения сайтов отображаются в адре�
 
 ### Расширение
 
-[Yang!](https://github.com/dmlls/yang#readme) добавляет Bangs ко всем известным
+[Yang!](https://github.com/dmlls/yang#readme) добавляет Bangs и Snaps ко всем известным
 поисковым системам. Оно доступно для [Firefox](https://addons.mozilla.org/addon/yang-addon)
 и [Chromium](https://chromewebstore.google.com/detail/yang-yet-another-bangs-an/ecboojkidbdghfhifefbpdkdollfhicb).
 Поддерживается в мобильных версиях браузеров.
@@ -99,8 +99,8 @@ Bangs. Предложения сайтов отображаются в адре�
 Во время поиска не отображаются предложения Bangs. Если вы не знаете точного
 ключевого слова для сайта, то придётся его угадывать.
 
-В настройках расширения можно добавлять свои Bangs и сменить поставщика
-(по умолчанию Kagi).
+В настройках расширения можно добавлять свои Bangs, включить режим нескольких
+Bangs и сменить поставщика (по умолчанию Kagi).
 
 ### Добавить вручную
 
