@@ -13,8 +13,8 @@ extras:
   issues: https://github.com/VERT-sh/VERT/issues
   donate: https://vert.sh/about
   community:
-    forum: https://github.com/orgs/VERT-sh/discussions
     discord: https://discord.gg/kqevGxYPak
+    github: https://github.com/orgs/VERT-sh/discussions
     xitter: VERT_sh
   technicalInfo:
     license: gnu-agpl-3.0

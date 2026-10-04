@@ -11,7 +11,7 @@ extras:
   changelog: https://pandoc.org/releases.html#revision-history-for-pandoc
   issues: https://github.com/jgm/pandoc/issues
   community:
-    forum: https://github.com/jgm/pandoc/discussions
+    github: https://github.com/jgm/pandoc/discussions
   technicalInfo:
     license: gnu-gpl-2.0
     repository: https://github.com/jgm/pandoc

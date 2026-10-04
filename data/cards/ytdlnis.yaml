@@ -13,8 +13,8 @@ extras:
   issues: https://github.com/deniscerri/ytdlnis/issues
   donate: https://www.buymeacoffee.com/deniscerri
   community:
-    forum: https://github.com/deniscerri/ytdlnis/discussions
     discord: https://discord.gg/WW3KYWxAPm
+    github: https://github.com/deniscerri/ytdlnis/discussions
     telegram: ytdlnis
   technicalInfo:
     license: gnu-gpl-3.0

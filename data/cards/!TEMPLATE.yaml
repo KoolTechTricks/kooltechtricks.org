@@ -22,6 +22,7 @@ extras:
     forum: https://forum.example.com
     bluesky: example.com
     discord: https://discord.gg/
+    github: https://github.com/org/repo/discussions
     lemmy: https://lemmy.example.com/c/community
     mastodon: https://instance.example.com/@username
     matrix: room:example.com

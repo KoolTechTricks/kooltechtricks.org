@@ -10,7 +10,7 @@ extras:
   changelog: https://github.com/searxng/searxng/commits/master
   issues: https://github.com/searxng/searxng/issues
   community:
-    forum: https://github.com/searxng/searxng/discussions
+    github: https://github.com/searxng/searxng/discussions
     matrix: searxng:matrix.org
   technicalInfo:
     license: gnu-agpl-3.0

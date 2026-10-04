@@ -12,8 +12,8 @@ extras:
   changelog: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/releases
   issues: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues
   community:
-    forum: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions
     discord: https://discord.gg/CzwbMCPEZa
+    github: https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions
     matrix: uad-ng:matrix.org
   technicalInfo:
     license: gnu-gpl-3.0

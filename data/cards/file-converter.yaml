@@ -13,7 +13,7 @@ extras:
   issues: https://github.com/Tichau/FileConverter/issues
   donate: https://file-converter.io/#donate
   community:
-    forum: https://github.com/Tichau/FileConverter/discussions
+    github: https://github.com/Tichau/FileConverter/discussions
   technicalInfo:
     license: gnu-gpl-3.0
     repository: https://github.com/Tichau/FileConverter
