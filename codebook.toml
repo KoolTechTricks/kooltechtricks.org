@@ -23,6 +23,7 @@ words = [
     "btrfs",
     "catodon",
     "centre",
+    "cffi",
     "chatmail",
     "chroot",
     "cloudflare",
