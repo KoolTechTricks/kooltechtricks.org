@@ -2,7 +2,7 @@
 title: Браузеры для компьютера
 fancyTitle: Рекомендованные браузеры для компьютера
 publishDate: 2025-08-07T15:49:00Z
-lastmod: 2026-10-04T14:59:00Z
+lastmod: 2026-10-06T18:16:00Z
 imageAlt: Различные браузеры
 cards: desktop
 features: [firefox, waterfox, zen-browser, floorp, librewolf,
@@ -323,37 +323,38 @@ Ungoogled Chromium поддерживается командой энтузиа�
 
 {{< card orion >}}
 
-Доступен только для macOS и iOS; разработка версий для Linux и Windows [отменена](https://blog.kagi.com/update-orion-linux-windows).
-Исходный код пока [открыт не полностью](https://help.kagi.com/orion/faq/faq.html#oss).
-
-Браузер от разработчиков платной поисковой системы [Kagi], но при первом запуске
-можно выбрать любую. Встроены (несвободные) сервисы:
-[переводчик](https://translate.kagi.com), [не раздражающий ИИ].
-За дополнительные функции можно приобрести [Orion+] и поддержать разработчиков.
+От разработчиков платной поисковой системы [Kagi], но при первом запуске можно
+выбрать любую. Встроены собственные сервисы: [переводчик](https://translate.kagi.com),
+[не раздражающий ИИ]. Можно приобрести [Orion+], чтобы получить дополнительные
+функции и поддержать разработчиков.
 
 [Kagi]: /collections/search-engines#kagi-search
 [не раздражающий ИИ]: https://help.kagi.com/kagi/why-kagi/ai-philosophy.html#kagi-s-ai-integration-philosophy
 [Orion+]: https://kagi.com/onboarding?p=orion_plan
 
-Orion создаётся с учётом конфиденциальности. Он [не отправляет](https://opennet.ru/63111)
-никаких сетевых запросов при первом запуске, и в целом не делает лишних
-запросов. Встроен блокировщик трекеров и рекламы.
+Orion создаётся с учётом [конфиденциальности](https://help.kagi.com/orion/privacy-and-security/respecting-privacy.html).
+Он [не отправляет](https://opennet.ru/63111) никаких сетевых запросов при первом
+запуске, и в целом не делает лишних запросов. Встроен [блокировщик трекеров и рекламы](https://help.kagi.com/orion/privacy-and-security/ad-tracking-blocking.html).
 
-Orion поддерживает многие расширения Chromium и Firefox благодаря портированию
-WebExtensions API. Однако по умолчанию предлагается их устанавливать из
-собственного каталога рекомендованных расширений, которые гарантировано будут
-работать стабильно.
+Orion [поддерживает многие расширения Chromium и Firefox](https://help.kagi.com/orion/browser-extensions/macos-extensions.html)
+благодаря портированию WebExtensions API. Однако по умолчанию предлагается их
+устанавливать из собственного каталога рекомендованных расширений, которые
+гарантировано будут работать стабильно.
 
 Браузер имеет свой нестандартный дизайн и уникальные функции:
+
 - Режим дзен (скрытие интерфейса браузера), вертикальные и компактные вкладки.
 - Офлайн-переводчик для macOS 26+.
-- Предпросмотр ссылок.
-- Раздельные профили (куки, расширения и настройки) и контейнеры вкладок (как в Firefox).
-- Настройка шрифта и скрытие элементов на странице.
-- Ссылка на веб-архив когда сайт недоступен.
-- Ссылка на RSS-ленту в адресной строке (как когда-то [давно было во всех браузерах](https://openrss.org/blog/browsers-should-bring-back-the-rss-button)).
+- [Предпросмотр ссылок](https://help.kagi.com/orion/features/link-previews.html).
+- [Раздельные профили](https://help.kagi.com/orion/features/profiles.html) (куки, расширения и настройки) и контейнеры вкладок (как в Firefox).
+- [Настройка страницы](https://help.kagi.com/orion/features/page-tweaks.html): шрифта, темы, открепление заголовков и скрытие элементов.
+- [Ссылка на веб-архив](https://help.kagi.com/orion/features/web-archives.html) когда сайт недоступен.
+- [Ссылка на RSS-ленту в адресной строке](https://help.kagi.com/orion/features/rss-feed-detection.html) (как когда-то [давно было во всех браузерах](https://openrss.org/blog/browsers-should-bring-back-the-rss-button)).
+- [Веб-приложения](https://help.kagi.com/orion/features/web-apps.html).
+- [Программируемые кнопки](https://help.kagi.com/orion/features/programmable-buttons.html).
 - Смена User-Agent (маскировка под другой браузер и операционную систему).
 
-Пользователи нередко сталкиваются с различными багами в Orion, которые могут
-быть вызваны в том числе из-за недостаточно быстрого развития
-[WebKit](/wiki/browser-engines#webkit).
+Разработчики заявляют, что Orion [быстрее](https://help.kagi.com/orion/why-orion/orion-speed.html)
+и [легковеснее](https://help.kagi.com/orion/why-orion/memory-usage.html) Safari.
+Однако пользователи нередко сталкиваются с различными багами в Orion, которые
+могут быть вызваны в том числе из-за недостаточно быстрого развития [WebKit](/wiki/browser-engines#webkit).

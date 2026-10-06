@@ -1,7 +1,7 @@
 # https://docs.kooltechtricks.org/contributing/cards/
 title: Orion
 description: >
-  Браузер на основе WebKit с поддержкой расширений Chromium и Firefox.
+  Браузер для macOS и iOS на основе WebKit с поддержкой расширений Chromium и Firefox.
   Ориентирован на пользователя, со встроенной блокировкой отслеживания и
   нулевой телеметрией. Разработка финансируется пользователями.
 homepage: https://orionbrowser.com
@@ -26,8 +26,9 @@ get:
       icon: apple
       url: https://orionbrowser.com/download/installer
     - title: iOS / iPadOS
-      icon: apple
+      icon: app-store
       url: https://apps.apple.com/app/orion-browser-by-kagi/id1484498200
 screenshots:
   1 desktop-macos-@: Orion для macOS
-  2 mobile-ios-@: Orion для iOS
+  2 mobile-ios-home-@: Новая вкладка в Orion для iOS
+  3 mobile-ios-tabs-@: Список вкладок в Orion для iOS
