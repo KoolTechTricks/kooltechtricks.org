@@ -1,0 +1,71 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: Grayjay
+description: >
+  Универсальное приложение для просмотра видео и прямых эфиров на стриминговых
+  платформах. Официально поддерживаются YouTube, Odysee, PeerTube, Twitch, Kick,
+  Patreon, SoundCloud и другие. Есть возможность устанавливать сторонние плагины.
+homepage: https://grayjay.app
+extras:
+  owner: '[FUTO](https://futo.org)'
+  initialRelease: 2023-09-12
+  changelog:
+    - title: Android
+      url: https://gitlab.futo.org/videostreaming/grayjay/-/tags
+    - title: Desktop
+      url: https://gitlab.futo.org/videostreaming/Grayjay.Desktop/-/tags
+  issues:
+    - title: Android
+      url: https://github.com/futo-org/grayjay-android/issues
+    - title: Desktop
+      url: https://github.com/futo-org/Grayjay.Desktop/issues
+  community:
+    xitter: FUTOgrayjay
+  technicalInfo:
+    license:
+      - title: Source First License 1.1
+        url: https://github.com/futo-org/grayjay-android/blob/master/LICENSE.md
+    repository:
+      - title: Android
+        url: https://gitlab.futo.org/videostreaming/grayjay
+      - title: Desktop
+        url: https://gitlab.futo.org/videostreaming/Grayjay.Desktop
+    tech: 'Android: Kotlin, Desktop: C# + Веб-интерфейс'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1077821
+    isItReallyFoss: https://isitreallyfoss.com/projects/grayjay/
+get:
+  linkButtons:
+    - group: Android
+    - title: APK-файл
+      icon: android
+      url: https://releases.grayjay.app/app-universal-release.apk
+    - title: Репозиторий F-Droid
+      icon: f-droid
+      url: https://app.futo.org/fdroid/repo/
+    - title: Google Play (ограничено)
+      icon: google-play
+      url: https://play.google.com/store/apps/details?id=com.futo.platformplayer.playstore
+    - group: Компьютер
+    - title: Windows
+      icon: windows
+      url: https://releases.grayjay.app/Grayjay-Setup-x64.exe
+    - title: macOS
+      icon: apple
+      url: https://updater.grayjay.app/Apps/Grayjay.Desktop/Grayjay.Desktop-osx-arm64.zip
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/app.grayjay.Grayjay
+    - title: Linux
+      icon: linux
+      url: https://updater.grayjay.app/Apps/Grayjay.Desktop/Grayjay.Desktop-linux-x64.zip
+screenshots:
+  01 android-playback: Воспроизведение видео в Grayjay для Android
+  02 android-subscriptions: Подписки в Grayjay для Android
+  03 android-channel: Просмотр канала в Grayjay для Android
+  04 android-downloads: Загрузка видео в Grayjay для Android
+  05 android-search: Поиск в Grayjay для Android
+  06 desktop-playback: Воспроизведение видео в Grayjay для компьютера
+  07 desktop-subscriptions: Подписки в Grayjay для компьютера
+  08 desktop-channel: Просмотр канала в Grayjay для компьютера
+  09 desktop-downloads: Загрузка видео в Grayjay для компьютера
+  10 desktop-search: Поиск в Grayjay для компьютера

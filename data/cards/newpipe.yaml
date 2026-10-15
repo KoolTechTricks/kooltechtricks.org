@@ -1,0 +1,48 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: NewPipe
+description: >
+  Старейшее свободное и легковесное приложение для просмотра YouTube, PeerTube,
+  SoundCloud и Bandcamp на Android.
+homepage: https://newpipe.net
+userDocs: https://newpipe.net/FAQ/
+extras:
+  owner: '[NewPipe e.V.](https://newpipe-ev.de)'
+  initialRelease: 2015-09-15
+  news: https://newpipe.net/blog/
+  changelog: https://github.com/TeamNewPipe/NewPipe/releases
+  issues: https://github.com/TeamNewPipe/NewPipe/issues
+  donate: https://newpipe.net/donate/
+  community:
+    github: https://github.com/TeamNewPipe/NewPipe/discussions
+    matrix: newpipe:matrix.newpipe-ev.de
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/TeamNewPipe/NewPipe
+    techDocs: https://teamnewpipe.github.io/documentation/
+    tech: Java
+    llmAssistance: '[Ограничено](https://github.com/TeamNewPipe/NewPipe/blob/dev/.github/CONTRIBUTING.md#ai-policy)'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=694195
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://newpipe.net/#download
+    - title: GitHub
+      icon: github
+      url: https://github.com/TeamNewPipe/NewPipe/releases/latest
+    - title: NewPipe F-Droid
+      icon: f-droid
+      url: https://archive.newpipe.net/fdroid/repo/
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/org.schabi.newpipe
+    - title: Официальный F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/org.schabi.newpipe
+screenshots:
+  1 playback-@: Воспроизведение видео в NewPipe
+  2 subscriptions-@: Подписки в NewPipe
+  3 channel-@: Просмотр канала в NewPipe
+  4 downloads-@: Загрузка видео в NewPipe
+  5 search-@: Поиск в NewPipe

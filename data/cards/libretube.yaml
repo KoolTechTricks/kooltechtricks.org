@@ -1,0 +1,41 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: LibreTube
+description: >
+  Свободное приложение для просмотра YouTube на Android с современным дизайном.
+homepage: https://libretube.dev
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2022-02-02
+  changelog: https://github.com/libre-tube/LibreTube/releases
+  issues: https://github.com/libre-tube/LibreTube/issues
+  donate: https://github.com/libre-tube/LibreTube#donate
+  community:
+    rules: https://github.com/libre-tube/LibreTube/blob/master/CODE_OF_CONDUCT.md
+    github: https://github.com/libre-tube/LibreTube/discussions
+    lemmy: https://feddit.rocks/c/libretube
+    mastodon: https://fosstodon.org/@libretube
+    matrix: LibreTube:matrix.org
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/libre-tube/LibreTube
+    tech: Kotlin
+    llmAssistance: '[Запрещено для контрибьюторов](https://github.com/libre-tube/LibreTube/blob/master/CONTRIBUTING.md)'
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1042276
+get:
+  linkButtons:
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/com.github.libretube
+    - title: GitHub
+      icon: github
+      url: https://github.com/libre-tube/LibreTube/releases/latest/download/app-release.apk
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/com.github.libretube/
+screenshots:
+  1 playback-@: Воспроизведение видео в LibreTube
+  2 subscriptions-@: Подписки в LibreTube
+  3 channel-@: Просмотр канала в LibreTube
+  4 downloads-@: Загрузка видео в LibreTube
+  5 search-@: Поиск в LibreTube

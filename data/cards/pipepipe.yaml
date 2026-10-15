@@ -1,0 +1,38 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: PipePipe
+description: >
+  Приложение для просмотра YouTube и других стриминговых платформ на Android.
+  Основан на NewPipe и разрабатывается независимо, включает недостающие функции.
+homepage: https://pipepipe.dev
+userDocs: https://priveetee.github.io/Docs-PipePipe/
+extras:
+  owner: '[InfinityLoop1308](https://github.com/InfinityLoop1308)'
+  initialRelease: 2022-05-11
+  changelog: https://github.com/InfinityLoop1308/PipePipe/releases
+  issues: https://github.com/InfinityLoop1308/PipePipe/issues
+  donate: https://pipepipe.dev/#:~:text=Support%20PipePipe%20Development
+  community:
+    github: https://github.com/InfinityLoop1308/PipePipe/discussions
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/InfinityLoop1308/PipePipe
+    tech: Java
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1071056
+get:
+  linkButtons:
+    - title: GitHub
+      icon: github
+      url: https://github.com/InfinityLoop1308/PipePipe/releases/latest
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/InfinityLoop1309.NewPipeEnhanced
+    - title: F-Droid
+      icon: f-droid
+      url: https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/
+screenshots:
+  1 playback-@: Воспроизведение видео в PipePipe
+  2 subscriptions-@: Подписки в PipePipe
+  3 channel-@: Просмотр канала в PipePipe
+  4 downloads-@: Загрузка видео в PipePipe
+  5 search-@: Поиск в PipePipe

@@ -1,0 +1,45 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: FreeTube
+description: >
+  Настольное приложение для YouTube с простым и привычным веб-интерфейсом.
+homepage: https://freetubeapp.io
+userDocs: https://docs.freetubeapp.io
+extras:
+  owner: Сообщество энтузиастов
+  initialRelease: 2018-03-02
+  changelog: https://github.com/FreeTubeApp/FreeTube/releases
+  issues: https://github.com/FreeTubeApp/FreeTube/issues
+  donate: https://github.com/FreeTubeApp/FreeTube#donate
+  community:
+    rules: https://docs.freetubeapp.io/community/rules/
+    github: https://github.com/FreeTubeApp/FreeTube/discussions
+    matrix: freetube:matrix.org
+  technicalInfo:
+    license: gnu-agpl-3.0
+    repository: https://github.com/FreeTubeApp/FreeTube
+    tech: Electron
+  externalLinks:
+    fourPda: https://4pda.to/forum/index.php?showtopic=1080159
+get:
+  linkButtons:
+    - title: Официальный сайт
+      icon: web
+      url: https://freetubeapp.io/#download
+    - title: GitHub
+      icon: github
+      url: https://github.com/FreeTubeApp/FreeTube/releases/latest
+    - title: Flathub (Linux)
+      icon: flathub
+      url: https://flathub.org/apps/io.freetubeapp.FreeTube
+    - group: Android (неофициально)
+    - title: IzzyOnDroid
+      icon: izzyondroid
+      url: https://apt.izzysoft.de/fdroid/index/apk/io.freetubeapp.freetube
+    - title: GitHub (без автообновлений)
+      icon: github
+      url: https://github.com/MarmadileManteater/FreeTubeAndroid/releases
+screenshots:
+  1 playback-@: Воспроизведение видео в FreeTube
+  2 subscriptions-@: Подписки в FreeTube
+  3 channel-@: Просмотр канала в FreeTube
+  4 search-@: Поиск в FreeTube
