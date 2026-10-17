@@ -24,7 +24,7 @@ extras:
   donate: https://delta.chat/donate
   community:
     rules: https://delta.chat/ru/community-standards
-    forum: https://support.delta.chat
+    forum: https://forum.delta.chat
     bluesky: delta.chat
     lemmy: https://lemmy.zip/c/delta_chat
     mastodon: https://chaos.social/@delta
@@ -37,7 +37,7 @@ extras:
         note: Ядро Chatmail и Delta Chat для iOS
     repository: https://github.com/deltachat
     tech: Ядро Chatmail (Rust), Electron (Delta Chat для компьютера)
-    llmAssistance: '[Не определено](https://support.delta.chat/t/any-official-position-on-the-use-of-ai/5039/13)'
+    llmAssistance: '[Не запрещено](https://delta.chat/ru/community-standards#стандарты-коллективной-поддержки)'
   externalLinks:
     wikipedia: https://ru.wikipedia.org/wiki/Delta_Chat
     fourPda: https://4pda.to/forum/index.php?showtopic=895419
