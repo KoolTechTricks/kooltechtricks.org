@@ -1,7 +1,7 @@
 ---
 title: Верификация разработчиков Android
 publishDate: 2026-08-13T15:43:00Z
-lastmod: 2026-08-19T18:35:00Z
+lastmod: 2026-10-17T19:01:00Z
 image: image.webp
 imageAlt: >
   Android в стиле Дарта Вейдера на фоне зачёркнутых значков Aurora Store,
@@ -85,7 +85,8 @@ Google [уверяет](https://android-developers.googleblog.com/2025/11/androi
 эффективный результат в Google Play, когда во внешних источниках более чем
 в 50 раз чаще встречаются вирусы.
 
-Однако вредоносное ПО в большом объёме находят и в [Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/),
+Однако вредоносное ПО в большом объёме находят и в Google Play
+([2025](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/), [2026](https://www.androidauthority.com/fake-whatsapp-app-3724337/)),
 а иногда даже в [Apple App Store](https://www.yahoo.com/news/us/articles/apple-faces-lawsuit-fake-sparrow-154125362.html).
 Давать пользователям ложное ощущение безопасности из-за того, что личность всех
 разработчиков верифицируется, приносит вред. Это не гарантирует полной
