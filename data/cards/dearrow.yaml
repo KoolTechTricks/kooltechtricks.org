@@ -2,14 +2,14 @@
 title: DeArrow
 description: >
   Расширение для браузера, которое заменяет эмоциональные и вызывающие обложки
-  и названия видео на YouTube на более нейтральные и правдоподобные.
-  Пользователи предлагают свои названия, тем самым создавая базу данных,
-  которой может пользоваться любой желающий.
+  и заголовки видео на YouTube на более нейтральные и правдоподобные.
+  Пользователи предлагают свои заголовки, и формируют общедоступную базу данных.
 homepage: https://dearrow.ajay.app
 userDocs: https://wiki.sponsor.ajay.app/w/DeArrow
 extras:
   owner: '[Ajay Ramachandran](https://ajay.app)'
   initialRelease: 2023-06-10
+  news: https://blog.ajay.app/sponsorblock/
   changelog: https://github.com/ajayyy/DeArrow/releases
   issues: https://github.com/ajayyy/DeArrow/issues
   donate: https://dearrow.ajay.app/donate
@@ -22,19 +22,18 @@ extras:
   technicalInfo:
     license: gnu-gpl-3.0
     repository: https://github.com/ajayyy/DeArrow
+    techDocs: https://wiki.sponsor.ajay.app/w/API_Docs/DeArrow
 get:
   linkButtons:
     - title: Chromium
       icon: chromium
-      url: https://chromewebstore.google.com/detail/enamippconapkdmgfgjchkhakpfinmaj
+      url: https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj
     - title: Firefox
       icon: firefox
-      url: https://addons.mozilla.org/firefox/addon/dearrow
+      url: https://addons.mozilla.org/firefox/addon/dearrow/
     - title: Safari
       icon: safari
-      url: https://apps.apple.com/app/id6451469297
-  linkList:
-    Бесплатно: https://dearrow.ajay.app/free
+      url: https://apps.apple.com/app/dearrow-for-youtube/id6451469297
 screenshots:
   videos: >
     Примеры изменённых названий и обложек видео:

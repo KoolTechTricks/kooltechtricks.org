@@ -1,0 +1,40 @@
+# https://docs.kooltechtricks.org/contributing/cards/
+title: SponsorBlock
+description: >
+  Расширение для браузера, которое позволяет пропускать раздражающие сегменты в
+  видео на YouTube, такие как реклама, напоминания о взаимодействии, заставки.
+  Пользователи отправляют отрезки, соответствующие этим сегментам, и формируют
+  общедоступную базу данных.
+homepage: https://sponsor.ajay.app
+userDocs: https://wiki.sponsor.ajay.app/w/Guidelines
+extras:
+  owner: '[Ajay Ramachandran](https://ajay.app)'
+  initialRelease: 2019-07-13
+  news: https://blog.ajay.app/sponsorblock/
+  changelog: https://github.com/ajayyy/SponsorBlock/releases
+  issues: https://github.com/ajayyy/SponsorBlock/issues
+  donate: https://sponsor.ajay.app/donate/
+  community:
+    bluesky: sponsor.ajay.app
+    discord: https://discord.gg/SponsorBlock
+    mastodon: https://fosstodon.org/@sponsorblock
+    matrix: sponsor:ajay.app
+    xitter: SponsorBlock
+  technicalInfo:
+    license: gnu-gpl-3.0
+    repository: https://github.com/ajayyy/SponsorBlock
+    techDocs: https://wiki.sponsor.ajay.app/w/API_Docs
+get:
+  linkButtons:
+    - title: Chromium
+      icon: chromium
+      url: https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+    - title: Firefox
+      icon: firefox
+      url: https://addons.mozilla.org/firefox/addon/sponsorblock/
+    - title: Safari
+      icon: safari
+      url: https://github.com/ajayyy/SponsorBlock/wiki/Safari
+screenshots:
+  1 playback-segments-@: Сегменты SponsorBlock на шкале просмотра
+  2 menu: Меню SponsorBlock, в котором перечислены сегменты и статистика
